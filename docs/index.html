@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Line Watch — Bet9ja stats &amp; Bet365/Sportybet quote</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --panel: #171a21;
+    --border: #262b36;
+    --text: #e6e8ec;
+    --muted: #8b93a3;
+    --accent: #4f8cff;
+    --warn: #e0a52b;
+    --bad: #e2544a;
+    --good: #35b06b;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 24px; background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  h1 { font-size: 20px; margin: 0 0 4px; }
+  .sub { color: var(--muted); font-size: 13px; margin-bottom: 20px; }
+  .grid { display: grid; gap: 16px; grid-template-columns: 1fr; }
+  .card {
+    background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
+    padding: 16px 18px;
+  }
+  .match-title { font-size: 15px; font-weight: 600; margin-bottom: 10px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { text-align: left; padding: 5px 8px; border-bottom: 1px solid var(--border); }
+  th { color: var(--muted); font-weight: 500; }
+  .alerts { margin-top: 10px; }
+  .alert-pill {
+    display: inline-block; padding: 3px 9px; border-radius: 999px; font-size: 12px;
+    margin: 2px 4px 2px 0; border: 1px solid var(--border);
+  }
+  .alert-quota_differente { color: var(--bad); border-color: var(--bad); }
+  .alert-linea_cambiata, .alert-quota_cambiata { color: var(--warn); border-color: var(--warn); }
+  .alert-linea_diversa_tra_bookmaker { color: var(--accent); border-color: var(--accent); }
+  .empty { color: var(--muted); font-size: 13px; padding: 20px 0; }
+  .badge-ok { color: var(--good); }
+</style>
+</head>
+<body>
+  <h1>Line Watch</h1>
+  <div class="sub" id="meta">Caricamento dati...</div>
+  <div class="grid" id="matches"></div>
+
+  <script>
+    async function load() {
+      const metaEl = document.getElementById('meta');
+      const container = document.getElementById('matches');
+      let data;
+      try {
+        const resp = await fetch('data.json?_=' + Date.now());
+        data = await resp.json();
+      } catch (e) {
+        metaEl.textContent = 'Impossibile caricare data.json (nessun controllo eseguito ancora?)';
+        return;
+      }
+
+      const generated = data.generated_at ? new Date(data.generated_at * 1000).toLocaleString('it-IT') : '—';
+      metaEl.textContent = `Ultimo controllo: ${generated} — ${data.matches ? data.matches.length : 0} partite — ${data.alert_count_this_run || 0} avvisi in questo giro`;
+
+      if (!data.matches || data.matches.length === 0) {
+        container.innerHTML = '<div class="empty">Nessuna partita live trovata nell\'ultimo controllo.</div>';
+        return;
+      }
+
+      container.innerHTML = data.matches.map(renderMatch).join('');
+    }
+
+    function renderMatch(m) {
+      const statsRows = m.bet9ja_stats
+        ? Object.entries(m.bet9ja_stats).map(([name, v]) =>
+            `<tr><td>${name}</td><td>${v.home ?? '-'}</td><td>${v.away ?? '-'}</td></tr>`).join('')
+        : '<tr><td colspan="3" class="empty">Statistiche non disponibili in questo giro</td></tr>';
+
+      const books = Object.keys(m.odds || {});
+      const oddsRows = ['1X2', 'CORNERS_OU', 'CARDS_OU'].map(market => {
+        const cells = books.map(b => formatOdds(m.odds[b] && m.odds[b][market])).join('</td><td>');
+        return `<tr><td>${market}</td><td>${cells}</td></tr>`;
+      }).join('');
+
+      const alertsHtml = (m.alerts && m.alerts.length)
+        ? `<div class="alerts">${m.alerts.map(a => `<span class="alert-pill alert-${a.type}">${a.market}: ${a.detail}</span>`).join('')}</div>`
+        : `<div class="alerts badge-ok">nessun avviso</div>`;
+
+      return `
+        <div class="card">
+          <div class="match-title">${m.match}</div>
+          <table>
+            <thead><tr><th>Statistica (Bet9ja)</th><th>Casa</th><th>Ospite</th></tr></thead>
+            <tbody>${statsRows}</tbody>
+          </table>
+          <table style="margin-top:10px">
+            <thead><tr><th>Mercato</th>${books.map(b => `<th>${b}</th>`).join('')}</tr></thead>
+            <tbody>${oddsRows || ''}</tbody>
+          </table>
+          ${alertsHtml}
+        </div>`;
+    }
+
+    function formatOdds(entry) {
+      if (!entry) return '—';
+      if (Array.isArray(entry)) return entry.join(' / ');
+      if (entry.odds) return `(linea ${entry.line ?? '?'}) ${entry.odds.join(' / ')}`;
+      return '—';
+    }
+
+    load();
+  </script>
+</body>
+</html>
