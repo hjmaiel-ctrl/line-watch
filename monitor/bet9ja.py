@@ -75,8 +75,26 @@ def discover_live_matches(page) -> List[Dict]:
     """Ritorna [{home, away, event_id, url}] per tutte le partite live di calcio
     trovate nella pagina principale."""
     page.goto(BET9JA_LIVE_URL, wait_until="domcontentloaded", timeout=25000)
-    page.wait_for_timeout(3000)
+    try:
+        page.wait_for_selector(ROW_SELECTOR, timeout=15000)
+    except Exception:
+        pass  # nessuna riga apparsa in tempo: continuiamo comunque, il log sotto spiega perche'
+    page.wait_for_timeout(1000)
     rows = page.query_selector_all(ROW_SELECTOR)
+    # Diagnostica: se da un runner GitHub Actions troviamo 0 partite, questi log
+    # servono a capire se la pagina e' stata bloccata/redirezionata (es. per IP
+    # da datacenter, come succede spesso con i siti di betting) oppure se e'
+    # semplicemente il momento giusto in cui non ci sono partite di calcio live.
+    try:
+        print(f"[bet9ja] URL effettivo dopo goto: {page.url}")
+        print(f"[bet9ja] Titolo pagina: {page.title()!r}")
+        body_text = page.inner_text("body")
+        print(f"[bet9ja] Lunghezza testo body: {len(body_text)} caratteri")
+        print(f"[bet9ja] Righe trovate con il selettore partite: {len(rows)}")
+        if len(rows) == 0:
+            print(f"[bet9ja] Primi 300 caratteri del body: {body_text[:300]!r}")
+    except Exception as exc:
+        print(f"[bet9ja] errore nella diagnostica: {exc}")
     matches = []
     for row in rows:
         row_id = row.get_attribute("id") or ""
@@ -145,7 +163,7 @@ def fetch_match_stats(page, match: Dict, timeout_ms: int = 15000) -> Optional[Di
     return stats or None
 
 
-# --- Quote proprie di bet9ja (Corner O/U, Cartellini O/U) --------------------
+# --- Quote proprie di bet9ja (Corner O/U, Cartellini O/U) -------------------
 
 # Testo esatto delle tab di categoria mercato e del titolo sezione che
 # ciascuna fa apparire (verificato navigando il sito, vedi docstring modulo).
@@ -165,7 +183,7 @@ _PARSE_OU_SECTION_JS = """
     }
     function ownText(el) {
         let t = '';
-        for (const n of el.childNodes) {
+        for ((const n of el.childNodes) {
             if (n.nodeType === Node.TEXT_NODE) t += n.textContent;
         }
         return t.trim();
