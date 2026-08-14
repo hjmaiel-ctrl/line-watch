@@ -1,3 +1,152 @@
 {
-  "matches": {}
+  "matches": {
+    "Parma|Catania": {
+      "home": "Parma",
+      "away": "Catania",
+      "event_id": "9917820",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786730023.8562734
+    },
+    "Cagliari|Arezzo": {
+      "home": "Cagliari",
+      "away": "Arezzo",
+      "event_id": "9917821",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.18,
+              4.1
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.18,
+                "under": 4.1
+              },
+              {
+                "line": 4.5,
+                "over": 1.6,
+                "under": 2.15
+              },
+              {
+                "line": 5.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 6.5,
+                "over": 4.1,
+                "under": 1.18
+              },
+              {
+                "line": 7.5,
+                "over": 7.25,
+                "under": 1.05
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786730042.3482022
+    },
+    "Holstein Kiel|FC St. Pauli": {
+      "home": "Holstein Kiel",
+      "away": "FC St. Pauli",
+      "event_id": "9921830",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786730062.614513
+    },
+    "Eintracht Braunschweig|VfL Bochum": {
+      "home": "Eintracht Braunschweig",
+      "away": "VfL Bochum",
+      "event_id": "9921832",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786730082.888538
+    },
+    "Neom SC|Al-Fayha FC": {
+      "home": "Neom SC",
+      "away": "Al-Fayha FC",
+      "event_id": "9921845",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786730103.1348186
+    }
+  }
 }
