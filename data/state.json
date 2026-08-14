@@ -1,51 +1,5 @@
 {
   "matches": {
-    "Sporting CP|Vitoria de Guimaraes": {
-      "home": "Sporting CP",
-      "away": "Vitoria de Guimaraes",
-      "event_id": "9922058",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786741413.4152064
-    },
-    "Fiorentina|Benevento": {
-      "home": "Fiorentina",
-      "away": "Benevento",
-      "event_id": "9917823",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786741440.337273
-    },
     "Atlético Grau|Comerciantes Unidos": {
       "home": "Atlético Grau",
       "away": "Comerciantes Unidos",
@@ -57,8 +11,18 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "1X2": [
+            2.4,
+            1.08,
+            6.5
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              7.75
+            ]
+          },
           "CARDS_OU": null
         },
         "bet365": {
@@ -67,12 +31,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786741467.319496
+      "last_checked": 1786744616.8201675
     },
-    "Árborg|IH Hafnarfjördur": {
-      "home": "Árborg",
-      "away": "IH Hafnarfjördur",
-      "event_id": "9922055",
+    "Recoleta FC|Club 2 de Mayo": {
+      "home": "Recoleta FC",
+      "away": "Club 2 de Mayo",
+      "event_id": "9922072",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +54,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786741494.5316598
+      "last_checked": 1786744643.3560708
     },
-    "Elliði|KF Hafnir": {
-      "home": "Elliði",
-      "away": "KF Hafnir",
-      "event_id": "9922056",
+    "Atlanta Utd 2|Red Bull New York II": {
+      "home": "Atlanta Utd 2",
+      "away": "Red Bull New York II",
+      "event_id": "9922067",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +77,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786741521.6923792
+      "last_checked": 1786744669.9521933
+    },
+    "Asociación Deportiva Carmelita|Consultants Desamparados": {
+      "home": "Asociación Deportiva Carmelita",
+      "away": "Consultants Desamparados",
+      "event_id": "9922070",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786744696.6380403
+    },
+    "Itapirense U20|Santos FC U20": {
+      "home": "Itapirense U20",
+      "away": "Santos FC U20",
+      "event_id": "9922066",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786744723.0873833
     }
   }
 }

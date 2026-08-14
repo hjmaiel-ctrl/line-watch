@@ -1,50 +1,6 @@
 {
-  "generated_at": 1786741521.7373235,
+  "generated_at": 1786744723.121612,
   "matches": [
-    {
-      "match": "Sporting CP - Vitoria de Guimaraes",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Fiorentina - Benevento",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Atlético Grau - Comerciantes Unidos",
       "bet9ja_stats": null,
@@ -55,8 +11,18 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "1X2": [
+            2.4,
+            1.08,
+            6.5
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              7.75
+            ]
+          },
           "CARDS_OU": null
         },
         "bet365": {
@@ -68,7 +34,7 @@
       "alerts": []
     },
     {
-      "match": "Árborg - IH Hafnarfjördur",
+      "match": "Recoleta FC - Club 2 de Mayo",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -90,7 +56,51 @@
       "alerts": []
     },
     {
-      "match": "Elliði - KF Hafnir",
+      "match": "Atlanta Utd 2 - Red Bull New York II",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Asociación Deportiva Carmelita - Consultants Desamparados",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Itapirense U20 - Santos FC U20",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
