@@ -16,5 +16,23 @@
     "match": "Cagliari - Arezzo",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.1 a 6.5 (58.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "KI Klaksvik - KKS Lech Poznan",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 10.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Cagliari - Arezzo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Cagliari - Arezzo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.5 a 4.75 (36.8%)"
   }
 ]
