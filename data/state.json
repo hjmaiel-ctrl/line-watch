@@ -1,28 +1,41 @@
 {
   "matches": {
-    "Atlético Grau|Comerciantes Unidos": {
-      "home": "Atlético Grau",
-      "away": "Comerciantes Unidos",
-      "event_id": "9922064",
+    "São Bernardo FC|Botafogo SP": {
+      "home": "São Bernardo FC",
+      "away": "Botafogo SP",
+      "event_id": "9924346",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.38,
+              2.6
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.38,
+                "under": 2.6
+              },
+              {
+                "line": 11.5,
+                "over": 1.67,
+                "under": 1.92
+              },
+              {
+                "line": 12.5,
+                "over": 2.05,
+                "under": 1.6
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.08,
-            6.5
-          ],
-          "CORNERS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              7.75
-            ]
-          },
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "bet365": {
@@ -31,7 +44,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786744616.8201675
+      "last_checked": 1786748108.5005517
+    },
+    "Atlética Ponte Preta|Clube Náutico Capibaribe": {
+      "home": "Atlética Ponte Preta",
+      "away": "Clube Náutico Capibaribe",
+      "event_id": "9924347",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.47,
+              2.3
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.47,
+                "under": 2.3
+              },
+              {
+                "line": 8.5,
+                "over": 1.8,
+                "under": 1.8
+              },
+              {
+                "line": 9.5,
+                "over": 2.35,
+                "under": 1.45
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786748133.591601
     },
     "Recoleta FC|Club 2 de Mayo": {
       "home": "Recoleta FC",
@@ -44,7 +103,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            40.0,
+            8.25
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -54,12 +117,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786744643.3560708
+      "last_checked": 1786748165.9693723
     },
-    "Atlanta Utd 2|Red Bull New York II": {
-      "home": "Atlanta Utd 2",
-      "away": "Red Bull New York II",
-      "event_id": "9922067",
+    "Club Fernando de la Mora|Club Doctor Benjamín Aceval": {
+      "home": "Club Fernando de la Mora",
+      "away": "Club Doctor Benjamín Aceval",
+      "event_id": "9924343",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -77,12 +140,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786744669.9521933
+      "last_checked": 1786748193.0104833
     },
-    "Asociación Deportiva Carmelita|Consultants Desamparados": {
-      "home": "Asociación Deportiva Carmelita",
-      "away": "Consultants Desamparados",
-      "event_id": "9922070",
+    "Atletico Oriente|Chimbarongo": {
+      "home": "Atletico Oriente",
+      "away": "Chimbarongo",
+      "event_id": "9924344",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -100,30 +163,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786744696.6380403
-    },
-    "Itapirense U20|Santos FC U20": {
-      "home": "Itapirense U20",
-      "away": "Santos FC U20",
-      "event_id": "9922066",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786744723.0873833
+      "last_checked": 1786748220.0140798
     }
   }
 }
