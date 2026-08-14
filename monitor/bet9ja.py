@@ -74,6 +74,15 @@ WANTED_STATS = [
 def discover_live_matches(page) -> List[Dict]:
     """Ritorna [{home, away, event_id, url}] per tutte le partite live di calcio
     trovate nella pagina principale."""
+    # "Riscaldiamo" la sessione visitando prima la home, come farebbe una
+    # persona normale, invece di saltare direttamente alla pagina live: puo'
+    # aiutare con protezioni anti-bot basate sul comportamento di navigazione
+    # (non risolve un blocco basato solo sulla reputazione dell'IP).
+    try:
+        page.goto("https://sports.bet9ja.com/", wait_until="domcontentloaded", timeout=15000)
+        page.wait_for_timeout(1500)
+    except Exception as exc:
+        print(f"[bet9ja] errore nella visita di riscaldamento alla home: {exc}")
     page.goto(BET9JA_LIVE_URL, wait_until="domcontentloaded", timeout=25000)
     try:
         page.wait_for_selector(ROW_SELECTOR, timeout=15000)
@@ -163,7 +172,7 @@ def fetch_match_stats(page, match: Dict, timeout_ms: int = 15000) -> Optional[Di
     return stats or None
 
 
-# --- Quote proprie di bet9ja (Corner O/U, Cartellini O/U) -------------------
+# --- Quote proprie di bet9ja (Corner O/U, Cartellini O/U) --------------------
 
 # Testo esatto delle tab di categoria mercato e del titolo sezione che
 # ciascuna fa apparire (verificato navigando il sito, vedi docstring modulo).
@@ -183,7 +192,7 @@ _PARSE_OU_SECTION_JS = """
     }
     function ownText(el) {
         let t = '';
-        for ((const n of el.childNodes) {
+        for (const n of el.childNodes) {
             if (n.nodeType === Node.TEXT_NODE) t += n.textContent;
         }
         return t.trim();
