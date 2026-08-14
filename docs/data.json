@@ -1,8 +1,66 @@
 {
-  "generated_at": 1786730103.1865554,
+  "generated_at": 1786730869.7169867,
   "matches": [
     {
-      "match": "Parma - Catania",
+      "match": "KI Klaksvik - KKS Lech Poznan",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.39,
+              2.64
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.39,
+                "under": 2.64
+              },
+              {
+                "line": 8.5,
+                "over": 1.66,
+                "under": 2.02
+              },
+              {
+                "line": 9.5,
+                "over": 2.06,
+                "under": 1.63
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.57,
+              2.16
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.57,
+                "under": 2.16
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "SC Telstar - Sparta Rotterdam",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -30,36 +88,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 3.5,
+            "line": 4.5,
             "odds": [
-              1.18,
-              4.1
+              1.07,
+              6.5
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.18,
-                "under": 4.1
-              },
-              {
                 "line": 4.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 1.07,
+                "under": 6.5
               },
               {
                 "line": 5.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 6.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 2.5,
+                "under": 1.45
               },
               {
                 "line": 7.5,
-                "over": 7.25,
-                "under": 1.05
+                "over": 4.5,
+                "under": 1.15
+              },
+              {
+                "line": 8.5,
+                "over": 8.0,
+                "under": 1.03
               }
             ]
           },
@@ -76,7 +134,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Cagliari - Arezzo",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 3.5 a 4.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Cagliari - Arezzo",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.18 a 1.07 (10.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Cagliari - Arezzo",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.1 a 6.5 (58.5%)"
+        }
+      ]
     },
     {
       "match": "Holstein Kiel - FC St. Pauli",
@@ -121,29 +198,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Neom SC - Al-Fayha FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 3
 }

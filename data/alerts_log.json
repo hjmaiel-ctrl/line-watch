@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "type": "linea_cambiata",
+    "match": "Cagliari - Arezzo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Cagliari - Arezzo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.18 a 1.07 (10.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Cagliari - Arezzo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.1 a 6.5 (58.5%)"
+  }
+]

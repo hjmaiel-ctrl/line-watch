@@ -1,9 +1,68 @@
 {
   "matches": {
-    "Parma|Catania": {
-      "home": "Parma",
-      "away": "Catania",
-      "event_id": "9917820",
+    "KI Klaksvik|KKS Lech Poznan": {
+      "home": "KI Klaksvik",
+      "away": "KKS Lech Poznan",
+      "event_id": "9897675",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.39,
+              2.64
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.39,
+                "under": 2.64
+              },
+              {
+                "line": 8.5,
+                "over": 1.66,
+                "under": 2.02
+              },
+              {
+                "line": 9.5,
+                "over": 2.06,
+                "under": 1.63
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.57,
+              2.16
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.57,
+                "under": 2.16
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786730763.4714339
+    },
+    "SC Telstar|Sparta Rotterdam": {
+      "home": "SC Telstar",
+      "away": "Sparta Rotterdam",
+      "event_id": "9921971",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,7 +80,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786730023.8562734
+      "last_checked": 1786730790.4174047
     },
     "Cagliari|Arezzo": {
       "home": "Cagliari",
@@ -31,36 +90,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 3.5,
+            "line": 4.5,
             "odds": [
-              1.18,
-              4.1
+              1.07,
+              6.5
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.18,
-                "under": 4.1
-              },
-              {
                 "line": 4.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 1.07,
+                "under": 6.5
               },
               {
                 "line": 5.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 6.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 2.5,
+                "under": 1.45
               },
               {
                 "line": 7.5,
-                "over": 7.25,
-                "under": 1.05
+                "over": 4.5,
+                "under": 1.15
+              },
+              {
+                "line": 8.5,
+                "over": 8.0,
+                "under": 1.03
               }
             ]
           },
@@ -77,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786730042.3482022
+      "last_checked": 1786730815.6347165
     },
     "Holstein Kiel|FC St. Pauli": {
       "home": "Holstein Kiel",
@@ -100,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786730062.614513
+      "last_checked": 1786730842.6952305
     },
     "Eintracht Braunschweig|VfL Bochum": {
       "home": "Eintracht Braunschweig",
@@ -123,30 +182,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786730082.888538
-    },
-    "Neom SC|Al-Fayha FC": {
-      "home": "Neom SC",
-      "away": "Al-Fayha FC",
-      "event_id": "9921845",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786730103.1348186
+      "last_checked": 1786730869.6712
     }
   }
 }
