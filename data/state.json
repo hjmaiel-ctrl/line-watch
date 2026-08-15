@@ -1,36 +1,72 @@
 {
   "matches": {
-    "Athlético Paranaense|Red Bull Bragantino": {
-      "home": "Athlético Paranaense",
-      "away": "Red Bull Bragantino",
-      "event_id": "9925654",
+    "Atlanta Utd|New York Red Bulls": {
+      "home": "Atlanta Utd",
+      "away": "New York Red Bulls",
+      "event_id": "9930827",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 8.5,
             "odds": [
-              1.4,
-              2.65
+              1.45,
+              2.56
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.4,
-                "under": 2.65
+                "line": 8.5,
+                "over": 1.45,
+                "under": 2.56
               },
               {
-                "line": 12.5,
-                "over": 1.95,
-                "under": 1.73
+                "line": 9.5,
+                "over": 1.74,
+                "under": 1.98
               },
               {
-                "line": 13.5,
-                "over": 3.0,
-                "under": 1.32
+                "line": 10.5,
+                "over": 2.16,
+                "under": 1.62
               }
             ]
           },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.73,
+              1.95
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.73,
+                "under": 1.95
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786837288.6729949
+    },
+    "Charlotte FC|Columbus Crew": {
+      "home": "Charlotte FC",
+      "away": "Columbus Crew",
+      "event_id": "9930828",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,86 +80,171 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786834519.1951103
+      "last_checked": 1786837315.616958
     },
-    "Newell's Old Boys|Deportivo Riestra": {
-      "home": "Newell's Old Boys",
-      "away": "Deportivo Riestra",
-      "event_id": "9925662",
+    "CF Montreal|DC United": {
+      "home": "CF Montreal",
+      "away": "DC United",
+      "event_id": "9930829",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.45,
+              2.56
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.45,
+                "under": 2.56
+              },
+              {
+                "line": 9.5,
+                "over": 1.74,
+                "under": 1.98
+              },
+              {
+                "line": 10.5,
+                "over": 2.16,
+                "under": 1.63
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.83,
+              1.84
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.83,
+                "under": 1.84
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786837338.673425
+    },
+    "Orlando City|Cincinnati": {
+      "home": "Orlando City",
+      "away": "Cincinnati",
+      "event_id": "9930830",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.44,
+              2.6
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.44,
+                "under": 2.6
+              },
+              {
+                "line": 9.5,
+                "over": 1.72,
+                "under": 2.0
+              },
+              {
+                "line": 10.5,
+                "over": 2.12,
+                "under": 1.64
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.85,
+              1.82
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.85,
+                "under": 1.82
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786837361.9786031
+    },
+    "Toronto|New England Revolution": {
+      "home": "Toronto",
+      "away": "New England Revolution",
+      "event_id": "9930831",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.35,
-              2.85
+              1.68,
+              2.06
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.68,
+                "under": 2.06
               },
               {
                 "line": 10.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 2.06,
+                "under": 1.68
               },
               {
                 "line": 11.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 2.62,
+                "under": 1.43
               }
             ]
           },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786834544.539887
-    },
-    "Belgrano|Independiente Rivadavia": {
-      "home": "Belgrano",
-      "away": "Independiente Rivadavia",
-      "event_id": "9925664",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
+          "CARDS_OU": {
+            "line": 3.5,
             "odds": [
-              1.4,
-              2.65
+              1.62,
+              2.12
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.4,
-                "under": 2.65
-              },
-              {
-                "line": 8.5,
-                "over": 1.87,
-                "under": 1.8
-              },
-              {
-                "line": 9.5,
-                "over": 2.7,
-                "under": 1.38
+                "line": 3.5,
+                "over": 1.62,
+                "under": 2.12
               }
             ]
-          },
-          "CARDS_OU": null
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -136,53 +257,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786834569.781048
-    },
-    "EC Juventude|Fortaleza EC": {
-      "home": "EC Juventude",
-      "away": "Fortaleza EC",
-      "event_id": "9925642",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786834597.2373152
-    },
-    "Deportes Limache|Universidad de Chile": {
-      "home": "Deportes Limache",
-      "away": "Universidad de Chile",
-      "event_id": "9925644",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786834624.2874918
+      "last_checked": 1786837385.0663927
     }
   }
 }
