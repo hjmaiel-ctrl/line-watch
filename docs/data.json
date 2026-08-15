@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786794211.6993465,
+  "generated_at": 1786800148.1481514,
   "matches": [
     {
       "match": "Bolton Wanderers - Preston North End",
@@ -7,40 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 8.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 10.5,
-                "over": 2.6,
-                "under": 1.42
-              },
-              {
-                "line": 11.5,
-                "over": 3.5,
-                "under": 1.22
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -110,7 +77,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            13.5,
+            1.12
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -123,7 +94,7 @@
       "alerts": []
     },
     {
-      "match": "Hertha BSC - 1. FC Heidenheim",
+      "match": "Werder Bremen - AJ Auxerre",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

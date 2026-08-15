@@ -7,40 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 8.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 10.5,
-                "over": 2.6,
-                "under": 1.42
-              },
-              {
-                "line": 11.5,
-                "over": 3.5,
-                "under": 1.22
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -54,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786794104.4126701
+      "last_checked": 1786800036.2723432
     },
     "Oxford United|Milton Keynes Dons": {
       "home": "Oxford United",
@@ -77,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786794131.1942236
+      "last_checked": 1786800062.9580932
     },
     "Reading|Luton Town": {
       "home": "Reading",
@@ -100,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786794157.9905634
+      "last_checked": 1786800089.5386424
     },
     "Notts County|Leicester City": {
       "home": "Notts County",
@@ -113,7 +80,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            13.5,
+            1.12
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -123,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786794184.8779814
+      "last_checked": 1786800121.4605372
     },
-    "Hertha BSC|1. FC Heidenheim": {
-      "home": "Hertha BSC",
-      "away": "1. FC Heidenheim",
-      "event_id": "9924732",
+    "Werder Bremen|AJ Auxerre": {
+      "home": "Werder Bremen",
+      "away": "AJ Auxerre",
+      "event_id": "9924815",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -146,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786794211.6486597
+      "last_checked": 1786800148.0965092
     }
   }
 }
