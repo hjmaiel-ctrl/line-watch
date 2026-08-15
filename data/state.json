@@ -1,36 +1,13 @@
 {
   "matches": {
-    "Racing Club|Banfield": {
-      "home": "Racing Club",
-      "away": "Banfield",
-      "event_id": "9924357",
+    "Vancouver FC|Pacific": {
+      "home": "Vancouver FC",
+      "away": "Pacific",
+      "event_id": "9924382",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.45,
-              2.5
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
-                "line": 6.5,
-                "over": 1.83,
-                "under": 1.83
-              },
-              {
-                "line": 7.5,
-                "over": 2.5,
-                "under": 1.45
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,43 +21,24 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786751779.7906861
+      "last_checked": 1786763089.6516013
     },
-    "São Bernardo FC|Botafogo SP": {
-      "home": "São Bernardo FC",
-      "away": "Botafogo SP",
-      "event_id": "9924346",
+    "San Francisco|CA Independiente": {
+      "home": "San Francisco",
+      "away": "CA Independiente",
+      "event_id": "9924384",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 18.5,
-            "odds": [
-              1.45,
-              2.35
-            ],
-            "_all_lines": [
-              {
-                "line": 18.5,
-                "over": 1.45,
-                "under": 2.35
-              },
-              {
-                "line": 19.5,
-                "over": 1.97,
-                "under": 1.65
-              },
-              {
-                "line": 20.5,
-                "over": 2.8,
-                "under": 1.32
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.18,
+            4.9
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,12 +48,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786751805.0836072
+      "last_checked": 1786763121.714534
     },
-    "Atlética Ponte Preta|Clube Náutico Capibaribe": {
-      "home": "Atlética Ponte Preta",
-      "away": "Clube Náutico Capibaribe",
-      "event_id": "9924347",
+    "Asociacion Deportiva San Carlos|CS Herediano": {
+      "home": "Asociacion Deportiva San Carlos",
+      "away": "CS Herediano",
+      "event_id": "9924386",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,39 +71,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786751832.5007098
+      "last_checked": 1786763148.4303002
     },
-    "Sport Club do Recife|Londrina": {
-      "home": "Sport Club do Recife",
-      "away": "Londrina",
-      "event_id": "9924355",
+    "Marist FC|SOSA FC": {
+      "home": "Marist FC",
+      "away": "SOSA FC",
+      "event_id": "9924390",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.38,
-              2.6
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.38,
-                "under": 2.6
-              },
-              {
-                "line": 9.5,
-                "over": 1.7,
-                "under": 1.92
-              },
-              {
-                "line": 10.5,
-                "over": 2.2,
-                "under": 1.52
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -159,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786751858.1854653
+      "last_checked": 1786763175.1227994
     },
-    "Universidad de Concepción|La Serena": {
-      "home": "Universidad de Concepción",
-      "away": "La Serena",
-      "event_id": "9924352",
+    "Taroona|Glenorchy Knights FC 2": {
+      "home": "Taroona",
+      "away": "Glenorchy Knights FC 2",
+      "event_id": "9924395",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -182,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786751885.131188
+      "last_checked": 1786763201.800604
     }
   }
 }

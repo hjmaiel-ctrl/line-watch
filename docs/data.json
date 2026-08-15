@@ -1,111 +1,8 @@
 {
-  "generated_at": 1786751885.1798549,
+  "generated_at": 1786763201.8490553,
   "matches": [
     {
-      "match": "Racing Club - Banfield",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.45,
-              2.5
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
-                "line": 6.5,
-                "over": 1.83,
-                "under": 1.83
-              },
-              {
-                "line": 7.5,
-                "over": 2.5,
-                "under": 1.45
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "São Bernardo FC - Botafogo SP",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 18.5,
-            "odds": [
-              1.45,
-              2.35
-            ],
-            "_all_lines": [
-              {
-                "line": 18.5,
-                "over": 1.45,
-                "under": 2.35
-              },
-              {
-                "line": 19.5,
-                "over": 1.97,
-                "under": 1.65
-              },
-              {
-                "line": 20.5,
-                "over": 2.8,
-                "under": 1.32
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "São Bernardo FC - Botafogo SP",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 18.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "São Bernardo FC - Botafogo SP",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.6 a 2.35 (10.6%)"
-        }
-      ]
-    },
-    {
-      "match": "Atlética Ponte Preta - Clube Náutico Capibaribe",
+      "match": "Vancouver FC - Pacific",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -127,35 +24,38 @@
       "alerts": []
     },
     {
-      "match": "Sport Club do Recife - Londrina",
+      "match": "San Francisco - CA Independiente",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.38,
-              2.6
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.38,
-                "under": 2.6
-              },
-              {
-                "line": 9.5,
-                "over": 1.7,
-                "under": 1.92
-              },
-              {
-                "line": 10.5,
-                "over": 2.2,
-                "under": 1.52
-              }
-            ]
-          },
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.18,
+            4.9
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Asociacion Deportiva San Carlos - CS Herediano",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -172,7 +72,29 @@
       "alerts": []
     },
     {
-      "match": "Universidad de Concepción - La Serena",
+      "match": "Marist FC - SOSA FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Taroona - Glenorchy Knights FC 2",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -194,5 +116,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
