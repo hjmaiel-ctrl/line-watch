@@ -1,50 +1,37 @@
 {
   "matches": {
-    "Alaves|Getafe": {
-      "home": "Alaves",
-      "away": "Getafe",
-      "event_id": "9723467",
+    "Sevilla|Rayo Vallecano": {
+      "home": "Sevilla",
+      "away": "Rayo Vallecano",
+      "event_id": "9724970",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.33,
-              2.94
+              1.46,
+              2.52
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.33,
-                "under": 2.94
+                "over": 1.46,
+                "under": 2.52
               },
               {
                 "line": 8.5,
-                "over": 1.93,
-                "under": 1.75
+                "over": 1.77,
+                "under": 1.94
               },
               {
                 "line": 9.5,
-                "over": 3.1,
-                "under": 1.31
+                "over": 2.24,
+                "under": 1.57
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.57,
-              2.16
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.57,
-                "under": 2.16
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -57,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786820643.9316034
+      "last_checked": 1786823366.0463414
     },
     "Excelsior Rotterdam|PSV Eindhoven": {
       "home": "Excelsior Rotterdam",
@@ -80,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786820670.867969
+      "last_checked": 1786823392.822137
     },
     "Fortuna Sittard|Cambuur Leeuwarden": {
       "home": "Fortuna Sittard",
@@ -103,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786820698.203605
+      "last_checked": 1786823419.6404924
     },
-    "Venezia|Modena FC 2018": {
-      "home": "Venezia",
-      "away": "Modena FC 2018",
-      "event_id": "9917826",
+    "Rio Ave|FC Porto": {
+      "home": "Rio Ave",
+      "away": "FC Porto",
+      "event_id": "9925598",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -126,44 +113,44 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786820725.8612182
+      "last_checked": 1786823446.416299
     },
-    "Gençlerbirligi SK|Fenerbahçe SK": {
-      "home": "Gençlerbirligi SK",
-      "away": "Fenerbahçe SK",
-      "event_id": "9925549",
+    "Venezia|Modena FC 2018": {
+      "home": "Venezia",
+      "away": "Modena FC 2018",
+      "event_id": "9917826",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.32,
-              3.0
+              1.22,
+              3.5
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
                 "line": 8.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.22,
+                "under": 3.5
               },
               {
                 "line": 9.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 10.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 11.5,
+                "over": 3.25,
+                "under": 1.28
+              },
+              {
+                "line": 12.5,
                 "over": 4.5,
                 "under": 1.15
               }
@@ -182,7 +169,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786820751.120987
+      "last_checked": 1786823471.4940393
     }
   }
 }
