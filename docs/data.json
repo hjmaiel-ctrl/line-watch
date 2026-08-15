@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786831437.780087,
+  "generated_at": 1786834624.3344326,
   "matches": [
     {
       "match": "Athlético Paranaense - Red Bull Bragantino",
@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 11.5,
             "odds": [
-              1.35,
-              2.85
+              1.4,
+              2.65
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
                 "line": 11.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 12.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 13.5,
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -49,13 +49,7 @@
           "type": "linea_cambiata",
           "match": "Athlético Paranaense - Red Bull Bragantino",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 10.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Athlético Paranaense - Red Bull Bragantino",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.6 a 2.85 (9.6%)"
+          "detail": "bet9ja: linea passata da 10.5 a 11.5"
         }
       ]
     },
@@ -65,7 +59,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 10.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 11.5,
+                "over": 2.35,
+                "under": 1.5
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -87,7 +104,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.4,
+              2.65
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 8.5,
+                "over": 1.87,
+                "under": 1.8
+              },
+              {
+                "line": 9.5,
+                "over": 2.7,
+                "under": 1.38
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -148,5 +188,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 1
 }

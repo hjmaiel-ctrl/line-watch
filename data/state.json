@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 11.5,
             "odds": [
-              1.35,
-              2.85
+              1.4,
+              2.65
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
                 "line": 11.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 12.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 13.5,
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786831329.7354176
+      "last_checked": 1786834519.1951103
     },
     "Newell's Old Boys|Deportivo Riestra": {
       "home": "Newell's Old Boys",
@@ -53,7 +53,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 10.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 11.5,
+                "over": 2.35,
+                "under": 1.5
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -67,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786831356.5305977
+      "last_checked": 1786834544.539887
     },
     "Belgrano|Independiente Rivadavia": {
       "home": "Belgrano",
@@ -76,7 +99,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.4,
+              2.65
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 8.5,
+                "over": 1.87,
+                "under": 1.8
+              },
+              {
+                "line": 9.5,
+                "over": 2.7,
+                "under": 1.38
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -90,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786831383.8280864
+      "last_checked": 1786834569.781048
     },
     "EC Juventude|Fortaleza EC": {
       "home": "EC Juventude",
@@ -113,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786831410.7887917
+      "last_checked": 1786834597.2373152
     },
     "Deportes Limache|Universidad de Chile": {
       "home": "Deportes Limache",
@@ -136,7 +182,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786831437.7344296
+      "last_checked": 1786834624.2874918
     }
   }
 }
