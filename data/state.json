@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Sevilla|Rayo Vallecano": {
-      "home": "Sevilla",
-      "away": "Rayo Vallecano",
-      "event_id": "9724970",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786830079.0820394
-    },
     "Athlético Paranaense|Red Bull Bragantino": {
       "home": "Athlético Paranaense",
       "away": "Red Bull Bragantino",
@@ -31,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 10.5,
             "odds": [
-              1.42,
-              2.6
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
-                "line": 9.5,
-                "over": 1.73,
-                "under": 1.95
-              },
-              {
                 "line": 10.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 11.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 12.5,
+                "over": 2.15,
+                "under": 1.6
               }
             ]
           },
@@ -67,7 +44,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786830104.311841
+      "last_checked": 1786831329.7354176
+    },
+    "Newell's Old Boys|Deportivo Riestra": {
+      "home": "Newell's Old Boys",
+      "away": "Deportivo Riestra",
+      "event_id": "9925662",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786831356.5305977
+    },
+    "Belgrano|Independiente Rivadavia": {
+      "home": "Belgrano",
+      "away": "Independiente Rivadavia",
+      "event_id": "9925664",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786831383.8280864
     },
     "EC Juventude|Fortaleza EC": {
       "home": "EC Juventude",
@@ -90,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786830131.33464
+      "last_checked": 1786831410.7887917
     },
     "Deportes Limache|Universidad de Chile": {
       "home": "Deportes Limache",
@@ -113,30 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786830158.6410317
-    },
-    "Guayaquil City FC|Libertad FC": {
-      "home": "Guayaquil City FC",
-      "away": "Libertad FC",
-      "event_id": "9925643",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786830185.6048238
+      "last_checked": 1786831437.7344296
     }
   }
 }
