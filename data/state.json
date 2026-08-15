@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Vancouver FC|Pacific": {
-      "home": "Vancouver FC",
-      "away": "Pacific",
-      "event_id": "9924382",
+    "Bay Olympic|Eastern Suburbs Auckland AFC": {
+      "home": "Bay Olympic",
+      "away": "Eastern Suburbs Auckland AFC",
+      "event_id": "9924398",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786763089.6516013
+      "last_checked": 1786769534.2597706
     },
-    "San Francisco|CA Independiente": {
-      "home": "San Francisco",
-      "away": "CA Independiente",
-      "event_id": "9924384",
+    "Club Atletico La Paz|Piratas F.C": {
+      "home": "Club Atletico La Paz",
+      "away": "Piratas F.C",
+      "event_id": "9924403",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -34,11 +34,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.18,
-            4.9
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -48,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786763121.714534
+      "last_checked": 1786769561.2457376
     },
-    "Asociacion Deportiva San Carlos|CS Herediano": {
-      "home": "Asociacion Deportiva San Carlos",
-      "away": "CS Herediano",
-      "event_id": "9924386",
+    "Port Melbourne Sharks|Melbourne Knights": {
+      "home": "Port Melbourne Sharks",
+      "away": "Melbourne Knights",
+      "event_id": "9924404",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -71,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786763148.4303002
+      "last_checked": 1786769588.3156455
     },
-    "Marist FC|SOSA FC": {
-      "home": "Marist FC",
-      "away": "SOSA FC",
-      "event_id": "9924390",
+    "Gawler Easgles FC Reserve|Northern Demons Reserve": {
+      "home": "Gawler Easgles FC Reserve",
+      "away": "Northern Demons Reserve",
+      "event_id": "9924405",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -94,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786763175.1227994
+      "last_checked": 1786769615.1467316
     },
-    "Taroona|Glenorchy Knights FC 2": {
-      "home": "Taroona",
-      "away": "Glenorchy Knights FC 2",
-      "event_id": "9924395",
+    "Holland Park Hawks|Brisbane Strikers": {
+      "home": "Holland Park Hawks",
+      "away": "Brisbane Strikers",
+      "event_id": "9924406",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786763201.800604
+      "last_checked": 1786769642.1127455
     }
   }
 }

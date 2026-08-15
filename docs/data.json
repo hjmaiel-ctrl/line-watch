@@ -1,8 +1,8 @@
 {
-  "generated_at": 1786763201.8490553,
+  "generated_at": 1786769642.1757872,
   "matches": [
     {
-      "match": "Vancouver FC - Pacific",
+      "match": "Bay Olympic - Eastern Suburbs Auckland AFC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,33 +24,7 @@
       "alerts": []
     },
     {
-      "match": "San Francisco - CA Independiente",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.18,
-            4.9
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Asociacion Deportiva San Carlos - CS Herediano",
+      "match": "Club Atletico La Paz - Piratas F.C",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -72,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Marist FC - SOSA FC",
+      "match": "Port Melbourne Sharks - Melbourne Knights",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -94,7 +68,29 @@
       "alerts": []
     },
     {
-      "match": "Taroona - Glenorchy Knights FC 2",
+      "match": "Gawler Easgles FC Reserve - Northern Demons Reserve",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Holland Park Hawks - Brisbane Strikers",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
