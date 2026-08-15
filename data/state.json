@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Caroline Springs George Cross FC|Avondale FC": {
-      "home": "Caroline Springs George Cross FC",
-      "away": "Avondale FC",
-      "event_id": "9924443",
+    "Torrent CF|UD Vall de Uxo": {
+      "home": "Torrent CF",
+      "away": "UD Vall de Uxo",
+      "event_id": "9924489",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786778430.0710065
+      "last_checked": 1786780908.0296586
     },
-    "Fencibles United AFC|Nelson Suburbs FC": {
-      "home": "Fencibles United AFC",
-      "away": "Nelson Suburbs FC",
-      "event_id": "9924447",
+    "Club Deportiva Minera|Cartagena II": {
+      "home": "Club Deportiva Minera",
+      "away": "Cartagena II",
+      "event_id": "9924490",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786778456.7133615
+      "last_checked": 1786780935.0383475
     },
     "Manukau United|Western Springs AFC": {
       "home": "Manukau United",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786778483.2949367
+      "last_checked": 1786780961.8611174
     },
     "APIA Tigers|SD Raiders": {
       "home": "APIA Tigers",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786778509.9236953
+      "last_checked": 1786780988.8549218
     },
     "Holland Park Hawks|Brisbane Strikers": {
       "home": "Holland Park Hawks",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786778536.6670759
+      "last_checked": 1786781015.6899748
     }
   }
 }
