@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Bay Olympic|Eastern Suburbs Auckland AFC": {
-      "home": "Bay Olympic",
-      "away": "Eastern Suburbs Auckland AFC",
-      "event_id": "9924398",
+    "GHUPO|Green Shield": {
+      "home": "GHUPO",
+      "away": "Green Shield",
+      "event_id": "9924412",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786769534.2597706
+      "last_checked": 1786773434.2332168
     },
-    "Club Atletico La Paz|Piratas F.C": {
-      "home": "Club Atletico La Paz",
-      "away": "Piratas F.C",
-      "event_id": "9924403",
+    "New Town Eagles|University of Tasmania": {
+      "home": "New Town Eagles",
+      "away": "University of Tasmania",
+      "event_id": "9924413",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786769561.2457376
+      "last_checked": 1786773460.8749185
     },
-    "Port Melbourne Sharks|Melbourne Knights": {
-      "home": "Port Melbourne Sharks",
-      "away": "Melbourne Knights",
-      "event_id": "9924404",
+    "Devonport City|Kingborough Lions Utd": {
+      "home": "Devonport City",
+      "away": "Kingborough Lions Utd",
+      "event_id": "9924418",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786769588.3156455
+      "last_checked": 1786773487.4752488
     },
-    "Gawler Easgles FC Reserve|Northern Demons Reserve": {
-      "home": "Gawler Easgles FC Reserve",
-      "away": "Northern Demons Reserve",
-      "event_id": "9924405",
+    "Western Sydney Wanderers Reserves|St George Saints": {
+      "home": "Western Sydney Wanderers Reserves",
+      "away": "St George Saints",
+      "event_id": "9924426",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786769615.1467316
+      "last_checked": 1786773514.2073617
     },
-    "Holland Park Hawks|Brisbane Strikers": {
-      "home": "Holland Park Hawks",
-      "away": "Brisbane Strikers",
-      "event_id": "9924406",
+    "Heidelberg Utd|Hume City": {
+      "home": "Heidelberg Utd",
+      "away": "Hume City",
+      "event_id": "9924427",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786769642.1127455
+      "last_checked": 1786773540.9516006
     }
   }
 }
