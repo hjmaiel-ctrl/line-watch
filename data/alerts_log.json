@@ -46,5 +46,23 @@
     "match": "São Bernardo FC - Botafogo SP",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.6 a 2.35 (10.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Mito Hollyhock - Gamba Osaka",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Mito Hollyhock - Gamba Osaka",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.38 a 1.13 (22.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Mito Hollyhock - Gamba Osaka",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.7 a 4.75 (75.9%)"
   }
 ]
