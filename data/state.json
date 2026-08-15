@@ -7,26 +7,49 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786830079.0820394
+    },
+    "Athlético Paranaense|Red Bull Bragantino": {
+      "home": "Athlético Paranaense",
+      "away": "Red Bull Bragantino",
+      "event_id": "9925654",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.46,
-              2.52
+              1.42,
+              2.6
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.46,
-                "under": 2.52
-              },
-              {
                 "line": 8.5,
-                "over": 1.77,
-                "under": 1.94
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 9.5,
-                "over": 2.24,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 10.5,
+                "over": 2.2,
                 "under": 1.57
               }
             ]
@@ -44,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786823366.0463414
+      "last_checked": 1786830104.311841
     },
-    "Excelsior Rotterdam|PSV Eindhoven": {
-      "home": "Excelsior Rotterdam",
-      "away": "PSV Eindhoven",
-      "event_id": "9925503",
+    "EC Juventude|Fortaleza EC": {
+      "home": "EC Juventude",
+      "away": "Fortaleza EC",
+      "event_id": "9925642",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786823392.822137
+      "last_checked": 1786830131.33464
     },
-    "Fortuna Sittard|Cambuur Leeuwarden": {
-      "home": "Fortuna Sittard",
-      "away": "Cambuur Leeuwarden",
-      "event_id": "9925574",
+    "Deportes Limache|Universidad de Chile": {
+      "home": "Deportes Limache",
+      "away": "Universidad de Chile",
+      "event_id": "9925644",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +113,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786823419.6404924
+      "last_checked": 1786830158.6410317
     },
-    "Rio Ave|FC Porto": {
-      "home": "Rio Ave",
-      "away": "FC Porto",
-      "event_id": "9925598",
+    "Guayaquil City FC|Libertad FC": {
+      "home": "Guayaquil City FC",
+      "away": "Libertad FC",
+      "event_id": "9925643",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,63 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786823446.416299
-    },
-    "Venezia|Modena FC 2018": {
-      "home": "Venezia",
-      "away": "Modena FC 2018",
-      "event_id": "9917826",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.22,
-              3.5
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.22,
-                "under": 3.5
-              },
-              {
-                "line": 9.5,
-                "over": 1.55,
-                "under": 2.25
-              },
-              {
-                "line": 10.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 11.5,
-                "over": 3.25,
-                "under": 1.28
-              },
-              {
-                "line": 12.5,
-                "over": 4.5,
-                "under": 1.15
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786823471.4940393
+      "last_checked": 1786830185.6048238
     }
   }
 }

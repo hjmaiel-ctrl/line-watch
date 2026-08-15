@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786823471.540616,
+  "generated_at": 1786830185.653042,
   "matches": [
     {
       "match": "Sevilla - Rayo Vallecano",
@@ -7,26 +7,48 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Athlético Paranaense - Red Bull Bragantino",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.46,
-              2.52
+              1.42,
+              2.6
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.46,
-                "under": 2.52
-              },
-              {
                 "line": 8.5,
-                "over": 1.77,
-                "under": 1.94
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 9.5,
-                "over": 2.24,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 10.5,
+                "over": 2.2,
                 "under": 1.57
               }
             ]
@@ -47,7 +69,7 @@
       "alerts": []
     },
     {
-      "match": "Excelsior Rotterdam - PSV Eindhoven",
+      "match": "EC Juventude - Fortaleza EC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -69,7 +91,7 @@
       "alerts": []
     },
     {
-      "match": "Fortuna Sittard - Cambuur Leeuwarden",
+      "match": "Deportes Limache - Universidad de Chile",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -91,67 +113,12 @@
       "alerts": []
     },
     {
-      "match": "Rio Ave - FC Porto",
+      "match": "Guayaquil City FC - Libertad FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Venezia - Modena FC 2018",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.22,
-              3.5
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.22,
-                "under": 3.5
-              },
-              {
-                "line": 9.5,
-                "over": 1.55,
-                "under": 2.25
-              },
-              {
-                "line": 10.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 11.5,
-                "over": 3.25,
-                "under": 1.28
-              },
-              {
-                "line": 12.5,
-                "over": 4.5,
-                "under": 1.15
-              }
-            ]
-          },
           "CARDS_OU": null
         },
         "sportybet": {
