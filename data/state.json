@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Bolton Wanderers|Preston North End": {
-      "home": "Bolton Wanderers",
-      "away": "Preston North End",
-      "event_id": "9917411",
+    "Bristol City|Millwall": {
+      "home": "Bristol City",
+      "away": "Millwall",
+      "event_id": "9917275",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786800036.2723432
+      "last_checked": 1786802470.1698396
     },
-    "Oxford United|Milton Keynes Dons": {
-      "home": "Oxford United",
-      "away": "Milton Keynes Dons",
-      "event_id": "9924741",
+    "Bradford City|Peterborough United": {
+      "home": "Bradford City",
+      "away": "Peterborough United",
+      "event_id": "9925048",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,57 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786800062.9580932
-    },
-    "Reading|Luton Town": {
-      "home": "Reading",
-      "away": "Luton Town",
-      "event_id": "9924742",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786800089.5386424
-    },
-    "Notts County|Leicester City": {
-      "home": "Notts County",
-      "away": "Leicester City",
-      "event_id": "9924744",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            13.5,
-            1.12
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786800121.4605372
+      "last_checked": 1786802497.1823764
     },
     "Werder Bremen|AJ Auxerre": {
       "home": "Werder Bremen",
@@ -117,7 +67,99 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786800148.0965092
+      "last_checked": 1786802524.629267
+    },
+    "Chelsea|Real Sociedad": {
+      "home": "Chelsea",
+      "away": "Real Sociedad",
+      "event_id": "9924826",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.47,
+              2.3
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.47,
+                "under": 2.3
+              },
+              {
+                "line": 6.5,
+                "over": 2.05,
+                "under": 1.6
+              },
+              {
+                "line": 7.5,
+                "over": 3.0,
+                "under": 1.28
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786802550.441993
+    },
+    "FC Bayern München|RB Leipzig": {
+      "home": "FC Bayern München",
+      "away": "RB Leipzig",
+      "event_id": "9924888",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.45,
+              2.35
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.45,
+                "under": 2.35
+              },
+              {
+                "line": 5.5,
+                "over": 1.88,
+                "under": 1.72
+              },
+              {
+                "line": 6.5,
+                "over": 2.7,
+                "under": 1.35
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786802575.4547722
     }
   }
 }
