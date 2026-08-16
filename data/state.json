@@ -1,68 +1,9 @@
 {
   "matches": {
-    "Atlanta Utd|New York Red Bulls": {
-      "home": "Atlanta Utd",
-      "away": "New York Red Bulls",
-      "event_id": "9930827",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.45,
-              2.56
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.45,
-                "under": 2.56
-              },
-              {
-                "line": 9.5,
-                "over": 1.74,
-                "under": 1.98
-              },
-              {
-                "line": 10.5,
-                "over": 2.16,
-                "under": 1.62
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.73,
-              1.95
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.73,
-                "under": 1.95
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786837288.6729949
-    },
-    "Charlotte FC|Columbus Crew": {
-      "home": "Charlotte FC",
-      "away": "Columbus Crew",
-      "event_id": "9930828",
+    "Colorado Rapids|Sporting Kansas City": {
+      "home": "Colorado Rapids",
+      "away": "Sporting Kansas City",
+      "event_id": "9930888",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -80,53 +21,17 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786837315.616958
+      "last_checked": 1786850147.0794744
     },
-    "CF Montreal|DC United": {
-      "home": "CF Montreal",
-      "away": "DC United",
-      "event_id": "9930829",
+    "Real Salt Lake|Minnesota Utd": {
+      "home": "Real Salt Lake",
+      "away": "Minnesota Utd",
+      "event_id": "9930889",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.45,
-              2.56
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.45,
-                "under": 2.56
-              },
-              {
-                "line": 9.5,
-                "over": 1.74,
-                "under": 1.98
-              },
-              {
-                "line": 10.5,
-                "over": 2.16,
-                "under": 1.63
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.83,
-              1.84
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.83,
-                "under": 1.84
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -139,109 +44,50 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786837338.673425
+      "last_checked": 1786850173.6924872
     },
-    "Orlando City|Cincinnati": {
-      "home": "Orlando City",
-      "away": "Cincinnati",
-      "event_id": "9930830",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.44,
-              2.6
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.44,
-                "under": 2.6
-              },
-              {
-                "line": 9.5,
-                "over": 1.72,
-                "under": 2.0
-              },
-              {
-                "line": 10.5,
-                "over": 2.12,
-                "under": 1.64
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.85,
-              1.82
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.85,
-                "under": 1.82
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786837361.9786031
-    },
-    "Toronto|New England Revolution": {
-      "home": "Toronto",
-      "away": "New England Revolution",
-      "event_id": "9930831",
+    "Los Angeles|San Diego FC": {
+      "home": "Los Angeles",
+      "away": "San Diego FC",
+      "event_id": "9930892",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.68,
-              2.06
+              1.57,
+              2.26
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.68,
-                "under": 2.06
+                "over": 1.57,
+                "under": 2.26
               },
               {
                 "line": 10.5,
-                "over": 2.06,
-                "under": 1.68
+                "over": 2.02,
+                "under": 1.71
               },
               {
                 "line": 11.5,
-                "over": 2.62,
-                "under": 1.43
+                "over": 2.74,
+                "under": 1.4
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 4.5,
             "odds": [
-              1.62,
-              2.12
+              2.0,
+              1.7
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.62,
-                "under": 2.12
+                "line": 4.5,
+                "over": 2.0,
+                "under": 1.7
               }
             ]
           }
@@ -257,7 +103,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786837385.0663927
+      "last_checked": 1786850196.7841241
+    },
+    "San Jose Earthquakes|Saint Louis City SC": {
+      "home": "San Jose Earthquakes",
+      "away": "Saint Louis City SC",
+      "event_id": "9930893",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.4,
+              2.74
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.4,
+                "under": 2.74
+              },
+              {
+                "line": 9.5,
+                "over": 1.73,
+                "under": 1.99
+              },
+              {
+                "line": 10.5,
+                "over": 2.24,
+                "under": 1.58
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786850221.6987276
+    },
+    "Tailevu/Naitasiri|Labasa FC": {
+      "home": "Tailevu/Naitasiri",
+      "away": "Labasa FC",
+      "event_id": "9930870",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786850253.7090793
     }
   }
 }
