@@ -21,13 +21,13 @@
               },
               {
                 "line": 6.5,
-                "over": 1.95,
-                "under": 1.73
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 7.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 3.1,
+                "under": 1.3
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786916460.558401
+      "last_checked": 1786917662.5949008
     },
     "Mirassol FC|Flamengo": {
       "home": "Mirassol FC",
@@ -56,24 +56,24 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.42,
-              2.55
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.42,
-                "under": 2.55
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 9.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.83,
+                "under": 1.83
               },
               {
                 "line": 10.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786916485.7068434
+      "last_checked": 1786917687.6437993
     },
     "EC Vitória|Botafogo FR": {
       "home": "EC Vitória",
@@ -99,30 +99,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.45,
-              2.5
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
-                "line": 8.5,
-                "over": 1.78,
-                "under": 1.9
-              },
-              {
-                "line": 9.5,
-                "over": 2.25,
-                "under": 1.55
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -136,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786916510.6573446
+      "last_checked": 1786917714.3374832
     },
     "CRB|Gremio Novorizontino": {
       "home": "CRB",
@@ -159,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786916537.3741853
+      "last_checked": 1786917741.354746
     },
     "América-MG|Athletic Club MG": {
       "home": "América-MG",
@@ -182,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786916564.1893582
+      "last_checked": 1786917768.041802
     }
   }
 }

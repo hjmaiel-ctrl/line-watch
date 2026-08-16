@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786916564.2282429,
+  "generated_at": 1786917768.0905137,
   "matches": [
     {
       "match": "River Plate - Argentinos Juniors",
@@ -21,13 +21,13 @@
               },
               {
                 "line": 6.5,
-                "over": 1.95,
-                "under": 1.73
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 7.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 3.1,
+                "under": 1.3
               }
             ]
           },
@@ -55,24 +55,24 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.42,
-              2.55
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.42,
-                "under": 2.55
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 9.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.83,
+                "under": 1.83
               },
               {
                 "line": 10.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
@@ -97,30 +97,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.45,
-              2.5
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
-                "line": 8.5,
-                "over": 1.78,
-                "under": 1.9
-              },
-              {
-                "line": 9.5,
-                "over": 2.25,
-                "under": 1.55
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
