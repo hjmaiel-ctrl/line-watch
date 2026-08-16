@@ -1,32 +1,9 @@
 {
   "matches": {
-    "Suva FC|Nadroga FC": {
-      "home": "Suva FC",
-      "away": "Nadroga FC",
-      "event_id": "9930894",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786856538.4891572
-    },
-    "Atlas|Tigres de la UANL": {
-      "home": "Atlas",
-      "away": "Tigres de la UANL",
-      "event_id": "9930898",
+    "St George FC|South Coast Flame FC": {
+      "home": "St George FC",
+      "away": "South Coast Flame FC",
+      "event_id": "9930912",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -36,23 +13,11 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.32,
-            3.6
+            8.25,
+            3.35
           ],
-          "CORNERS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              2.0
-            ]
-          },
-          "CARDS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              14.85
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "bet365": {
           "1X2": null,
@@ -60,12 +25,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786856570.6604884
+      "last_checked": 1786860082.6789777
     },
-    "Sacramento Republic|Lexington SC": {
-      "home": "Sacramento Republic",
-      "away": "Lexington SC",
-      "event_id": "9930904",
+    "Belconnen Utd.|Canberra Olympic": {
+      "home": "Belconnen Utd.",
+      "away": "Canberra Olympic",
+      "event_id": "9930914",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -83,12 +48,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786856604.6265724
+      "last_checked": 1786860109.4636476
     },
-    "Maitland|Edgeworth": {
-      "home": "Maitland",
-      "away": "Edgeworth",
-      "event_id": "9930906",
+    "Logan Roos|Springfield Utd": {
+      "home": "Logan Roos",
+      "away": "Springfield Utd",
+      "event_id": "9930918",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -106,12 +71,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786856646.4348557
+      "last_checked": 1786860136.2190557
     },
-    "Broadmeadow Magic|Charlestown City Blues": {
-      "home": "Broadmeadow Magic",
-      "away": "Charlestown City Blues",
-      "event_id": "9930907",
+    "Marconi|Sutherland": {
+      "home": "Marconi",
+      "away": "Sutherland",
+      "event_id": "9930921",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -129,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786856673.6814706
+      "last_checked": 1786860163.4278612
+    },
+    "Rockdale|Wollongong": {
+      "home": "Rockdale",
+      "away": "Wollongong",
+      "event_id": "9930922",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786860190.301592
     }
   }
 }
