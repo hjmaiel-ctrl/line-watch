@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786866509.6658113,
+  "generated_at": 1786870969.5915692,
   "matches": [
     {
       "match": "Deportiva Minera - CD Eldense B",
@@ -24,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Canberra Juventus FC - Queanbeyan City",
+      "match": "First Vienna FC 1894 - FC Liefering",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -46,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Palmerston Rovers - University Azzurri",
+      "match": "Moggill - Newmarket",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -68,45 +68,12 @@
       "alerts": []
     },
     {
-      "match": "Z.Arsenal - Z.Brentford",
+      "match": "ACS Fotbal Club Bacau - CSA Steaua Bucuresti",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.33,
-              3.35
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.33,
-                "under": 3.35
-              },
-              {
-                "line": 11.5,
-                "over": 1.63,
-                "under": 2.27
-              },
-              {
-                "line": 12.5,
-                "over": 2.13,
-                "under": 1.71
-              },
-              {
-                "line": 13.5,
-                "over": 3.0,
-                "under": 1.39
-              },
-              {
-                "line": 14.5,
-                "over": 4.55,
-                "under": 1.2
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -123,45 +90,12 @@
       "alerts": []
     },
     {
-      "match": "Z.Leeds - Z.Man City",
+      "match": "SFC Opava B - Pusta Polom",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.18,
-              4.8
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.18,
-                "under": 4.8
-              },
-              {
-                "line": 8.5,
-                "over": 1.39,
-                "under": 2.98
-              },
-              {
-                "line": 9.5,
-                "over": 1.75,
-                "under": 2.07
-              },
-              {
-                "line": 10.5,
-                "over": 2.34,
-                "under": 1.59
-              },
-              {
-                "line": 11.5,
-                "over": 3.4,
-                "under": 1.32
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {

@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786866405.6196792
+      "last_checked": 1786870863.1338336
     },
-    "Canberra Juventus FC|Queanbeyan City": {
-      "home": "Canberra Juventus FC",
-      "away": "Queanbeyan City",
-      "event_id": "9930947",
+    "First Vienna FC 1894|FC Liefering": {
+      "home": "First Vienna FC 1894",
+      "away": "FC Liefering",
+      "event_id": "9930993",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786866432.6636472
+      "last_checked": 1786870889.779378
     },
-    "Palmerston Rovers|University Azzurri": {
-      "home": "Palmerston Rovers",
-      "away": "University Azzurri",
-      "event_id": "9930951",
+    "Moggill|Newmarket": {
+      "home": "Moggill",
+      "away": "Newmarket",
+      "event_id": "9930963",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,49 +67,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786866459.4816704
+      "last_checked": 1786870916.3314672
     },
-    "Z.Arsenal|Z.Brentford": {
-      "home": "Z.Arsenal",
-      "away": "Z.Brentford",
-      "event_id": "9934502",
+    "ACS Fotbal Club Bacau|CSA Steaua Bucuresti": {
+      "home": "ACS Fotbal Club Bacau",
+      "away": "CSA Steaua Bucuresti",
+      "event_id": "9930968",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.33,
-              3.35
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.33,
-                "under": 3.35
-              },
-              {
-                "line": 11.5,
-                "over": 1.63,
-                "under": 2.27
-              },
-              {
-                "line": 12.5,
-                "over": 2.13,
-                "under": 1.71
-              },
-              {
-                "line": 13.5,
-                "over": 3.0,
-                "under": 1.39
-              },
-              {
-                "line": 14.5,
-                "over": 4.55,
-                "under": 1.2
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -123,49 +90,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786866484.4864635
+      "last_checked": 1786870942.9896414
     },
-    "Z.Leeds|Z.Man City": {
-      "home": "Z.Leeds",
-      "away": "Z.Man City",
-      "event_id": "9934503",
+    "SFC Opava B|Pusta Polom": {
+      "home": "SFC Opava B",
+      "away": "Pusta Polom",
+      "event_id": "9930971",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.18,
-              4.8
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.18,
-                "under": 4.8
-              },
-              {
-                "line": 8.5,
-                "over": 1.39,
-                "under": 2.98
-              },
-              {
-                "line": 9.5,
-                "over": 1.75,
-                "under": 2.07
-              },
-              {
-                "line": 10.5,
-                "over": 2.34,
-                "under": 1.59
-              },
-              {
-                "line": 11.5,
-                "over": 3.4,
-                "under": 1.32
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -179,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786866509.625586
+      "last_checked": 1786870969.5480268
     }
   }
 }
