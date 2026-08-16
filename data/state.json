@@ -1,47 +1,57 @@
 {
   "matches": {
-    "Espanyol|Levante": {
-      "home": "Espanyol",
-      "away": "Levante",
-      "event_id": "9730314",
+    "RC Lens|Paris Saint-Germain": {
+      "home": "RC Lens",
+      "away": "Paris Saint-Germain",
+      "event_id": "9899697",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 8.5,
             "odds": [
-              1.44,
-              2.6
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.44,
-                "under": 2.6
+                "line": 8.5,
+                "over": 1.35,
+                "under": 2.85
               },
               {
-                "line": 5.5,
-                "over": 1.91,
-                "under": 1.8
+                "line": 9.5,
+                "over": 1.65,
+                "under": 2.05
               },
               {
-                "line": 6.5,
-                "over": 2.72,
-                "under": 1.41
+                "line": 10.5,
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 11.5,
+                "over": 2.95,
+                "under": 1.32
+              },
+              {
+                "line": 12.5,
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.79,
-              1.88
+              2.2,
+              1.57
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.79,
-                "under": 1.88
+                "over": 2.2,
+                "under": 1.57
               }
             ]
           }
@@ -57,46 +67,158 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786903345.8781378
+      "last_checked": 1786906991.083673
     },
-    "Futebol Clube de Arouca|Moreirense FC": {
-      "home": "Futebol Clube de Arouca",
-      "away": "Moreirense FC",
-      "event_id": "9931821",
+    "Hellas Verona|Virtus Entella": {
+      "home": "Hellas Verona",
+      "away": "Virtus Entella",
+      "event_id": "9917830",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.25,
+              3.45
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 6.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 7.5,
+                "over": 1.85,
+                "under": 1.82
+              },
+              {
+                "line": 8.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 9.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786907015.9596212
+    },
+    "Amed Sportif Faaliyetler|Erzurumspor FK": {
+      "home": "Amed Sportif Faaliyetler",
+      "away": "Erzurumspor FK",
+      "event_id": "9931933",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.13,
+              4.75
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.13,
+                "under": 4.75
+              },
+              {
+                "line": 8.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 9.5,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 10.5,
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 11.5,
+                "over": 3.5,
+                "under": 1.22
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786907041.1396854
+    },
+    "Besiktas JK|Eyüpspor": {
+      "home": "Besiktas JK",
+      "away": "Eyüpspor",
+      "event_id": "9931934",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.18,
-              4.1
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.18,
-                "under": 4.1
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 7.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 8.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 9.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 10.5,
-                "over": 4.75,
-                "under": 1.13
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
@@ -113,68 +235,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786903370.7410421
+      "last_checked": 1786907066.164756
     },
-    "Genoa|Ascoli": {
-      "home": "Genoa",
-      "away": "Ascoli",
-      "event_id": "9917829",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.03,
-              8.0
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.03,
-                "under": 8.0
-              },
-              {
-                "line": 11.5,
-                "over": 1.4,
-                "under": 2.65
-              },
-              {
-                "line": 12.5,
-                "over": 2.15,
-                "under": 1.6
-              },
-              {
-                "line": 13.5,
-                "over": 3.65,
-                "under": 1.22
-              },
-              {
-                "line": 14.5,
-                "over": 6.5,
-                "under": 1.07
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786903395.1524818
-    },
-    "Girona|Leganés": {
-      "home": "Girona",
-      "away": "Leganés",
-      "event_id": "9931832",
+    "Lommel SK|Sporting de Charleroi": {
+      "home": "Lommel SK",
+      "away": "Sporting de Charleroi",
+      "event_id": "9931843",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -192,30 +258,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786903421.5859368
-    },
-    "Burgos CF|Córdoba CF": {
-      "home": "Burgos CF",
-      "away": "Córdoba CF",
-      "event_id": "9931833",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786903447.921938
+      "last_checked": 1786907093.0639668
     }
   }
 }
