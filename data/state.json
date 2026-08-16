@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Colorado Rapids|Sporting Kansas City": {
-      "home": "Colorado Rapids",
-      "away": "Sporting Kansas City",
-      "event_id": "9930888",
+    "Suva FC|Nadroga FC": {
+      "home": "Suva FC",
+      "away": "Nadroga FC",
+      "event_id": "9930894",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786850147.0794744
+      "last_checked": 1786856538.4891572
     },
-    "Real Salt Lake|Minnesota Utd": {
-      "home": "Real Salt Lake",
-      "away": "Minnesota Utd",
-      "event_id": "9930889",
+    "Atlas|Tigres de la UANL": {
+      "home": "Atlas",
+      "away": "Tigres de la UANL",
+      "event_id": "9930898",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -34,127 +34,38 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786850173.6924872
-    },
-    "Los Angeles|San Diego FC": {
-      "home": "Los Angeles",
-      "away": "San Diego FC",
-      "event_id": "9930892",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.32,
+            3.6
+          ],
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": null,
             "odds": [
-              1.57,
-              2.26
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.57,
-                "under": 2.26
-              },
-              {
-                "line": 10.5,
-                "over": 2.02,
-                "under": 1.71
-              },
-              {
-                "line": 11.5,
-                "over": 2.74,
-                "under": 1.4
-              }
+              2.4,
+              2.0
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": null,
             "odds": [
-              2.0,
-              1.7
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 2.0,
-                "under": 1.7
-              }
+              2.4,
+              14.85
             ]
           }
         },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
         "bet365": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786850196.7841241
+      "last_checked": 1786856570.6604884
     },
-    "San Jose Earthquakes|Saint Louis City SC": {
-      "home": "San Jose Earthquakes",
-      "away": "Saint Louis City SC",
-      "event_id": "9930893",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.4,
-              2.74
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.4,
-                "under": 2.74
-              },
-              {
-                "line": 9.5,
-                "over": 1.73,
-                "under": 1.99
-              },
-              {
-                "line": 10.5,
-                "over": 2.24,
-                "under": 1.58
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786850221.6987276
-    },
-    "Tailevu/Naitasiri|Labasa FC": {
-      "home": "Tailevu/Naitasiri",
-      "away": "Labasa FC",
-      "event_id": "9930870",
+    "Sacramento Republic|Lexington SC": {
+      "home": "Sacramento Republic",
+      "away": "Lexington SC",
+      "event_id": "9930904",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -172,7 +83,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786850253.7090793
+      "last_checked": 1786856604.6265724
+    },
+    "Maitland|Edgeworth": {
+      "home": "Maitland",
+      "away": "Edgeworth",
+      "event_id": "9930906",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786856646.4348557
+    },
+    "Broadmeadow Magic|Charlestown City Blues": {
+      "home": "Broadmeadow Magic",
+      "away": "Charlestown City Blues",
+      "event_id": "9930907",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786856673.6814706
     }
   }
 }

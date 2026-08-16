@@ -1,8 +1,8 @@
 {
-  "generated_at": 1786850253.7442791,
+  "generated_at": 1786856673.7233791,
   "matches": [
     {
-      "match": "Colorado Rapids - Sporting Kansas City",
+      "match": "Suva FC - Nadroga FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Real Salt Lake - Minnesota Utd",
+      "match": "Atlas - Tigres de la UANL",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -33,67 +33,25 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Los Angeles - San Diego FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.32,
+            3.6
+          ],
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": null,
             "odds": [
-              1.57,
-              2.26
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.57,
-                "under": 2.26
-              },
-              {
-                "line": 10.5,
-                "over": 2.02,
-                "under": 1.71
-              },
-              {
-                "line": 11.5,
-                "over": 2.74,
-                "under": 1.4
-              }
+              2.4,
+              2.0
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": null,
             "odds": [
-              2.0,
-              1.7
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 2.0,
-                "under": 1.7
-              }
+              2.4,
+              14.85
             ]
           }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
         },
         "bet365": {
           "1X2": null,
@@ -104,35 +62,12 @@
       "alerts": []
     },
     {
-      "match": "San Jose Earthquakes - Saint Louis City SC",
+      "match": "Sacramento Republic - Lexington SC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.4,
-              2.74
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.4,
-                "under": 2.74
-              },
-              {
-                "line": 9.5,
-                "over": 1.73,
-                "under": 1.99
-              },
-              {
-                "line": 10.5,
-                "over": 2.24,
-                "under": 1.58
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -149,7 +84,29 @@
       "alerts": []
     },
     {
-      "match": "Tailevu/Naitasiri - Labasa FC",
+      "match": "Maitland - Edgeworth",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Broadmeadow Magic - Charlestown City Blues",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
