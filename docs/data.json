@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786920850.6662996,
+  "generated_at": 1786923803.792777,
   "matches": [
     {
       "match": "Chicago Fire - Portland Timbers",
@@ -8,40 +8,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.5,
-              2.42
+              1.41,
+              2.64
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.41,
+                "under": 2.64
+              },
+              {
                 "line": 6.5,
-                "over": 1.5,
-                "under": 2.42
+                "over": 2.14,
+                "under": 1.61
               },
               {
                 "line": 7.5,
-                "over": 1.96,
-                "under": 1.76
-              },
-              {
-                "line": 8.5,
-                "over": 2.7,
-                "under": 1.41
+                "over": 3.55,
+                "under": 1.24
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 3.5,
             "odds": [
-              1.72,
-              1.96
+              2.24,
+              1.53
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.72,
-                "under": 1.96
+                "line": 3.5,
+                "over": 2.24,
+                "under": 1.53
               }
             ]
           }
@@ -57,7 +57,38 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Chicago Fire - Portland Timbers",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 6.5 a 5.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Chicago Fire - Portland Timbers",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.42 a 2.64 (9.1%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Chicago Fire - Portland Timbers",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 2.5 a 3.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Chicago Fire - Portland Timbers",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.72 a 2.24 (30.2%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Chicago Fire - Portland Timbers",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.96 a 1.53 (28.1%)"
+        }
+      ]
     },
     {
       "match": "New York City - Philadelphia Union",
@@ -66,40 +97,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 10.5,
             "odds": [
-              1.5,
-              2.42
+              1.27,
+              3.35
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.5,
-                "under": 2.42
-              },
-              {
                 "line": 10.5,
-                "over": 1.95,
-                "under": 1.76
+                "over": 1.27,
+                "under": 3.35
               },
               {
                 "line": 11.5,
-                "over": 2.7,
-                "under": 1.41
+                "over": 1.77,
+                "under": 1.9
+              },
+              {
+                "line": 12.5,
+                "over": 2.76,
+                "under": 1.38
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 6.5,
             "odds": [
-              1.83,
-              1.84
+              2.02,
+              1.68
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.83,
-                "under": 1.84
+                "line": 6.5,
+                "over": 2.02,
+                "under": 1.68
               }
             ]
           }
@@ -115,82 +146,142 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
-    },
-    {
-      "match": "River Plate - Argentinos Juniors",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "New York City - Philadelphia Union",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 10.5"
         },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "New York City - Philadelphia Union",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.5 a 1.27 (18.1%)"
         },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "New York City - Philadelphia Union",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.42 a 3.35 (38.4%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "New York City - Philadelphia Union",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 4.5 a 6.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "New York City - Philadelphia Union",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.83 a 2.02 (10.4%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "New York City - Philadelphia Union",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.84 a 1.68 (9.5%)"
         }
-      },
-      "alerts": []
+      ]
     },
     {
-      "match": "Mirassol FC - Flamengo",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "EC Vitória - Botafogo FR",
+      "match": "Corinthians - Cruzeiro",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 8.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 9.5,
+                "over": 1.8,
+                "under": 1.87
+              },
+              {
+                "line": 10.5,
+                "over": 2.6,
+                "under": 1.42
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Central Córdoba - Instituto de Córdoba",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
             "odds": [
               1.5,
               2.35
             ],
             "_all_lines": [
               {
-                "line": 10.5,
+                "line": 8.5,
                 "over": 1.5,
                 "under": 2.35
               },
               {
-                "line": 11.5,
-                "over": 2.25,
-                "under": 1.55
+                "line": 9.5,
+                "over": 1.95,
+                "under": 1.73
               },
               {
-                "line": 12.5,
-                "over": 3.65,
-                "under": 1.22
+                "line": 10.5,
+                "over": 2.65,
+                "under": 1.4
               }
             ]
           },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Cienciano del Cuzco - Deportivo Garcilaso",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -207,5 +298,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 11
 }

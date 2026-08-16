@@ -424,5 +424,71 @@
     "match": "Hellas Verona - Virtus Entella",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.5 a 3.45 (30.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Chicago Fire - Portland Timbers",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Chicago Fire - Portland Timbers",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.42 a 2.64 (9.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Chicago Fire - Portland Timbers",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 2.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Chicago Fire - Portland Timbers",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.72 a 2.24 (30.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Chicago Fire - Portland Timbers",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.96 a 1.53 (28.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "New York City - Philadelphia Union",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "New York City - Philadelphia Union",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.5 a 1.27 (18.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "New York City - Philadelphia Union",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.42 a 3.35 (38.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "New York City - Philadelphia Union",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "New York City - Philadelphia Union",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.83 a 2.02 (10.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "New York City - Philadelphia Union",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.84 a 1.68 (9.5%)"
   }
 ]

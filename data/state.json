@@ -8,40 +8,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.5,
-              2.42
+              1.41,
+              2.64
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.41,
+                "under": 2.64
+              },
+              {
                 "line": 6.5,
-                "over": 1.5,
-                "under": 2.42
+                "over": 2.14,
+                "under": 1.61
               },
               {
                 "line": 7.5,
-                "over": 1.96,
-                "under": 1.76
-              },
-              {
-                "line": 8.5,
-                "over": 2.7,
-                "under": 1.41
+                "over": 3.55,
+                "under": 1.24
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 3.5,
             "odds": [
-              1.72,
-              1.96
+              2.24,
+              1.53
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.72,
-                "under": 1.96
+                "line": 3.5,
+                "over": 2.24,
+                "under": 1.53
               }
             ]
           }
@@ -57,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786920749.1858184
+      "last_checked": 1786923701.2648175
     },
     "New York City|Philadelphia Union": {
       "home": "New York City",
@@ -67,40 +67,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 10.5,
             "odds": [
-              1.5,
-              2.42
+              1.27,
+              3.35
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.5,
-                "under": 2.42
-              },
-              {
                 "line": 10.5,
-                "over": 1.95,
-                "under": 1.76
+                "over": 1.27,
+                "under": 3.35
               },
               {
                 "line": 11.5,
-                "over": 2.7,
-                "under": 1.41
+                "over": 1.77,
+                "under": 1.9
+              },
+              {
+                "line": 12.5,
+                "over": 2.76,
+                "under": 1.38
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 6.5,
             "odds": [
-              1.83,
-              1.84
+              2.02,
+              1.68
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.83,
-                "under": 1.84
+                "line": 6.5,
+                "over": 2.02,
+                "under": 1.68
               }
             ]
           }
@@ -116,82 +116,36 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786920772.2792788
+      "last_checked": 1786923725.5360742
     },
-    "River Plate|Argentinos Juniors": {
-      "home": "River Plate",
-      "away": "Argentinos Juniors",
-      "event_id": "9932025",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786920798.9027724
-    },
-    "Mirassol FC|Flamengo": {
-      "home": "Mirassol FC",
-      "away": "Flamengo",
-      "event_id": "9932029",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786920825.7192202
-    },
-    "EC Vitória|Botafogo FR": {
-      "home": "EC Vitória",
-      "away": "Botafogo FR",
-      "event_id": "9932030",
+    "Corinthians|Cruzeiro": {
+      "home": "Corinthians",
+      "away": "Cruzeiro",
+      "event_id": "9932041",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 8.5,
             "odds": [
-              1.5,
-              2.35
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 9.5,
+                "over": 1.8,
+                "under": 1.87
+              },
+              {
                 "line": 10.5,
-                "over": 1.5,
-                "under": 2.35
-              },
-              {
-                "line": 11.5,
-                "over": 2.25,
-                "under": 1.55
-              },
-              {
-                "line": 12.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 2.6,
+                "under": 1.42
               }
             ]
           },
@@ -208,7 +162,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786920850.6210701
+      "last_checked": 1786923750.8396099
+    },
+    "Central Córdoba|Instituto de Córdoba": {
+      "home": "Central Córdoba",
+      "away": "Instituto de Córdoba",
+      "event_id": "9936826",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.5,
+              2.35
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 9.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 10.5,
+                "over": 2.65,
+                "under": 1.4
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786923776.5696747
+    },
+    "Cienciano del Cuzco|Deportivo Garcilaso": {
+      "home": "Cienciano del Cuzco",
+      "away": "Deportivo Garcilaso",
+      "event_id": "9936830",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786923803.725299
     }
   }
 }
