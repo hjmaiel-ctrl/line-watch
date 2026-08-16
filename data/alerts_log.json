@@ -304,5 +304,47 @@
     "match": "Istanbul Basaksehir FK - Kocaelispor",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 5.25 a 2.7 (94.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Espanyol - Levante",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Espanyol - Levante",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.98 a 1.79 (10.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Espanyol - Levante",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.71 a 1.88 (9.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Futebol Clube de Arouca - Moreirense FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Futebol Clube de Arouca - Moreirense FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 4.1 (12.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Genoa - Ascoli",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.17 a 1.03 (13.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Genoa - Ascoli",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.25 a 8.0 (88.2%)"
   }
 ]
