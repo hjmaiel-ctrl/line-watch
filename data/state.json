@@ -1,9 +1,9 @@
 {
   "matches": {
-    "St George FC|South Coast Flame FC": {
-      "home": "St George FC",
-      "away": "South Coast Flame FC",
-      "event_id": "9930912",
+    "Deportiva Minera|CD Eldense B": {
+      "home": "Deportiva Minera",
+      "away": "CD Eldense B",
+      "event_id": "9930961",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -11,11 +11,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            8.25,
-            3.35
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -25,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786860082.6789777
+      "last_checked": 1786866405.6196792
     },
-    "Belconnen Utd.|Canberra Olympic": {
-      "home": "Belconnen Utd.",
-      "away": "Canberra Olympic",
-      "event_id": "9930914",
+    "Canberra Juventus FC|Queanbeyan City": {
+      "home": "Canberra Juventus FC",
+      "away": "Queanbeyan City",
+      "event_id": "9930947",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -48,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786860109.4636476
+      "last_checked": 1786866432.6636472
     },
-    "Logan Roos|Springfield Utd": {
-      "home": "Logan Roos",
-      "away": "Springfield Utd",
-      "event_id": "9930918",
+    "Palmerston Rovers|University Azzurri": {
+      "home": "Palmerston Rovers",
+      "away": "University Azzurri",
+      "event_id": "9930951",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -71,16 +67,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786860136.2190557
+      "last_checked": 1786866459.4816704
     },
-    "Marconi|Sutherland": {
-      "home": "Marconi",
-      "away": "Sutherland",
-      "event_id": "9930921",
+    "Z.Arsenal|Z.Brentford": {
+      "home": "Z.Arsenal",
+      "away": "Z.Brentford",
+      "event_id": "9934502",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.33,
+              3.35
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.33,
+                "under": 3.35
+              },
+              {
+                "line": 11.5,
+                "over": 1.63,
+                "under": 2.27
+              },
+              {
+                "line": 12.5,
+                "over": 2.13,
+                "under": 1.71
+              },
+              {
+                "line": 13.5,
+                "over": 3.0,
+                "under": 1.39
+              },
+              {
+                "line": 14.5,
+                "over": 4.55,
+                "under": 1.2
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -94,16 +123,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786860163.4278612
+      "last_checked": 1786866484.4864635
     },
-    "Rockdale|Wollongong": {
-      "home": "Rockdale",
-      "away": "Wollongong",
-      "event_id": "9930922",
+    "Z.Leeds|Z.Man City": {
+      "home": "Z.Leeds",
+      "away": "Z.Man City",
+      "event_id": "9934503",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.18,
+              4.8
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.18,
+                "under": 4.8
+              },
+              {
+                "line": 8.5,
+                "over": 1.39,
+                "under": 2.98
+              },
+              {
+                "line": 9.5,
+                "over": 1.75,
+                "under": 2.07
+              },
+              {
+                "line": 10.5,
+                "over": 2.34,
+                "under": 1.59
+              },
+              {
+                "line": 11.5,
+                "over": 3.4,
+                "under": 1.32
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -117,7 +179,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786860190.301592
+      "last_checked": 1786866509.625586
     }
   }
 }
