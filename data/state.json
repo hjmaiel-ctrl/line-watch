@@ -1,51 +1,5 @@
 {
   "matches": {
-    "Arsenal|Manchester City": {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "event_id": "9899734",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              3.1,
-              1.32
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 3.1,
-                "under": 1.32
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            17.5,
-            150.0
-          ],
-          "CORNERS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              1.65
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786895334.3667228
-    },
     "Santander|Villarreal": {
       "home": "Santander",
       "away": "Villarreal",
@@ -53,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.48,
-              2.48
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.48,
-                "under": 2.48
-              },
-              {
-                "line": 13.5,
-                "over": 1.92,
-                "under": 1.79
-              },
-              {
-                "line": 14.5,
-                "over": 2.64,
-                "under": 1.43
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -90,46 +21,46 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786895359.4774373
+      "last_checked": 1786899287.3934207
     },
-    "Ajax|Heerenveen": {
-      "home": "Ajax",
-      "away": "Heerenveen",
-      "event_id": "9931542",
+    "Frosinone|Juve Stabia": {
+      "home": "Frosinone",
+      "away": "Juve Stabia",
+      "event_id": "9917828",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.3,
-              3.1
+              1.13,
+              4.75
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.13,
+                "under": 4.75
+              },
+              {
                 "line": 6.5,
-                "over": 1.3,
-                "under": 3.1
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 7.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.75,
+                "under": 1.92
               },
               {
                 "line": 8.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 2.45,
+                "under": 1.47
               },
               {
                 "line": 9.5,
-                "over": 3.25,
-                "under": 1.28
-              },
-              {
-                "line": 10.5,
-                "over": 4.75,
-                "under": 1.13
+                "over": 3.45,
+                "under": 1.25
               }
             ]
           },
@@ -146,16 +77,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786895384.6030521
+      "last_checked": 1786899312.4782403
     },
-    "Nacional da Madeira|Estoril-Praia": {
-      "home": "Nacional da Madeira",
-      "away": "Estoril-Praia",
-      "event_id": "9931522",
+    "Genoa|Ascoli": {
+      "home": "Genoa",
+      "away": "Ascoli",
+      "event_id": "9917829",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 11.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
+                "line": 12.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 13.5,
+                "over": 2.65,
+                "under": 1.4
+              },
+              {
+                "line": 14.5,
+                "over": 3.65,
+                "under": 1.22
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -169,7 +133,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786895411.8499863
+      "last_checked": 1786899337.623416
     },
     "Burnley|West Ham": {
       "home": "Burnley",
@@ -178,37 +142,60 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786899369.906202
+    },
+    "Istanbul Basaksehir FK|Kocaelispor": {
+      "home": "Istanbul Basaksehir FK",
+      "away": "Kocaelispor",
+      "event_id": "9931778",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.2,
-              3.9
+              1.11,
+              5.25
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
                 "line": 9.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.11,
+                "under": 5.25
               },
               {
                 "line": 10.5,
-                "over": 1.95,
-                "under": 1.73
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 11.5,
-                "over": 2.8,
-                "under": 1.35
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 12.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 13.5,
+                "over": 3.45,
+                "under": 1.25
               }
             ]
           },
@@ -225,7 +212,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786895437.0724123
+      "last_checked": 1786899395.0887008
     }
   }
 }
