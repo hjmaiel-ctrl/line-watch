@@ -388,5 +388,41 @@
     "match": "Hellas Verona - Virtus Entella",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.45 a 4.5 (30.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "RC Lens - Paris Saint-Germain",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "RC Lens - Paris Saint-Germain",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.85 a 2.2 (18.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "RC Lens - Paris Saint-Germain",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.82 a 1.57 (15.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Hellas Verona - Virtus Entella",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hellas Verona - Virtus Entella",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.15 a 1.25 (8.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hellas Verona - Virtus Entella",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.5 a 3.45 (30.4%)"
   }
 ]

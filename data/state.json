@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
               1.28,
               3.25
             ],
             "_all_lines": [
               {
-                "line": 8.5,
+                "line": 9.5,
                 "over": 1.28,
                 "under": 3.25
               },
               {
-                "line": 9.5,
-                "over": 1.52,
-                "under": 2.3
-              },
-              {
                 "line": 10.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 11.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 12.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 13.5,
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.85,
-              1.82
+              2.2,
+              1.57
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 2.2,
+                "under": 1.57
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786909724.2594025
+      "last_checked": 1786910519.257439
     },
     "Famalicão|Marítimo": {
       "home": "Famalicão",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786909751.531428
+      "last_checked": 1786910545.8172274
     },
     "Hellas Verona|Virtus Entella": {
       "home": "Hellas Verona",
@@ -100,36 +100,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.15,
-              4.5
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.15,
-                "under": 4.5
-              },
-              {
                 "line": 7.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 8.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 9.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 2.3,
+                "under": 1.52
               },
               {
                 "line": 10.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 3.45,
+                "under": 1.25
+              },
+              {
+                "line": 11.5,
+                "over": 6.0,
+                "under": 1.08
               }
             ]
           },
@@ -146,7 +146,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786909776.952925
+      "last_checked": 1786910570.7728653
     },
     "Lazio|Mantova": {
       "home": "Lazio",
@@ -155,7 +155,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 8.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
+                "line": 9.5,
+                "over": 2.3,
+                "under": 1.52
+              },
+              {
+                "line": 10.5,
+                "over": 3.45,
+                "under": 1.25
+              },
+              {
+                "line": 11.5,
+                "over": 5.5,
+                "under": 1.1
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -169,7 +202,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786909804.1026676
+      "last_checked": 1786910595.9436145
     },
     "Amed Sportif Faaliyetler|Erzurumspor FK": {
       "home": "Amed Sportif Faaliyetler",
@@ -178,7 +211,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.15,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
+                "line": 8.5,
+                "over": 1.87,
+                "under": 1.8
+              },
+              {
+                "line": 9.5,
+                "over": 3.65,
+                "under": 1.22
+              },
+              {
+                "line": 10.5,
+                "over": 7.25,
+                "under": 1.05
+              },
+              {
+                "line": 11.5,
+                "over": 19.0,
+                "under": null
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -192,7 +258,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786909831.20841
+      "last_checked": 1786910620.8335035
     }
   }
 }
