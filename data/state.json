@@ -1,13 +1,46 @@
 {
   "matches": {
-    "ADO Den Haag|FC Groningen": {
-      "home": "ADO Den Haag",
-      "away": "FC Groningen",
-      "event_id": "9929204",
+    "Feyenoord|Go Ahead Eagles": {
+      "home": "Feyenoord",
+      "away": "Go Ahead Eagles",
+      "event_id": "9929216",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.25,
+              3.45
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 8.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
+                "line": 9.5,
+                "over": 2.1,
+                "under": 1.62
+              },
+              {
+                "line": 10.5,
+                "over": 3.0,
+                "under": 1.32
+              },
+              {
+                "line": 11.5,
+                "over": 4.75,
+                "under": 1.13
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -21,7 +54,119 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786880632.1494467
+      "last_checked": 1786886547.8775952
+    },
+    "FC Twente|PEC Zwolle": {
+      "home": "FC Twente",
+      "away": "PEC Zwolle",
+      "event_id": "9929217",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.2,
+              3.9
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.2,
+                "under": 3.9
+              },
+              {
+                "line": 10.5,
+                "over": 1.42,
+                "under": 2.6
+              },
+              {
+                "line": 11.5,
+                "over": 1.82,
+                "under": 1.85
+              },
+              {
+                "line": 12.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 13.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786886573.1161973
+    },
+    "Watford|Southampton": {
+      "home": "Watford",
+      "away": "Southampton",
+      "event_id": "9922892",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.25,
+              3.45
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 7.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
+                "line": 8.5,
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 9.5,
+                "over": 3.1,
+                "under": 1.3
+              },
+              {
+                "line": 10.5,
+                "over": 4.75,
+                "under": 1.13
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786886598.486006
     },
     "Hannover|Wolfsburg": {
       "home": "Hannover",
@@ -30,44 +175,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.47,
-              2.5
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.47,
-                "under": 2.5
-              },
-              {
-                "line": 9.5,
-                "over": 1.79,
-                "under": 1.92
-              },
-              {
-                "line": 10.5,
-                "over": 2.26,
-                "under": 1.57
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.76,
-              1.92
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.76,
-                "under": 1.92
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -80,66 +189,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786880655.639003
-    },
-    "Dynamo Dresden|Darmstadt 98": {
-      "home": "Dynamo Dresden",
-      "away": "Darmstadt 98",
-      "event_id": "9931120",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.57,
-              2.26
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.57,
-                "under": 2.26
-              },
-              {
-                "line": 9.5,
-                "over": 1.95,
-                "under": 1.76
-              },
-              {
-                "line": 10.5,
-                "over": 2.52,
-                "under": 1.47
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.97,
-              1.72
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.97,
-                "under": 1.72
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786880679.1162567
+      "last_checked": 1786886625.6177015
     },
     "Arminia Bielefeld|Energie Cottbus": {
       "home": "Arminia Bielefeld",
@@ -148,65 +198,6 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.66,
-              2.1
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.66,
-                "under": 2.1
-              },
-              {
-                "line": 12.5,
-                "over": 2.06,
-                "under": 1.68
-              },
-              {
-                "line": 13.5,
-                "over": 2.64,
-                "under": 1.42
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.75,
-              1.93
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.75,
-                "under": 1.93
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786880702.5143049
-    },
-    "SK Beveren|Anderlecht": {
-      "home": "SK Beveren",
-      "away": "Anderlecht",
-      "event_id": "9929205",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -221,7 +212,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786880729.502575
+      "last_checked": 1786886652.7006202
     }
   }
 }
