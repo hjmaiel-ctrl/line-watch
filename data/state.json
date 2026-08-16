@@ -1,13 +1,36 @@
 {
   "matches": {
-    "Famalicão|Marítimo": {
-      "home": "Famalicão",
-      "away": "Marítimo",
-      "event_id": "9931993",
+    "River Plate|Argentinos Juniors": {
+      "home": "River Plate",
+      "away": "Argentinos Juniors",
+      "event_id": "9932025",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.47,
+              2.45
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 6.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 7.5,
+                "over": 2.7,
+                "under": 1.38
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -21,16 +44,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786913708.3683343
+      "last_checked": 1786916460.558401
     },
-    "Lazio|Mantova": {
-      "home": "Lazio",
-      "away": "Mantova",
-      "event_id": "9917831",
+    "Mirassol FC|Flamengo": {
+      "home": "Mirassol FC",
+      "away": "Flamengo",
+      "event_id": "9932029",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.42,
+              2.55
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.42,
+                "under": 2.55
+              },
+              {
+                "line": 9.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 10.5,
+                "over": 2.2,
+                "under": 1.57
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,16 +90,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786913735.8708642
+      "last_checked": 1786916485.7068434
     },
-    "UD Las Palmas|Albacete Balompié": {
-      "home": "UD Las Palmas",
-      "away": "Albacete Balompié",
-      "event_id": "9931995",
+    "EC Vitória|Botafogo FR": {
+      "home": "EC Vitória",
+      "away": "Botafogo FR",
+      "event_id": "9932030",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.45,
+              2.5
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 8.5,
+                "over": 1.78,
+                "under": 1.9
+              },
+              {
+                "line": 9.5,
+                "over": 2.25,
+                "under": 1.55
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -67,12 +136,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786913762.8981054
+      "last_checked": 1786916510.6573446
     },
-    "Europa|Manresa": {
-      "home": "Europa",
-      "away": "Manresa",
-      "event_id": "9931959",
+    "CRB|Gremio Novorizontino": {
+      "home": "CRB",
+      "away": "Gremio Novorizontino",
+      "event_id": "9932031",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +159,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786913789.9957485
+      "last_checked": 1786916537.3741853
     },
-    "HNK Gorica|Hajduk Split": {
-      "home": "HNK Gorica",
-      "away": "Hajduk Split",
-      "event_id": "9931986",
+    "América-MG|Athletic Club MG": {
+      "home": "América-MG",
+      "away": "Athletic Club MG",
+      "event_id": "9932032",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +182,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786913817.0045986
+      "last_checked": 1786916564.1893582
     }
   }
 }
