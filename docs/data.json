@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786877747.9103189,
+  "generated_at": 1786880729.5499926,
   "matches": [
     {
       "match": "ADO Den Haag - FC Groningen",
@@ -24,80 +24,49 @@
       "alerts": []
     },
     {
-      "match": "Portimonense - Vizela",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Nakhon Ratchasima - Khon Kaen Utd",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "LNZ Cherkasy - Chernomorets Odessa",
+      "match": "Hannover - Wolfsburg",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 8.5,
             "odds": [
-              1.52,
-              2.26
+              1.47,
+              2.5
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.52,
-                "under": 2.26
+                "line": 8.5,
+                "over": 1.47,
+                "under": 2.5
               },
               {
-                "line": 5.5,
-                "over": 2.08,
-                "under": 1.61
+                "line": 9.5,
+                "over": 1.79,
+                "under": 1.92
               },
               {
-                "line": 6.5,
-                "over": 3.0,
-                "under": 1.3
+                "line": 10.5,
+                "over": 2.26,
+                "under": 1.57
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.76,
+              1.92
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.76,
+                "under": 1.92
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -113,7 +82,123 @@
       "alerts": []
     },
     {
-      "match": "Yokohama FC - Júbilo Iwata",
+      "match": "Dynamo Dresden - Darmstadt 98",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.57,
+              2.26
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.57,
+                "under": 2.26
+              },
+              {
+                "line": 9.5,
+                "over": 1.95,
+                "under": 1.76
+              },
+              {
+                "line": 10.5,
+                "over": 2.52,
+                "under": 1.47
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.97,
+              1.72
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.97,
+                "under": 1.72
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Arminia Bielefeld - Energie Cottbus",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.66,
+              2.1
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.66,
+                "under": 2.1
+              },
+              {
+                "line": 12.5,
+                "over": 2.06,
+                "under": 1.68
+              },
+              {
+                "line": 13.5,
+                "over": 2.64,
+                "under": 1.42
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.75,
+              1.93
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.75,
+                "under": 1.93
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "SK Beveren - Anderlecht",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -122,11 +207,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            4.1,
-            11.5
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },

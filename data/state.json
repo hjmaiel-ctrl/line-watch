@@ -21,86 +21,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786877637.592313
+      "last_checked": 1786880632.1494467
     },
-    "Portimonense|Vizela": {
-      "home": "Portimonense",
-      "away": "Vizela",
-      "event_id": "9931065",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786877664.2784178
-    },
-    "Nakhon Ratchasima|Khon Kaen Utd": {
-      "home": "Nakhon Ratchasima",
-      "away": "Khon Kaen Utd",
-      "event_id": "9931010",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786877690.9871979
-    },
-    "LNZ Cherkasy|Chernomorets Odessa": {
-      "home": "LNZ Cherkasy",
-      "away": "Chernomorets Odessa",
-      "event_id": "9931066",
+    "Hannover|Wolfsburg": {
+      "home": "Hannover",
+      "away": "Wolfsburg",
+      "event_id": "9931118",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 8.5,
             "odds": [
-              1.52,
-              2.26
+              1.47,
+              2.5
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.52,
-                "under": 2.26
+                "line": 8.5,
+                "over": 1.47,
+                "under": 2.5
               },
               {
-                "line": 5.5,
-                "over": 2.08,
-                "under": 1.61
+                "line": 9.5,
+                "over": 1.79,
+                "under": 1.92
               },
               {
-                "line": 6.5,
-                "over": 3.0,
-                "under": 1.3
+                "line": 10.5,
+                "over": 2.26,
+                "under": 1.57
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.76,
+              1.92
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.76,
+                "under": 1.92
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -113,12 +80,130 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786877715.943074
+      "last_checked": 1786880655.639003
     },
-    "Yokohama FC|Júbilo Iwata": {
-      "home": "Yokohama FC",
-      "away": "Júbilo Iwata",
-      "event_id": "9931034",
+    "Dynamo Dresden|Darmstadt 98": {
+      "home": "Dynamo Dresden",
+      "away": "Darmstadt 98",
+      "event_id": "9931120",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.57,
+              2.26
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.57,
+                "under": 2.26
+              },
+              {
+                "line": 9.5,
+                "over": 1.95,
+                "under": 1.76
+              },
+              {
+                "line": 10.5,
+                "over": 2.52,
+                "under": 1.47
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.97,
+              1.72
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.97,
+                "under": 1.72
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786880679.1162567
+    },
+    "Arminia Bielefeld|Energie Cottbus": {
+      "home": "Arminia Bielefeld",
+      "away": "Energie Cottbus",
+      "event_id": "9931126",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.66,
+              2.1
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.66,
+                "under": 2.1
+              },
+              {
+                "line": 12.5,
+                "over": 2.06,
+                "under": 1.68
+              },
+              {
+                "line": 13.5,
+                "over": 2.64,
+                "under": 1.42
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.75,
+              1.93
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.75,
+                "under": 1.93
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786880702.5143049
+    },
+    "SK Beveren|Anderlecht": {
+      "home": "SK Beveren",
+      "away": "Anderlecht",
+      "event_id": "9929205",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -126,11 +211,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            4.1,
-            11.5
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -140,7 +221,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786877747.8607147
+      "last_checked": 1786880729.502575
     }
   }
 }
