@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786907093.1119115,
+  "generated_at": 1786909831.2582428,
   "matches": [
     {
       "match": "RC Lens - Paris Saint-Germain",
@@ -10,51 +10,98 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.35,
-              2.85
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 9.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.52,
+                "under": 2.3
               },
               {
                 "line": 10.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 1.92,
+                "under": 1.75
               },
               {
                 "line": 11.5,
-                "over": 2.95,
-                "under": 1.32
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 12.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 4.5,
             "odds": [
-              2.2,
-              1.57
+              1.85,
+              1.82
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 2.2,
-                "under": 1.57
+                "line": 4.5,
+                "over": 1.85,
+                "under": 1.82
               }
             ]
           }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "RC Lens - Paris Saint-Germain",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.85 a 3.25 (14.0%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "RC Lens - Paris Saint-Germain",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 3.5 a 4.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "RC Lens - Paris Saint-Germain",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 2.2 a 1.85 (18.9%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "RC Lens - Paris Saint-Germain",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.57 a 1.82 (15.9%)"
+        }
+      ]
+    },
+    {
+      "match": "Famalicão - Marítimo",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -76,39 +123,80 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 6.5,
             "odds": [
-              1.25,
-              3.45
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
                 "line": 6.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.15,
+                "under": 4.5
               },
               {
                 "line": 7.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 8.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 9.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 2.7,
+                "under": 1.38
+              },
+              {
+                "line": 10.5,
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Hellas Verona - Virtus Entella",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 5.5 a 6.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Hellas Verona - Virtus Entella",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.25 a 1.15 (8.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Hellas Verona - Virtus Entella",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.45 a 4.5 (30.4%)"
+        }
+      ]
+    },
+    {
+      "match": "Lazio - Mantova",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -130,116 +218,6 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.13,
-              4.75
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.13,
-                "under": 4.75
-              },
-              {
-                "line": 8.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 9.5,
-                "over": 1.73,
-                "under": 1.95
-              },
-              {
-                "line": 10.5,
-                "over": 2.35,
-                "under": 1.5
-              },
-              {
-                "line": 11.5,
-                "over": 3.5,
-                "under": 1.22
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Besiktas JK - Eyüpspor",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.28,
-              3.25
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.28,
-                "under": 3.25
-              },
-              {
-                "line": 7.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
-                "line": 8.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 9.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 10.5,
-                "over": 4.25,
-                "under": 1.17
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Lommel SK - Sporting de Charleroi",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -257,5 +235,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 7
 }
