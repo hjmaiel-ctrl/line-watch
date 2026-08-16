@@ -244,5 +244,29 @@
     "match": "Watford - Southampton",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.45 a 9.0 (160.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Arsenal - Manchester City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.05 a 3.1 (51.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Arsenal - Manchester City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.7 a 1.32 (28.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Ajax - Heerenveen",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Ajax - Heerenveen",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 3.1 (17.7%)"
   }
 ]
