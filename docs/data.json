@@ -1,8 +1,30 @@
 {
-  "generated_at": 1786870969.5915692,
+  "generated_at": 1786874300.2395382,
   "matches": [
     {
-      "match": "Deportiva Minera - CD Eldense B",
+      "match": "Nakhon Ratchasima - Khon Kaen Utd",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Yokohama FC - Júbilo Iwata",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -47,28 +69,6 @@
     },
     {
       "match": "Moggill - Newmarket",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "ACS Fotbal Club Bacau - CSA Steaua Bucuresti",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

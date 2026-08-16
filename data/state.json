@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Deportiva Minera|CD Eldense B": {
-      "home": "Deportiva Minera",
-      "away": "CD Eldense B",
-      "event_id": "9930961",
+    "Nakhon Ratchasima|Khon Kaen Utd": {
+      "home": "Nakhon Ratchasima",
+      "away": "Khon Kaen Utd",
+      "event_id": "9931010",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,7 +21,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786870863.1338336
+      "last_checked": 1786874196.3244193
+    },
+    "Yokohama FC|Júbilo Iwata": {
+      "home": "Yokohama FC",
+      "away": "Júbilo Iwata",
+      "event_id": "9931034",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786874222.3008265
     },
     "First Vienna FC 1894|FC Liefering": {
       "home": "First Vienna FC 1894",
@@ -44,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786870889.779378
+      "last_checked": 1786874248.23928
     },
     "Moggill|Newmarket": {
       "home": "Moggill",
@@ -67,30 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786870916.3314672
-    },
-    "ACS Fotbal Club Bacau|CSA Steaua Bucuresti": {
-      "home": "ACS Fotbal Club Bacau",
-      "away": "CSA Steaua Bucuresti",
-      "event_id": "9930968",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786870942.9896414
+      "last_checked": 1786874274.2011657
     },
     "SFC Opava B|Pusta Polom": {
       "home": "SFC Opava B",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786870969.5480268
+      "last_checked": 1786874300.1922183
     }
   }
 }
