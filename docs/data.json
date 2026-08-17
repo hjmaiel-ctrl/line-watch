@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786978833.0600145,
+  "generated_at": 1786982232.849167,
   "matches": [
     {
       "match": "Athens Kallithea FC - Athlitiki Enosi Larissa",
@@ -24,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Juventud de Las Piedras Reserves - CA Boston River Reserves",
+      "match": "PAE Anagennisi Karditsas 1904 - Aris Thessaloniki",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -46,7 +46,52 @@
       "alerts": []
     },
     {
-      "match": "Liverpool Montevideo Reserves - Nacional de Montevideo Reserves",
+      "match": "FC Polissya Zhytomyr - Zorya Lugansk",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.42,
+              2.52
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.42,
+                "under": 2.52
+              },
+              {
+                "line": 8.5,
+                "over": 1.88,
+                "under": 1.76
+              },
+              {
+                "line": 9.5,
+                "over": 2.64,
+                "under": 1.38
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "IF Gnistan - Ilves",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -68,29 +113,7 @@
       "alerts": []
     },
     {
-      "match": "Al Ain U23 - Bani Yas U23",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Al Jazira U23 - Hatta U23",
+      "match": "Universitatea Cluj - AFC UTA Arad",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

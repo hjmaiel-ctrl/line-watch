@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786978726.1522279
+      "last_checked": 1786982126.5279613
     },
-    "Juventud de Las Piedras Reserves|CA Boston River Reserves": {
-      "home": "Juventud de Las Piedras Reserves",
-      "away": "CA Boston River Reserves",
-      "event_id": "9940481",
+    "PAE Anagennisi Karditsas 1904|Aris Thessaloniki": {
+      "home": "PAE Anagennisi Karditsas 1904",
+      "away": "Aris Thessaloniki",
+      "event_id": "9940497",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,58 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786978752.8264942
+      "last_checked": 1786982153.3788955
     },
-    "Liverpool Montevideo Reserves|Nacional de Montevideo Reserves": {
-      "home": "Liverpool Montevideo Reserves",
-      "away": "Nacional de Montevideo Reserves",
-      "event_id": "9940482",
+    "FC Polissya Zhytomyr|Zorya Lugansk": {
+      "home": "FC Polissya Zhytomyr",
+      "away": "Zorya Lugansk",
+      "event_id": "9940501",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.42,
+              2.52
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.42,
+                "under": 2.52
+              },
+              {
+                "line": 8.5,
+                "over": 1.88,
+                "under": 1.76
+              },
+              {
+                "line": 9.5,
+                "over": 2.64,
+                "under": 1.38
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786982178.7768514
+    },
+    "IF Gnistan|Ilves": {
+      "home": "IF Gnistan",
+      "away": "Ilves",
+      "event_id": "9940498",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +113,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786978779.5226672
+      "last_checked": 1786982205.5717754
     },
-    "Al Ain U23|Bani Yas U23": {
-      "home": "Al Ain U23",
-      "away": "Bani Yas U23",
-      "event_id": "9940490",
+    "Universitatea Cluj|AFC UTA Arad": {
+      "home": "Universitatea Cluj",
+      "away": "AFC UTA Arad",
+      "event_id": "9940506",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,30 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786978806.319705
-    },
-    "Al Jazira U23|Hatta U23": {
-      "home": "Al Jazira U23",
-      "away": "Hatta U23",
-      "event_id": "9940491",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786978833.0158103
+      "last_checked": 1786982232.8109605
     }
   }
 }
