@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Casa Pia|Benfica": {
-      "home": "Casa Pia",
-      "away": "Benfica",
-      "event_id": "9940461",
+    "Cesar Vallejo Reserves|Juventud Cautivo": {
+      "home": "Cesar Vallejo Reserves",
+      "away": "Juventud Cautivo",
+      "event_id": "9940666",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,49 +21,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787000316.858142
+      "last_checked": 1787003733.3561208
     },
-    "Palermo|Lecce": {
-      "home": "Palermo",
-      "away": "Lecce",
-      "event_id": "9917833",
+    "Santos FC de Ica|Alianza Universidad": {
+      "home": "Santos FC de Ica",
+      "away": "Alianza Universidad",
+      "event_id": "9940668",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.02,
-              9.0
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.02,
-                "under": 9.0
-              },
-              {
-                "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 8.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 9.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 10.5,
-                "over": 5.75,
-                "under": 1.09
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -77,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787000341.851463
+      "last_checked": 1787003759.3482752
     },
-    "Cardiff City|Wrexham": {
-      "home": "Cardiff City",
-      "away": "Wrexham",
-      "event_id": "9928366",
+    "Sportivo Bella Italia|Centro Atletico Lito": {
+      "home": "Sportivo Bella Italia",
+      "away": "Centro Atletico Lito",
+      "event_id": "9940669",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -100,49 +67,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787000368.4608831
+      "last_checked": 1787003785.2975821
     },
-    "UD Almería|CD Eldense": {
-      "home": "UD Almería",
-      "away": "CD Eldense",
-      "event_id": "9940662",
+    "Deportivo Santamarina|FADEP Mendoza": {
+      "home": "Deportivo Santamarina",
+      "away": "FADEP Mendoza",
+      "event_id": "9940670",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 13.5,
-            "odds": [
-              1.2,
-              3.9
-            ],
-            "_all_lines": [
-              {
-                "line": 13.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
-                "line": 14.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 15.5,
-                "over": 2.5,
-                "under": 1.45
-              },
-              {
-                "line": 16.5,
-                "over": 4.1,
-                "under": 1.18
-              },
-              {
-                "line": 17.5,
-                "over": 6.75,
-                "under": 1.06
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -156,39 +90,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787000393.5617173
+      "last_checked": 1787003811.511043
     },
-    "Lanus|Independiente": {
-      "home": "Lanus",
-      "away": "Independiente",
-      "event_id": "9940665",
+    "Color Esperanza|CD Ciclos FC": {
+      "home": "Color Esperanza",
+      "away": "CD Ciclos FC",
+      "event_id": "9940671",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.5,
-              2.35
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.5,
-                "under": 2.35
-              },
-              {
-                "line": 12.5,
-                "over": 1.95,
-                "under": 1.73
-              },
-              {
-                "line": 13.5,
-                "over": 2.7,
-                "under": 1.38
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -202,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787000418.467449
+      "last_checked": 1787003837.7190497
     }
   }
 }

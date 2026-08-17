@@ -1,8 +1,8 @@
 {
-  "generated_at": 1787000418.5104494,
+  "generated_at": 1787003837.763896,
   "matches": [
     {
-      "match": "Casa Pia - Benfica",
+      "match": "Cesar Vallejo Reserves - Juventud Cautivo",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,75 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Palermo - Lecce",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.02,
-              9.0
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.02,
-                "under": 9.0
-              },
-              {
-                "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 8.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 9.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 10.5,
-                "over": 5.75,
-                "under": 1.09
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Palermo - Lecce",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.3 a 1.02 (27.5%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Palermo - Lecce",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.1 a 9.0 (190.3%)"
-        }
-      ]
-    },
-    {
-      "match": "Cardiff City - Wrexham",
+      "match": "Santos FC de Ica - Alianza Universidad",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -114,45 +46,12 @@
       "alerts": []
     },
     {
-      "match": "UD Almería - CD Eldense",
+      "match": "Sportivo Bella Italia - Centro Atletico Lito",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 13.5,
-            "odds": [
-              1.2,
-              3.9
-            ],
-            "_all_lines": [
-              {
-                "line": 13.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
-                "line": 14.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 15.5,
-                "over": 2.5,
-                "under": 1.45
-              },
-              {
-                "line": 16.5,
-                "over": 4.1,
-                "under": 1.18
-              },
-              {
-                "line": 17.5,
-                "over": 6.75,
-                "under": 1.06
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -169,35 +68,34 @@
       "alerts": []
     },
     {
-      "match": "Lanus - Independiente",
+      "match": "Deportivo Santamarina - FADEP Mendoza",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.5,
-              2.35
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.5,
-                "under": 2.35
-              },
-              {
-                "line": 12.5,
-                "over": 1.95,
-                "under": 1.73
-              },
-              {
-                "line": 13.5,
-                "over": 2.7,
-                "under": 1.38
-              }
-            ]
-          },
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Color Esperanza - CD Ciclos FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -214,5 +112,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
