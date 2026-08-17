@@ -1,79 +1,43 @@
 {
   "matches": {
-    "Athens Kallithea FC|Athlitiki Enosi Larissa": {
-      "home": "Athens Kallithea FC",
-      "away": "Athlitiki Enosi Larissa",
-      "event_id": "9940486",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786982126.5279613
-    },
-    "PAE Anagennisi Karditsas 1904|Aris Thessaloniki": {
-      "home": "PAE Anagennisi Karditsas 1904",
-      "away": "Aris Thessaloniki",
-      "event_id": "9940497",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786982153.3788955
-    },
-    "FC Polissya Zhytomyr|Zorya Lugansk": {
-      "home": "FC Polissya Zhytomyr",
-      "away": "Zorya Lugansk",
-      "event_id": "9940501",
+    "Pisa|Empoli": {
+      "home": "Pisa",
+      "away": "Empoli",
+      "event_id": "9917834",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.42,
-              2.52
+              1.12,
+              5.0
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.42,
-                "under": 2.52
+                "over": 1.12,
+                "under": 5.0
               },
               {
                 "line": 8.5,
-                "over": 1.88,
-                "under": 1.76
+                "over": 1.32,
+                "under": 2.9
               },
               {
                 "line": 9.5,
-                "over": 2.64,
-                "under": 1.38
+                "over": 1.78,
+                "under": 1.9
+              },
+              {
+                "line": 10.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 11.5,
+                "over": 4.0,
+                "under": 1.18
               }
             ]
           },
@@ -90,12 +54,68 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786982178.7768514
+      "last_checked": 1786986068.3274949
     },
-    "IF Gnistan|Ilves": {
-      "home": "IF Gnistan",
-      "away": "Ilves",
-      "event_id": "9940498",
+    "Sassuolo|Cesena": {
+      "home": "Sassuolo",
+      "away": "Cesena",
+      "event_id": "9917835",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.2,
+              3.9
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.2,
+                "under": 3.9
+              },
+              {
+                "line": 8.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.87,
+                "under": 1.8
+              },
+              {
+                "line": 10.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 11.5,
+                "over": 3.75,
+                "under": 1.2
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786986093.1942651
+    },
+    "Al-Tai FC|Al-Qadisiyah": {
+      "home": "Al-Tai FC",
+      "away": "Al-Qadisiyah",
+      "event_id": "9939790",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,12 +133,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786982205.5717754
+      "last_checked": 1786986119.8200612
     },
-    "Universitatea Cluj|AFC UTA Arad": {
-      "home": "Universitatea Cluj",
-      "away": "AFC UTA Arad",
-      "event_id": "9940506",
+    "Al-Anwar Club|Al Ahli Jeddah": {
+      "home": "Al-Anwar Club",
+      "away": "Al Ahli Jeddah",
+      "event_id": "9940530",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -136,7 +156,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786982232.8109605
+      "last_checked": 1786986146.6564627
+    },
+    "Al Zulfi|Al-Riyadh": {
+      "home": "Al Zulfi",
+      "away": "Al-Riyadh",
+      "event_id": "9940552",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786986173.303245
     }
   }
 }
