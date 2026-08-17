@@ -1,13 +1,36 @@
 {
   "matches": {
-    "Cesar Vallejo Reserves|Juventud Cautivo": {
-      "home": "Cesar Vallejo Reserves",
-      "away": "Juventud Cautivo",
-      "event_id": "9940666",
+    "Vélez Sársfield|Defensa y Justicia": {
+      "home": "Vélez Sársfield",
+      "away": "Defensa y Justicia",
+      "event_id": "9944727",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 12.5,
+            "odds": [
+              1.47,
+              2.45
+            ],
+            "_all_lines": [
+              {
+                "line": 12.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 13.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 14.5,
+                "over": 2.85,
+                "under": 1.35
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -21,30 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787003733.3561208
-    },
-    "Santos FC de Ica|Alianza Universidad": {
-      "home": "Santos FC de Ica",
-      "away": "Alianza Universidad",
-      "event_id": "9940668",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787003759.3482752
+      "last_checked": 1787007349.0896208
     },
     "Sportivo Bella Italia|Centro Atletico Lito": {
       "home": "Sportivo Bella Italia",
@@ -57,7 +57,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            13.0,
+            6.6
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -67,30 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787003785.2975821
-    },
-    "Deportivo Santamarina|FADEP Mendoza": {
-      "home": "Deportivo Santamarina",
-      "away": "FADEP Mendoza",
-      "event_id": "9940670",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787003811.511043
+      "last_checked": 1787007381.5615869
     },
     "Color Esperanza|CD Ciclos FC": {
       "home": "Color Esperanza",
@@ -113,7 +94,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787003837.7190497
+      "last_checked": 1787007408.650191
+    },
+    "Deportes Copiapó|Curicó Unido": {
+      "home": "Deportes Copiapó",
+      "away": "Curicó Unido",
+      "event_id": "9940673",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787007436.1043348
+    },
+    "Club Deportes Santa Cruz|Club Deportivo San Luis": {
+      "home": "Club Deportes Santa Cruz",
+      "away": "Club Deportivo San Luis",
+      "event_id": "9940674",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787007463.366687
     }
   }
 }

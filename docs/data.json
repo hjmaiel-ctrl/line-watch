@@ -1,35 +1,36 @@
 {
-  "generated_at": 1787003837.763896,
+  "generated_at": 1787007463.4151697,
   "matches": [
     {
-      "match": "Cesar Vallejo Reserves - Juventud Cautivo",
+      "match": "Vélez Sársfield - Defensa y Justicia",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Santos FC de Ica - Alianza Universidad",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 12.5,
+            "odds": [
+              1.47,
+              2.45
+            ],
+            "_all_lines": [
+              {
+                "line": 12.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 13.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 14.5,
+                "over": 2.85,
+                "under": 1.35
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -55,7 +56,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            13.0,
+            6.6
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -68,7 +73,7 @@
       "alerts": []
     },
     {
-      "match": "Deportivo Santamarina - FADEP Mendoza",
+      "match": "Color Esperanza - CD Ciclos FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -90,7 +95,29 @@
       "alerts": []
     },
     {
-      "match": "Color Esperanza - CD Ciclos FC",
+      "match": "Deportes Copiapó - Curicó Unido",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Club Deportes Santa Cruz - Club Deportivo San Luis",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
