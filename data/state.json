@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Ayeyawady United FC Women|Jurong FC Women": {
-      "home": "Ayeyawady United FC Women",
-      "away": "Jurong FC Women",
-      "event_id": "9936895",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786964620.8957725
-    },
     "Bulleen Lions|North Sunshine Eagles": {
       "home": "Bulleen Lions",
       "away": "North Sunshine Eagles",
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786964647.6181176
+      "last_checked": 1786967824.764983
     },
     "Melbourne Victory|Northcote City": {
       "home": "Melbourne Victory",
@@ -57,7 +34,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            40.0,
+            4.6
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -67,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786964674.3093064
+      "last_checked": 1786967857.6051712
     },
     "Mohun Bagan Super Giant|Jamshedpur": {
       "home": "Mohun Bagan Super Giant",
@@ -90,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786964700.9323957
+      "last_checked": 1786967884.7673378
     },
     "Olimpia Asuncion Reserves|Sportivo Ameliano Reserves": {
       "home": "Olimpia Asuncion Reserves",
@@ -113,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786964727.5348744
+      "last_checked": 1786967912.4886384
+    },
+    "Club Guaraní Reserves|Rubio Ñú Reserves": {
+      "home": "Club Guaraní Reserves",
+      "away": "Rubio Ñú Reserves",
+      "event_id": "9936900",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786967939.2268856
     }
   }
 }
