@@ -1,61 +1,5 @@
 {
   "matches": {
-    "Pisa|Empoli": {
-      "home": "Pisa",
-      "away": "Empoli",
-      "event_id": "9917834",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.12,
-              5.0
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.12,
-                "under": 5.0
-              },
-              {
-                "line": 8.5,
-                "over": 1.32,
-                "under": 2.9
-              },
-              {
-                "line": 9.5,
-                "over": 1.78,
-                "under": 1.9
-              },
-              {
-                "line": 10.5,
-                "over": 2.6,
-                "under": 1.42
-              },
-              {
-                "line": 11.5,
-                "over": 4.0,
-                "under": 1.18
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786986068.3274949
-    },
     "Sassuolo|Cesena": {
       "home": "Sassuolo",
       "away": "Cesena",
@@ -64,36 +8,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.2,
-              3.9
+              1.05,
+              7.0
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
                 "line": 8.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.05,
+                "under": 7.0
               },
               {
                 "line": 9.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 10.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.45,
+                "under": 1.47
               },
               {
                 "line": 11.5,
-                "over": 3.75,
-                "under": 1.2
+                "over": 4.5,
+                "under": 1.15
+              },
+              {
+                "line": 12.5,
+                "over": 8.0,
+                "under": 1.03
               }
             ]
           },
@@ -110,7 +54,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786986093.1942651
+      "last_checked": 1786989847.3789427
+    },
+    "Real Sporting de Gijon|Sabadell": {
+      "home": "Real Sporting de Gijon",
+      "away": "Sabadell",
+      "event_id": "9940563",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.18,
+              4.1
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.18,
+                "under": 4.1
+              },
+              {
+                "line": 7.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 8.5,
+                "over": 1.98,
+                "under": 1.67
+              },
+              {
+                "line": 9.5,
+                "over": 3.1,
+                "under": 1.3
+              },
+              {
+                "line": 10.5,
+                "over": 4.75,
+                "under": 1.13
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786989871.6765802
     },
     "Al-Tai FC|Al-Qadisiyah": {
       "home": "Al-Tai FC",
@@ -133,30 +133,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786986119.8200612
-    },
-    "Al-Anwar Club|Al Ahli Jeddah": {
-      "home": "Al-Anwar Club",
-      "away": "Al Ahli Jeddah",
-      "event_id": "9940530",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1786986146.6564627
+      "last_checked": 1786989897.677672
     },
     "Al Zulfi|Al-Riyadh": {
       "home": "Al Zulfi",
@@ -179,7 +156,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786986173.303245
+      "last_checked": 1786989923.9352553
+    },
+    "Al-Raed Buraidah|Al-Hilal Riyadh": {
+      "home": "Al-Raed Buraidah",
+      "away": "Al-Hilal Riyadh",
+      "event_id": "9940574",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1786989950.006758
     }
   }
 }
