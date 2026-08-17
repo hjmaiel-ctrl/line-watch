@@ -1,8 +1,8 @@
 {
-  "generated_at": 1786967939.2756956,
+  "generated_at": 1786975140.465565,
   "matches": [
     {
-      "match": "Bulleen Lions - North Sunshine Eagles",
+      "match": "Defensor Sporting Reserves - Racing Club de Montevideo Reserves",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,33 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Melbourne Victory - Northcote City",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            40.0,
-            4.6
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Mohun Bagan Super Giant - Jamshedpur",
+      "match": "Albion FC Reserves - Atletico River Plate Reserves",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -72,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Olimpia Asuncion Reserves - Sportivo Ameliano Reserves",
+      "match": "Uganda Police - Maroons FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -94,7 +68,29 @@
       "alerts": []
     },
     {
-      "match": "Club Guaraní Reserves - Rubio Ñú Reserves",
+      "match": "Ferrovalvulas - Lula FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Molde FK 2 - Rosenborg BK 2",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

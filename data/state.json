@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Bulleen Lions|North Sunshine Eagles": {
-      "home": "Bulleen Lions",
-      "away": "North Sunshine Eagles",
-      "event_id": "9936896",
+    "Defensor Sporting Reserves|Racing Club de Montevideo Reserves": {
+      "home": "Defensor Sporting Reserves",
+      "away": "Racing Club de Montevideo Reserves",
+      "event_id": "9936906",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786967824.764983
+      "last_checked": 1786975033.5940094
     },
-    "Melbourne Victory|Northcote City": {
-      "home": "Melbourne Victory",
-      "away": "Northcote City",
-      "event_id": "9936897",
+    "Albion FC Reserves|Atletico River Plate Reserves": {
+      "home": "Albion FC Reserves",
+      "away": "Atletico River Plate Reserves",
+      "event_id": "9936912",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -34,11 +34,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            40.0,
-            4.6
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -48,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786967857.6051712
+      "last_checked": 1786975060.192379
     },
-    "Mohun Bagan Super Giant|Jamshedpur": {
-      "home": "Mohun Bagan Super Giant",
-      "away": "Jamshedpur",
-      "event_id": "9936898",
+    "Uganda Police|Maroons FC": {
+      "home": "Uganda Police",
+      "away": "Maroons FC",
+      "event_id": "9936916",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -71,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786967884.7673378
+      "last_checked": 1786975086.8291268
     },
-    "Olimpia Asuncion Reserves|Sportivo Ameliano Reserves": {
-      "home": "Olimpia Asuncion Reserves",
-      "away": "Sportivo Ameliano Reserves",
-      "event_id": "9936899",
+    "Ferrovalvulas|Lula FC": {
+      "home": "Ferrovalvulas",
+      "away": "Lula FC",
+      "event_id": "9936917",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -94,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786967912.4886384
+      "last_checked": 1786975113.5792253
     },
-    "Club Guaraní Reserves|Rubio Ñú Reserves": {
-      "home": "Club Guaraní Reserves",
-      "away": "Rubio Ñú Reserves",
-      "event_id": "9936900",
+    "Molde FK 2|Rosenborg BK 2": {
+      "home": "Molde FK 2",
+      "away": "Rosenborg BK 2",
+      "event_id": "9936918",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786967939.2268856
+      "last_checked": 1786975140.4221663
     }
   }
 }
