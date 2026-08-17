@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Defensor Sporting Reserves|Racing Club de Montevideo Reserves": {
-      "home": "Defensor Sporting Reserves",
-      "away": "Racing Club de Montevideo Reserves",
-      "event_id": "9936906",
+    "Athens Kallithea FC|Athlitiki Enosi Larissa": {
+      "home": "Athens Kallithea FC",
+      "away": "Athlitiki Enosi Larissa",
+      "event_id": "9940486",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786975033.5940094
+      "last_checked": 1786978726.1522279
     },
-    "Albion FC Reserves|Atletico River Plate Reserves": {
-      "home": "Albion FC Reserves",
-      "away": "Atletico River Plate Reserves",
-      "event_id": "9936912",
+    "Juventud de Las Piedras Reserves|CA Boston River Reserves": {
+      "home": "Juventud de Las Piedras Reserves",
+      "away": "CA Boston River Reserves",
+      "event_id": "9940481",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786975060.192379
+      "last_checked": 1786978752.8264942
     },
-    "Uganda Police|Maroons FC": {
-      "home": "Uganda Police",
-      "away": "Maroons FC",
-      "event_id": "9936916",
+    "Liverpool Montevideo Reserves|Nacional de Montevideo Reserves": {
+      "home": "Liverpool Montevideo Reserves",
+      "away": "Nacional de Montevideo Reserves",
+      "event_id": "9940482",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786975086.8291268
+      "last_checked": 1786978779.5226672
     },
-    "Ferrovalvulas|Lula FC": {
-      "home": "Ferrovalvulas",
-      "away": "Lula FC",
-      "event_id": "9936917",
+    "Al Ain U23|Bani Yas U23": {
+      "home": "Al Ain U23",
+      "away": "Bani Yas U23",
+      "event_id": "9940490",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786975113.5792253
+      "last_checked": 1786978806.319705
     },
-    "Molde FK 2|Rosenborg BK 2": {
-      "home": "Molde FK 2",
-      "away": "Rosenborg BK 2",
-      "event_id": "9936918",
+    "Al Jazira U23|Hatta U23": {
+      "home": "Al Jazira U23",
+      "away": "Hatta U23",
+      "event_id": "9940491",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1786975140.4221663
+      "last_checked": 1786978833.0158103
     }
   }
 }
