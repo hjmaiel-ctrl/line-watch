@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Smit SC|Umphrup": {
-      "home": "Smit SC",
-      "away": "Umphrup",
-      "event_id": "9944753",
+    "SD Raiders|Sydney FC": {
+      "home": "SD Raiders",
+      "away": "Sydney FC",
+      "event_id": "9944760",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,49 +21,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787040289.107639
+      "last_checked": 1787046864.2877374
     },
-    "Z.Man City|Z.Brighton": {
-      "home": "Z.Man City",
-      "away": "Z.Brighton",
-      "event_id": "9946392",
+    "Phnom Penh Galaxy|Kandal Province": {
+      "home": "Phnom Penh Galaxy",
+      "away": "Kandal Province",
+      "event_id": "9944756",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.1,
-              7.4
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.1,
-                "under": 7.4
-              },
-              {
-                "line": 12.5,
-                "over": 1.39,
-                "under": 2.98
-              },
-              {
-                "line": 13.5,
-                "over": 2.08,
-                "under": 1.74
-              },
-              {
-                "line": 14.5,
-                "over": 3.75,
-                "under": 1.27
-              },
-              {
-                "line": 15.5,
-                "over": 7.9,
-                "under": 1.09
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -77,34 +44,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787040314.1583729
+      "last_checked": 1787046890.3549027
     },
-    "Z.Chelsea|Z.Ipswich Town": {
-      "home": "Z.Chelsea",
-      "away": "Z.Ipswich Town",
-      "event_id": "9946393",
+    "Slovan Bratislava U19|FC Kosice U19": {
+      "home": "Slovan Bratislava U19",
+      "away": "FC Kosice U19",
+      "event_id": "9944758",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 14.5,
-            "odds": [
-              null,
-              24.5
-            ],
-            "_all_lines": [
-              {
-                "line": 14.5,
-                "over": null,
-                "under": 24.5
-              },
-              {
-                "line": 15.5,
-                "over": 1.14,
-                "under": 5.6
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -118,49 +67,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787040339.3427205
+      "last_checked": 1787046916.3231122
     },
-    "Z.Leeds|Z.Crystal Palace": {
-      "home": "Z.Leeds",
-      "away": "Z.Crystal Palace",
-      "event_id": "9946394",
+    "Sikkim Aakraman SC|Dzongri FC": {
+      "home": "Sikkim Aakraman SC",
+      "away": "Dzongri FC",
+      "event_id": "9944759",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              null,
-              20.5
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": null,
-                "under": 20.5
-              },
-              {
-                "line": 8.5,
-                "over": 1.18,
-                "under": 4.85
-              },
-              {
-                "line": 9.5,
-                "over": 1.66,
-                "under": 2.22
-              },
-              {
-                "line": 10.5,
-                "over": 2.8,
-                "under": 1.44
-              },
-              {
-                "line": 11.5,
-                "over": 5.75,
-                "under": 1.15
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -174,49 +90,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787040364.524137
+      "last_checked": 1787046942.4039106
     },
-    "Z.Coventry City|Z.Liverpool": {
-      "home": "Z.Coventry City",
-      "away": "Z.Liverpool",
-      "event_id": "9946395",
+    "Bidhannagar FC|United Kolkata SC": {
+      "home": "Bidhannagar FC",
+      "away": "United Kolkata SC",
+      "event_id": "9946558",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.14,
-              5.85
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.14,
-                "under": 5.85
-              },
-              {
-                "line": 9.5,
-                "over": 1.52,
-                "under": 2.52
-              },
-              {
-                "line": 10.5,
-                "over": 2.43,
-                "under": 1.56
-              },
-              {
-                "line": 11.5,
-                "over": 4.7,
-                "under": 1.19
-              },
-              {
-                "line": 12.5,
-                "over": 10.5,
-                "under": 1.05
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -230,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787040389.5138896
+      "last_checked": 1787046968.455935
     }
   }
 }

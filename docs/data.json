@@ -1,8 +1,8 @@
 {
-  "generated_at": 1787040389.5626285,
+  "generated_at": 1787046968.5011258,
   "matches": [
     {
-      "match": "Smit SC - Umphrup",
+      "match": "SD Raiders - Sydney FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,45 +24,12 @@
       "alerts": []
     },
     {
-      "match": "Z.Man City - Z.Brighton",
+      "match": "Phnom Penh Galaxy - Kandal Province",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.1,
-              7.4
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.1,
-                "under": 7.4
-              },
-              {
-                "line": 12.5,
-                "over": 1.39,
-                "under": 2.98
-              },
-              {
-                "line": 13.5,
-                "over": 2.08,
-                "under": 1.74
-              },
-              {
-                "line": 14.5,
-                "over": 3.75,
-                "under": 1.27
-              },
-              {
-                "line": 15.5,
-                "over": 7.9,
-                "under": 1.09
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -79,30 +46,12 @@
       "alerts": []
     },
     {
-      "match": "Z.Chelsea - Z.Ipswich Town",
+      "match": "Slovan Bratislava U19 - FC Kosice U19",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 14.5,
-            "odds": [
-              null,
-              24.5
-            ],
-            "_all_lines": [
-              {
-                "line": 14.5,
-                "over": null,
-                "under": 24.5
-              },
-              {
-                "line": 15.5,
-                "over": 1.14,
-                "under": 5.6
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -119,45 +68,12 @@
       "alerts": []
     },
     {
-      "match": "Z.Leeds - Z.Crystal Palace",
+      "match": "Sikkim Aakraman SC - Dzongri FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              null,
-              20.5
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": null,
-                "under": 20.5
-              },
-              {
-                "line": 8.5,
-                "over": 1.18,
-                "under": 4.85
-              },
-              {
-                "line": 9.5,
-                "over": 1.66,
-                "under": 2.22
-              },
-              {
-                "line": 10.5,
-                "over": 2.8,
-                "under": 1.44
-              },
-              {
-                "line": 11.5,
-                "over": 5.75,
-                "under": 1.15
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -174,45 +90,12 @@
       "alerts": []
     },
     {
-      "match": "Z.Coventry City - Z.Liverpool",
+      "match": "Bidhannagar FC - United Kolkata SC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.14,
-              5.85
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.14,
-                "under": 5.85
-              },
-              {
-                "line": 9.5,
-                "over": 1.52,
-                "under": 2.52
-              },
-              {
-                "line": 10.5,
-                "over": 2.43,
-                "under": 1.56
-              },
-              {
-                "line": 11.5,
-                "over": 4.7,
-                "under": 1.19
-              },
-              {
-                "line": 12.5,
-                "over": 10.5,
-                "under": 1.05
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
