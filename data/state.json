@@ -7,40 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 12.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 13.5,
-                "over": 2.3,
-                "under": 1.52
-              },
-              {
-                "line": 14.5,
-                "over": 3.25,
-                "under": 1.28
-              },
-              {
-                "line": 15.5,
-                "over": 4.75,
-                "under": 1.13
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -54,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787093772.1877573
+      "last_checked": 1787097022.5270298
     },
     "Recoleta FC|Boca Juniors": {
       "home": "Recoleta FC",
@@ -63,40 +30,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.15,
-              4.5
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.15,
-                "under": 4.5
-              },
-              {
-                "line": 8.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 9.5,
-                "over": 1.83,
-                "under": 1.83
-              },
-              {
-                "line": 10.5,
-                "over": 2.6,
-                "under": 1.42
-              },
-              {
-                "line": 11.5,
-                "over": 4.0,
-                "under": 1.18
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -110,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787093797.335556
+      "last_checked": 1787097049.415663
     },
     "Londrina|Atlético Goianiense": {
       "home": "Londrina",
@@ -133,39 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787093824.4106212
+      "last_checked": 1787097076.176452
     },
-    "Genesis FC Reserves|CD Choloma Reserves": {
-      "home": "Genesis FC Reserves",
-      "away": "CD Choloma Reserves",
-      "event_id": "9947603",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            13.0,
-            27.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787093856.3714635
-    },
-    "Andira U23|Atletico Acreano U23": {
-      "home": "Andira U23",
-      "away": "Atletico Acreano U23",
-      "event_id": "9947604",
+    "Mount Pleasant FA|Cibao CF": {
+      "home": "Mount Pleasant FA",
+      "away": "Cibao CF",
+      "event_id": "9947605",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -183,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787093883.104262
+      "last_checked": 1787097103.0297852
+    },
+    "Guabira|Universitario de Vinto": {
+      "home": "Guabira",
+      "away": "Universitario de Vinto",
+      "event_id": "9947606",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787097129.9707983
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787093883.1494906,
+  "generated_at": 1787097130.0152678,
   "matches": [
     {
       "match": "Independiente Rivadavia - Fluminense FC",
@@ -7,40 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 12.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 13.5,
-                "over": 2.3,
-                "under": 1.52
-              },
-              {
-                "line": 14.5,
-                "over": 3.25,
-                "under": 1.28
-              },
-              {
-                "line": 15.5,
-                "over": 4.75,
-                "under": 1.13
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -62,40 +29,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.15,
-              4.5
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.15,
-                "under": 4.5
-              },
-              {
-                "line": 8.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 9.5,
-                "over": 1.83,
-                "under": 1.83
-              },
-              {
-                "line": 10.5,
-                "over": 2.6,
-                "under": 1.42
-              },
-              {
-                "line": 11.5,
-                "over": 4.0,
-                "under": 1.18
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -134,7 +68,7 @@
       "alerts": []
     },
     {
-      "match": "Genesis FC Reserves - CD Choloma Reserves",
+      "match": "Mount Pleasant FA - Cibao CF",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -143,11 +77,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            13.0,
-            27.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -160,7 +90,7 @@
       "alerts": []
     },
     {
-      "match": "Andira U23 - Atletico Acreano U23",
+      "match": "Guabira - Universitario de Vinto",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
