@@ -1,9 +1,144 @@
 {
   "matches": {
-    "Deportivo Riestra|Gimnasia y Esgrima La Plata": {
-      "home": "Deportivo Riestra",
-      "away": "Gimnasia y Esgrima La Plata",
-      "event_id": "9947596",
+    "Independiente Rivadavia|Fluminense FC": {
+      "home": "Independiente Rivadavia",
+      "away": "Fluminense FC",
+      "event_id": "9947120",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 12.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 13.5,
+                "over": 2.3,
+                "under": 1.52
+              },
+              {
+                "line": 14.5,
+                "over": 3.25,
+                "under": 1.28
+              },
+              {
+                "line": 15.5,
+                "over": 4.75,
+                "under": 1.13
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787093772.1877573
+    },
+    "Recoleta FC|Boca Juniors": {
+      "home": "Recoleta FC",
+      "away": "Boca Juniors",
+      "event_id": "9947121",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.15,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
+                "line": 8.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 9.5,
+                "over": 1.83,
+                "under": 1.83
+              },
+              {
+                "line": 10.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 11.5,
+                "over": 4.0,
+                "under": 1.18
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787093797.335556
+    },
+    "Londrina|Atlético Goianiense": {
+      "home": "Londrina",
+      "away": "Atlético Goianiense",
+      "event_id": "9949323",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787093824.4106212
+    },
+    "Genesis FC Reserves|CD Choloma Reserves": {
+      "home": "Genesis FC Reserves",
+      "away": "CD Choloma Reserves",
+      "event_id": "9947603",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -13,8 +148,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            8.5,
-            1.12
+            13.0,
+            27.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,12 +160,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787089922.001652
+      "last_checked": 1787093856.3714635
     },
-    "Léttir|BF 108": {
-      "home": "Léttir",
-      "away": "BF 108",
-      "event_id": "9947593",
+    "Andira U23|Atletico Acreano U23": {
+      "home": "Andira U23",
+      "away": "Atletico Acreano U23",
+      "event_id": "9947604",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -48,76 +183,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787089948.858548
-    },
-    "Yaracuyanos|Caracas": {
-      "home": "Yaracuyanos",
-      "away": "Caracas",
-      "event_id": "9947598",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787089975.7361436
-    },
-    "Juticalpa Reserves|Motagua Reserves": {
-      "home": "Juticalpa Reserves",
-      "away": "Motagua Reserves",
-      "event_id": "9947601",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787090002.7790234
-    },
-    "Club Deportivo Platense Reserves|CD Real Espana Reserves": {
-      "home": "Club Deportivo Platense Reserves",
-      "away": "CD Real Espana Reserves",
-      "event_id": "9947602",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787090029.9992864
+      "last_checked": 1787093883.104262
     }
   }
 }

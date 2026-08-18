@@ -1,8 +1,140 @@
 {
-  "generated_at": 1787090030.0453746,
+  "generated_at": 1787093883.1494906,
   "matches": [
     {
-      "match": "Deportivo Riestra - Gimnasia y Esgrima La Plata",
+      "match": "Independiente Rivadavia - Fluminense FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 12.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 13.5,
+                "over": 2.3,
+                "under": 1.52
+              },
+              {
+                "line": 14.5,
+                "over": 3.25,
+                "under": 1.28
+              },
+              {
+                "line": 15.5,
+                "over": 4.75,
+                "under": 1.13
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Recoleta FC - Boca Juniors",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.15,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
+                "line": 8.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 9.5,
+                "over": 1.83,
+                "under": 1.83
+              },
+              {
+                "line": 10.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 11.5,
+                "over": 4.0,
+                "under": 1.18
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Londrina - Atlético Goianiense",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Genesis FC Reserves - CD Choloma Reserves",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -13,8 +145,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            8.5,
-            1.12
+            13.0,
+            27.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -28,73 +160,7 @@
       "alerts": []
     },
     {
-      "match": "Léttir - BF 108",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Yaracuyanos - Caracas",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Juticalpa Reserves - Motagua Reserves",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Club Deportivo Platense Reserves - CD Real Espana Reserves",
+      "match": "Andira U23 - Atletico Acreano U23",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
