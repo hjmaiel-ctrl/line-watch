@@ -1,33 +1,99 @@
 {
   "matches": {
-    "SC Internacional|Clube do Remo": {
-      "home": "SC Internacional",
-      "away": "Clube do Remo",
-      "event_id": "9940470",
+    "Sporting San Jose FC|Escorpiones": {
+      "home": "Sporting San Jose FC",
+      "away": "Escorpiones",
+      "event_id": "9944750",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            11.5,
+            60.0
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.35
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787022626.083218
+    },
+    "Pachuca|Puebla": {
+      "home": "Pachuca",
+      "away": "Puebla",
+      "event_id": "9944751",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787022653.2902794
+    },
+    "Z.Crystal Palace|Z.Brighton": {
+      "home": "Z.Crystal Palace",
+      "away": "Z.Brighton",
+      "event_id": "9945512",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.57,
-              2.2
+              1.18,
+              4.9
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.18,
+                "under": 4.9
               },
               {
                 "line": 8.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 1.53,
+                "under": 2.49
               },
               {
                 "line": 9.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 2.27,
+                "under": 1.63
+              },
+              {
+                "line": 10.5,
+                "over": 3.9,
+                "under": 1.25
+              },
+              {
+                "line": 11.5,
+                "over": 7.7,
+                "under": 1.09
               }
             ]
           },
@@ -44,36 +110,46 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787010604.1476138
+      "last_checked": 1787022678.530761
     },
-    "Vélez Sársfield|Defensa y Justicia": {
-      "home": "Vélez Sársfield",
-      "away": "Defensa y Justicia",
-      "event_id": "9944727",
+    "Z.Bournemouth|Z.Chelsea": {
+      "home": "Z.Bournemouth",
+      "away": "Z.Chelsea",
+      "event_id": "9945513",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 12.5,
+            "line": 4.5,
             "odds": [
-              1.42,
-              2.6
+              1.15,
+              5.35
             ],
             "_all_lines": [
               {
-                "line": 12.5,
-                "over": 1.42,
-                "under": 2.6
+                "line": 4.5,
+                "over": 1.15,
+                "under": 5.35
               },
               {
-                "line": 13.5,
-                "over": 2.2,
-                "under": 1.57
+                "line": 5.5,
+                "over": 1.48,
+                "under": 2.66
               },
               {
-                "line": 14.5,
-                "over": 3.65,
-                "under": 1.22
+                "line": 6.5,
+                "over": 2.14,
+                "under": 1.7
+              },
+              {
+                "line": 7.5,
+                "over": 3.6,
+                "under": 1.29
+              },
+              {
+                "line": 8.5,
+                "over": 6.9,
+                "under": 1.11
               }
             ]
           },
@@ -90,16 +166,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787010629.2124617
+      "last_checked": 1787022703.7599413
     },
-    "Deportes Copiapó|Curicó Unido": {
-      "home": "Deportes Copiapó",
-      "away": "Curicó Unido",
-      "event_id": "9940673",
+    "Z.Aston Villa|Z.Everton": {
+      "home": "Z.Aston Villa",
+      "away": "Z.Everton",
+      "event_id": "9945514",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.04,
+              12.5
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.04,
+                "under": 12.5
+              },
+              {
+                "line": 11.5,
+                "over": 1.21,
+                "under": 4.45
+              },
+              {
+                "line": 12.5,
+                "over": 1.61,
+                "under": 2.31
+              },
+              {
+                "line": 13.5,
+                "over": 2.46,
+                "under": 1.54
+              },
+              {
+                "line": 14.5,
+                "over": 4.4,
+                "under": 1.21
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -113,53 +222,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787010656.0959785
-    },
-    "Ferroviária|Paysandu PA": {
-      "home": "Ferroviária",
-      "away": "Paysandu PA",
-      "event_id": "9944728",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787010682.9363825
-    },
-    "Guarani SP|Ypiranga": {
-      "home": "Guarani SP",
-      "away": "Ypiranga",
-      "event_id": "9944731",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787010709.5845263
+      "last_checked": 1787022728.902113
     }
   }
 }

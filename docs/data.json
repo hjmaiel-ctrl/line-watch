@@ -1,8 +1,62 @@
 {
-  "generated_at": 1787010709.632038,
+  "generated_at": 1787022728.946503,
   "matches": [
     {
-      "match": "SC Internacional - Clube do Remo",
+      "match": "Sporting San Jose FC - Escorpiones",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            11.5,
+            60.0
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.35
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Pachuca - Puebla",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Z.Crystal Palace - Z.Brighton",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -10,24 +64,34 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.57,
-              2.2
+              1.18,
+              4.9
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.18,
+                "under": 4.9
               },
               {
                 "line": 8.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 1.53,
+                "under": 2.49
               },
               {
                 "line": 9.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 2.27,
+                "under": 1.63
+              },
+              {
+                "line": 10.5,
+                "over": 3.9,
+                "under": 1.25
+              },
+              {
+                "line": 11.5,
+                "over": 7.7,
+                "under": 1.09
               }
             ]
           },
@@ -47,32 +111,42 @@
       "alerts": []
     },
     {
-      "match": "Vélez Sársfield - Defensa y Justicia",
+      "match": "Z.Bournemouth - Z.Chelsea",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 12.5,
+            "line": 4.5,
             "odds": [
-              1.42,
-              2.6
+              1.15,
+              5.35
             ],
             "_all_lines": [
               {
-                "line": 12.5,
-                "over": 1.42,
-                "under": 2.6
+                "line": 4.5,
+                "over": 1.15,
+                "under": 5.35
               },
               {
-                "line": 13.5,
-                "over": 2.2,
-                "under": 1.57
+                "line": 5.5,
+                "over": 1.48,
+                "under": 2.66
               },
               {
-                "line": 14.5,
-                "over": 3.65,
-                "under": 1.22
+                "line": 6.5,
+                "over": 2.14,
+                "under": 1.7
+              },
+              {
+                "line": 7.5,
+                "over": 3.6,
+                "under": 1.29
+              },
+              {
+                "line": 8.5,
+                "over": 6.9,
+                "under": 1.11
               }
             ]
           },
@@ -92,56 +166,45 @@
       "alerts": []
     },
     {
-      "match": "Deportes Copiapó - Curicó Unido",
+      "match": "Z.Aston Villa - Z.Everton",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Ferroviária - Paysandu PA",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Guarani SP - Ypiranga",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.04,
+              12.5
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.04,
+                "under": 12.5
+              },
+              {
+                "line": 11.5,
+                "over": 1.21,
+                "under": 4.45
+              },
+              {
+                "line": 12.5,
+                "over": 1.61,
+                "under": 2.31
+              },
+              {
+                "line": 13.5,
+                "over": 2.46,
+                "under": 1.54
+              },
+              {
+                "line": 14.5,
+                "over": 4.4,
+                "under": 1.21
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
