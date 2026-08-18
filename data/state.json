@@ -1,36 +1,13 @@
 {
   "matches": {
-    "Shanghai Shenhua|Beijing Guoan": {
-      "home": "Shanghai Shenhua",
-      "away": "Beijing Guoan",
-      "event_id": "9944775",
+    "Persib Bandung|Bali United": {
+      "home": "Persib Bandung",
+      "away": "Bali United",
+      "event_id": "9944780",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.57,
-              2.2
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
-                "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 10.5,
-                "over": 2.65,
-                "under": 1.4
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787054291.98776
+      "last_checked": 1787062017.395146
     },
-    "Mindil Aces|Darwin Olympic": {
-      "home": "Mindil Aces",
-      "away": "Darwin Olympic",
-      "event_id": "9944761",
+    "Cardiff City U21|Barnsley U21": {
+      "home": "Cardiff City U21",
+      "away": "Barnsley U21",
+      "event_id": "9947409",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787054318.8632329
+      "last_checked": 1787062044.268202
     },
-    "Nongmensong|Mawryngkneng": {
-      "home": "Nongmensong",
-      "away": "Mawryngkneng",
-      "event_id": "9944763",
+    "Charlton Athletic U21|Bolton Wanderers FC U21": {
+      "home": "Charlton Athletic U21",
+      "away": "Bolton Wanderers FC U21",
+      "event_id": "9947410",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -80,11 +57,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            4.95,
-            2.2
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -94,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787054350.8864784
+      "last_checked": 1787062071.1105473
     },
-    "Meghalaya Police|Langsning SC": {
-      "home": "Meghalaya Police",
-      "away": "Langsning SC",
-      "event_id": "9944764",
+    "Thailand|Singapore": {
+      "home": "Thailand",
+      "away": "Singapore",
+      "event_id": "9947413",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787054377.8761208
+      "last_checked": 1787062101.9480124
     },
-    "Kingsley|Gwelup Croatia": {
-      "home": "Kingsley",
-      "away": "Gwelup Croatia",
-      "event_id": "9944777",
+    "Sogdiana Jizak|Qizilqum Navoiy": {
+      "home": "Sogdiana Jizak",
+      "away": "Qizilqum Navoiy",
+      "event_id": "9947418",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -140,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787054404.9229386
+      "last_checked": 1787062129.2387338
     }
   }
 }
