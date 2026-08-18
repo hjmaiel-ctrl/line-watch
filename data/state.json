@@ -7,44 +7,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.58,
-              2.24
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.58,
-                "under": 2.24
-              },
-              {
-                "line": 7.5,
-                "over": 2.1,
-                "under": 1.65
-              },
-              {
-                "line": 8.5,
-                "over": 2.96,
-                "under": 1.35
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              2.14,
-              1.61
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 2.14,
-                "under": 1.61
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -57,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787081921.6889453
+      "last_checked": 1787083368.5524392
     },
     "Dinamo Zagreb|Viking": {
       "home": "Dinamo Zagreb",
@@ -67,40 +31,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.59,
-              2.22
+              1.48,
+              2.46
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.59,
-                "under": 2.22
-              },
-              {
                 "line": 8.5,
-                "over": 2.06,
-                "under": 1.68
+                "over": 1.48,
+                "under": 2.46
               },
               {
                 "line": 9.5,
-                "over": 2.8,
-                "under": 1.38
+                "over": 1.92,
+                "under": 1.79
+              },
+              {
+                "line": 10.5,
+                "over": 2.62,
+                "under": 1.43
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.85,
-              1.82
+              2.12,
+              1.62
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 2.12,
+                "under": 1.62
               }
             ]
           }
@@ -116,7 +80,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787081944.843119
+      "last_checked": 1787083391.792373
     },
     "Fenerbahce Istanbul|Lyon": {
       "home": "Fenerbahce Istanbul",
@@ -126,40 +90,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.61,
-              2.18
+              1.41,
+              2.7
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.41,
+                "under": 2.7
+              },
+              {
                 "line": 8.5,
-                "over": 1.61,
-                "under": 2.18
+                "over": 1.78,
+                "under": 1.93
               },
               {
                 "line": 9.5,
-                "over": 2.1,
-                "under": 1.66
-              },
-              {
-                "line": 10.5,
-                "over": 2.86,
-                "under": 1.37
+                "over": 2.38,
+                "under": 1.51
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              2.1,
-              1.63
+              1.57,
+              2.2
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 2.1,
-                "under": 1.63
+                "line": 3.5,
+                "over": 1.57,
+                "under": 2.2
               }
             ]
           }
@@ -175,12 +139,58 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787081967.9285722
+      "last_checked": 1787083414.9940662
     },
-    "Wigan Athletic|Aston Villa U21": {
-      "home": "Wigan Athletic",
-      "away": "Aston Villa U21",
-      "event_id": "9947506",
+    "Barnet|Arsenal U21": {
+      "home": "Barnet",
+      "away": "Arsenal U21",
+      "event_id": "9947560",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 12.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 12.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 13.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 14.5,
+                "over": 2.45,
+                "under": 1.47
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787083439.9866712
+    },
+    "Deportivo Riestra|Gimnasia y Esgrima La Plata": {
+      "home": "Deportivo Riestra",
+      "away": "Gimnasia y Esgrima La Plata",
+      "event_id": "9947596",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -198,30 +208,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787081995.0062947
-    },
-    "Reading|Wycombe Wanderers": {
-      "home": "Reading",
-      "away": "Wycombe Wanderers",
-      "event_id": "9947507",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787082021.6965773
+      "last_checked": 1787083466.714131
     }
   }
 }
