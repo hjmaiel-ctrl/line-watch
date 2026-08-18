@@ -1,14 +1,50 @@
 {
   "matches": {
-    "Al Najma Club|Al-Ittihad Jeddah": {
-      "home": "Al Najma Club",
-      "away": "Al-Ittihad Jeddah",
-      "event_id": "9947466",
+    "Levski Sofia|AEK Athens": {
+      "home": "Levski Sofia",
+      "away": "AEK Athens",
+      "event_id": "9907326",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.58,
+              2.24
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.58,
+                "under": 2.24
+              },
+              {
+                "line": 7.5,
+                "over": 2.1,
+                "under": 1.65
+              },
+              {
+                "line": 8.5,
+                "over": 2.96,
+                "under": 1.35
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              2.14,
+              1.61
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 2.14,
+                "under": 1.61
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -21,17 +57,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787072647.3957586
+      "last_checked": 1787081921.6889453
     },
-    "Al Jabalain|Al-Ettifaq": {
-      "home": "Al Jabalain",
-      "away": "Al-Ettifaq",
-      "event_id": "9947467",
+    "Dinamo Zagreb|Viking": {
+      "home": "Dinamo Zagreb",
+      "away": "Viking",
+      "event_id": "9908494",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.59,
+              2.22
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.59,
+                "under": 2.22
+              },
+              {
+                "line": 8.5,
+                "over": 2.06,
+                "under": 1.68
+              },
+              {
+                "line": 9.5,
+                "over": 2.8,
+                "under": 1.38
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.85,
+              1.82
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.85,
+                "under": 1.82
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -44,17 +116,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787072674.050161
+      "last_checked": 1787081944.843119
     },
-    "Al-Akhdoud|Al-Khaleej Saihat": {
-      "home": "Al-Akhdoud",
-      "away": "Al-Khaleej Saihat",
-      "event_id": "9947468",
+    "Fenerbahce Istanbul|Lyon": {
+      "home": "Fenerbahce Istanbul",
+      "away": "Lyon",
+      "event_id": "9908610",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.61,
+              2.18
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.61,
+                "under": 2.18
+              },
+              {
+                "line": 9.5,
+                "over": 2.1,
+                "under": 1.66
+              },
+              {
+                "line": 10.5,
+                "over": 2.86,
+                "under": 1.37
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              2.1,
+              1.63
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 2.1,
+                "under": 1.63
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -67,12 +175,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787072701.0445983
+      "last_checked": 1787081967.9285722
     },
-    "Atromitos Athens|Pyrgos AFC": {
-      "home": "Atromitos Athens",
-      "away": "Pyrgos AFC",
-      "event_id": "9947464",
+    "Wigan Athletic|Aston Villa U21": {
+      "home": "Wigan Athletic",
+      "away": "Aston Villa U21",
+      "event_id": "9947506",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +198,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787072727.7687984
+      "last_checked": 1787081995.0062947
     },
-    "1. FC Heidenheim|FC Bayern München": {
-      "home": "1. FC Heidenheim",
-      "away": "FC Bayern München",
-      "event_id": "9947451",
+    "Reading|Wycombe Wanderers": {
+      "home": "Reading",
+      "away": "Wycombe Wanderers",
+      "event_id": "9947507",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +221,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787072754.7492478
+      "last_checked": 1787082021.6965773
     }
   }
 }
