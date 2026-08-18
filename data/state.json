@@ -1,9 +1,9 @@
 {
   "matches": {
-    "CSM Resita|Petrolul Ploiesti": {
-      "home": "CSM Resita",
-      "away": "Petrolul Ploiesti",
-      "event_id": "9947432",
+    "Al Najma Club|Al-Ittihad Jeddah": {
+      "home": "Al Najma Club",
+      "away": "Al-Ittihad Jeddah",
+      "event_id": "9947466",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787068442.6924024
+      "last_checked": 1787072647.3957586
     },
-    "SCM Râmnicu Vâlcea|FC Chindia Targoviste": {
-      "home": "SCM Râmnicu Vâlcea",
-      "away": "FC Chindia Targoviste",
-      "event_id": "9947433",
+    "Al Jabalain|Al-Ettifaq": {
+      "home": "Al Jabalain",
+      "away": "Al-Ettifaq",
+      "event_id": "9947467",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787068469.0935805
+      "last_checked": 1787072674.050161
     },
-    "MFK Slovan Giraltovce|FK Partizan Bardejov": {
-      "home": "MFK Slovan Giraltovce",
-      "away": "FK Partizan Bardejov",
-      "event_id": "9947434",
+    "Al-Akhdoud|Al-Khaleej Saihat": {
+      "home": "Al-Akhdoud",
+      "away": "Al-Khaleej Saihat",
+      "event_id": "9947468",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787068495.4551413
+      "last_checked": 1787072701.0445983
     },
-    "MSK Spisske Podhradie|MFK Ružomberok": {
-      "home": "MSK Spisske Podhradie",
-      "away": "MFK Ružomberok",
-      "event_id": "9947435",
+    "Atromitos Athens|Pyrgos AFC": {
+      "home": "Atromitos Athens",
+      "away": "Pyrgos AFC",
+      "event_id": "9947464",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787068522.0937407
+      "last_checked": 1787072727.7687984
     },
-    "Tj Partizan Osrblie|Tatran Oravske Vesele": {
-      "home": "Tj Partizan Osrblie",
-      "away": "Tatran Oravske Vesele",
-      "event_id": "9947436",
+    "1. FC Heidenheim|FC Bayern München": {
+      "home": "1. FC Heidenheim",
+      "away": "FC Bayern München",
+      "event_id": "9947451",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787068548.5309532
+      "last_checked": 1787072754.7492478
     }
   }
 }
