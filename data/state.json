@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Persib Bandung|Bali United": {
-      "home": "Persib Bandung",
-      "away": "Bali United",
-      "event_id": "9944780",
+    "CSM Resita|Petrolul Ploiesti": {
+      "home": "CSM Resita",
+      "away": "Petrolul Ploiesti",
+      "event_id": "9947432",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787062017.395146
+      "last_checked": 1787068442.6924024
     },
-    "Cardiff City U21|Barnsley U21": {
-      "home": "Cardiff City U21",
-      "away": "Barnsley U21",
-      "event_id": "9947409",
+    "SCM Râmnicu Vâlcea|FC Chindia Targoviste": {
+      "home": "SCM Râmnicu Vâlcea",
+      "away": "FC Chindia Targoviste",
+      "event_id": "9947433",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787062044.268202
+      "last_checked": 1787068469.0935805
     },
-    "Charlton Athletic U21|Bolton Wanderers FC U21": {
-      "home": "Charlton Athletic U21",
-      "away": "Bolton Wanderers FC U21",
-      "event_id": "9947410",
+    "MFK Slovan Giraltovce|FK Partizan Bardejov": {
+      "home": "MFK Slovan Giraltovce",
+      "away": "FK Partizan Bardejov",
+      "event_id": "9947434",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787062071.1105473
+      "last_checked": 1787068495.4551413
     },
-    "Thailand|Singapore": {
-      "home": "Thailand",
-      "away": "Singapore",
-      "event_id": "9947413",
+    "MSK Spisske Podhradie|MFK Ružomberok": {
+      "home": "MSK Spisske Podhradie",
+      "away": "MFK Ružomberok",
+      "event_id": "9947435",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787062101.9480124
+      "last_checked": 1787068522.0937407
     },
-    "Sogdiana Jizak|Qizilqum Navoiy": {
-      "home": "Sogdiana Jizak",
-      "away": "Qizilqum Navoiy",
-      "event_id": "9947418",
+    "Tj Partizan Osrblie|Tatran Oravske Vesele": {
+      "home": "Tj Partizan Osrblie",
+      "away": "Tatran Oravske Vesele",
+      "event_id": "9947436",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787062129.2387338
+      "last_checked": 1787068548.5309532
     }
   }
 }
