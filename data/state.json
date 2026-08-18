@@ -7,34 +7,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 8.5,
-                "over": 1.8,
-                "under": 1.87
-              },
-              {
-                "line": 9.5,
-                "over": 2.6,
-                "under": 1.42
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            8.5,
+            1.12
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,30 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787086754.0056722
-    },
-    "Club Doctor Benjamín Aceval|Club Nacional Asuncion": {
-      "home": "Club Doctor Benjamín Aceval",
-      "away": "Club Nacional Asuncion",
-      "event_id": "9947591",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787086780.6553838
+      "last_checked": 1787089922.001652
     },
     "Léttir|BF 108": {
       "home": "Léttir",
@@ -90,12 +48,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787086807.2269173
+      "last_checked": 1787089948.858548
     },
-    "Atlético Tucumán Reserves|CA River Plate Reserves": {
-      "home": "Atlético Tucumán Reserves",
-      "away": "CA River Plate Reserves",
-      "event_id": "9947595",
+    "Yaracuyanos|Caracas": {
+      "home": "Yaracuyanos",
+      "away": "Caracas",
+      "event_id": "9947598",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,12 +71,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787086834.0093722
+      "last_checked": 1787089975.7361436
     },
-    "Club 12 de Octubre de Itauguá|River Plate Asuncion": {
-      "home": "Club 12 de Octubre de Itauguá",
-      "away": "River Plate Asuncion",
-      "event_id": "9947597",
+    "Juticalpa Reserves|Motagua Reserves": {
+      "home": "Juticalpa Reserves",
+      "away": "Motagua Reserves",
+      "event_id": "9947601",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -136,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787086860.7900345
+      "last_checked": 1787090002.7790234
+    },
+    "Club Deportivo Platense Reserves|CD Real Espana Reserves": {
+      "home": "Club Deportivo Platense Reserves",
+      "away": "CD Real Espana Reserves",
+      "event_id": "9947602",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787090029.9992864
     }
   }
 }

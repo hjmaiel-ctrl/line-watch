@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787086860.8305094,
+  "generated_at": 1787090030.0453746,
   "matches": [
     {
       "match": "Deportivo Riestra - Gimnasia y Esgrima La Plata",
@@ -7,56 +7,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 8.5,
-                "over": 1.8,
-                "under": 1.87
-              },
-              {
-                "line": 9.5,
-                "over": 2.6,
-                "under": 1.42
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Club Doctor Benjamín Aceval - Club Nacional Asuncion",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            8.5,
+            1.12
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -91,7 +50,7 @@
       "alerts": []
     },
     {
-      "match": "Atlético Tucumán Reserves - CA River Plate Reserves",
+      "match": "Yaracuyanos - Caracas",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -113,7 +72,29 @@
       "alerts": []
     },
     {
-      "match": "Club 12 de Octubre de Itauguá - River Plate Asuncion",
+      "match": "Juticalpa Reserves - Motagua Reserves",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Club Deportivo Platense Reserves - CD Real Espana Reserves",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
