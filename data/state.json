@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Independiente Rivadavia|Fluminense FC": {
-      "home": "Independiente Rivadavia",
-      "away": "Fluminense FC",
-      "event_id": "9947120",
+    "Honiara City FC|Green Shield": {
+      "home": "Honiara City FC",
+      "away": "Green Shield",
+      "event_id": "9949396",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            23.0,
+            11.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -21,12 +25,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787097022.5270298
+      "last_checked": 1787109281.3745816
     },
-    "Recoleta FC|Boca Juniors": {
-      "home": "Recoleta FC",
-      "away": "Boca Juniors",
-      "event_id": "9947121",
+    "Xelajú MC|Diriangen FC": {
+      "home": "Xelajú MC",
+      "away": "Diriangen FC",
+      "event_id": "9949397",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +48,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787097049.415663
+      "last_checked": 1787109307.9813943
     },
-    "Londrina|Atlético Goianiense": {
-      "home": "Londrina",
-      "away": "Atlético Goianiense",
-      "event_id": "9949323",
+    "Real Estelí|CS Herediano": {
+      "home": "Real Estelí",
+      "away": "CS Herediano",
+      "event_id": "9949398",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,16 +71,44 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787097076.176452
+      "last_checked": 1787109334.740141
     },
-    "Mount Pleasant FA|Cibao CF": {
-      "home": "Mount Pleasant FA",
-      "away": "Cibao CF",
-      "event_id": "9947605",
+    "Z.Crystal Palace|Z.Tottenham": {
+      "home": "Z.Crystal Palace",
+      "away": "Z.Tottenham",
+      "event_id": "9951304",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.09,
+              8.05
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.09,
+                "under": 8.05
+              },
+              {
+                "line": 6.5,
+                "over": 1.54,
+                "under": 2.47
+              },
+              {
+                "line": 7.5,
+                "over": 2.86,
+                "under": 1.42
+              },
+              {
+                "line": 8.5,
+                "over": 6.9,
+                "under": 1.11
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -90,16 +122,44 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787097103.0297852
+      "last_checked": 1787109359.5459623
     },
-    "Guabira|Universitario de Vinto": {
-      "home": "Guabira",
-      "away": "Universitario de Vinto",
-      "event_id": "9947606",
+    "Z.Aston Villa|Z.Hull City": {
+      "home": "Z.Aston Villa",
+      "away": "Z.Hull City",
+      "event_id": "9951305",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.12,
+              6.5
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.12,
+                "under": 6.5
+              },
+              {
+                "line": 7.5,
+                "over": 1.7,
+                "under": 2.14
+              },
+              {
+                "line": 8.5,
+                "over": 3.45,
+                "under": 1.31
+              },
+              {
+                "line": 9.5,
+                "over": 9.3,
+                "under": 1.07
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -113,7 +173,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787097129.9707983
+      "last_checked": 1787109384.3591826
     }
   }
 }

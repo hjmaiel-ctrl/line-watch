@@ -1,8 +1,34 @@
 {
-  "generated_at": 1787097130.0152678,
+  "generated_at": 1787109384.4094071,
   "matches": [
     {
-      "match": "Independiente Rivadavia - Fluminense FC",
+      "match": "Honiara City FC - Green Shield",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            23.0,
+            11.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Xelajú MC - Diriangen FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,7 +50,7 @@
       "alerts": []
     },
     {
-      "match": "Recoleta FC - Boca Juniors",
+      "match": "Real Estelí - CS Herediano",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -46,12 +72,40 @@
       "alerts": []
     },
     {
-      "match": "Londrina - Atlético Goianiense",
+      "match": "Z.Crystal Palace - Z.Tottenham",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.09,
+              8.05
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.09,
+                "under": 8.05
+              },
+              {
+                "line": 6.5,
+                "over": 1.54,
+                "under": 2.47
+              },
+              {
+                "line": 7.5,
+                "over": 2.86,
+                "under": 1.42
+              },
+              {
+                "line": 8.5,
+                "over": 6.9,
+                "under": 1.11
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -68,34 +122,40 @@
       "alerts": []
     },
     {
-      "match": "Mount Pleasant FA - Cibao CF",
+      "match": "Z.Aston Villa - Z.Hull City",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Guabira - Universitario de Vinto",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.12,
+              6.5
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.12,
+                "under": 6.5
+              },
+              {
+                "line": 7.5,
+                "over": 1.7,
+                "under": 2.14
+              },
+              {
+                "line": 8.5,
+                "over": 3.45,
+                "under": 1.31
+              },
+              {
+                "line": 9.5,
+                "over": 9.3,
+                "under": 1.07
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
