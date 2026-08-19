@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787133290.4082093
+      "last_checked": 1787137255.2121139
     },
     "SD Eibar B|Sestao River Club": {
       "home": "SD Eibar B",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787133316.9539068
+      "last_checked": 1787137282.2180037
     },
     "Tokushima Celeste|Kawazoe Club": {
       "home": "Tokushima Celeste",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787133343.5180004
+      "last_checked": 1787137309.2227259
     },
     "Src Hiroshima|Maruyasu Okazaki": {
       "home": "Src Hiroshima",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787133370.1064637
+      "last_checked": 1787137336.3228688
     },
     "APIA Tigers|Melbourne Victory": {
       "home": "APIA Tigers",
@@ -103,7 +103,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            7.8,
+            1.72
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787133396.6802886
+      "last_checked": 1787137368.5906658
     }
   }
 }

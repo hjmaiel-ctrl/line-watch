@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787133396.7260468,
+  "generated_at": 1787137368.6269708,
   "matches": [
     {
       "match": "RSD Alcala SAD - Gimnastica Segoviana CF",
@@ -99,7 +99,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            7.8,
+            1.72
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
