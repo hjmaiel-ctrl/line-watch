@@ -1,97 +1,5 @@
 {
   "matches": {
-    "RSD Alcala SAD|Gimnastica Segoviana CF": {
-      "home": "RSD Alcala SAD",
-      "away": "Gimnastica Segoviana CF",
-      "event_id": "9949413",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787137255.2121139
-    },
-    "SD Eibar B|Sestao River Club": {
-      "home": "SD Eibar B",
-      "away": "Sestao River Club",
-      "event_id": "9949415",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787137282.2180037
-    },
-    "Tokushima Celeste|Kawazoe Club": {
-      "home": "Tokushima Celeste",
-      "away": "Kawazoe Club",
-      "event_id": "9949412",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787137309.2227259
-    },
-    "Src Hiroshima|Maruyasu Okazaki": {
-      "home": "Src Hiroshima",
-      "away": "Maruyasu Okazaki",
-      "event_id": "9949416",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787137336.3228688
-    },
     "APIA Tigers|Melbourne Victory": {
       "home": "APIA Tigers",
       "away": "Melbourne Victory",
@@ -105,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            7.8,
-            1.72
+            11.0,
+            1.03
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -117,7 +25,99 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787137368.5906658
+      "last_checked": 1787140691.4170814
+    },
+    "Gainare Tottori|Roasso Kumamoto": {
+      "home": "Gainare Tottori",
+      "away": "Roasso Kumamoto",
+      "event_id": "9949423",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787140717.935525
+    },
+    "Giravanz Kitakyushu|Okinawa": {
+      "home": "Giravanz Kitakyushu",
+      "away": "Okinawa",
+      "event_id": "9949426",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787140744.5145147
+    },
+    "Veroskronos Tsuno|Kamatamare Sanuki": {
+      "home": "Veroskronos Tsuno",
+      "away": "Kamatamare Sanuki",
+      "event_id": "9949427",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787140771.2196383
+    },
+    "Kagoshima Utd|Renofa Yamaguchi": {
+      "home": "Kagoshima Utd",
+      "away": "Renofa Yamaguchi",
+      "event_id": "9949429",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787140797.940273
     }
   }
 }

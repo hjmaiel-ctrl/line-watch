@@ -628,5 +628,17 @@
     "match": "Fenerbahce Istanbul - Lyon",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.63 a 2.2 (35.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "APIA Tigers - Melbourne Victory",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 7.8 a 11.0 (41.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "APIA Tigers - Melbourne Victory",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 1.72 a 1.03 (67.0%)"
   }
 ]
