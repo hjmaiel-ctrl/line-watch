@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Niki Volos FC|Panionios GSS": {
-      "home": "Niki Volos FC",
-      "away": "Panionios GSS",
-      "event_id": "9952650",
+    "Jeddah Club|Al-Kholood Club": {
+      "home": "Jeddah Club",
+      "away": "Al-Kholood Club",
+      "event_id": "9952787",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787148486.180694
+      "last_checked": 1787158919.592359
     },
-    "Zakynthos FC|Kifisia FC": {
-      "home": "Zakynthos FC",
-      "away": "Kifisia FC",
-      "event_id": "9952652",
+    "Panserraikos|Panthrakikos": {
+      "home": "Panserraikos",
+      "away": "Panthrakikos",
+      "event_id": "9952733",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787148512.7409558
+      "last_checked": 1787158946.7557876
     },
-    "Nestos Chrysoupoli FC|Apollon Kalamarias": {
-      "home": "Nestos Chrysoupoli FC",
-      "away": "Apollon Kalamarias",
-      "event_id": "9952654",
+    "Krasava ENY|AEL Limassol": {
+      "home": "Krasava ENY",
+      "away": "AEL Limassol",
+      "event_id": "9952712",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787148539.3778365
+      "last_checked": 1787158973.9206522
     },
-    "Bea Mountain FC|Watanga": {
-      "home": "Bea Mountain FC",
-      "away": "Watanga",
-      "event_id": "9952655",
+    "Paynesville FC|Discoveries Sa": {
+      "home": "Paynesville FC",
+      "away": "Discoveries Sa",
+      "event_id": "9952719",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787148566.0355628
+      "last_checked": 1787159001.0658572
     },
-    "FK Altay|FC Ordabasy": {
-      "home": "FK Altay",
-      "away": "FC Ordabasy",
-      "event_id": "9952630",
+    "Rayon Sports|AlAhly Wad Madani SC": {
+      "home": "Rayon Sports",
+      "away": "AlAhly Wad Madani SC",
+      "event_id": "9952728",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787148592.6636212
+      "last_checked": 1787159028.1909633
     }
   }
 }
