@@ -1,192 +1,5 @@
 {
   "matches": {
-    "Celtic|LASK Linz": {
-      "home": "Celtic",
-      "away": "LASK Linz",
-      "event_id": "9855420",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.48,
-              2.48
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.48,
-                "under": 2.48
-              },
-              {
-                "line": 8.5,
-                "over": 1.8,
-                "under": 1.9
-              },
-              {
-                "line": 9.5,
-                "over": 2.3,
-                "under": 1.55
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.84,
-              1.83
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.84,
-                "under": 1.83
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787166915.5495102
-    },
-    "Hapoel Beer Sheva|Sabah Masazir": {
-      "home": "Hapoel Beer Sheva",
-      "away": "Sabah Masazir",
-      "event_id": "9908504",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.5,
-              2.42
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.5,
-                "under": 2.42
-              },
-              {
-                "line": 8.5,
-                "over": 1.87,
-                "under": 1.83
-              },
-              {
-                "line": 9.5,
-                "over": 2.44,
-                "under": 1.49
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              2.06,
-              1.65
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 2.06,
-                "under": 1.65
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787166939.1106727
-    },
-    "Nijmegen|Bodoe/Glimt": {
-      "home": "Nijmegen",
-      "away": "Bodoe/Glimt",
-      "event_id": "9908525",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.56,
-              2.26
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.56,
-                "under": 2.26
-              },
-              {
-                "line": 9.5,
-                "over": 1.94,
-                "under": 1.77
-              },
-              {
-                "line": 10.5,
-                "over": 2.5,
-                "under": 1.47
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787166964.6018329
-    },
-    "Slovan Bratislava|Celje": {
-      "home": "Slovan Bratislava",
-      "away": "Celje",
-      "event_id": "9908528",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787166991.4817574
-    },
     "Atl. Madrid|Malaga": {
       "home": "Atl. Madrid",
       "away": "Malaga",
@@ -194,44 +7,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.47,
-              2.5
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.47,
-                "under": 2.5
-              },
-              {
-                "line": 8.5,
-                "over": 1.78,
-                "under": 1.93
-              },
-              {
-                "line": 9.5,
-                "over": 2.26,
-                "under": 1.57
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.66,
-              2.06
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.66,
-                "under": 2.06
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -244,7 +21,122 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787167014.8832483
+      "last_checked": 1787173547.9119077
+    },
+    "Águilas Doradas|Llaneros FC Villavicencio": {
+      "home": "Águilas Doradas",
+      "away": "Llaneros FC Villavicencio",
+      "event_id": "9952919",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.45,
+              2.5
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 8.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 9.5,
+                "over": 2.2,
+                "under": 1.57
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787173572.6019094
+    },
+    "KV Vesturbaejar|Augnablik": {
+      "home": "KV Vesturbaejar",
+      "away": "Augnablik",
+      "event_id": "9952903",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787173599.1282368
+    },
+    "Paraguari AC|Club Sportivo Luqueño": {
+      "home": "Paraguari AC",
+      "away": "Club Sportivo Luqueño",
+      "event_id": "9952907",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787173625.75516
+    },
+    "Atlético El Vigía|Real Frontera": {
+      "home": "Atlético El Vigía",
+      "away": "Real Frontera",
+      "event_id": "9952909",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787173652.2473428
     }
   }
 }
