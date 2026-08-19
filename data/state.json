@@ -1,5 +1,28 @@
 {
   "matches": {
+    "Dhamk|Al-Taawoun Buraidah": {
+      "home": "Dhamk",
+      "away": "Al-Taawoun Buraidah",
+      "event_id": "9952765",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787162288.2079248
+    },
     "Jeddah Club|Al-Kholood Club": {
       "home": "Jeddah Club",
       "away": "Al-Kholood Club",
@@ -21,53 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787158919.592359
-    },
-    "Panserraikos|Panthrakikos": {
-      "home": "Panserraikos",
-      "away": "Panthrakikos",
-      "event_id": "9952733",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787158946.7557876
-    },
-    "Krasava ENY|AEL Limassol": {
-      "home": "Krasava ENY",
-      "away": "AEL Limassol",
-      "event_id": "9952712",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787158973.9206522
+      "last_checked": 1787162314.8820736
     },
     "Paynesville FC|Discoveries Sa": {
       "home": "Paynesville FC",
@@ -80,7 +57,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            3.6,
+            1.85
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787159001.0658572
+      "last_checked": 1787162346.7151356
     },
     "Rayon Sports|AlAhly Wad Madani SC": {
       "home": "Rayon Sports",
@@ -113,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787159028.1909633
+      "last_checked": 1787162373.2597237
+    },
+    "Sammaurese Calcio|Tre Penne": {
+      "home": "Sammaurese Calcio",
+      "away": "Tre Penne",
+      "event_id": "9952777",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787162399.8126366
     }
   }
 }
