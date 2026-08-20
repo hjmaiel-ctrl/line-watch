@@ -1,14 +1,50 @@
 {
   "matches": {
-    "Real Santander|Barranquilla FC": {
-      "home": "Real Santander",
-      "away": "Barranquilla FC",
-      "event_id": "9960297",
+    "LDU Quito|Mirassol SP": {
+      "home": "LDU Quito",
+      "away": "Mirassol SP",
+      "event_id": "9960577",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.31,
+              3.15
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.31,
+                "under": 3.15
+              },
+              {
+                "line": 7.5,
+                "over": 1.66,
+                "under": 2.1
+              },
+              {
+                "line": 8.5,
+                "over": 2.24,
+                "under": 1.57
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.94,
+              1.74
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.94,
+                "under": 1.74
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -21,16 +57,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787263120.6756313
+      "last_checked": 1787266898.6343138
     },
-    "Árborg|Hamar Hveragerði": {
-      "home": "Árborg",
-      "away": "Hamar Hveragerði",
-      "event_id": "9960288",
+    "Deportivo Macara|Santos FC": {
+      "home": "Deportivo Macara",
+      "away": "Santos FC",
+      "event_id": "9960590",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.3,
+              3.1
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.3,
+                "under": 3.1
+              },
+              {
+                "line": 9.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 10.5,
+                "over": 2.3,
+                "under": 1.52
+              },
+              {
+                "line": 11.5,
+                "over": 3.5,
+                "under": 1.22
+              },
+              {
+                "line": 12.5,
+                "over": 5.0,
+                "under": 1.12
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,24 +113,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787263147.3368127
+      "last_checked": 1787266923.4326427
     },
-    "Úlfarnir|KFR": {
-      "home": "Úlfarnir",
-      "away": "KFR",
-      "event_id": "9960294",
+    "Club Olimpia|Vasco da Gama": {
+      "home": "Club Olimpia",
+      "away": "Vasco da Gama",
+      "event_id": "9960591",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 12.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 12.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 13.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 14.5,
+                "over": 1.82,
+                "under": 1.85
+              },
+              {
+                "line": 15.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 16.5,
+                "over": 3.25,
+                "under": 1.28
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            32.0,
-            13.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -71,12 +169,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787263179.3033226
+      "last_checked": 1787266947.8361666
     },
-    "IH Hafnarfjördur|Elliði": {
-      "home": "IH Hafnarfjördur",
-      "away": "Elliði",
-      "event_id": "9960295",
+    "Athletic Club MG|CRB": {
+      "home": "Athletic Club MG",
+      "away": "CRB",
+      "event_id": "9961581",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -94,12 +192,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787263206.1202207
+      "last_checked": 1787266974.2439196
     },
-    "CD Cuenca Jrs|Gualaceo SC": {
-      "home": "CD Cuenca Jrs",
-      "away": "Gualaceo SC",
-      "event_id": "9960298",
+    "Leones FC|Real Cundinamarca": {
+      "home": "Leones FC",
+      "away": "Real Cundinamarca",
+      "event_id": "9961579",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +215,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787263232.9585183
+      "last_checked": 1787267000.4097376
     }
   }
 }
