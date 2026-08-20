@@ -1,27 +1,37 @@
 {
   "matches": {
-    "Mjallby|Salzburg": {
-      "home": "Mjallby",
-      "away": "Salzburg",
-      "event_id": "9919480",
+    "St. Truidense|AC Omonia Nicosia": {
+      "home": "St. Truidense",
+      "away": "AC Omonia Nicosia",
+      "event_id": "9916244",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": {
+          "CORNERS_OU": {
             "line": 2.5,
             "odds": [
-              1.5,
-              2.32
+              1.44,
+              2.46
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.5,
-                "under": 2.32
+                "over": 1.44,
+                "under": 2.46
+              },
+              {
+                "line": 3.5,
+                "over": 2.02,
+                "under": 1.65
+              },
+              {
+                "line": 4.5,
+                "over": 3.05,
+                "under": 1.29
               }
             ]
-          }
+          },
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -34,36 +44,31 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787246190.4220898
+      "last_checked": 1787253552.3691618
     },
-    "CS Universitatea Craiova|Ararat-Armenia": {
-      "home": "CS Universitatea Craiova",
-      "away": "Ararat-Armenia",
-      "event_id": "9922979",
+    "OFI Crete|CSKA Sofia": {
+      "home": "OFI Crete",
+      "away": "CSKA Sofia",
+      "event_id": "9916245",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.44,
-              2.48
+              1.46,
+              2.36
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.44,
-                "under": 2.48
+                "over": 1.46,
+                "under": 2.36
               },
               {
                 "line": 7.5,
-                "over": 1.76,
-                "under": 1.88
-              },
-              {
-                "line": 8.5,
-                "over": 2.26,
-                "under": 1.52
+                "over": 2.06,
+                "under": 1.61
               }
             ]
           },
@@ -80,168 +85,50 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787246215.6798978
+      "last_checked": 1787253577.5682786
     },
-    "Jagiellonia Bialystok|FC Iberia 1999": {
-      "home": "Jagiellonia Bialystok",
-      "away": "FC Iberia 1999",
-      "event_id": "9922980",
+    "Crvena Zvezda|Viktoria Plzen": {
+      "home": "Crvena Zvezda",
+      "away": "Viktoria Plzen",
+      "event_id": "9917000",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.37,
-              2.7
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.37,
-                "under": 2.7
-              },
-              {
-                "line": 8.5,
-                "over": 1.88,
-                "under": 1.76
-              },
-              {
-                "line": 9.5,
-                "over": 2.78,
-                "under": 1.35
-              }
-            ]
-          },
-          "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.8,
-              1.83
+              1.4,
+              2.6
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.8,
-                "under": 1.83
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787246239.4320922
-    },
-    "Besiktas|Kauno Zalgiris": {
-      "home": "Besiktas",
-      "away": "Kauno Zalgiris",
-      "event_id": "9923197",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.42,
-              2.52
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.42,
-                "under": 2.52
+                "over": 1.4,
+                "under": 2.6
               },
               {
-                "line": 10.5,
-                "over": 1.73,
-                "under": 1.91
+                "line": 5.5,
+                "over": 1.94,
+                "under": 1.71
               },
               {
-                "line": 11.5,
-                "over": 2.22,
-                "under": 1.54
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.85,
-              1.79
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.85,
-                "under": 1.79
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787246262.9779718
-    },
-    "KKS Lech Poznan|Thun": {
-      "home": "KKS Lech Poznan",
-      "away": "Thun",
-      "event_id": "9940151",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.59,
-              2.12
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.59,
-                "under": 2.12
-              },
-              {
-                "line": 11.5,
-                "over": 1.97,
-                "under": 1.69
-              },
-              {
-                "line": 12.5,
-                "over": 2.56,
-                "under": 1.41
+                "line": 6.5,
+                "over": 2.9,
+                "under": 1.33
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.59,
-              2.12
+              1.55,
+              2.2
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.59,
-                "under": 2.12
+                "over": 1.55,
+                "under": 2.2
               }
             ]
           }
@@ -257,7 +144,89 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787246286.2703736
+      "last_checked": 1787253600.9927719
+    },
+    "Benfica|Aarhus": {
+      "home": "Benfica",
+      "away": "Aarhus",
+      "event_id": "9923198",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.54,
+              2.22
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.54,
+                "under": 2.22
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787253626.2106245
+    },
+    "Atalanta|Hapoel Tel Aviv": {
+      "home": "Atalanta",
+      "away": "Hapoel Tel Aviv",
+      "event_id": "9913167",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.42,
+              2.52
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.42,
+                "under": 2.52
+              },
+              {
+                "line": 6.5,
+                "over": 1.87,
+                "under": 1.77
+              },
+              {
+                "line": 7.5,
+                "over": 2.62,
+                "under": 1.39
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787253651.344102
     }
   }
 }
