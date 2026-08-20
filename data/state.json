@@ -1,47 +1,24 @@
 {
   "matches": {
-    "FC Kairat Almaty|Anderlecht": {
-      "home": "FC Kairat Almaty",
-      "away": "Anderlecht",
-      "event_id": "9954076",
+    "Mjallby|Salzburg": {
+      "home": "Mjallby",
+      "away": "Salzburg",
+      "event_id": "9919480",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.35,
-              2.8
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.35,
-                "under": 2.8
-              },
-              {
-                "line": 11.5,
-                "over": 1.73,
-                "under": 1.92
-              },
-              {
-                "line": 12.5,
-                "over": 2.38,
-                "under": 1.47
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
-            "line": 5.5,
+            "line": 2.5,
             "odds": [
-              2.04,
-              1.64
+              1.5,
+              2.32
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 2.04,
-                "under": 1.64
+                "line": 2.5,
+                "over": 1.5,
+                "under": 2.32
               }
             ]
           }
@@ -57,43 +34,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787241631.7007644
+      "last_checked": 1787246190.4220898
     },
-    "CSA Steaua Bucuresti|FC Csikszereda Miercurea Ciuc": {
-      "home": "CSA Steaua Bucuresti",
-      "away": "FC Csikszereda Miercurea Ciuc",
-      "event_id": "9960038",
+    "CS Universitatea Craiova|Ararat-Armenia": {
+      "home": "CS Universitatea Craiova",
+      "away": "Ararat-Armenia",
+      "event_id": "9922979",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            5.7,
-            1.85
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787241663.5128238
-    },
-    "Xorazm Urganch|Lokomotiv Tashkent": {
-      "home": "Xorazm Urganch",
-      "away": "Lokomotiv Tashkent",
-      "event_id": "9960041",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.44,
+              2.48
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.44,
+                "under": 2.48
+              },
+              {
+                "line": 7.5,
+                "over": 1.76,
+                "under": 1.88
+              },
+              {
+                "line": 8.5,
+                "over": 2.26,
+                "under": 1.52
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -107,17 +80,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787241690.0558257
+      "last_checked": 1787246215.6798978
     },
-    "Al-Wakra|Qatar SC": {
-      "home": "Al-Wakra",
-      "away": "Qatar SC",
-      "event_id": "9960045",
+    "Jagiellonia Bialystok|FC Iberia 1999": {
+      "home": "Jagiellonia Bialystok",
+      "away": "FC Iberia 1999",
+      "event_id": "9922980",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.37,
+              2.7
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.37,
+                "under": 2.7
+              },
+              {
+                "line": 8.5,
+                "over": 1.88,
+                "under": 1.76
+              },
+              {
+                "line": 9.5,
+                "over": 2.78,
+                "under": 1.35
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.8,
+              1.83
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.8,
+                "under": 1.83
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -130,17 +139,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787241716.7260096
+      "last_checked": 1787246239.4320922
     },
-    "CSC 1599 Selimbar|FC Botosani": {
-      "home": "CSC 1599 Selimbar",
-      "away": "FC Botosani",
-      "event_id": "9960046",
+    "Besiktas|Kauno Zalgiris": {
+      "home": "Besiktas",
+      "away": "Kauno Zalgiris",
+      "event_id": "9923197",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.42,
+              2.52
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.42,
+                "under": 2.52
+              },
+              {
+                "line": 10.5,
+                "over": 1.73,
+                "under": 1.91
+              },
+              {
+                "line": 11.5,
+                "over": 2.22,
+                "under": 1.54
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.85,
+              1.79
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.85,
+                "under": 1.79
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -153,7 +198,66 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787241743.3303013
+      "last_checked": 1787246262.9779718
+    },
+    "KKS Lech Poznan|Thun": {
+      "home": "KKS Lech Poznan",
+      "away": "Thun",
+      "event_id": "9940151",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.59,
+              2.12
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.59,
+                "under": 2.12
+              },
+              {
+                "line": 11.5,
+                "over": 1.97,
+                "under": 1.69
+              },
+              {
+                "line": 12.5,
+                "over": 2.56,
+                "under": 1.41
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.59,
+              2.12
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.59,
+                "under": 2.12
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787246286.2703736
     }
   }
 }
