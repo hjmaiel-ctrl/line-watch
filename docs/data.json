@@ -1,149 +1,6 @@
 {
-  "generated_at": 1787253651.3900144,
+  "generated_at": 1787259272.5313218,
   "matches": [
-    {
-      "match": "St. Truidense - AC Omonia Nicosia",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.44,
-              2.46
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.44,
-                "under": 2.46
-              },
-              {
-                "line": 3.5,
-                "over": 2.02,
-                "under": 1.65
-              },
-              {
-                "line": 4.5,
-                "over": 3.05,
-                "under": 1.29
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "OFI Crete - CSKA Sofia",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.46,
-              2.36
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.46,
-                "under": 2.36
-              },
-              {
-                "line": 7.5,
-                "over": 2.06,
-                "under": 1.61
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Crvena Zvezda - Viktoria Plzen",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.4,
-              2.6
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.4,
-                "under": 2.6
-              },
-              {
-                "line": 5.5,
-                "over": 1.94,
-                "under": 1.71
-              },
-              {
-                "line": 6.5,
-                "over": 2.9,
-                "under": 1.33
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.55,
-              2.2
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.55,
-                "under": 2.2
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Benfica - Aarhus",
       "bet9ja_stats": null,
@@ -151,20 +8,7 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.54,
-              2.22
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.54,
-                "under": 2.22
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -180,35 +24,78 @@
       "alerts": []
     },
     {
-      "match": "Atalanta - Hapoel Tel Aviv",
+      "match": "Getafe - Partizan",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.42,
-              2.52
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.42,
-                "under": 2.52
-              },
-              {
-                "line": 6.5,
-                "over": 1.87,
-                "under": 1.77
-              },
-              {
-                "line": 7.5,
-                "over": 2.62,
-                "under": 1.39
-              }
-            ]
-          },
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Hajduk Split - RKS Rakow Czestochowa",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Dinamo Tirana - Pafos",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Braga - Austria Vienna",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {

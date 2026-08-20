@@ -1,151 +1,5 @@
 {
   "matches": {
-    "St. Truidense|AC Omonia Nicosia": {
-      "home": "St. Truidense",
-      "away": "AC Omonia Nicosia",
-      "event_id": "9916244",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.44,
-              2.46
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.44,
-                "under": 2.46
-              },
-              {
-                "line": 3.5,
-                "over": 2.02,
-                "under": 1.65
-              },
-              {
-                "line": 4.5,
-                "over": 3.05,
-                "under": 1.29
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787253552.3691618
-    },
-    "OFI Crete|CSKA Sofia": {
-      "home": "OFI Crete",
-      "away": "CSKA Sofia",
-      "event_id": "9916245",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.46,
-              2.36
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.46,
-                "under": 2.36
-              },
-              {
-                "line": 7.5,
-                "over": 2.06,
-                "under": 1.61
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787253577.5682786
-    },
-    "Crvena Zvezda|Viktoria Plzen": {
-      "home": "Crvena Zvezda",
-      "away": "Viktoria Plzen",
-      "event_id": "9917000",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.4,
-              2.6
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.4,
-                "under": 2.6
-              },
-              {
-                "line": 5.5,
-                "over": 1.94,
-                "under": 1.71
-              },
-              {
-                "line": 6.5,
-                "over": 2.9,
-                "under": 1.33
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.55,
-              2.2
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.55,
-                "under": 2.2
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787253600.9927719
-    },
     "Benfica|Aarhus": {
       "home": "Benfica",
       "away": "Aarhus",
@@ -154,20 +8,7 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.54,
-              2.22
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.54,
-                "under": 2.22
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -180,39 +21,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787253626.2106245
+      "last_checked": 1787259165.3800783
     },
-    "Atalanta|Hapoel Tel Aviv": {
-      "home": "Atalanta",
-      "away": "Hapoel Tel Aviv",
-      "event_id": "9913167",
+    "Getafe|Partizan": {
+      "home": "Getafe",
+      "away": "Partizan",
+      "event_id": "9916247",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.42,
-              2.52
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.42,
-                "under": 2.52
-              },
-              {
-                "line": 6.5,
-                "over": 1.87,
-                "under": 1.77
-              },
-              {
-                "line": 7.5,
-                "over": 2.62,
-                "under": 1.39
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -226,7 +44,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787253651.344102
+      "last_checked": 1787259192.1274529
+    },
+    "Hajduk Split|RKS Rakow Czestochowa": {
+      "home": "Hajduk Split",
+      "away": "RKS Rakow Czestochowa",
+      "event_id": "9923202",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787259219.018032
+    },
+    "Dinamo Tirana|Pafos": {
+      "home": "Dinamo Tirana",
+      "away": "Pafos",
+      "event_id": "9923205",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787259245.7900143
+    },
+    "Braga|Austria Vienna": {
+      "home": "Braga",
+      "away": "Austria Vienna",
+      "event_id": "9923206",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787259272.4906201
     }
   }
 }
