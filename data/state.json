@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787223820.0906641
+      "last_checked": 1787227337.0016396
     },
-    "Paro FC|RTC FC": {
-      "home": "Paro FC",
-      "away": "RTC FC",
-      "event_id": "9955732",
+    "Red Arrows|Power Dynamos": {
+      "home": "Red Arrows",
+      "away": "Power Dynamos",
+      "event_id": "9955737",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787223846.6183326
+      "last_checked": 1787227364.0533373
     },
-    "FC Elva|Maardu Linnameeskond": {
-      "home": "FC Elva",
-      "away": "Maardu Linnameeskond",
-      "event_id": "9955728",
+    "Dinaz Vyshgorod|FSK Mariupol": {
+      "home": "Dinaz Vyshgorod",
+      "away": "FSK Mariupol",
+      "event_id": "9955726",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -59,8 +59,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.86,
-            1.81
+            29.0,
+            7.5
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -71,12 +71,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787223878.3399236
+      "last_checked": 1787227396.4099507
     },
-    "Aryan FC|Measurers Club": {
-      "home": "Aryan FC",
-      "away": "Measurers Club",
-      "event_id": "9955729",
+    "Yelimay Semey U21|FK Aktobe U21": {
+      "home": "Yelimay Semey U21",
+      "away": "FK Aktobe U21",
+      "event_id": "9955742",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -94,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787223905.0129414
+      "last_checked": 1787227423.6415129
     },
-    "Phnom Penh Crown Women|Kaya Fc Women": {
-      "home": "Phnom Penh Crown Women",
-      "away": "Kaya Fc Women",
-      "event_id": "9955731",
+    "Tartu JK Welco|Tallinna FC Levadia U21": {
+      "home": "Tartu JK Welco",
+      "away": "Tallinna FC Levadia U21",
+      "event_id": "9955746",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787223931.594496
+      "last_checked": 1787227450.8614194
     }
   }
 }
