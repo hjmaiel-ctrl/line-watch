@@ -1,21 +1,53 @@
 {
   "matches": {
-    "Polisi Tanzania|JKT Tanzania": {
-      "home": "Polisi Tanzania",
-      "away": "JKT Tanzania",
-      "event_id": "9960024",
+    "FC Kairat Almaty|Anderlecht": {
+      "home": "FC Kairat Almaty",
+      "away": "Anderlecht",
+      "event_id": "9954076",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.35,
+              2.8
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.35,
+                "under": 2.8
+              },
+              {
+                "line": 11.5,
+                "over": 1.73,
+                "under": 1.92
+              },
+              {
+                "line": 12.5,
+                "over": 2.38,
+                "under": 1.47
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 5.5,
+            "odds": [
+              2.04,
+              1.64
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 2.04,
+                "under": 1.64
+              }
+            ]
+          }
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.27,
-            4.4
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -25,30 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787235659.65052
-    },
-    "Bunyodkor|FK Kokand 1912": {
-      "home": "Bunyodkor",
-      "away": "FK Kokand 1912",
-      "event_id": "9960034",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787235686.6043253
+      "last_checked": 1787241631.7007644
     },
     "CSA Steaua Bucuresti|FC Csikszereda Miercurea Ciuc": {
       "home": "CSA Steaua Bucuresti",
@@ -61,6 +70,33 @@
           "CARDS_OU": null
         },
         "sportybet": {
+          "1X2": [
+            2.4,
+            5.7,
+            1.85
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787241663.5128238
+    },
+    "Xorazm Urganch|Lokomotiv Tashkent": {
+      "home": "Xorazm Urganch",
+      "away": "Lokomotiv Tashkent",
+      "event_id": "9960041",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -71,7 +107,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787235713.4383998
+      "last_checked": 1787241690.0558257
     },
     "Al-Wakra|Qatar SC": {
       "home": "Al-Wakra",
@@ -94,12 +130,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787235740.209965
+      "last_checked": 1787241716.7260096
     },
-    "Jurong FC Women|New Taipei Hang Yuen Women": {
-      "home": "Jurong FC Women",
-      "away": "New Taipei Hang Yuen Women",
-      "event_id": "9955763",
+    "CSC 1599 Selimbar|FC Botosani": {
+      "home": "CSC 1599 Selimbar",
+      "away": "FC Botosani",
+      "event_id": "9960046",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +153,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787235766.91087
+      "last_checked": 1787241743.3303013
     }
   }
 }

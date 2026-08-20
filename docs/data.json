@@ -1,40 +1,50 @@
 {
-  "generated_at": 1787235766.960525,
+  "generated_at": 1787241743.3850152,
   "matches": [
     {
-      "match": "Polisi Tanzania - JKT Tanzania",
+      "match": "FC Kairat Almaty - Anderlecht",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.27,
-            4.4
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Bunyodkor - FK Kokand 1912",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.35,
+              2.8
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.35,
+                "under": 2.8
+              },
+              {
+                "line": 11.5,
+                "over": 1.73,
+                "under": 1.92
+              },
+              {
+                "line": 12.5,
+                "over": 2.38,
+                "under": 1.47
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 5.5,
+            "odds": [
+              2.04,
+              1.64
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 2.04,
+                "under": 1.64
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -51,6 +61,32 @@
     },
     {
       "match": "CSA Steaua Bucuresti - FC Csikszereda Miercurea Ciuc",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            5.7,
+            1.85
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Xorazm Urganch - Lokomotiv Tashkent",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -94,7 +130,7 @@
       "alerts": []
     },
     {
-      "match": "Jurong FC Women - New Taipei Hang Yuen Women",
+      "match": "CSC 1599 Selimbar - FC Botosani",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
