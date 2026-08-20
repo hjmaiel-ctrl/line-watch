@@ -664,5 +664,95 @@
     "match": "Seattle Sounders - Austin FC",
     "market": "CARDS_OU",
     "detail": "bet9ja=1.6 vs sportybet=2.2 (esito #2, differenza 37.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Sunderland - Z.Hull City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Sunderland - Z.Hull City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.23 a 1.03 (19.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Sunderland - Z.Hull City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.25 a 13.5 (217.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Brighton - Z.Everton",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Brighton - Z.Everton",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.21 a 1.04 (16.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Brighton - Z.Everton",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.5 a 13.0 (188.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Coventry City - Z.Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Coventry City - Z.Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.18 a 1.03 (14.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Coventry City - Z.Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.75 a 13.5 (184.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Nottingham Forest - Z.Bournemouth",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 11.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Nottingham Forest - Z.Bournemouth",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.23 a 1.04 (18.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Nottingham Forest - Z.Bournemouth",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.2 a 13.0 (209.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Brentford - Z.Crystal Palace",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Brentford - Z.Crystal Palace",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.19 a 1.04 (14.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Brentford - Z.Crystal Palace",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.7 a 12.0 (155.3%)"
   }
 ]
