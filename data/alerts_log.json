@@ -640,5 +640,29 @@
     "match": "APIA Tigers - Melbourne Victory",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 1.72 a 1.03 (67.0%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Seattle Sounders - Austin FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=1.31 vs sportybet=2.4 (esito #1, differenza 83.2%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Seattle Sounders - Austin FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=3.05 vs sportybet=1.32 (esito #2, differenza 131.1%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Seattle Sounders - Austin FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja=2.1 vs sportybet=2.4 (esito #1, differenza 14.3%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Seattle Sounders - Austin FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja=1.6 vs sportybet=2.2 (esito #2, differenza 37.5%)"
   }
 ]
