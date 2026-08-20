@@ -1,8 +1,8 @@
 {
-  "generated_at": 1787259272.5313218,
+  "generated_at": 1787263232.997801,
   "matches": [
     {
-      "match": "Benfica - Aarhus",
+      "match": "Real Santander - Barranquilla FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Getafe - Partizan",
+      "match": "Árborg - Hamar Hveragerði",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -46,7 +46,33 @@
       "alerts": []
     },
     {
-      "match": "Hajduk Split - RKS Rakow Czestochowa",
+      "match": "Úlfarnir - KFR",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            32.0,
+            13.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "IH Hafnarfjördur - Elliði",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -68,29 +94,7 @@
       "alerts": []
     },
     {
-      "match": "Dinamo Tirana - Pafos",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Braga - Austria Vienna",
+      "match": "CD Cuenca Jrs - Gualaceo SC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

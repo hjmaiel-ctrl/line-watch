@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Benfica|Aarhus": {
-      "home": "Benfica",
-      "away": "Aarhus",
-      "event_id": "9923198",
+    "Real Santander|Barranquilla FC": {
+      "home": "Real Santander",
+      "away": "Barranquilla FC",
+      "event_id": "9960297",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787259165.3800783
+      "last_checked": 1787263120.6756313
     },
-    "Getafe|Partizan": {
-      "home": "Getafe",
-      "away": "Partizan",
-      "event_id": "9916247",
+    "Árborg|Hamar Hveragerði": {
+      "home": "Árborg",
+      "away": "Hamar Hveragerði",
+      "event_id": "9960288",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787259192.1274529
+      "last_checked": 1787263147.3368127
     },
-    "Hajduk Split|RKS Rakow Czestochowa": {
-      "home": "Hajduk Split",
-      "away": "RKS Rakow Czestochowa",
-      "event_id": "9923202",
+    "Úlfarnir|KFR": {
+      "home": "Úlfarnir",
+      "away": "KFR",
+      "event_id": "9960294",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -57,7 +57,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            32.0,
+            13.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -67,12 +71,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787259219.018032
+      "last_checked": 1787263179.3033226
     },
-    "Dinamo Tirana|Pafos": {
-      "home": "Dinamo Tirana",
-      "away": "Pafos",
-      "event_id": "9923205",
+    "IH Hafnarfjördur|Elliði": {
+      "home": "IH Hafnarfjördur",
+      "away": "Elliði",
+      "event_id": "9960295",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787259245.7900143
+      "last_checked": 1787263206.1202207
     },
-    "Braga|Austria Vienna": {
-      "home": "Braga",
-      "away": "Austria Vienna",
-      "event_id": "9923206",
+    "CD Cuenca Jrs|Gualaceo SC": {
+      "home": "CD Cuenca Jrs",
+      "away": "Gualaceo SC",
+      "event_id": "9960298",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787259272.4906201
+      "last_checked": 1787263232.9585183
     }
   }
 }
