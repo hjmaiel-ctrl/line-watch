@@ -1,176 +1,5 @@
 {
   "matches": {
-    "LDU Quito|Mirassol SP": {
-      "home": "LDU Quito",
-      "away": "Mirassol SP",
-      "event_id": "9960577",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.31,
-              3.15
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.31,
-                "under": 3.15
-              },
-              {
-                "line": 7.5,
-                "over": 1.66,
-                "under": 2.1
-              },
-              {
-                "line": 8.5,
-                "over": 2.24,
-                "under": 1.57
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.94,
-              1.74
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.94,
-                "under": 1.74
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787266898.6343138
-    },
-    "Deportivo Macara|Santos FC": {
-      "home": "Deportivo Macara",
-      "away": "Santos FC",
-      "event_id": "9960590",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.3,
-              3.1
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.3,
-                "under": 3.1
-              },
-              {
-                "line": 9.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 10.5,
-                "over": 2.3,
-                "under": 1.52
-              },
-              {
-                "line": 11.5,
-                "over": 3.5,
-                "under": 1.22
-              },
-              {
-                "line": 12.5,
-                "over": 5.0,
-                "under": 1.12
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787266923.4326427
-    },
-    "Club Olimpia|Vasco da Gama": {
-      "home": "Club Olimpia",
-      "away": "Vasco da Gama",
-      "event_id": "9960591",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 13.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
-                "line": 14.5,
-                "over": 1.82,
-                "under": 1.85
-              },
-              {
-                "line": 15.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 16.5,
-                "over": 3.25,
-                "under": 1.28
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787266947.8361666
-    },
     "Athletic Club MG|CRB": {
       "home": "Athletic Club MG",
       "away": "CRB",
@@ -192,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787266974.2439196
+      "last_checked": 1787270290.7149284
     },
-    "Leones FC|Real Cundinamarca": {
-      "home": "Leones FC",
-      "away": "Real Cundinamarca",
-      "event_id": "9961579",
+    "Gremio Novorizontino|América-MG": {
+      "home": "Gremio Novorizontino",
+      "away": "América-MG",
+      "event_id": "9961586",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -215,7 +44,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787267000.4097376
+      "last_checked": 1787270317.7268548
+    },
+    "Real Cartagena|Bogotá F.C.": {
+      "home": "Real Cartagena",
+      "away": "Bogotá F.C.",
+      "event_id": "9961582",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787270344.7648742
+    },
+    "Defence Force FC|SV Broki": {
+      "home": "Defence Force FC",
+      "away": "SV Broki",
+      "event_id": "9961580",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787270371.9731483
+    },
+    "Brasil De Farroupilha|União Frederiquense": {
+      "home": "Brasil De Farroupilha",
+      "away": "União Frederiquense",
+      "event_id": "9961583",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787270399.0588713
     }
   }
 }
