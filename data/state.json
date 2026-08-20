@@ -1,9 +1,9 @@
 {
   "matches": {
-    "No Limits Fc Women|Ayeyawady United FC Women": {
-      "home": "No Limits Fc Women",
-      "away": "Ayeyawady United FC Women",
-      "event_id": "9955727",
+    "Burapha United|Pattani": {
+      "home": "Burapha United",
+      "away": "Pattani",
+      "event_id": "9955735",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,7 +21,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787219807.4402127
+      "last_checked": 1787223820.0906641
+    },
+    "Paro FC|RTC FC": {
+      "home": "Paro FC",
+      "away": "RTC FC",
+      "event_id": "9955732",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787223846.6183326
     },
     "FC Elva|Maardu Linnameeskond": {
       "home": "FC Elva",
@@ -34,7 +57,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.86,
+            1.81
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787219833.9717956
+      "last_checked": 1787223878.3399236
     },
     "Aryan FC|Measurers Club": {
       "home": "Aryan FC",
@@ -67,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787219860.723834
+      "last_checked": 1787223905.0129414
     },
-    "ASOS Rainbow AC|Kalighat SL": {
-      "home": "ASOS Rainbow AC",
-      "away": "Kalighat SL",
-      "event_id": "9955730",
+    "Phnom Penh Crown Women|Kaya Fc Women": {
+      "home": "Phnom Penh Crown Women",
+      "away": "Kaya Fc Women",
+      "event_id": "9955731",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,63 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787219887.4005916
-    },
-    "Z.Chelsea|Z.Tottenham": {
-      "home": "Z.Chelsea",
-      "away": "Z.Tottenham",
-      "event_id": "9959287",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.19,
-              4.7
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.19,
-                "under": 4.7
-              },
-              {
-                "line": 9.5,
-                "over": 1.4,
-                "under": 2.95
-              },
-              {
-                "line": 10.5,
-                "over": 1.76,
-                "under": 2.05
-              },
-              {
-                "line": 11.5,
-                "over": 2.36,
-                "under": 1.59
-              },
-              {
-                "line": 12.5,
-                "over": 3.45,
-                "under": 1.31
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787219912.1459656
+      "last_checked": 1787223931.594496
     }
   }
 }

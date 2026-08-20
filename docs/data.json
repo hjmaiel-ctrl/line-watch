@@ -1,8 +1,30 @@
 {
-  "generated_at": 1787219912.1849644,
+  "generated_at": 1787223931.6393538,
   "matches": [
     {
-      "match": "No Limits Fc Women - Ayeyawady United FC Women",
+      "match": "Burapha United - Pattani",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Paro FC - RTC FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -33,7 +55,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.86,
+            1.81
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -68,67 +94,12 @@
       "alerts": []
     },
     {
-      "match": "ASOS Rainbow AC - Kalighat SL",
+      "match": "Phnom Penh Crown Women - Kaya Fc Women",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Z.Chelsea - Z.Tottenham",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.19,
-              4.7
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.19,
-                "under": 4.7
-              },
-              {
-                "line": 9.5,
-                "over": 1.4,
-                "under": 2.95
-              },
-              {
-                "line": 10.5,
-                "over": 1.76,
-                "under": 2.05
-              },
-              {
-                "line": 11.5,
-                "over": 2.36,
-                "under": 1.59
-              },
-              {
-                "line": 12.5,
-                "over": 3.45,
-                "under": 1.31
-              }
-            ]
-          },
           "CARDS_OU": null
         },
         "sportybet": {
