@@ -1,5 +1,202 @@
 {
   "matches": {
+    "Arsenal|Coventry City": {
+      "home": "Arsenal",
+      "away": "Coventry City",
+      "event_id": "9950317",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 10.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
+                "line": 11.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 12.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 13.5,
+                "over": 3.25,
+                "under": 1.28
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.6,
+              2.15
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.6,
+                "under": 2.15
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787339350.6896832
+    },
+    "Real Betis|Real Sociedad": {
+      "home": "Real Betis",
+      "away": "Real Sociedad",
+      "event_id": "9764073",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.42,
+              2.68
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.42,
+                "under": 2.68
+              },
+              {
+                "line": 9.5,
+                "over": 1.7,
+                "under": 2.04
+              },
+              {
+                "line": 10.5,
+                "over": 2.14,
+                "under": 1.64
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.86,
+              1.81
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.86,
+                "under": 1.81
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787339374.2537582
+    },
+    "Olympique Marseille|RC Strasbourg": {
+      "home": "Olympique Marseille",
+      "away": "RC Strasbourg",
+      "event_id": "9952928",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.25,
+              3.45
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 10.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 11.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 12.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 13.5,
+                "over": 3.65,
+                "under": 1.22
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              2.15,
+              1.6
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 2.15,
+                "under": 1.6
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787339397.6577938
+    },
     "Waldhof Mannheim|1. FC Kaiserslautern": {
       "home": "Waldhof Mannheim",
       "away": "1. FC Kaiserslautern",
@@ -7,37 +204,60 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787339424.9664278
+    },
+    "Erzurumspor FK|Galatasaray SK": {
+      "home": "Erzurumspor FK",
+      "away": "Galatasaray SK",
+      "event_id": "9964840",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 3.5,
             "odds": [
-              1.32,
-              3.0
+              1.12,
+              5.0
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.32,
-                "under": 3.0
+                "line": 3.5,
+                "over": 1.12,
+                "under": 5.0
               },
               {
-                "line": 12.5,
-                "over": 1.65,
-                "under": 2.05
+                "line": 4.5,
+                "over": 1.35,
+                "under": 2.85
               },
               {
-                "line": 13.5,
-                "over": 2.3,
-                "under": 1.52
+                "line": 5.5,
+                "over": 1.75,
+                "under": 1.92
               },
               {
-                "line": 14.5,
-                "over": 3.25,
-                "under": 1.28
+                "line": 6.5,
+                "over": 2.5,
+                "under": 1.45
               },
               {
-                "line": 15.5,
-                "over": 4.75,
-                "under": 1.13
+                "line": 7.5,
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
@@ -54,132 +274,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787332541.241919
-    },
-    "Preußen Münster|Karlsruher SC": {
-      "home": "Preußen Münster",
-      "away": "Karlsruher SC",
-      "event_id": "9964640",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.15,
-              4.5
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.15,
-                "under": 4.5
-              },
-              {
-                "line": 9.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
-                "line": 10.5,
-                "over": 1.92,
-                "under": 1.75
-              },
-              {
-                "line": 11.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 12.5,
-                "over": 4.25,
-                "under": 1.17
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787332566.0332563
-    },
-    "SC St. Tonis 11/20|Eintracht Frankfurt": {
-      "home": "SC St. Tonis 11/20",
-      "away": "Eintracht Frankfurt",
-      "event_id": "9964647",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787332592.673253
-    },
-    "Al-Riyadh|Al-Nassr Riyadh": {
-      "home": "Al-Riyadh",
-      "away": "Al-Nassr Riyadh",
-      "event_id": "9964638",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787332619.3377254
-    },
-    "Al-Hazem Saudi Club|Al Diriyah": {
-      "home": "Al-Hazem Saudi Club",
-      "away": "Al Diriyah",
-      "event_id": "9964645",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787332645.9423397
+      "last_checked": 1787339450.353757
     }
   }
 }
