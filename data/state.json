@@ -1,13 +1,36 @@
 {
   "matches": {
-    "Rubio Ñú|Club Sportivo Trinidense": {
-      "home": "Rubio Ñú",
-      "away": "Club Sportivo Trinidense",
-      "event_id": "9964893",
+    "Estudiantes Río Cuarto|San Lorenzo": {
+      "home": "Estudiantes Río Cuarto",
+      "away": "San Lorenzo",
+      "event_id": "9967002",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.47,
+              2.45
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 4.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 5.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -21,53 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787352960.3457308
-    },
-    "Jaguares de Córdoba|Boyacá Chicó": {
-      "home": "Jaguares de Córdoba",
-      "away": "Boyacá Chicó",
-      "event_id": "9964896",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787352987.168834
-    },
-    "Club Sol de América|Resistencia SC": {
-      "home": "Club Sol de América",
-      "away": "Resistencia SC",
-      "event_id": "9964895",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787353013.8543487
+      "last_checked": 1787356383.8407938
     },
     "Deportivo Laferrere|Villa Dálmine": {
       "home": "Deportivo Laferrere",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787353040.4153442
+      "last_checked": 1787356410.5189993
     },
     "CA Brown-Adrogue|UAI Urquiza": {
       "home": "CA Brown-Adrogue",
@@ -113,7 +90,57 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787353067.1422346
+      "last_checked": 1787356437.1230962
+    },
+    "Deportivo Madryn|Club Atlético Mitre": {
+      "home": "Deportivo Madryn",
+      "away": "Club Atlético Mitre",
+      "event_id": "9966995",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            9.25,
+            100.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787356469.0407178
+    },
+    "Plaza Colonia|Colon FC": {
+      "home": "Plaza Colonia",
+      "away": "Colon FC",
+      "event_id": "9966996",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787356495.67033
     }
   }
 }
