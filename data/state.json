@@ -1,46 +1,13 @@
 {
   "matches": {
-    "FC Tokyo|JEF United Chiba": {
-      "home": "FC Tokyo",
-      "away": "JEF United Chiba",
-      "event_id": "9961632",
+    "Wadi Degla SC|FC ZED": {
+      "home": "Wadi Degla SC",
+      "away": "FC ZED",
+      "event_id": "9964545",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 6.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 7.5,
-                "over": 2.65,
-                "under": 1.4
-              },
-              {
-                "line": 8.5,
-                "over": 4.75,
-                "under": 1.13
-              },
-              {
-                "line": 9.5,
-                "over": 8.0,
-                "under": 1.03
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -54,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787313546.5729067
+      "last_checked": 1787321271.6376975
     },
-    "Power Dynamos|Zesco Utd": {
-      "home": "Power Dynamos",
-      "away": "Zesco Utd",
-      "event_id": "9961641",
+    "Navbahor Namangan|Nasaf Qarshi": {
+      "home": "Navbahor Namangan",
+      "away": "Nasaf Qarshi",
+      "event_id": "9964544",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -77,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787313573.790092
+      "last_checked": 1787321298.6871743
     },
-    "Blacktown Spartans|Hurstville": {
-      "home": "Blacktown Spartans",
-      "away": "Hurstville",
-      "event_id": "9961628",
+    "FC Shakhter Karagandy|FC Astana U21": {
+      "home": "FC Shakhter Karagandy",
+      "away": "FC Astana U21",
+      "event_id": "9961649",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -100,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787313601.0564065
+      "last_checked": 1787321325.7994232
     },
-    "Northcote City|Moreland Zebras": {
-      "home": "Northcote City",
-      "away": "Moreland Zebras",
-      "event_id": "9961629",
+    "FC Jaiyq|FK Kaspiy Aktau U21": {
+      "home": "FC Jaiyq",
+      "away": "FK Kaspiy Aktau U21",
+      "event_id": "9961650",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -123,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787313627.9702127
+      "last_checked": 1787321352.9179354
     },
-    "Essendon Royals|Keilor Park": {
-      "home": "Essendon Royals",
-      "away": "Keilor Park",
-      "event_id": "9961630",
+    "Johor Darul Ta'zim|Kuching City": {
+      "home": "Johor Darul Ta'zim",
+      "away": "Kuching City",
+      "event_id": "9961655",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -136,7 +103,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.07,
+            7.7
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -146,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787313654.9729948
+      "last_checked": 1787321385.2354486
     }
   }
 }

@@ -1,70 +1,8 @@
 {
-  "generated_at": 1787313655.0182037,
+  "generated_at": 1787321385.2840276,
   "matches": [
     {
-      "match": "FC Tokyo - JEF United Chiba",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 6.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 7.5,
-                "over": 2.65,
-                "under": 1.4
-              },
-              {
-                "line": 8.5,
-                "over": 4.75,
-                "under": 1.13
-              },
-              {
-                "line": 9.5,
-                "over": 8.0,
-                "under": 1.03
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "FC Tokyo - JEF United Chiba",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.1 a 3.65 (17.7%)"
-        }
-      ]
-    },
-    {
-      "match": "Power Dynamos - Zesco Utd",
+      "match": "Wadi Degla SC - FC ZED",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -86,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Blacktown Spartans - Hurstville",
+      "match": "Navbahor Namangan - Nasaf Qarshi",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -108,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Northcote City - Moreland Zebras",
+      "match": "FC Shakhter Karagandy - FC Astana U21",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -130,7 +68,7 @@
       "alerts": []
     },
     {
-      "match": "Essendon Royals - Keilor Park",
+      "match": "FC Jaiyq - FK Kaspiy Aktau U21",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -140,6 +78,32 @@
         },
         "sportybet": {
           "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Johor Darul Ta'zim - Kuching City",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.07,
+            7.7
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -152,5 +116,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 0
 }
