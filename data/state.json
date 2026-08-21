@@ -1,21 +1,50 @@
 {
   "matches": {
-    "Wadi Degla SC|FC ZED": {
-      "home": "Wadi Degla SC",
-      "away": "FC ZED",
-      "event_id": "9964545",
+    "Waldhof Mannheim|1. FC Kaiserslautern": {
+      "home": "Waldhof Mannheim",
+      "away": "1. FC Kaiserslautern",
+      "event_id": "9964639",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 12.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 13.5,
+                "over": 2.3,
+                "under": 1.52
+              },
+              {
+                "line": 14.5,
+                "over": 3.25,
+                "under": 1.28
+              },
+              {
+                "line": 15.5,
+                "over": 4.75,
+                "under": 1.13
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            8.25,
-            1.15
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -25,16 +54,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787327668.40774
+      "last_checked": 1787332541.241919
     },
-    "Navbahor Namangan|Nasaf Qarshi": {
-      "home": "Navbahor Namangan",
-      "away": "Nasaf Qarshi",
-      "event_id": "9964544",
+    "Preußen Münster|Karlsruher SC": {
+      "home": "Preußen Münster",
+      "away": "Karlsruher SC",
+      "event_id": "9964640",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.15,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.42,
+                "under": 2.6
+              },
+              {
+                "line": 10.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 11.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 12.5,
+                "over": 4.25,
+                "under": 1.17
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -48,12 +110,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787327695.4299102
+      "last_checked": 1787332566.0332563
     },
-    "Al-Gharafa SC|Al Shahaniya": {
-      "home": "Al-Gharafa SC",
-      "away": "Al Shahaniya",
-      "event_id": "9964547",
+    "SC St. Tonis 11/20|Eintracht Frankfurt": {
+      "home": "SC St. Tonis 11/20",
+      "away": "Eintracht Frankfurt",
+      "event_id": "9964647",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -71,12 +133,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787327722.494103
+      "last_checked": 1787332592.673253
     },
-    "Gyulai Termal FC|BKV Elõre SC": {
-      "home": "Gyulai Termal FC",
-      "away": "BKV Elõre SC",
-      "event_id": "9964553",
+    "Al-Riyadh|Al-Nassr Riyadh": {
+      "home": "Al-Riyadh",
+      "away": "Al-Nassr Riyadh",
+      "event_id": "9964638",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -94,12 +156,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787327749.4495964
+      "last_checked": 1787332619.3377254
     },
-    "Kaposvári Rákóczi|PTE PEAC": {
-      "home": "Kaposvári Rákóczi",
-      "away": "PTE PEAC",
-      "event_id": "9964555",
+    "Al-Hazem Saudi Club|Al Diriyah": {
+      "home": "Al-Hazem Saudi Club",
+      "away": "Al Diriyah",
+      "event_id": "9964645",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +179,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787327776.5169053
+      "last_checked": 1787332645.9423397
     }
   }
 }

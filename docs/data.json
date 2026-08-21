@@ -1,61 +1,46 @@
 {
-  "generated_at": 1787327776.5799232,
+  "generated_at": 1787332645.9999092,
   "matches": [
     {
-      "match": "Wadi Degla SC - FC ZED",
+      "match": "Waldhof Mannheim - 1. FC Kaiserslautern",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            8.25,
-            1.15
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Navbahor Namangan - Nasaf Qarshi",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Al-Gharafa SC - Al Shahaniya",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 12.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 13.5,
+                "over": 2.3,
+                "under": 1.52
+              },
+              {
+                "line": 14.5,
+                "over": 3.25,
+                "under": 1.28
+              },
+              {
+                "line": 15.5,
+                "over": 4.75,
+                "under": 1.13
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -72,7 +57,62 @@
       "alerts": []
     },
     {
-      "match": "Gyulai Termal FC - BKV Elõre SC",
+      "match": "Preußen Münster - Karlsruher SC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.15,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.42,
+                "under": 2.6
+              },
+              {
+                "line": 10.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 11.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 12.5,
+                "over": 4.25,
+                "under": 1.17
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "SC St. Tonis 11/20 - Eintracht Frankfurt",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -94,7 +134,29 @@
       "alerts": []
     },
     {
-      "match": "Kaposvári Rákóczi - PTE PEAC",
+      "match": "Al-Riyadh - Al-Nassr Riyadh",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Al-Hazem Saudi Club - Al Diriyah",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
