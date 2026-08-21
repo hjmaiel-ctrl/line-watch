@@ -1,67 +1,13 @@
 {
-  "generated_at": 1787297690.2508082,
+  "generated_at": 1787304249.7514017,
   "matches": [
     {
-      "match": "Brotherhood FC - Northerners FC",
+      "match": "Blacktown Spartans U20 - Hurstville FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.87,
-            1.8
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Z.Tottenham - Z.Sunderland",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.16,
-              5.35
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.16,
-                "under": 5.35
-              },
-              {
-                "line": 9.5,
-                "over": 1.91,
-                "under": 1.9
-              },
-              {
-                "line": 10.5,
-                "over": 4.3,
-                "under": 1.22
-              },
-              {
-                "line": 11.5,
-                "over": 13.0,
-                "under": 1.04
-              }
-            ]
-          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -78,40 +24,12 @@
       "alerts": []
     },
     {
-      "match": "Z.Brentford - Z.Brighton",
+      "match": "Dzongri FC - Boys Club",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.17,
-              5.1
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.17,
-                "under": 5.1
-              },
-              {
-                "line": 10.5,
-                "over": 1.94,
-                "under": 1.85
-              },
-              {
-                "line": 11.5,
-                "over": 4.5,
-                "under": 1.2
-              },
-              {
-                "line": 12.5,
-                "over": 14.0,
-                "under": 1.03
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -128,40 +46,12 @@
       "alerts": []
     },
     {
-      "match": "Z.Nottingham Forest - Z.Coventry City",
+      "match": "Northcote City FC - Brunswick Juventus FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.24,
-              4.1
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.24,
-                "under": 4.1
-              },
-              {
-                "line": 5.5,
-                "over": 2.28,
-                "under": 1.62
-              },
-              {
-                "line": 6.5,
-                "over": 6.0,
-                "under": 1.14
-              },
-              {
-                "line": 7.5,
-                "over": 21.5,
-                "under": null
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -178,40 +68,34 @@
       "alerts": []
     },
     {
-      "match": "Z.Liverpool - Z.Hull City",
+      "match": "Guangdong GZ-Power U20 - Beijing Guoan U20",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.17,
-              4.95
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.17,
-                "under": 4.95
-              },
-              {
-                "line": 12.5,
-                "over": 1.98,
-                "under": 1.82
-              },
-              {
-                "line": 13.5,
-                "over": 4.7,
-                "under": 1.19
-              },
-              {
-                "line": 14.5,
-                "over": 15.0,
-                "under": 1.02
-              }
-            ]
-          },
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "MFK Karvina U19 - SFC Opava U19",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {

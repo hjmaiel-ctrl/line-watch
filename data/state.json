@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Brotherhood FC|Northerners FC": {
-      "home": "Brotherhood FC",
-      "away": "Northerners FC",
-      "event_id": "9961596",
+    "Blacktown Spartans U20|Hurstville FC": {
+      "home": "Blacktown Spartans U20",
+      "away": "Hurstville FC",
+      "event_id": "9961598",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -11,11 +11,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.87,
-            1.8
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -25,44 +21,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787297588.8319316
+      "last_checked": 1787304141.4791696
     },
-    "Z.Tottenham|Z.Sunderland": {
-      "home": "Z.Tottenham",
-      "away": "Z.Sunderland",
-      "event_id": "9964110",
+    "Dzongri FC|Boys Club": {
+      "home": "Dzongri FC",
+      "away": "Boys Club",
+      "event_id": "9961600",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.16,
-              5.35
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.16,
-                "under": 5.35
-              },
-              {
-                "line": 9.5,
-                "over": 1.91,
-                "under": 1.9
-              },
-              {
-                "line": 10.5,
-                "over": 4.3,
-                "under": 1.22
-              },
-              {
-                "line": 11.5,
-                "over": 13.0,
-                "under": 1.04
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -76,44 +44,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787297614.1473262
+      "last_checked": 1787304168.6748831
     },
-    "Z.Brentford|Z.Brighton": {
-      "home": "Z.Brentford",
-      "away": "Z.Brighton",
-      "event_id": "9964111",
+    "Northcote City FC|Brunswick Juventus FC": {
+      "home": "Northcote City FC",
+      "away": "Brunswick Juventus FC",
+      "event_id": "9961601",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.17,
-              5.1
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.17,
-                "under": 5.1
-              },
-              {
-                "line": 10.5,
-                "over": 1.94,
-                "under": 1.85
-              },
-              {
-                "line": 11.5,
-                "over": 4.5,
-                "under": 1.2
-              },
-              {
-                "line": 12.5,
-                "over": 14.0,
-                "under": 1.03
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -127,44 +67,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787297639.4017816
+      "last_checked": 1787304195.9771965
     },
-    "Z.Nottingham Forest|Z.Coventry City": {
-      "home": "Z.Nottingham Forest",
-      "away": "Z.Coventry City",
-      "event_id": "9964112",
+    "Guangdong GZ-Power U20|Beijing Guoan U20": {
+      "home": "Guangdong GZ-Power U20",
+      "away": "Beijing Guoan U20",
+      "event_id": "9961640",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.24,
-              4.1
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.24,
-                "under": 4.1
-              },
-              {
-                "line": 5.5,
-                "over": 2.28,
-                "under": 1.62
-              },
-              {
-                "line": 6.5,
-                "over": 6.0,
-                "under": 1.14
-              },
-              {
-                "line": 7.5,
-                "over": 21.5,
-                "under": null
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -178,44 +90,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787297665.0741704
+      "last_checked": 1787304222.8510118
     },
-    "Z.Liverpool|Z.Hull City": {
-      "home": "Z.Liverpool",
-      "away": "Z.Hull City",
-      "event_id": "9964113",
+    "MFK Karvina U19|SFC Opava U19": {
+      "home": "MFK Karvina U19",
+      "away": "SFC Opava U19",
+      "event_id": "9961606",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.17,
-              4.95
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.17,
-                "under": 4.95
-              },
-              {
-                "line": 12.5,
-                "over": 1.98,
-                "under": 1.82
-              },
-              {
-                "line": 13.5,
-                "over": 4.7,
-                "under": 1.19
-              },
-              {
-                "line": 14.5,
-                "over": 15.0,
-                "under": 1.02
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -229,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787297690.2115083
+      "last_checked": 1787304249.7090049
     }
   }
 }
