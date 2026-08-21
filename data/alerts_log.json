@@ -754,5 +754,11 @@
     "match": "Z.Brentford - Z.Crystal Palace",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.7 a 12.0 (155.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "FC Tokyo - JEF United Chiba",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.1 a 3.65 (17.7%)"
   }
 ]
