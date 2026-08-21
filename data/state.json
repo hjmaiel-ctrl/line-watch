@@ -1,43 +1,65 @@
 {
   "matches": {
-    "Z.Brighton|Z.Tottenham": {
-      "home": "Z.Brighton",
-      "away": "Z.Tottenham",
-      "event_id": "9963837",
+    "Brotherhood FC|Northerners FC": {
+      "home": "Brotherhood FC",
+      "away": "Northerners FC",
+      "event_id": "9961596",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.87,
+            1.8
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787297588.8319316
+    },
+    "Z.Tottenham|Z.Sunderland": {
+      "home": "Z.Tottenham",
+      "away": "Z.Sunderland",
+      "event_id": "9964110",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.25,
-              4.0
+              1.16,
+              5.35
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.25,
-                "under": 4.0
+                "over": 1.16,
+                "under": 5.35
               },
               {
                 "line": 9.5,
-                "over": 1.57,
-                "under": 2.39
+                "over": 1.91,
+                "under": 1.9
               },
               {
                 "line": 10.5,
-                "over": 2.16,
-                "under": 1.69
+                "over": 4.3,
+                "under": 1.22
               },
               {
                 "line": 11.5,
-                "over": 3.35,
-                "under": 1.33
-              },
-              {
-                "line": 12.5,
-                "over": 5.6,
-                "under": 1.14
+                "over": 13.0,
+                "under": 1.04
               }
             ]
           },
@@ -54,41 +76,143 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787289490.8938138
+      "last_checked": 1787297614.1473262
     },
-    "Z.Coventry City|Z.Liverpool": {
-      "home": "Z.Coventry City",
-      "away": "Z.Liverpool",
-      "event_id": "9963838",
+    "Z.Brentford|Z.Brighton": {
+      "home": "Z.Brentford",
+      "away": "Z.Brighton",
+      "event_id": "9964111",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 12.5,
+            "line": 9.5,
             "odds": [
-              1.21,
-              4.4
+              1.17,
+              5.1
             ],
             "_all_lines": [
               {
+                "line": 9.5,
+                "over": 1.17,
+                "under": 5.1
+              },
+              {
+                "line": 10.5,
+                "over": 1.94,
+                "under": 1.85
+              },
+              {
+                "line": 11.5,
+                "over": 4.5,
+                "under": 1.2
+              },
+              {
                 "line": 12.5,
-                "over": 1.21,
-                "under": 4.4
+                "over": 14.0,
+                "under": 1.03
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787297639.4017816
+    },
+    "Z.Nottingham Forest|Z.Coventry City": {
+      "home": "Z.Nottingham Forest",
+      "away": "Z.Coventry City",
+      "event_id": "9964112",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.24,
+              4.1
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.24,
+                "under": 4.1
+              },
+              {
+                "line": 5.5,
+                "over": 2.28,
+                "under": 1.62
+              },
+              {
+                "line": 6.5,
+                "over": 6.0,
+                "under": 1.14
+              },
+              {
+                "line": 7.5,
+                "over": 21.5,
+                "under": null
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787297665.0741704
+    },
+    "Z.Liverpool|Z.Hull City": {
+      "home": "Z.Liverpool",
+      "away": "Z.Hull City",
+      "event_id": "9964113",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.17,
+              4.95
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.17,
+                "under": 4.95
+              },
+              {
+                "line": 12.5,
+                "over": 1.98,
+                "under": 1.82
               },
               {
                 "line": 13.5,
-                "over": 1.5,
-                "under": 2.58
+                "over": 4.7,
+                "under": 1.19
               },
               {
                 "line": 14.5,
-                "over": 2.03,
-                "under": 1.78
-              },
-              {
-                "line": 15.5,
-                "over": 3.05,
-                "under": 1.38
+                "over": 15.0,
+                "under": 1.02
               }
             ]
           },
@@ -105,175 +229,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787289515.764516
-    },
-    "Z.Sunderland|Z.Chelsea": {
-      "home": "Z.Sunderland",
-      "away": "Z.Chelsea",
-      "event_id": "9963839",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.26,
-              3.9
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.26,
-                "under": 3.9
-              },
-              {
-                "line": 9.5,
-                "over": 1.59,
-                "under": 2.35
-              },
-              {
-                "line": 10.5,
-                "over": 2.21,
-                "under": 1.66
-              },
-              {
-                "line": 11.5,
-                "over": 3.4,
-                "under": 1.32
-              },
-              {
-                "line": 12.5,
-                "over": 5.8,
-                "under": 1.15
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787289540.4916718
-    },
-    "Z.Hull City|Z.Ipswich Town": {
-      "home": "Z.Hull City",
-      "away": "Z.Ipswich Town",
-      "event_id": "9963840",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.17,
-              5.0
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.17,
-                "under": 5.0
-              },
-              {
-                "line": 8.5,
-                "over": 1.46,
-                "under": 2.72
-              },
-              {
-                "line": 9.5,
-                "over": 1.99,
-                "under": 1.81
-              },
-              {
-                "line": 10.5,
-                "over": 3.05,
-                "under": 1.38
-              },
-              {
-                "line": 11.5,
-                "over": 5.25,
-                "under": 1.16
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787289565.266773
-    },
-    "Z.Man City|Z.Fulham": {
-      "home": "Z.Man City",
-      "away": "Z.Fulham",
-      "event_id": "9963841",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.23,
-              4.2
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.23,
-                "under": 4.2
-              },
-              {
-                "line": 9.5,
-                "over": 1.53,
-                "under": 2.49
-              },
-              {
-                "line": 10.5,
-                "over": 2.09,
-                "under": 1.74
-              },
-              {
-                "line": 11.5,
-                "over": 3.15,
-                "under": 1.36
-              },
-              {
-                "line": 12.5,
-                "over": 5.3,
-                "under": 1.16
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787289589.9743133
+      "last_checked": 1787297690.2115083
     }
   }
 }
