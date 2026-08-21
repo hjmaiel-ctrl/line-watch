@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Real Betis|Real Sociedad": {
-      "home": "Real Betis",
-      "away": "Real Sociedad",
-      "event_id": "9764073",
+    "Alianza Atletico|Sporting Cristal": {
+      "home": "Alianza Atletico",
+      "away": "Sporting Cristal",
+      "event_id": "9964884",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            11.0,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -21,12 +25,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787345732.873793
+      "last_checked": 1787349329.6876013
     },
-    "Córdoba CF|Girona": {
-      "home": "Córdoba CF",
-      "away": "Girona",
-      "event_id": "9964881",
+    "Rubio Ñú|Club Sportivo Trinidense": {
+      "home": "Rubio Ñú",
+      "away": "Club Sportivo Trinidense",
+      "event_id": "9964893",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,16 +48,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787345758.7397683
+      "last_checked": 1787349356.6001751
     },
-    "Alcione Milano|Renate": {
-      "home": "Alcione Milano",
-      "away": "Renate",
-      "event_id": "9964872",
+    "Jaguares de Córdoba|Boyacá Chicó": {
+      "home": "Jaguares de Córdoba",
+      "away": "Boyacá Chicó",
+      "event_id": "9964896",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 12.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 13.5,
+                "over": 2.3,
+                "under": 1.52
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -67,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787345784.5784318
+      "last_checked": 1787349381.6201189
     },
-    "Union Brescia|AC Carpi": {
-      "home": "Union Brescia",
-      "away": "AC Carpi",
-      "event_id": "9964874",
+    "Anzoategui FC|Trujillanos FC": {
+      "home": "Anzoategui FC",
+      "away": "Trujillanos FC",
+      "event_id": "9964886",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +117,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787345810.5261812
+      "last_checked": 1787349408.8113918
     },
-    "Bari|Cavese": {
-      "home": "Bari",
-      "away": "Cavese",
-      "event_id": "9964877",
+    "Sport Huancayo II|C.D Estudiantil CNI": {
+      "home": "Sport Huancayo II",
+      "away": "C.D Estudiantil CNI",
+      "event_id": "9964889",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787345836.4242835
+      "last_checked": 1787349435.9985836
     }
   }
 }
