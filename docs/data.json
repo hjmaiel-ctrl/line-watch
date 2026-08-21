@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787321385.2840276,
+  "generated_at": 1787327776.5799232,
   "matches": [
     {
       "match": "Wadi Degla SC - FC ZED",
@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            8.25,
+            1.15
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -46,7 +50,7 @@
       "alerts": []
     },
     {
-      "match": "FC Shakhter Karagandy - FC Astana U21",
+      "match": "Al-Gharafa SC - Al Shahaniya",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -68,7 +72,7 @@
       "alerts": []
     },
     {
-      "match": "FC Jaiyq - FK Kaspiy Aktau U21",
+      "match": "Gyulai Termal FC - BKV Elõre SC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -90,7 +94,7 @@
       "alerts": []
     },
     {
-      "match": "Johor Darul Ta'zim - Kuching City",
+      "match": "Kaposvári Rákóczi - PTE PEAC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -99,11 +103,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.07,
-            7.7
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },

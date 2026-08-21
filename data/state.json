@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            8.25,
+            1.15
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -21,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787321271.6376975
+      "last_checked": 1787327668.40774
     },
     "Navbahor Namangan|Nasaf Qarshi": {
       "home": "Navbahor Namangan",
@@ -44,12 +48,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787321298.6871743
+      "last_checked": 1787327695.4299102
     },
-    "FC Shakhter Karagandy|FC Astana U21": {
-      "home": "FC Shakhter Karagandy",
-      "away": "FC Astana U21",
-      "event_id": "9961649",
+    "Al-Gharafa SC|Al Shahaniya": {
+      "home": "Al-Gharafa SC",
+      "away": "Al Shahaniya",
+      "event_id": "9964547",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +71,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787321325.7994232
+      "last_checked": 1787327722.494103
     },
-    "FC Jaiyq|FK Kaspiy Aktau U21": {
-      "home": "FC Jaiyq",
-      "away": "FK Kaspiy Aktau U21",
-      "event_id": "9961650",
+    "Gyulai Termal FC|BKV Elõre SC": {
+      "home": "Gyulai Termal FC",
+      "away": "BKV Elõre SC",
+      "event_id": "9964553",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787321352.9179354
+      "last_checked": 1787327749.4495964
     },
-    "Johor Darul Ta'zim|Kuching City": {
-      "home": "Johor Darul Ta'zim",
-      "away": "Kuching City",
-      "event_id": "9961655",
+    "Kaposvári Rákóczi|PTE PEAC": {
+      "home": "Kaposvári Rákóczi",
+      "away": "PTE PEAC",
+      "event_id": "9964555",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -103,11 +107,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.07,
-            7.7
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787321385.2354486
+      "last_checked": 1787327776.5169053
     }
   }
 }
