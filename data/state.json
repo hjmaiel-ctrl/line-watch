@@ -1,32 +1,5 @@
 {
   "matches": {
-    "Alianza Atletico|Sporting Cristal": {
-      "home": "Alianza Atletico",
-      "away": "Sporting Cristal",
-      "event_id": "9964884",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            11.0,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787349329.6876013
-    },
     "Rubio Ñú|Club Sportivo Trinidense": {
       "home": "Rubio Ñú",
       "away": "Club Sportivo Trinidense",
@@ -48,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787349356.6001751
+      "last_checked": 1787352960.3457308
     },
     "Jaguares de Córdoba|Boyacá Chicó": {
       "home": "Jaguares de Córdoba",
@@ -57,30 +30,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 12.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 13.5,
-                "over": 2.3,
-                "under": 1.52
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -94,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787349381.6201189
+      "last_checked": 1787352987.168834
     },
-    "Anzoategui FC|Trujillanos FC": {
-      "home": "Anzoategui FC",
-      "away": "Trujillanos FC",
-      "event_id": "9964886",
+    "Club Sol de América|Resistencia SC": {
+      "home": "Club Sol de América",
+      "away": "Resistencia SC",
+      "event_id": "9964895",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787349408.8113918
+      "last_checked": 1787353013.8543487
     },
-    "Sport Huancayo II|C.D Estudiantil CNI": {
-      "home": "Sport Huancayo II",
-      "away": "C.D Estudiantil CNI",
-      "event_id": "9964889",
+    "Deportivo Laferrere|Villa Dálmine": {
+      "home": "Deportivo Laferrere",
+      "away": "Villa Dálmine",
+      "event_id": "9966993",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -140,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787349435.9985836
+      "last_checked": 1787353040.4153442
+    },
+    "CA Brown-Adrogue|UAI Urquiza": {
+      "home": "CA Brown-Adrogue",
+      "away": "UAI Urquiza",
+      "event_id": "9966994",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787353067.1422346
     }
   }
 }

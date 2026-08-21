@@ -1,32 +1,6 @@
 {
-  "generated_at": 1787349436.0464864,
+  "generated_at": 1787353067.1850922,
   "matches": [
-    {
-      "match": "Alianza Atletico - Sporting Cristal",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            11.0,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Rubio Ñú - Club Sportivo Trinidense",
       "bet9ja_stats": null,
@@ -55,30 +29,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 12.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 13.5,
-                "over": 2.3,
-                "under": 1.52
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -95,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Anzoategui FC - Trujillanos FC",
+      "match": "Club Sol de América - Resistencia SC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -117,7 +68,29 @@
       "alerts": []
     },
     {
-      "match": "Sport Huancayo II - C.D Estudiantil CNI",
+      "match": "Deportivo Laferrere - Villa Dálmine",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "CA Brown-Adrogue - UAI Urquiza",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
