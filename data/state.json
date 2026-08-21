@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.32,
-              3.0
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 10.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.6,
+                "under": 2.15
               },
               {
                 "line": 11.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 12.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 13.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 3.5,
             "odds": [
-              1.6,
-              2.15
+              1.87,
+              1.8
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.6,
-                "under": 2.15
+                "line": 3.5,
+                "over": 1.87,
+                "under": 1.8
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787339350.6896832
+      "last_checked": 1787342023.9164371
     },
     "Real Betis|Real Sociedad": {
       "home": "Real Betis",
@@ -77,40 +77,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.42,
-              2.68
+              1.36,
+              2.9
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.36,
+                "under": 2.9
+              },
+              {
                 "line": 8.5,
-                "over": 1.42,
-                "under": 2.68
+                "over": 1.76,
+                "under": 1.96
               },
               {
                 "line": 9.5,
-                "over": 1.7,
-                "under": 2.04
-              },
-              {
-                "line": 10.5,
-                "over": 2.14,
-                "under": 1.64
+                "over": 2.44,
+                "under": 1.5
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 2.5,
             "odds": [
-              1.86,
-              1.81
+              1.57,
+              2.2
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.86,
-                "under": 1.81
+                "line": 2.5,
+                "over": 1.57,
+                "under": 2.2
               }
             ]
           }
@@ -126,7 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787339374.2537582
+      "last_checked": 1787342047.0829546
     },
     "Olympique Marseille|RC Strasbourg": {
       "home": "Olympique Marseille",
@@ -138,48 +138,48 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.25,
-              3.45
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.25,
-                "under": 3.45
+                "over": 1.15,
+                "under": 4.5
               },
               {
                 "line": 10.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 11.5,
-                "over": 1.9,
-                "under": 1.78
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 12.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.7,
+                "under": 1.38
               },
               {
                 "line": 13.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              2.15,
-              1.6
+              2.05,
+              1.65
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 2.05,
+                "under": 1.65
               }
             ]
           }
@@ -195,12 +195,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787339397.6577938
+      "last_checked": 1787342070.287048
     },
-    "Waldhof Mannheim|1. FC Kaiserslautern": {
-      "home": "Waldhof Mannheim",
-      "away": "1. FC Kaiserslautern",
-      "event_id": "9964639",
+    "Hansa Rostock|VfB Stuttgart": {
+      "home": "Hansa Rostock",
+      "away": "VfB Stuttgart",
+      "event_id": "9964855",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -218,7 +218,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787339424.9664278
+      "last_checked": 1787342097.2629418
     },
     "Erzurumspor FK|Galatasaray SK": {
       "home": "Erzurumspor FK",
@@ -228,36 +228,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              1.12,
-              5.0
+              1.02,
+              8.5
             ],
             "_all_lines": [
               {
+                "line": 2.5,
+                "over": 1.02,
+                "under": 8.5
+              },
+              {
                 "line": 3.5,
-                "over": 1.12,
-                "under": 5.0
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 4.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 2.15,
+                "under": 1.6
               },
               {
                 "line": 5.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 3.9,
+                "under": 1.2
               },
               {
                 "line": 6.5,
-                "over": 2.5,
-                "under": 1.45
-              },
-              {
-                "line": 7.5,
-                "over": 3.9,
-                "under": 1.2
+                "over": 7.25,
+                "under": 1.05
               }
             ]
           },
@@ -274,7 +274,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787339450.353757
+      "last_checked": 1787342122.31088
     }
   }
 }

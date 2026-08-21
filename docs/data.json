@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787339450.395014,
+  "generated_at": 1787342122.3745513,
   "matches": [
     {
       "match": "Arsenal - Coventry City",
@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.32,
-              3.0
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 10.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.6,
+                "under": 2.15
               },
               {
                 "line": 11.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 12.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 13.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 3.5,
             "odds": [
-              1.6,
-              2.15
+              1.87,
+              1.8
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.6,
-                "under": 2.15
+                "line": 3.5,
+                "over": 1.87,
+                "under": 1.8
               }
             ]
           }
@@ -67,7 +67,32 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Arsenal - Coventry City",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.0 a 3.25 (8.3%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Arsenal - Coventry City",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 2.5 a 3.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Arsenal - Coventry City",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.6 a 1.87 (16.9%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Arsenal - Coventry City",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.15 a 1.8 (19.4%)"
+        }
+      ]
     },
     {
       "match": "Real Betis - Real Sociedad",
@@ -76,40 +101,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.42,
-              2.68
+              1.36,
+              2.9
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.36,
+                "under": 2.9
+              },
+              {
                 "line": 8.5,
-                "over": 1.42,
-                "under": 2.68
+                "over": 1.76,
+                "under": 1.96
               },
               {
                 "line": 9.5,
-                "over": 1.7,
-                "under": 2.04
-              },
-              {
-                "line": 10.5,
-                "over": 2.14,
-                "under": 1.64
+                "over": 2.44,
+                "under": 1.5
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 2.5,
             "odds": [
-              1.86,
-              1.81
+              1.57,
+              2.2
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.86,
-                "under": 1.81
+                "line": 2.5,
+                "over": 1.57,
+                "under": 2.2
               }
             ]
           }
@@ -125,7 +150,38 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Real Betis - Real Sociedad",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 7.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Real Betis - Real Sociedad",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.68 a 2.9 (8.2%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Real Betis - Real Sociedad",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 4.5 a 2.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Real Betis - Real Sociedad",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.86 a 1.57 (18.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Real Betis - Real Sociedad",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.81 a 2.2 (21.5%)"
+        }
+      ]
     },
     {
       "match": "Olympique Marseille - RC Strasbourg",
@@ -136,48 +192,48 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.25,
-              3.45
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.25,
-                "under": 3.45
+                "over": 1.15,
+                "under": 4.5
               },
               {
                 "line": 10.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 11.5,
-                "over": 1.9,
-                "under": 1.78
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 12.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.7,
+                "under": 1.38
               },
               {
                 "line": 13.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              2.15,
-              1.6
+              2.05,
+              1.65
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 2.05,
+                "under": 1.65
               }
             ]
           }
@@ -193,10 +249,23 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Olympique Marseille - RC Strasbourg",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.25 a 1.15 (8.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Olympique Marseille - RC Strasbourg",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.45 a 4.5 (30.4%)"
+        }
+      ]
     },
     {
-      "match": "Waldhof Mannheim - 1. FC Kaiserslautern",
+      "match": "Hansa Rostock - VfB Stuttgart",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -224,36 +293,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              1.12,
-              5.0
+              1.02,
+              8.5
             ],
             "_all_lines": [
               {
+                "line": 2.5,
+                "over": 1.02,
+                "under": 8.5
+              },
+              {
                 "line": 3.5,
-                "over": 1.12,
-                "under": 5.0
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 4.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 2.15,
+                "under": 1.6
               },
               {
                 "line": 5.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 3.9,
+                "under": 1.2
               },
               {
                 "line": 6.5,
-                "over": 2.5,
-                "under": 1.45
-              },
-              {
-                "line": 7.5,
-                "over": 3.9,
-                "under": 1.2
+                "over": 7.25,
+                "under": 1.05
               }
             ]
           },
@@ -270,8 +339,27 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Erzurumspor FK - Galatasaray SK",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 3.5 a 2.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Erzurumspor FK - Galatasaray SK",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.12 a 1.02 (9.8%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Erzurumspor FK - Galatasaray SK",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 5.0 a 8.5 (70.0%)"
+        }
+      ]
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 14
 }
