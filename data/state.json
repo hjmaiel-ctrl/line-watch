@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Athletic Club MG|CRB": {
-      "home": "Athletic Club MG",
-      "away": "CRB",
-      "event_id": "9961581",
+    "Luis Ángel Firpo|Alajuelense": {
+      "home": "Luis Ángel Firpo",
+      "away": "Alajuelense",
+      "event_id": "9961594",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787270290.7149284
+      "last_checked": 1787283134.394854
     },
-    "Gremio Novorizontino|América-MG": {
-      "home": "Gremio Novorizontino",
-      "away": "América-MG",
-      "event_id": "9961586",
+    "Los Angeles FC 2|Sporting Kansas City II": {
+      "home": "Los Angeles FC 2",
+      "away": "Sporting Kansas City II",
+      "event_id": "9961595",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -34,7 +34,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            12.0,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,16 +48,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787270317.7268548
+      "last_checked": 1787283166.03429
     },
-    "Real Cartagena|Bogotá F.C.": {
-      "home": "Real Cartagena",
-      "away": "Bogotá F.C.",
-      "event_id": "9961582",
+    "Z.Chelsea|Z.Brighton": {
+      "home": "Z.Chelsea",
+      "away": "Z.Brighton",
+      "event_id": "9963544",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.21,
+              4.35
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.21,
+                "under": 4.35
+              },
+              {
+                "line": 10.5,
+                "over": 1.48,
+                "under": 2.66
+              },
+              {
+                "line": 11.5,
+                "over": 1.92,
+                "under": 1.87
+              },
+              {
+                "line": 12.5,
+                "over": 2.74,
+                "under": 1.45
+              },
+              {
+                "line": 13.5,
+                "over": 4.25,
+                "under": 1.22
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -67,16 +104,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787270344.7648742
+      "last_checked": 1787283190.6754024
     },
-    "Defence Force FC|SV Broki": {
-      "home": "Defence Force FC",
-      "away": "SV Broki",
-      "event_id": "9961580",
+    "Z.Liverpool|Z.Brentford": {
+      "home": "Z.Liverpool",
+      "away": "Z.Brentford",
+      "event_id": "9963545",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.18,
+              4.9
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.18,
+                "under": 4.9
+              },
+              {
+                "line": 9.5,
+                "over": 1.4,
+                "under": 2.94
+              },
+              {
+                "line": 10.5,
+                "over": 1.8,
+                "under": 2.0
+              },
+              {
+                "line": 11.5,
+                "over": 2.48,
+                "under": 1.54
+              },
+              {
+                "line": 12.5,
+                "over": 3.75,
+                "under": 1.27
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -90,16 +160,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787270371.9731483
+      "last_checked": 1787283215.2296882
     },
-    "Brasil De Farroupilha|União Frederiquense": {
-      "home": "Brasil De Farroupilha",
-      "away": "União Frederiquense",
-      "event_id": "9961583",
+    "Z.Bournemouth|Z.Man City": {
+      "home": "Z.Bournemouth",
+      "away": "Z.Man City",
+      "event_id": "9963546",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.17,
+              5.1
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.17,
+                "under": 5.1
+              },
+              {
+                "line": 9.5,
+                "over": 1.38,
+                "under": 3.0
+              },
+              {
+                "line": 10.5,
+                "over": 1.77,
+                "under": 2.05
+              },
+              {
+                "line": 11.5,
+                "over": 2.42,
+                "under": 1.56
+              },
+              {
+                "line": 12.5,
+                "over": 3.65,
+                "under": 1.29
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -113,7 +216,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787270399.0588713
+      "last_checked": 1787283239.8292828
     }
   }
 }

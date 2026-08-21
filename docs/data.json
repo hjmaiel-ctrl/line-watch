@@ -1,8 +1,8 @@
 {
-  "generated_at": 1787270399.1062207,
+  "generated_at": 1787283239.865085,
   "matches": [
     {
-      "match": "Athletic Club MG - CRB",
+      "match": "Luis Ángel Firpo - Alajuelense",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,12 +24,71 @@
       "alerts": []
     },
     {
-      "match": "Gremio Novorizontino - América-MG",
+      "match": "Los Angeles FC 2 - Sporting Kansas City II",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            12.0,
+            100.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Z.Chelsea - Z.Brighton",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.21,
+              4.35
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.21,
+                "under": 4.35
+              },
+              {
+                "line": 10.5,
+                "over": 1.48,
+                "under": 2.66
+              },
+              {
+                "line": 11.5,
+                "over": 1.92,
+                "under": 1.87
+              },
+              {
+                "line": 12.5,
+                "over": 2.74,
+                "under": 1.45
+              },
+              {
+                "line": 13.5,
+                "over": 4.25,
+                "under": 1.22
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -46,12 +105,45 @@
       "alerts": []
     },
     {
-      "match": "Real Cartagena - Bogotá F.C.",
+      "match": "Z.Liverpool - Z.Brentford",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.18,
+              4.9
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.18,
+                "under": 4.9
+              },
+              {
+                "line": 9.5,
+                "over": 1.4,
+                "under": 2.94
+              },
+              {
+                "line": 10.5,
+                "over": 1.8,
+                "under": 2.0
+              },
+              {
+                "line": 11.5,
+                "over": 2.48,
+                "under": 1.54
+              },
+              {
+                "line": 12.5,
+                "over": 3.75,
+                "under": 1.27
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -68,34 +160,45 @@
       "alerts": []
     },
     {
-      "match": "Defence Force FC - SV Broki",
+      "match": "Z.Bournemouth - Z.Man City",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Brasil De Farroupilha - União Frederiquense",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.17,
+              5.1
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.17,
+                "under": 5.1
+              },
+              {
+                "line": 9.5,
+                "over": 1.38,
+                "under": 3.0
+              },
+              {
+                "line": 10.5,
+                "over": 1.77,
+                "under": 2.05
+              },
+              {
+                "line": 11.5,
+                "over": 2.42,
+                "under": 1.56
+              },
+              {
+                "line": 12.5,
+                "over": 3.65,
+                "under": 1.29
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
