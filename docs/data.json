@@ -1,34 +1,8 @@
 {
-  "generated_at": 1787368285.954945,
+  "generated_at": 1787374804.678545,
   "matches": [
     {
-      "match": "CD Arabe Unido - AF Sporting San Miguelito",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.15,
-            4.75
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Atletico Rio Abajo - FC Panama Norte",
+      "match": "Eastern Suburbs Auckland AFC - East Coast Bays",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -50,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "South Coast Flame FC - Camden Tigers FC",
+      "match": "Club Atletico La Paz - Cruz Azul Hidalgo",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -72,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Canberra Olympic FC - Brindabella Blues FC",
+      "match": "Querétaro - Deportivo Toluca",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -94,7 +68,29 @@
       "alerts": []
     },
     {
-      "match": "Green Gully SC - ST Albans Saints Dinamo SC",
+      "match": "West Torrens Birkalla Reserve - Sturt Lions Reserve",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Petone FC - Wellington Olympic AFC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

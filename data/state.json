@@ -1,9 +1,9 @@
 {
   "matches": {
-    "CD Arabe Unido|AF Sporting San Miguelito": {
-      "home": "CD Arabe Unido",
-      "away": "AF Sporting San Miguelito",
-      "event_id": "9967208",
+    "Eastern Suburbs Auckland AFC|East Coast Bays": {
+      "home": "Eastern Suburbs Auckland AFC",
+      "away": "East Coast Bays",
+      "event_id": "9967222",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -11,11 +11,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.15,
-            4.75
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -25,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787368178.6432796
+      "last_checked": 1787374698.1804101
     },
-    "Atletico Rio Abajo|FC Panama Norte": {
-      "home": "Atletico Rio Abajo",
-      "away": "FC Panama Norte",
-      "event_id": "9967209",
+    "Club Atletico La Paz|Cruz Azul Hidalgo": {
+      "home": "Club Atletico La Paz",
+      "away": "Cruz Azul Hidalgo",
+      "event_id": "9967226",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -48,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787368205.260027
+      "last_checked": 1787374724.7552953
     },
-    "South Coast Flame FC|Camden Tigers FC": {
-      "home": "South Coast Flame FC",
-      "away": "Camden Tigers FC",
-      "event_id": "9967211",
+    "Querétaro|Deportivo Toluca": {
+      "home": "Querétaro",
+      "away": "Deportivo Toluca",
+      "event_id": "9967227",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -71,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787368232.3339205
+      "last_checked": 1787374751.3449013
     },
-    "Canberra Olympic FC|Brindabella Blues FC": {
-      "home": "Canberra Olympic FC",
-      "away": "Brindabella Blues FC",
-      "event_id": "9967213",
+    "West Torrens Birkalla Reserve|Sturt Lions Reserve": {
+      "home": "West Torrens Birkalla Reserve",
+      "away": "Sturt Lions Reserve",
+      "event_id": "9967228",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -94,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787368259.2776773
+      "last_checked": 1787374778.0360548
     },
-    "Green Gully SC|ST Albans Saints Dinamo SC": {
-      "home": "Green Gully SC",
-      "away": "ST Albans Saints Dinamo SC",
-      "event_id": "9967215",
+    "Petone FC|Wellington Olympic AFC": {
+      "home": "Petone FC",
+      "away": "Wellington Olympic AFC",
+      "event_id": "9967230",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787368285.9146547
+      "last_checked": 1787374804.6333218
     }
   }
 }
