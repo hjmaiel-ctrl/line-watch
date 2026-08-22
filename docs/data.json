@@ -1,57 +1,57 @@
 {
-  "generated_at": 1787407410.2552667,
+  "generated_at": 1787410649.2008016,
   "matches": [
     {
-      "match": "Ipswich Town - Sunderland",
+      "match": "Everton - Crystal Palace",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 5.5,
             "odds": [
               1.28,
               3.25
             ],
             "_all_lines": [
               {
-                "line": 7.5,
+                "line": 5.5,
                 "over": 1.28,
                 "under": 3.25
               },
               {
+                "line": 6.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
+                "line": 7.5,
+                "over": 2.25,
+                "under": 1.55
+              },
+              {
                 "line": 8.5,
-                "over": 1.47,
-                "under": 2.4
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 9.5,
-                "over": 1.8,
-                "under": 1.87
-              },
-              {
-                "line": 10.5,
-                "over": 2.3,
-                "under": 1.52
-              },
-              {
-                "line": 11.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.78,
-              1.9
+              1.85,
+              1.82
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 1.85,
+                "under": 1.82
               }
             ]
           }
@@ -70,7 +70,7 @@
       "alerts": []
     },
     {
-      "match": "Nottingham Forest - Leeds United",
+      "match": "Ipswich Town - Sunderland",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -78,34 +78,34 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.3,
-              3.1
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.3,
-                "under": 3.1
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 8.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 9.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 2.15,
+                "under": 1.6
               },
               {
                 "line": 10.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 3.1,
+                "under": 1.3
               },
               {
                 "line": 11.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
@@ -123,6 +123,116 @@
               }
             ]
           }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Ipswich Town - Sunderland",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.9 a 1.75 (8.6%)"
+        }
+      ]
+    },
+    {
+      "match": "Nottingham Forest - Leeds United",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 6.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
+                "line": 7.5,
+                "over": 2.2,
+                "under": 1.57
+              },
+              {
+                "line": 8.5,
+                "over": 3.25,
+                "under": 1.28
+              },
+              {
+                "line": 9.5,
+                "over": 4.75,
+                "under": 1.13
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.98,
+              1.7
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.98,
+                "under": 1.7
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Nottingham Forest - Leeds United",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 7.5 a 5.5"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Nottingham Forest - Leeds United",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 3.5 a 4.5"
+        }
+      ]
+    },
+    {
+      "match": "Fortuna Sittard - AZ Alkmaar",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -158,51 +268,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "SV Hemelingen - Hannover 96",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "MSV Duisburg - SV Elversberg",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 3
 }
