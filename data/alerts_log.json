@@ -904,5 +904,35 @@
     "match": "RC Lens - AJ Auxerre",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.25 a 4.25 (30.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Brentford - Tottenham Hotspur",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 6.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Brentford - Tottenham Hotspur",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Udinese - Como",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Udinese - Como",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.5 a 3.9 (15.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Udinese - Como",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 4.5"
   }
 ]
