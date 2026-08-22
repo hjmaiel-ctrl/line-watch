@@ -1,28 +1,6 @@
 {
-  "generated_at": 1787435370.3140936,
+  "generated_at": 1787438911.844687,
   "matches": [
-    {
-      "match": "CD Extremadura - Atl. Madrid B",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "SC Internacional - Atlético Mineiro",
       "bet9ja_stats": null,
@@ -32,24 +10,24 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.6,
-              2.15
+              1.55,
+              2.25
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 11.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 12.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -114,6 +92,28 @@
     },
     {
       "match": "Cuiabá EC - Goiás EC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Huachipato - Deportes Limache",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
