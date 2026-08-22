@@ -1,101 +1,9 @@
 {
   "matches": {
-    "Estudiantes Río Cuarto|San Lorenzo": {
-      "home": "Estudiantes Río Cuarto",
-      "away": "San Lorenzo",
-      "event_id": "9967002",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.47,
-              2.45
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 4.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 5.5,
-                "over": 3.0,
-                "under": 1.32
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787356383.8407938
-    },
-    "Deportivo Laferrere|Villa Dálmine": {
-      "home": "Deportivo Laferrere",
-      "away": "Villa Dálmine",
-      "event_id": "9966993",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787356410.5189993
-    },
-    "CA Brown-Adrogue|UAI Urquiza": {
-      "home": "CA Brown-Adrogue",
-      "away": "UAI Urquiza",
-      "event_id": "9966994",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787356437.1230962
-    },
-    "Deportivo Madryn|Club Atlético Mitre": {
-      "home": "Deportivo Madryn",
-      "away": "Club Atlético Mitre",
-      "event_id": "9966995",
+    "CD Arabe Unido|AF Sporting San Miguelito": {
+      "home": "CD Arabe Unido",
+      "away": "AF Sporting San Miguelito",
+      "event_id": "9967208",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -105,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            9.25,
-            100.0
+            1.15,
+            4.75
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -117,12 +25,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787356469.0407178
+      "last_checked": 1787368178.6432796
     },
-    "Plaza Colonia|Colon FC": {
-      "home": "Plaza Colonia",
-      "away": "Colon FC",
-      "event_id": "9966996",
+    "Atletico Rio Abajo|FC Panama Norte": {
+      "home": "Atletico Rio Abajo",
+      "away": "FC Panama Norte",
+      "event_id": "9967209",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -140,7 +48,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787356495.67033
+      "last_checked": 1787368205.260027
+    },
+    "South Coast Flame FC|Camden Tigers FC": {
+      "home": "South Coast Flame FC",
+      "away": "Camden Tigers FC",
+      "event_id": "9967211",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787368232.3339205
+    },
+    "Canberra Olympic FC|Brindabella Blues FC": {
+      "home": "Canberra Olympic FC",
+      "away": "Brindabella Blues FC",
+      "event_id": "9967213",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787368259.2776773
+    },
+    "Green Gully SC|ST Albans Saints Dinamo SC": {
+      "home": "Green Gully SC",
+      "away": "ST Albans Saints Dinamo SC",
+      "event_id": "9967215",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787368285.9146547
     }
   }
 }
