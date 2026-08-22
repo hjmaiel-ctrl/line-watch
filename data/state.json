@@ -1,37 +1,50 @@
 {
   "matches": {
-    "SC Internacional|Atlético Mineiro": {
-      "home": "SC Internacional",
-      "away": "Atlético Mineiro",
-      "event_id": "9968259",
+    "Charlotte FC|DC United": {
+      "home": "Charlotte FC",
+      "away": "DC United",
+      "event_id": "9973921",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 9.5,
             "odds": [
-              1.55,
-              2.25
+              1.69,
+              2.04
             ],
             "_all_lines": [
               {
+                "line": 9.5,
+                "over": 1.69,
+                "under": 2.04
+              },
+              {
                 "line": 10.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 2.08,
+                "under": 1.67
               },
               {
                 "line": 11.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 12.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 2.66,
+                "under": 1.42
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.87,
+              1.8
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.87,
+                "under": 1.8
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -44,17 +57,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787438805.523201
+      "last_checked": 1787442087.0809436
     },
-    "Independiente|Independiente Rivadavia": {
-      "home": "Independiente",
-      "away": "Independiente Rivadavia",
-      "event_id": "9968264",
+    "Cincinnati|Seattle Sounders": {
+      "home": "Cincinnati",
+      "away": "Seattle Sounders",
+      "event_id": "9973922",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.47,
+              2.5
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.47,
+                "under": 2.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.78,
+                "under": 1.94
+              },
+              {
+                "line": 10.5,
+                "over": 2.22,
+                "under": 1.59
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.64,
+              2.08
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.64,
+                "under": 2.08
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -67,17 +116,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787438832.0648723
+      "last_checked": 1787442110.4124727
     },
-    "Ceará SC|Londrina": {
-      "home": "Ceará SC",
-      "away": "Londrina",
-      "event_id": "9968249",
+    "CF Montreal|Los Angeles Galaxy": {
+      "home": "CF Montreal",
+      "away": "Los Angeles Galaxy",
+      "event_id": "9973930",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.64,
+              2.12
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.64,
+                "under": 2.12
+              },
+              {
+                "line": 10.5,
+                "over": 2.02,
+                "under": 1.72
+              },
+              {
+                "line": 11.5,
+                "over": 2.56,
+                "under": 1.45
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.9,
+              1.77
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.9,
+                "under": 1.77
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -90,17 +175,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787438858.5093396
+      "last_checked": 1787442133.8279867
     },
-    "Cuiabá EC|Goiás EC": {
-      "home": "Cuiabá EC",
-      "away": "Goiás EC",
-      "event_id": "9968258",
+    "New York Red Bulls|Chicago Fire": {
+      "home": "New York Red Bulls",
+      "away": "Chicago Fire",
+      "event_id": "9973931",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.55,
+              2.3
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.55,
+                "under": 2.3
+              },
+              {
+                "line": 9.5,
+                "over": 1.9,
+                "under": 1.81
+              },
+              {
+                "line": 10.5,
+                "over": 2.4,
+                "under": 1.51
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.85,
+              1.82
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.85,
+                "under": 1.82
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -113,17 +234,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787438885.248127
+      "last_checked": 1787442157.265199
     },
-    "Huachipato|Deportes Limache": {
-      "home": "Huachipato",
-      "away": "Deportes Limache",
-      "event_id": "9968261",
+    "Orlando City|Real Salt Lake": {
+      "home": "Orlando City",
+      "away": "Real Salt Lake",
+      "event_id": "9973932",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.62,
+              2.16
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.62,
+                "under": 2.16
+              },
+              {
+                "line": 10.5,
+                "over": 1.97,
+                "under": 1.74
+              },
+              {
+                "line": 11.5,
+                "over": 2.5,
+                "under": 1.47
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.85,
+              1.82
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.85,
+                "under": 1.82
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -136,7 +293,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787438911.8154345
+      "last_checked": 1787442180.4378066
     }
   }
 }

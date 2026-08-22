@@ -1,37 +1,50 @@
 {
-  "generated_at": 1787438911.844687,
+  "generated_at": 1787442180.475701,
   "matches": [
     {
-      "match": "SC Internacional - Atlético Mineiro",
+      "match": "Charlotte FC - DC United",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 9.5,
             "odds": [
-              1.55,
-              2.25
+              1.69,
+              2.04
             ],
             "_all_lines": [
               {
+                "line": 9.5,
+                "over": 1.69,
+                "under": 2.04
+              },
+              {
                 "line": 10.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 2.08,
+                "under": 1.67
               },
               {
                 "line": 11.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 12.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 2.66,
+                "under": 1.42
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.87,
+              1.8
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.87,
+                "under": 1.8
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -47,13 +60,49 @@
       "alerts": []
     },
     {
-      "match": "Independiente - Independiente Rivadavia",
+      "match": "Cincinnati - Seattle Sounders",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.47,
+              2.5
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.47,
+                "under": 2.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.78,
+                "under": 1.94
+              },
+              {
+                "line": 10.5,
+                "over": 2.22,
+                "under": 1.59
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.64,
+              2.08
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.64,
+                "under": 2.08
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -69,13 +118,49 @@
       "alerts": []
     },
     {
-      "match": "Ceará SC - Londrina",
+      "match": "CF Montreal - Los Angeles Galaxy",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.64,
+              2.12
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.64,
+                "under": 2.12
+              },
+              {
+                "line": 10.5,
+                "over": 2.02,
+                "under": 1.72
+              },
+              {
+                "line": 11.5,
+                "over": 2.56,
+                "under": 1.45
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.9,
+              1.77
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.9,
+                "under": 1.77
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -91,13 +176,49 @@
       "alerts": []
     },
     {
-      "match": "Cuiabá EC - Goiás EC",
+      "match": "New York Red Bulls - Chicago Fire",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.55,
+              2.3
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.55,
+                "under": 2.3
+              },
+              {
+                "line": 9.5,
+                "over": 1.9,
+                "under": 1.81
+              },
+              {
+                "line": 10.5,
+                "over": 2.4,
+                "under": 1.51
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.85,
+              1.82
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.85,
+                "under": 1.82
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -113,13 +234,49 @@
       "alerts": []
     },
     {
-      "match": "Huachipato - Deportes Limache",
+      "match": "Orlando City - Real Salt Lake",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.62,
+              2.16
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.62,
+                "under": 2.16
+              },
+              {
+                "line": 10.5,
+                "over": 1.97,
+                "under": 1.74
+              },
+              {
+                "line": 11.5,
+                "over": 2.5,
+                "under": 1.47
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.85,
+              1.82
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.85,
+                "under": 1.82
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
