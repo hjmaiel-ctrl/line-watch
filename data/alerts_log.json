@@ -892,5 +892,17 @@
     "match": "Everton - Crystal Palace",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.25 a 2.75 (18.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "RC Lens - AJ Auxerre",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.28 a 1.17 (9.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "RC Lens - AJ Auxerre",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.25 a 4.25 (30.8%)"
   }
 ]

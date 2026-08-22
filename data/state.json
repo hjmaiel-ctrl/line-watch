@@ -1,42 +1,60 @@
 {
   "matches": {
-    "Everton|Crystal Palace": {
-      "home": "Everton",
-      "away": "Crystal Palace",
-      "event_id": "9955919",
+    "Brentford|Tottenham Hotspur": {
+      "home": "Brentford",
+      "away": "Tottenham Hotspur",
+      "event_id": "9956236",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 8.5,
             "odds": [
-              1.35,
-              2.75
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.35,
-                "under": 2.75
+                "line": 8.5,
+                "over": 1.32,
+                "under": 3.0
               },
               {
-                "line": 5.5,
-                "over": 2.85,
-                "under": 1.35
+                "line": 9.5,
+                "over": 1.57,
+                "under": 2.2
               },
               {
-                "line": 6.5,
-                "over": 6.5,
-                "under": 1.07
+                "line": 10.5,
+                "over": 1.95,
+                "under": 1.73
               },
               {
-                "line": 7.5,
-                "over": 11.0,
-                "under": null
+                "line": 11.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 12.5,
+                "over": 3.45,
+                "under": 1.25
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.92,
+              1.75
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.92,
+                "under": 1.75
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -49,53 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787413675.1458523
-    },
-    "Ipswich Town|Sunderland": {
-      "home": "Ipswich Town",
-      "away": "Sunderland",
-      "event_id": "9956205",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787413701.8784356
-    },
-    "Nottingham Forest|Leeds United": {
-      "home": "Nottingham Forest",
-      "away": "Leeds United",
-      "event_id": "9959590",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787413728.4716282
+      "last_checked": 1787417571.2184107
     },
     "Ath. Bilbao|Sevilla": {
       "home": "Ath. Bilbao",
@@ -118,60 +90,60 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787413755.3395164
+      "last_checked": 1787417597.9492326
     },
-    "RC Lens|AJ Auxerre": {
-      "home": "RC Lens",
-      "away": "AJ Auxerre",
-      "event_id": "9959548",
+    "Internazionale|Monza": {
+      "home": "Internazionale",
+      "away": "Monza",
+      "event_id": "9955925",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 6.5,
             "odds": [
-              1.28,
-              3.25
+              1.3,
+              3.1
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.3,
+                "under": 3.1
+              },
+              {
+                "line": 7.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
+                "line": 8.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
                 "line": 9.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 2.7,
+                "under": 1.38
               },
               {
                 "line": 10.5,
-                "over": 1.6,
-                "under": 2.15
-              },
-              {
-                "line": 11.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 12.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 13.5,
-                "over": 4.25,
-                "under": 1.17
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              1.98,
-              1.7
+              2.05,
+              1.65
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.98,
-                "under": 1.7
+                "line": 2.5,
+                "over": 2.05,
+                "under": 1.65
               }
             ]
           }
@@ -187,7 +159,132 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787413778.4184809
+      "last_checked": 1787417621.2541814
+    },
+    "Udinese|Como": {
+      "home": "Udinese",
+      "away": "Como",
+      "event_id": "9959591",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.15,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
+                "line": 5.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 6.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 7.5,
+                "over": 2.2,
+                "under": 1.57
+              },
+              {
+                "line": 8.5,
+                "over": 3.1,
+                "under": 1.3
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.92,
+              1.75
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.92,
+                "under": 1.75
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787417644.489147
+    },
+    "RC Lens|AJ Auxerre": {
+      "home": "RC Lens",
+      "away": "AJ Auxerre",
+      "event_id": "9959548",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.17,
+              4.25
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.17,
+                "under": 4.25
+              },
+              {
+                "line": 10.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 11.5,
+                "over": 3.75,
+                "under": 1.22
+              },
+              {
+                "line": 12.5,
+                "over": 7.5,
+                "under": 1.04
+              },
+              {
+                "line": 13.5,
+                "over": 11.0,
+                "under": null
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787417669.5571117
     }
   }
 }
