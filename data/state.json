@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Canberra Olympic|Brindabella Blues": {
-      "home": "Canberra Olympic",
-      "away": "Brindabella Blues",
-      "event_id": "9967248",
+    "Hokkaido Consadole Sapporo|RB Omiya Ardija": {
+      "home": "Hokkaido Consadole Sapporo",
+      "away": "RB Omiya Ardija",
+      "event_id": "9967282",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787378355.5032017
+      "last_checked": 1787384809.4957294
     },
-    "Modbury Reserve|Adelaide Croatia Raiders Reserve": {
-      "home": "Modbury Reserve",
-      "away": "Adelaide Croatia Raiders Reserve",
-      "event_id": "9967253",
+    "Sutherland|St George City": {
+      "home": "Sutherland",
+      "away": "St George City",
+      "event_id": "9967269",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787378382.4587636
+      "last_checked": 1787384836.0090144
     },
-    "Canberra FC|Belconnen Utd.": {
-      "home": "Canberra FC",
-      "away": "Belconnen Utd.",
-      "event_id": "9967255",
+    "Hume City|Caroline Springs George Cross": {
+      "home": "Hume City",
+      "away": "Caroline Springs George Cross",
+      "event_id": "9967270",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787378409.2703278
+      "last_checked": 1787384862.5498495
     },
-    "Canberra White Eagles|Monaro": {
-      "home": "Canberra White Eagles",
-      "away": "Monaro",
-      "event_id": "9967256",
+    "New Lambton|Kahibah": {
+      "home": "New Lambton",
+      "away": "Kahibah",
+      "event_id": "9967275",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787378436.1170716
+      "last_checked": 1787384889.371842
     },
-    "Queanbeyan City|O Connor Knights": {
-      "home": "Queanbeyan City",
-      "away": "O Connor Knights",
-      "event_id": "9967257",
+    "Hakoah Sydney City East|Newcastle Jets Youth": {
+      "home": "Hakoah Sydney City East",
+      "away": "Newcastle Jets Youth",
+      "event_id": "9967276",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787378463.1315992
+      "last_checked": 1787384915.9640462
     }
   }
 }
