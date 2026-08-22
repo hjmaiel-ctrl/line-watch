@@ -1,6 +1,116 @@
 {
-  "generated_at": 1787389516.2236505,
+  "generated_at": 1787392705.6225696,
   "matches": [
+    {
+      "match": "Kashima Antlers - Avispa Fukuoka",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.1,
+              5.5
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.1,
+                "under": 5.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 10.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 11.5,
+                "over": 2.4,
+                "under": 1.47
+              },
+              {
+                "line": 12.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Fagiano Okayama - Tokyo Verdy",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 6.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 7.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 8.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 9.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "AC Torrellano - Real Murcia B",
       "bet9ja_stats": null,
@@ -47,50 +157,6 @@
     },
     {
       "match": "Girona FC B - Europa",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Espanyol Barcelona B - Gimnastic",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Gimnastica Segoviana CF - Rayo Majadahonda",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

@@ -1,5 +1,117 @@
 {
   "matches": {
+    "Kashima Antlers|Avispa Fukuoka": {
+      "home": "Kashima Antlers",
+      "away": "Avispa Fukuoka",
+      "event_id": "9967471",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.1,
+              5.5
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.1,
+                "under": 5.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 10.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 11.5,
+                "over": 2.4,
+                "under": 1.47
+              },
+              {
+                "line": 12.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787392598.7379277
+    },
+    "Fagiano Okayama|Tokyo Verdy": {
+      "home": "Fagiano Okayama",
+      "away": "Tokyo Verdy",
+      "event_id": "9967482",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 6.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 7.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 8.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 9.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787392624.1962483
+    },
     "AC Torrellano|Real Murcia B": {
       "home": "AC Torrellano",
       "away": "Real Murcia B",
@@ -21,7 +133,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787389403.9569504
+      "last_checked": 1787392651.2731087
     },
     "Atletico Albacete|Elche Ilicitano CF": {
       "home": "Atletico Albacete",
@@ -44,7 +156,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787389431.928397
+      "last_checked": 1787392678.4202065
     },
     "Girona FC B|Europa": {
       "home": "Girona FC B",
@@ -67,53 +179,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787389459.83181
-    },
-    "Espanyol Barcelona B|Gimnastic": {
-      "home": "Espanyol Barcelona B",
-      "away": "Gimnastic",
-      "event_id": "9967391",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787389488.282299
-    },
-    "Gimnastica Segoviana CF|Rayo Majadahonda": {
-      "home": "Gimnastica Segoviana CF",
-      "away": "Rayo Majadahonda",
-      "event_id": "9967438",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787389516.1884196
+      "last_checked": 1787392705.5872447
     }
   }
 }
