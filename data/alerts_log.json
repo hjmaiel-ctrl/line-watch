@@ -1000,5 +1000,41 @@
     "match": "Parma - Cagliari",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.82 a 1.6 (13.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Espanyol - Real Madrid",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Espanyol - Real Madrid",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.51 a 1.36 (11.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Espanyol - Real Madrid",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.4 a 2.8 (16.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Espanyol - Real Madrid",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Espanyol - Real Madrid",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.82 a 2.0 (9.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Espanyol - Real Madrid",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.85 a 1.7 (8.8%)"
   }
 ]
