@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787399165.947997,
+  "generated_at": 1787405091.2229307,
   "matches": [
     {
       "match": "Hull City - Manchester United",
@@ -7,57 +7,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.25,
-              3.45
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 7.5,
-                "over": 1.5,
-                "under": 2.35
-              },
-              {
-                "line": 8.5,
-                "over": 1.83,
-                "under": 1.83
-              },
-              {
-                "line": 9.5,
-                "over": 2.35,
-                "under": 1.5
-              },
-              {
-                "line": 10.5,
-                "over": 3.1,
-                "under": 1.3
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.73,
-              1.95
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.73,
-                "under": 1.95
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            17.0,
+            24.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -70,7 +28,7 @@
       "alerts": []
     },
     {
-      "match": "SV Wehen Wiesbaden - Bayer 04 Leverkusen",
+      "match": "Birmingham City - Bristol City",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -92,7 +50,7 @@
       "alerts": []
     },
     {
-      "match": "Energie Cottbus - FC Augsburg",
+      "match": "Luton Town - Notts County",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -114,45 +72,12 @@
       "alerts": []
     },
     {
-      "match": "Lincoln City - Portsmouth",
+      "match": "FC Nantes - Rodez",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 12.5,
-                "over": 1.6,
-                "under": 2.15
-              },
-              {
-                "line": 13.5,
-                "over": 1.92,
-                "under": 1.75
-              },
-              {
-                "line": 14.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 15.5,
-                "over": 3.1,
-                "under": 1.3
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -169,45 +94,12 @@
       "alerts": []
     },
     {
-      "match": "Millwall - Norwich City",
+      "match": "FC Metz - Stade Lavallois",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.22,
-              3.5
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.22,
-                "under": 3.5
-              },
-              {
-                "line": 9.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 10.5,
-                "over": 1.83,
-                "under": 1.83
-              },
-              {
-                "line": 11.5,
-                "over": 2.35,
-                "under": 1.5
-              },
-              {
-                "line": 12.5,
-                "over": 3.1,
-                "under": 1.3
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
