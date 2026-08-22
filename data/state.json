@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Eastern Suburbs Auckland AFC|East Coast Bays": {
-      "home": "Eastern Suburbs Auckland AFC",
-      "away": "East Coast Bays",
-      "event_id": "9967222",
+    "Canberra Olympic|Brindabella Blues": {
+      "home": "Canberra Olympic",
+      "away": "Brindabella Blues",
+      "event_id": "9967248",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787374698.1804101
+      "last_checked": 1787378355.5032017
     },
-    "Club Atletico La Paz|Cruz Azul Hidalgo": {
-      "home": "Club Atletico La Paz",
-      "away": "Cruz Azul Hidalgo",
-      "event_id": "9967226",
+    "Modbury Reserve|Adelaide Croatia Raiders Reserve": {
+      "home": "Modbury Reserve",
+      "away": "Adelaide Croatia Raiders Reserve",
+      "event_id": "9967253",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787374724.7552953
+      "last_checked": 1787378382.4587636
     },
-    "Querétaro|Deportivo Toluca": {
-      "home": "Querétaro",
-      "away": "Deportivo Toluca",
-      "event_id": "9967227",
+    "Canberra FC|Belconnen Utd.": {
+      "home": "Canberra FC",
+      "away": "Belconnen Utd.",
+      "event_id": "9967255",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787374751.3449013
+      "last_checked": 1787378409.2703278
     },
-    "West Torrens Birkalla Reserve|Sturt Lions Reserve": {
-      "home": "West Torrens Birkalla Reserve",
-      "away": "Sturt Lions Reserve",
-      "event_id": "9967228",
+    "Canberra White Eagles|Monaro": {
+      "home": "Canberra White Eagles",
+      "away": "Monaro",
+      "event_id": "9967256",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787374778.0360548
+      "last_checked": 1787378436.1170716
     },
-    "Petone FC|Wellington Olympic AFC": {
-      "home": "Petone FC",
-      "away": "Wellington Olympic AFC",
-      "event_id": "9967230",
+    "Queanbeyan City|O Connor Knights": {
+      "home": "Queanbeyan City",
+      "away": "O Connor Knights",
+      "event_id": "9967257",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787374804.6333218
+      "last_checked": 1787378463.1315992
     }
   }
 }
