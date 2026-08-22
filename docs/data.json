@@ -1,52 +1,8 @@
 {
-  "generated_at": 1787396150.5501795,
+  "generated_at": 1787399165.947997,
   "matches": [
     {
-      "match": "Leixões - União de Leiria",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Kashima Antlers - Avispa Fukuoka",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Fagiano Okayama - Tokyo Verdy",
+      "match": "Hull City - Manchester United",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -54,34 +10,146 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.17,
-              4.25
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.17,
-                "under": 4.25
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 7.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 8.5,
-                "over": 2.15,
-                "under": 1.57
+                "over": 1.83,
+                "under": 1.83
               },
               {
                 "line": 9.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 10.5,
-                "over": 5.75,
-                "under": 1.09
+                "over": 3.1,
+                "under": 1.3
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.73,
+              1.95
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.73,
+                "under": 1.95
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "SV Wehen Wiesbaden - Bayer 04 Leverkusen",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Energie Cottbus - FC Augsburg",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Lincoln City - Portsmouth",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 12.5,
+                "over": 1.6,
+                "under": 2.15
+              },
+              {
+                "line": 13.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 14.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 15.5,
+                "over": 3.1,
+                "under": 1.3
               }
             ]
           },
@@ -98,29 +166,10 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Fagiano Okayama - Tokyo Verdy",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 6.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Fagiano Okayama - Tokyo Verdy",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.28 a 1.17 (9.4%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Fagiano Okayama - Tokyo Verdy",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.25 a 4.25 (30.8%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Cerezo Osaka - Shimizu S-Pulse",
+      "match": "Millwall - Norwich City",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -139,78 +188,23 @@
               },
               {
                 "line": 9.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 10.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 1.83,
+                "under": 1.83
               },
               {
                 "line": 11.5,
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 12.5,
                 "over": 3.1,
                 "under": 1.3
-              },
-              {
-                "line": 12.5,
-                "over": 4.5,
-                "under": 1.15
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Kyoto Sanga - Mito Hollyhock",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.2,
-              3.75
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.2,
-                "under": 3.75
-              },
-              {
-                "line": 9.5,
-                "over": 1.52,
-                "under": 2.3
-              },
-              {
-                "line": 10.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 11.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 12.5,
-                "over": 4.5,
-                "under": 1.15
               }
             ]
           },
@@ -230,5 +224,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 0
 }
