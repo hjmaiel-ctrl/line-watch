@@ -1096,5 +1096,11 @@
     "match": "Newcastle United - Liverpool",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #1 passato da 2.15 a 1.98 (8.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Venezia - Lecce",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 3.5"
   }
 ]
