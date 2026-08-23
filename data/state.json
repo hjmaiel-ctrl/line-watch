@@ -1,126 +1,57 @@
 {
   "matches": {
-    "Go Ahead Eagles|ADO Den Haag": {
-      "home": "Go Ahead Eagles",
-      "away": "ADO Den Haag",
-      "event_id": "9974213",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787485510.5897722
-    },
-    "SpVgg Greuther Fürth|VfL Bochum": {
-      "home": "SpVgg Greuther Fürth",
-      "away": "VfL Bochum",
-      "event_id": "9974242",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787485537.5243807
-    },
-    "SSV Jeddeloh|1. FC Heidenheim": {
-      "home": "SSV Jeddeloh",
-      "away": "1. FC Heidenheim",
-      "event_id": "9974244",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787485564.7398722
-    },
-    "West Bromwich Albion|Burnley": {
-      "home": "West Bromwich Albion",
-      "away": "Burnley",
-      "event_id": "9965195",
+    "Brighton & Hove Albion|Aston Villa": {
+      "home": "Brighton & Hove Albion",
+      "away": "Aston Villa",
+      "event_id": "9962433",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 6.5,
             "odds": [
-              1.11,
-              5.25
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.11,
-                "under": 5.25
-              },
-              {
-                "line": 5.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
                 "line": 6.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 7.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 8.5,
+                "over": 1.85,
+                "under": 1.82
+              },
+              {
+                "line": 9.5,
                 "over": 2.45,
                 "under": 1.47
               },
               {
-                "line": 8.5,
-                "over": 3.45,
-                "under": 1.22
+                "line": 10.5,
+                "over": 3.25,
+                "under": 1.28
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 6.5,
             "odds": [
-              2.1,
-              1.62
+              1.8,
+              1.87
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 2.1,
-                "under": 1.62
+                "line": 6.5,
+                "over": 1.8,
+                "under": 1.87
               }
             ]
           }
@@ -136,12 +67,150 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787485588.2308831
+      "last_checked": 1787491393.4640443
     },
-    "GD Chaves|AVS Futebol SAD": {
-      "home": "GD Chaves",
-      "away": "AVS Futebol SAD",
-      "event_id": "9974198",
+    "Manchester City|AFC Bournemouth": {
+      "home": "Manchester City",
+      "away": "AFC Bournemouth",
+      "event_id": "9965311",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.25,
+              3.45
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 10.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 11.5,
+                "over": 1.8,
+                "under": 1.87
+              },
+              {
+                "line": 12.5,
+                "over": 2.25,
+                "under": 1.55
+              },
+              {
+                "line": 13.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              2.05,
+              1.65
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 2.05,
+                "under": 1.65
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787491417.1010785
+    },
+    "Angers SCO|Lille OSC": {
+      "home": "Angers SCO",
+      "away": "Lille OSC",
+      "event_id": "9965409",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.3,
+              3.1
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.3,
+                "under": 3.1
+              },
+              {
+                "line": 8.5,
+                "over": 1.6,
+                "under": 2.15
+              },
+              {
+                "line": 9.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 10.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 11.5,
+                "over": 4.0,
+                "under": 1.18
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.9,
+              1.78
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.9,
+                "under": 1.78
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787491440.5687687
+    },
+    "PSV Eindhoven|FC Groningen": {
+      "home": "PSV Eindhoven",
+      "away": "FC Groningen",
+      "event_id": "9974326",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -159,7 +228,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787485615.1325479
+      "last_checked": 1787491467.8498867
+    },
+    "Penafiel|Sporting CP B": {
+      "home": "Penafiel",
+      "away": "Sporting CP B",
+      "event_id": "9974344",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787491495.0270848
     }
   }
 }
