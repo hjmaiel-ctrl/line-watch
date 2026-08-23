@@ -1,9 +1,9 @@
 {
   "matches": {
-    "FC Blau-Weiss Linz|ASK Voitsberg": {
-      "home": "FC Blau-Weiss Linz",
-      "away": "ASK Voitsberg",
-      "event_id": "9974142",
+    "Go Ahead Eagles|ADO Den Haag": {
+      "home": "Go Ahead Eagles",
+      "away": "ADO Den Haag",
+      "event_id": "9974213",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787479101.8059535
+      "last_checked": 1787482547.365885
     },
-    "Sigma Olomouc B|Apos Blansko": {
-      "home": "Sigma Olomouc B",
-      "away": "Apos Blansko",
-      "event_id": "9974127",
+    "GD Chaves|AVS Futebol SAD": {
+      "home": "GD Chaves",
+      "away": "AVS Futebol SAD",
+      "event_id": "9974198",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,16 +44,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787479128.2052476
+      "last_checked": 1787482574.2792459
     },
-    "MFk Karvina B|SK Polanka Nad Odrou": {
-      "home": "MFk Karvina B",
-      "away": "SK Polanka Nad Odrou",
-      "event_id": "9974128",
+    "Machida Zelvia|Urawa Red Diamonds": {
+      "home": "Machida Zelvia",
+      "away": "Urawa Red Diamonds",
+      "event_id": "9974217",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.25,
+              3.45
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 8.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 9.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 10.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 11.5,
+                "over": 3.5,
+                "under": 1.22
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -67,12 +100,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787479154.7341306
+      "last_checked": 1787482599.7283604
     },
-    "Tvd Slavicin|Tatran Vsechovice": {
-      "home": "Tvd Slavicin",
-      "away": "Tatran Vsechovice",
-      "event_id": "9974129",
+    "Werder Bremen|Meppen 1912": {
+      "home": "Werder Bremen",
+      "away": "Meppen 1912",
+      "event_id": "9974204",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +123,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787479181.4039466
+      "last_checked": 1787482626.6726763
     },
-    "Admira Prague|Pribram B": {
-      "home": "Admira Prague",
-      "away": "Pribram B",
-      "event_id": "9974130",
+    "SønderjyskE|FC Nordsjælland": {
+      "home": "SønderjyskE",
+      "away": "FC Nordsjælland",
+      "event_id": "9966465",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +146,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787479207.8851278
+      "last_checked": 1787482653.5690818
     }
   }
 }

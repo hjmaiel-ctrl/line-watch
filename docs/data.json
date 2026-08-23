@@ -1,8 +1,8 @@
 {
-  "generated_at": 1787479207.913992,
+  "generated_at": 1787482653.638992,
   "matches": [
     {
-      "match": "FC Blau-Weiss Linz - ASK Voitsberg",
+      "match": "Go Ahead Eagles - ADO Den Haag",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Sigma Olomouc B - Apos Blansko",
+      "match": "GD Chaves - AVS Futebol SAD",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -46,7 +46,62 @@
       "alerts": []
     },
     {
-      "match": "MFk Karvina B - SK Polanka Nad Odrou",
+      "match": "Machida Zelvia - Urawa Red Diamonds",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.25,
+              3.45
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 8.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 9.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 10.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 11.5,
+                "over": 3.5,
+                "under": 1.22
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Werder Bremen - Meppen 1912",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -68,29 +123,7 @@
       "alerts": []
     },
     {
-      "match": "Tvd Slavicin - Tatran Vsechovice",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Admira Prague - Pribram B",
+      "match": "SønderjyskE - FC Nordsjælland",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
