@@ -1,93 +1,81 @@
 {
-  "generated_at": 1787521613.571763,
+  "generated_at": 1787525228.8660884,
   "matches": [
-    {
-      "match": "New England Revolution - New York City",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.35,
-              2.96
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.35,
-                "under": 2.96
-              },
-              {
-                "line": 10.5,
-                "over": 1.74,
-                "under": 1.98
-              },
-              {
-                "line": 11.5,
-                "over": 2.4,
-                "under": 1.51
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.6,
-              2.14
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.6,
-                "under": 2.14
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Belgrano - Defensa y Justicia",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Chapecoense - São Paulo",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 12.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 13.5,
+                "over": 2.45,
+                "under": 1.47
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
           "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Coritiba - Corinthians",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.65,
+              2.05
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 11.5,
+                "over": 2.1,
+                "under": 1.62
+              },
+              {
+                "line": 12.5,
+                "over": 2.7,
+                "under": 1.38
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -110,26 +98,84 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 12.5,
             "odds": [
-              1.42,
-              2.6
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.42,
-                "under": 2.6
+                "line": 12.5,
+                "over": 1.5,
+                "under": 2.35
               },
               {
-                "line": 10.5,
+                "line": 13.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 14.5,
+                "over": 2.7,
+                "under": 1.38
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Santos FC - Mirassol FC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 12.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Santos FC - Mirassol FC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.6 a 2.35 (10.6%)"
+        }
+      ]
+    },
+    {
+      "match": "River Plate - Vélez Sársfield",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 7.5,
                 "over": 1.73,
                 "under": 1.95
               },
               {
-                "line": 11.5,
-                "over": 2.2,
-                "under": 1.57
+                "line": 8.5,
+                "over": 2.35,
+                "under": 1.5
               }
             ]
           },
@@ -158,7 +204,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            6.8,
+            1.26
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -171,5 +221,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }

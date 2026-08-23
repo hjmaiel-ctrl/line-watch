@@ -1,87 +1,5 @@
 {
   "matches": {
-    "New England Revolution|New York City": {
-      "home": "New England Revolution",
-      "away": "New York City",
-      "event_id": "9974987",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.35,
-              2.96
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.35,
-                "under": 2.96
-              },
-              {
-                "line": 10.5,
-                "over": 1.74,
-                "under": 1.98
-              },
-              {
-                "line": 11.5,
-                "over": 2.4,
-                "under": 1.51
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.6,
-              2.14
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.6,
-                "under": 2.14
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787521508.904109
-    },
-    "Belgrano|Defensa y Justicia": {
-      "home": "Belgrano",
-      "away": "Defensa y Justicia",
-      "event_id": "9974952",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787521535.4369664
-    },
     "Chapecoense|São Paulo": {
       "home": "Chapecoense",
       "away": "São Paulo",
@@ -89,7 +7,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 12.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 13.5,
+                "over": 2.45,
+                "under": 1.47
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -103,7 +44,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787521562.0652828
+      "last_checked": 1787525116.2859383
+    },
+    "Coritiba|Corinthians": {
+      "home": "Coritiba",
+      "away": "Corinthians",
+      "event_id": "9975004",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.65,
+              2.05
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 11.5,
+                "over": 2.1,
+                "under": 1.62
+              },
+              {
+                "line": 12.5,
+                "over": 2.7,
+                "under": 1.38
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787525145.9118593
     },
     "Santos FC|Mirassol FC": {
       "home": "Santos FC",
@@ -113,26 +100,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 12.5,
             "odds": [
-              1.42,
-              2.6
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.42,
-                "under": 2.6
+                "line": 12.5,
+                "over": 1.5,
+                "under": 2.35
               },
               {
-                "line": 10.5,
-                "over": 1.73,
-                "under": 1.95
+                "line": 13.5,
+                "over": 1.98,
+                "under": 1.7
               },
               {
-                "line": 11.5,
-                "over": 2.2,
-                "under": 1.57
+                "line": 14.5,
+                "over": 2.7,
+                "under": 1.38
               }
             ]
           },
@@ -149,7 +136,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787521586.8801525
+      "last_checked": 1787525170.9565692
+    },
+    "River Plate|Vélez Sársfield": {
+      "home": "River Plate",
+      "away": "Vélez Sársfield",
+      "event_id": "9975016",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 7.5,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 8.5,
+                "over": 2.35,
+                "under": 1.5
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787525196.1221275
     },
     "Operário Ferroviário|Vila Nova FC": {
       "home": "Operário Ferroviário",
@@ -162,7 +195,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            6.8,
+            1.26
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -172,7 +209,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787521613.5400906
+      "last_checked": 1787525228.820633
     }
   }
 }
