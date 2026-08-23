@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787475778.9148648
+      "last_checked": 1787479101.8059535
     },
-    "North District|Tai Po FC": {
-      "home": "North District",
-      "away": "Tai Po FC",
-      "event_id": "9974125",
+    "Sigma Olomouc B|Apos Blansko": {
+      "home": "Sigma Olomouc B",
+      "away": "Apos Blansko",
+      "event_id": "9974127",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,39 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787475806.124866
+      "last_checked": 1787479128.2052476
     },
-    "Bankstown City FC|St George FC": {
-      "home": "Bankstown City FC",
-      "away": "St George FC",
-      "event_id": "9974114",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.12,
-            6.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787475838.4454105
-    },
-    "CSC 1599 Selimbar|Afumati": {
-      "home": "CSC 1599 Selimbar",
-      "away": "Afumati",
-      "event_id": "9974115",
+    "MFk Karvina B|SK Polanka Nad Odrou": {
+      "home": "MFk Karvina B",
+      "away": "SK Polanka Nad Odrou",
+      "event_id": "9974128",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -94,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787475865.7098053
+      "last_checked": 1787479154.7341306
     },
-    "CSA Steaua Bucuresti|CSC Dumbravita": {
-      "home": "CSA Steaua Bucuresti",
-      "away": "CSC Dumbravita",
-      "event_id": "9974116",
+    "Tvd Slavicin|Tatran Vsechovice": {
+      "home": "Tvd Slavicin",
+      "away": "Tatran Vsechovice",
+      "event_id": "9974129",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787475892.902728
+      "last_checked": 1787479181.4039466
+    },
+    "Admira Prague|Pribram B": {
+      "home": "Admira Prague",
+      "away": "Pribram B",
+      "event_id": "9974130",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787479207.8851278
     }
   }
 }
