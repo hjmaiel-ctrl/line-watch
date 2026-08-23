@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Sydney Utd.|APIA Tigers": {
-      "home": "Sydney Utd.",
-      "away": "APIA Tigers",
-      "event_id": "9974047",
+    "Maitland|Weston Workers": {
+      "home": "Maitland",
+      "away": "Weston Workers",
+      "event_id": "9974078",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787464936.972465
+      "last_checked": 1787471503.8797507
     },
-    "Sydney Olimpic|Marconi": {
-      "home": "Sydney Olimpic",
-      "away": "Marconi",
-      "event_id": "9974053",
+    "Hannan University|FC Awj": {
+      "home": "Hannan University",
+      "away": "FC Awj",
+      "event_id": "9974099",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787464964.330874
+      "last_checked": 1787471530.833202
     },
-    "Wollongong|Western Sydney Wanderers Reserves": {
-      "home": "Wollongong",
-      "away": "Western Sydney Wanderers Reserves",
-      "event_id": "9974054",
+    "Osaka City SC|Bandito Ikoma": {
+      "home": "Osaka City SC",
+      "away": "Bandito Ikoma",
+      "event_id": "9974100",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787464991.6537755
+      "last_checked": 1787471557.860448
     },
-    "Mariners Academy|MT Druitt Town Rangers": {
-      "home": "Mariners Academy",
-      "away": "MT Druitt Town Rangers",
-      "event_id": "9974055",
+    "Jecheon Citizen FC|FC Sejong": {
+      "home": "Jecheon Citizen FC",
+      "away": "FC Sejong",
+      "event_id": "9974106",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787465018.63894
+      "last_checked": 1787471584.9016905
     },
-    "Logan Roos|MT Gravatt Hawks": {
-      "home": "Logan Roos",
-      "away": "MT Gravatt Hawks",
-      "event_id": "9974059",
+    "Central Coast Mariners U20|Western City Rangers FC": {
+      "home": "Central Coast Mariners U20",
+      "away": "Western City Rangers FC",
+      "event_id": "9974107",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787465045.452753
+      "last_checked": 1787471612.1936257
     }
   }
 }
