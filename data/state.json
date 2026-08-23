@@ -1,74 +1,5 @@
 {
   "matches": {
-    "Colorado Springs Switchbacks|El Paso Locomotive": {
-      "home": "Colorado Springs Switchbacks",
-      "away": "El Paso Locomotive",
-      "event_id": "9974022",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787461576.4662576
-    },
-    "Av Alta FC|FC Naples": {
-      "home": "Av Alta FC",
-      "away": "FC Naples",
-      "event_id": "9974041",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787461604.1639192
-    },
-    "Route 11|Kansai University FC 2008": {
-      "home": "Route 11",
-      "away": "Kansai University FC 2008",
-      "event_id": "9974046",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787461632.2276423
-    },
     "Sydney Utd.|APIA Tigers": {
       "home": "Sydney Utd.",
       "away": "APIA Tigers",
@@ -90,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787461660.3237357
+      "last_checked": 1787464936.972465
     },
-    "South Hobart|Devonport City": {
-      "home": "South Hobart",
-      "away": "Devonport City",
-      "event_id": "9974052",
+    "Sydney Olimpic|Marconi": {
+      "home": "Sydney Olimpic",
+      "away": "Marconi",
+      "event_id": "9974053",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +44,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787461693.6692655
+      "last_checked": 1787464964.330874
+    },
+    "Wollongong|Western Sydney Wanderers Reserves": {
+      "home": "Wollongong",
+      "away": "Western Sydney Wanderers Reserves",
+      "event_id": "9974054",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787464991.6537755
+    },
+    "Mariners Academy|MT Druitt Town Rangers": {
+      "home": "Mariners Academy",
+      "away": "MT Druitt Town Rangers",
+      "event_id": "9974055",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787465018.63894
+    },
+    "Logan Roos|MT Gravatt Hawks": {
+      "home": "Logan Roos",
+      "away": "MT Gravatt Hawks",
+      "event_id": "9974059",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787465045.452753
     }
   }
 }
