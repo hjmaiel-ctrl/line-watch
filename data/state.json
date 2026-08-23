@@ -1,37 +1,50 @@
 {
   "matches": {
-    "Chapecoense|São Paulo": {
-      "home": "Chapecoense",
-      "away": "São Paulo",
-      "event_id": "9975000",
+    "Atlanta Utd|Sporting Kansas City": {
+      "home": "Atlanta Utd",
+      "away": "Sporting Kansas City",
+      "event_id": "9975033",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 7.5,
             "odds": [
-              1.35,
-              2.85
+              1.49,
+              2.46
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.35,
-                "under": 2.85
+                "line": 7.5,
+                "over": 1.49,
+                "under": 2.46
               },
               {
-                "line": 12.5,
-                "over": 1.75,
-                "under": 1.92
+                "line": 8.5,
+                "over": 1.88,
+                "under": 1.82
               },
               {
-                "line": 13.5,
-                "over": 2.45,
+                "line": 9.5,
+                "over": 2.5,
                 "under": 1.47
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.76,
+              1.92
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.76,
+                "under": 1.92
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -44,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787525116.2859383
+      "last_checked": 1787528498.276771
     },
     "Coritiba|Corinthians": {
       "home": "Coritiba",
@@ -54,116 +67,24 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 13.5,
             "odds": [
-              1.65,
-              2.05
+              1.32,
+              3.0
             ],
             "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 11.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 12.5,
-                "over": 2.7,
-                "under": 1.38
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787525145.9118593
-    },
-    "Santos FC|Mirassol FC": {
-      "home": "Santos FC",
-      "away": "Mirassol FC",
-      "event_id": "9975012",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.5,
-              2.35
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.5,
-                "under": 2.35
-              },
               {
                 "line": 13.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 14.5,
-                "over": 2.7,
-                "under": 1.38
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787525170.9565692
-    },
-    "River Plate|Vélez Sársfield": {
-      "home": "River Plate",
-      "away": "Vélez Sársfield",
-      "event_id": "9975016",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.7,
+                "under": 1.98
               },
               {
-                "line": 7.5,
-                "over": 1.73,
-                "under": 1.95
-              },
-              {
-                "line": 8.5,
+                "line": 15.5,
                 "over": 2.35,
                 "under": 1.5
               }
@@ -182,24 +103,43 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787525196.1221275
+      "last_checked": 1787528523.1925273
     },
-    "Operário Ferroviário|Vila Nova FC": {
-      "home": "Operário Ferroviário",
-      "away": "Vila Nova FC",
-      "event_id": "9974986",
+    "River Plate|Vélez Sársfield": {
+      "home": "River Plate",
+      "away": "Vélez Sársfield",
+      "event_id": "9975016",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.38,
+              2.7
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 7.5,
+                "over": 2.1,
+                "under": 1.62
+              },
+              {
+                "line": 8.5,
+                "over": 3.65,
+                "under": 1.22
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            6.8,
-            1.26
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -209,7 +149,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787525228.820633
+      "last_checked": 1787528548.1290553
+    },
+    "O'Higgins|Palestino": {
+      "home": "O'Higgins",
+      "away": "Palestino",
+      "event_id": "9975027",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787528574.8552756
+    },
+    "Deportivo Cali|Internacional de Bogotá": {
+      "home": "Deportivo Cali",
+      "away": "Internacional de Bogotá",
+      "event_id": "9975036",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.5,
+              2.35
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 11.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 12.5,
+                "over": 2.5,
+                "under": 1.45
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787528599.5854537
     }
   }
 }

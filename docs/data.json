@@ -1,37 +1,50 @@
 {
-  "generated_at": 1787525228.8660884,
+  "generated_at": 1787528599.6146097,
   "matches": [
     {
-      "match": "Chapecoense - São Paulo",
+      "match": "Atlanta Utd - Sporting Kansas City",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 7.5,
             "odds": [
-              1.35,
-              2.85
+              1.49,
+              2.46
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.35,
-                "under": 2.85
+                "line": 7.5,
+                "over": 1.49,
+                "under": 2.46
               },
               {
-                "line": 12.5,
-                "over": 1.75,
-                "under": 1.92
+                "line": 8.5,
+                "over": 1.88,
+                "under": 1.82
               },
               {
-                "line": 13.5,
-                "over": 2.45,
+                "line": 9.5,
+                "over": 2.5,
                 "under": 1.47
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.76,
+              1.92
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.76,
+                "under": 1.92
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -53,71 +66,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 13.5,
             "odds": [
-              1.65,
-              2.05
+              1.32,
+              3.0
             ],
             "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 11.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 12.5,
-                "over": 2.7,
-                "under": 1.38
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Santos FC - Mirassol FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.5,
-              2.35
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.5,
-                "under": 2.35
-              },
               {
                 "line": 13.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 14.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 15.5,
+                "over": 2.35,
+                "under": 1.5
               }
             ]
           },
@@ -137,15 +105,21 @@
       "alerts": [
         {
           "type": "linea_cambiata",
-          "match": "Santos FC - Mirassol FC",
+          "match": "Coritiba - Corinthians",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 12.5"
+          "detail": "bet9ja: linea passata da 10.5 a 13.5"
         },
         {
           "type": "quota_cambiata",
-          "match": "Santos FC - Mirassol FC",
+          "match": "Coritiba - Corinthians",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.6 a 2.35 (10.6%)"
+          "detail": "bet9ja: esito #1 passato da 1.65 a 1.32 (25.0%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Coritiba - Corinthians",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.05 a 3.0 (46.3%)"
         }
       ]
     },
@@ -158,24 +132,24 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.35,
-              2.85
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 7.5,
-                "over": 1.73,
-                "under": 1.95
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 8.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
@@ -195,7 +169,7 @@
       "alerts": []
     },
     {
-      "match": "Operário Ferroviário - Vila Nova FC",
+      "match": "O'Higgins - Palestino",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -204,11 +178,52 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            6.8,
-            1.26
-          ],
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Deportivo Cali - Internacional de Bogotá",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.5,
+              2.35
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 11.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 12.5,
+                "over": 2.5,
+                "under": 1.45
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -221,5 +236,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 3
 }

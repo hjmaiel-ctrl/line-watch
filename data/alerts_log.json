@@ -1258,5 +1258,23 @@
     "match": "Santos FC - Mirassol FC",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.6 a 2.35 (10.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Coritiba - Corinthians",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 13.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Coritiba - Corinthians",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.65 a 1.32 (25.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Coritiba - Corinthians",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.05 a 3.0 (46.3%)"
   }
 ]
