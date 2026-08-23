@@ -7,41 +7,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
+          "CORNERS_OU": null,
+          "CARDS_OU": {
             "line": 6.5,
             "odds": [
-              1.43,
-              2.62
+              2.14,
+              1.58
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.43,
-                "under": 2.62
-              },
-              {
-                "line": 7.5,
-                "over": 1.76,
-                "under": 1.95
-              },
-              {
-                "line": 8.5,
-                "over": 2.26,
-                "under": 1.57
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.83,
-              1.84
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.83,
-                "under": 1.84
+                "over": 2.14,
+                "under": 1.58
               }
             ]
           }
@@ -57,60 +34,60 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787507052.1029444
+      "last_checked": 1787511727.4978728
     },
-    "Frosinone|Juventus": {
-      "home": "Frosinone",
-      "away": "Juventus",
-      "event_id": "9962413",
+    "Torino|AC Milan": {
+      "home": "Torino",
+      "away": "AC Milan",
+      "event_id": "9965326",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 12.5,
+            "line": 6.5,
             "odds": [
-              1.17,
-              4.25
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
-                "line": 12.5,
-                "over": 1.17,
-                "under": 4.25
+                "line": 6.5,
+                "over": 1.28,
+                "under": 3.25
               },
               {
-                "line": 13.5,
-                "over": 1.42,
-                "under": 2.6
+                "line": 7.5,
+                "over": 1.52,
+                "under": 2.3
               },
               {
-                "line": 14.5,
-                "over": 1.92,
-                "under": 1.75
+                "line": 8.5,
+                "over": 1.95,
+                "under": 1.73
               },
               {
-                "line": 15.5,
-                "over": 2.7,
-                "under": 1.38
+                "line": 9.5,
+                "over": 2.6,
+                "under": 1.42
               },
               {
-                "line": 16.5,
-                "over": 4.1,
-                "under": 1.18
+                "line": 10.5,
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 2.5,
             "odds": [
-              1.92,
-              1.75
+              1.85,
+              1.82
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.92,
-                "under": 1.75
+                "line": 2.5,
+                "over": 1.85,
+                "under": 1.82
               }
             ]
           }
@@ -126,36 +103,36 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787507075.5156846
+      "last_checked": 1787511750.8606782
     },
-    "Venezia|Lecce": {
-      "home": "Venezia",
-      "away": "Lecce",
-      "event_id": "9965470",
+    "Atalanta|Sassuolo": {
+      "home": "Atalanta",
+      "away": "Sassuolo",
+      "event_id": "9965647",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.13,
-              4.75
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.13,
-                "under": 4.75
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 7.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 8.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 9.5,
@@ -164,22 +141,22 @@
               },
               {
                 "line": 10.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              1.65,
-              2.05
+              1.75,
+              1.92
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.65,
-                "under": 2.05
+                "line": 2.5,
+                "over": 1.75,
+                "under": 1.92
               }
             ]
           }
@@ -195,16 +172,118 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787507098.9493246
+      "last_checked": 1787511774.3421707
     },
-    "Santa Clara|Famalicão": {
-      "home": "Santa Clara",
-      "away": "Famalicão",
-      "event_id": "9974812",
+    "Stade Rennais|Paris Saint-Germain": {
+      "home": "Stade Rennais",
+      "away": "Paris Saint-Germain",
+      "event_id": "9962713",
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.38,
+              2.7
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 11.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 12.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 13.5,
+                "over": 2.7,
+                "under": 1.38
+              },
+              {
+                "line": 14.5,
+                "over": 3.65,
+                "under": 1.22
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              2.25,
+              1.55
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 2.25,
+                "under": 1.55
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
           "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787511797.626138
+    },
+    "Alanyaspor|Besiktas JK": {
+      "home": "Alanyaspor",
+      "away": "Besiktas JK",
+      "event_id": "9974891",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 6.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 7.5,
+                "over": 2.25,
+                "under": 1.55
+              },
+              {
+                "line": 8.5,
+                "over": 3.1,
+                "under": 1.29
+              },
+              {
+                "line": 9.5,
+                "over": 4.5,
+                "under": 1.15
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -218,30 +297,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787507126.3829556
-    },
-    "Fortuna Düsseldorf|SC Freiburg": {
-      "home": "Fortuna Düsseldorf",
-      "away": "SC Freiburg",
-      "event_id": "9974762",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787507153.4104993
+      "last_checked": 1787511822.7257051
     }
   }
 }
