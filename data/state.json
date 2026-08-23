@@ -1,52 +1,57 @@
 {
   "matches": {
-    "Brighton & Hove Albion|Aston Villa": {
-      "home": "Brighton & Hove Albion",
-      "away": "Aston Villa",
-      "event_id": "9962433",
+    "Newcastle United|Liverpool": {
+      "home": "Newcastle United",
+      "away": "Liverpool",
+      "event_id": "9965325",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 9.5,
             "odds": [
-              1.5,
-              2.35
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.5,
-                "under": 2.35
-              },
-              {
-                "line": 8.5,
-                "over": 3.25,
-                "under": 1.28
-              },
-              {
                 "line": 9.5,
-                "over": 7.5,
-                "under": 1.04
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 10.5,
-                "over": 11.0,
-                "under": null
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
+                "line": 11.5,
+                "over": 2.0,
+                "under": 1.65
+              },
+              {
+                "line": 12.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 13.5,
+                "over": 3.25,
+                "under": 1.28
               }
             ]
           },
           "CARDS_OU": {
-            "line": 6.5,
+            "line": 4.5,
             "odds": [
-              2.65,
-              1.4
+              2.15,
+              1.6
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 2.65,
-                "under": 1.4
+                "line": 4.5,
+                "over": 2.15,
+                "under": 1.6
               }
             ]
           }
@@ -62,12 +67,71 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787496367.200634
+      "last_checked": 1787499812.212185
     },
-    "Manchester City|AFC Bournemouth": {
-      "home": "Manchester City",
-      "away": "AFC Bournemouth",
-      "event_id": "9965311",
+    "Atl. Madrid|Villarreal": {
+      "home": "Atl. Madrid",
+      "away": "Villarreal",
+      "event_id": "9777505",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.4,
+              2.76
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.4,
+                "under": 2.76
+              },
+              {
+                "line": 9.5,
+                "over": 1.76,
+                "under": 1.95
+              },
+              {
+                "line": 10.5,
+                "over": 2.36,
+                "under": 1.52
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.91,
+              1.76
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.91,
+                "under": 1.76
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787499837.003234
+    },
+    "Cambuur Leeuwarden|Feyenoord": {
+      "home": "Cambuur Leeuwarden",
+      "away": "Feyenoord",
+      "event_id": "9974447",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -85,30 +149,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787496393.9705718
-    },
-    "Angers SCO|Lille OSC": {
-      "home": "Angers SCO",
-      "away": "Lille OSC",
-      "event_id": "9965409",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787496421.3246343
+      "last_checked": 1787499863.6960058
     },
     "Vitoria de Guimaraes|Nacional da Madeira": {
       "home": "Vitoria de Guimaraes",
@@ -131,16 +172,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787496447.911169
+      "last_checked": 1787499890.40454
     },
-    "TSV Schott Mainz|Borussia Mönchengladbach": {
-      "home": "TSV Schott Mainz",
-      "away": "Borussia Mönchengladbach",
-      "event_id": "9974368",
+    "SD Eibar|Real Valladolid": {
+      "home": "SD Eibar",
+      "away": "Real Valladolid",
+      "event_id": "9974535",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 12.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 13.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 14.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 15.5,
+                "over": 4.25,
+                "under": 1.17
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -154,7 +228,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787496475.1178136
+      "last_checked": 1787499915.2915554
     }
   }
 }
