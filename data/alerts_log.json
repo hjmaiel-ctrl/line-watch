@@ -1066,5 +1066,35 @@
     "match": "Brighton & Hove Albion - Aston Villa",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.87 a 1.4 (33.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Newcastle United - Liverpool",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Newcastle United - Liverpool",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.38 a 1.1 (25.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Newcastle United - Liverpool",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.7 a 5.5 (103.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Newcastle United - Liverpool",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Newcastle United - Liverpool",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.15 a 1.98 (8.6%)"
   }
 ]
