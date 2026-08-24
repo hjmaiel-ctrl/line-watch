@@ -1,32 +1,5 @@
 {
   "matches": {
-    "Morocco Mediterranean Team|Tunisia Mediterranean Team": {
-      "home": "Morocco Mediterranean Team",
-      "away": "Tunisia Mediterranean Team",
-      "event_id": "9980320",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            40.0,
-            4.6
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787567095.198223
-    },
     "Meghalaya Police|Sawmer SC": {
       "home": "Meghalaya Police",
       "away": "Sawmer SC",
@@ -48,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787567121.949653
+      "last_checked": 1787572195.6216035
     },
-    "Peerless|Wari AC": {
-      "home": "Peerless",
-      "away": "Wari AC",
-      "event_id": "9980322",
+    "FC Dinamo Brest II|FC Maxline-2 Vitebsk": {
+      "home": "FC Dinamo Brest II",
+      "away": "FC Maxline-2 Vitebsk",
+      "event_id": "9980325",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -71,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787567148.7298017
+      "last_checked": 1787572222.5102098
     },
-    "Calcutta Police Club|Kalighat Sports Lovers": {
-      "home": "Calcutta Police Club",
-      "away": "Kalighat Sports Lovers",
-      "event_id": "9980324",
+    "Olimpia Asuncion Reserves|Cerro Porteño Reserves": {
+      "home": "Olimpia Asuncion Reserves",
+      "away": "Cerro Porteño Reserves",
+      "event_id": "9980326",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -94,49 +67,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787567175.8561645
+      "last_checked": 1787572249.386213
     },
-    "Z.Leeds|Z.Ipswich Town": {
-      "home": "Z.Leeds",
-      "away": "Z.Ipswich Town",
-      "event_id": "9983867",
+    "Club Nacional Asuncion Reserves|Club Sportivo Luqueño Reserves": {
+      "home": "Club Nacional Asuncion Reserves",
+      "away": "Club Sportivo Luqueño Reserves",
+      "event_id": "9980327",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.27,
-              3.75
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.27,
-                "under": 3.75
-              },
-              {
-                "line": 10.5,
-                "over": 1.55,
-                "under": 2.44
-              },
-              {
-                "line": 11.5,
-                "over": 2.02,
-                "under": 1.79
-              },
-              {
-                "line": 12.5,
-                "over": 2.85,
-                "under": 1.42
-              },
-              {
-                "line": 13.5,
-                "over": 4.35,
-                "under": 1.22
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -150,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787567201.1564643
+      "last_checked": 1787572276.578047
+    },
+    "Tampines Rovers II|Hougang Utd FC II": {
+      "home": "Tampines Rovers II",
+      "away": "Hougang Utd FC II",
+      "event_id": "9980330",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787572303.2203662
     }
   }
 }
