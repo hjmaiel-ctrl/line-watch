@@ -1,175 +1,8 @@
 {
-  "generated_at": 1787528599.6146097,
+  "generated_at": 1787542505.406287,
   "matches": [
     {
-      "match": "Atlanta Utd - Sporting Kansas City",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.49,
-              2.46
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.49,
-                "under": 2.46
-              },
-              {
-                "line": 8.5,
-                "over": 1.88,
-                "under": 1.82
-              },
-              {
-                "line": 9.5,
-                "over": 2.5,
-                "under": 1.47
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.76,
-              1.92
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.76,
-                "under": 1.92
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Coritiba - Corinthians",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 13.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 13.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 14.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 15.5,
-                "over": 2.35,
-                "under": 1.5
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Coritiba - Corinthians",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 13.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Coritiba - Corinthians",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.65 a 1.32 (25.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Coritiba - Corinthians",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.05 a 3.0 (46.3%)"
-        }
-      ]
-    },
-    {
-      "match": "River Plate - Vélez Sársfield",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.38,
-              2.7
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 7.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 8.5,
-                "over": 3.65,
-                "under": 1.22
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "O'Higgins - Palestino",
+      "match": "Malacateco - Deportivo San Pedro",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -191,7 +24,33 @@
       "alerts": []
     },
     {
-      "match": "Deportivo Cali - Internacional de Bogotá",
+      "match": "Ventura County FC - Portland Timbers II",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            3.4,
+            1.95
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Z.Bournemouth - Z.Hull City",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -199,24 +58,129 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.5,
-              2.35
+              1.09,
+              7.8
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.09,
+                "under": 7.8
               },
               {
                 "line": 11.5,
-                "over": 1.9,
-                "under": 1.78
+                "over": 1.56,
+                "under": 2.42
               },
               {
                 "line": 12.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 2.92,
+                "under": 1.41
+              },
+              {
+                "line": 13.5,
+                "over": 7.1,
+                "under": 1.11
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Z.Brighton - Z.Tottenham",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 12.5,
+            "odds": [
+              1.07,
+              8.95
+            ],
+            "_all_lines": [
+              {
+                "line": 12.5,
+                "over": 1.07,
+                "under": 8.95
+              },
+              {
+                "line": 13.5,
+                "over": 1.48,
+                "under": 2.65
+              },
+              {
+                "line": 14.5,
+                "over": 2.63,
+                "under": 1.48
+              },
+              {
+                "line": 15.5,
+                "over": 6.05,
+                "under": 1.14
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Z.Aston Villa - Z.Coventry City",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.1,
+              7.4
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.1,
+                "under": 7.4
+              },
+              {
+                "line": 5.5,
+                "over": 1.6,
+                "under": 2.33
+              },
+              {
+                "line": 6.5,
+                "over": 3.05,
+                "under": 1.38
+              },
+              {
+                "line": 7.5,
+                "over": 7.7,
+                "under": 1.09
               }
             ]
           },
@@ -236,5 +200,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 0
 }
