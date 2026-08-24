@@ -1,50 +1,14 @@
 {
-  "generated_at": 1787605363.9600117,
+  "generated_at": 1787608881.0368106,
   "matches": [
     {
-      "match": "Malaga - Dep. La Coruna",
+      "match": "Club Libertad Asunción - Sportivo San Lorenzo",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.44,
-              2.52
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.44,
-                "under": 2.52
-              },
-              {
-                "line": 11.5,
-                "over": 2.24,
-                "under": 1.56
-              },
-              {
-                "line": 12.5,
-                "over": 3.8,
-                "under": 1.21
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.84,
-              1.79
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.84,
-                "under": 1.79
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -60,40 +24,12 @@
       "alerts": []
     },
     {
-      "match": "Gil Vicente - Casa Pia",
+      "match": "Real Santander - Independiente Valle del Cauca",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.42,
-              2.6
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
-                "line": 6.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 7.5,
-                "over": 6.5,
-                "under": 1.07
-              },
-              {
-                "line": 8.5,
-                "over": 11.0,
-                "under": null
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -107,23 +43,10 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Gil Vicente - Casa Pia",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 5.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Gil Vicente - Casa Pia",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.9 a 2.6 (11.5%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Hallescher - Schalke",
+      "match": "Alianza Universidad - CD Bentín Tacna Heroica",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -134,8 +57,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            14.0,
-            100.0
+            5.8,
+            7.25
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -149,45 +72,12 @@
       "alerts": []
     },
     {
-      "match": "Granada CF - Real Mallorca",
+      "match": "12 de Junio de Villa Hayes - Paraguari AC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.03,
-              8.0
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.03,
-                "under": 8.0
-              },
-              {
-                "line": 7.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 8.5,
-                "over": 2.15,
-                "under": 1.6
-              },
-              {
-                "line": 9.5,
-                "over": 3.65,
-                "under": 1.22
-              },
-              {
-                "line": 10.5,
-                "over": 6.5,
-                "under": 1.07
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -204,12 +94,45 @@
       "alerts": []
     },
     {
-      "match": "Salernitana - Sorrento",
+      "match": "Z.Aston Villa - Z.Leeds",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.14,
+              5.9
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.14,
+                "under": 5.9
+              },
+              {
+                "line": 11.5,
+                "over": 1.37,
+                "under": 3.1
+              },
+              {
+                "line": 12.5,
+                "over": 1.83,
+                "under": 1.97
+              },
+              {
+                "line": 13.5,
+                "over": 2.7,
+                "under": 1.47
+              },
+              {
+                "line": 14.5,
+                "over": 4.45,
+                "under": 1.21
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -226,5 +149,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
