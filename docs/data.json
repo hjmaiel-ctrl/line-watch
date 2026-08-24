@@ -1,13 +1,46 @@
 {
-  "generated_at": 1787542505.406287,
+  "generated_at": 1787551016.0578144,
   "matches": [
     {
-      "match": "Malacateco - Deportivo San Pedro",
+      "match": "Z.Man United - Z.Everton",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.17,
+              5.0
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.17,
+                "under": 5.0
+              },
+              {
+                "line": 8.5,
+                "over": 1.39,
+                "under": 3.0
+              },
+              {
+                "line": 9.5,
+                "over": 1.78,
+                "under": 2.04
+              },
+              {
+                "line": 10.5,
+                "over": 2.43,
+                "under": 1.56
+              },
+              {
+                "line": 11.5,
+                "over": 3.65,
+                "under": 1.28
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -24,20 +57,49 @@
       "alerts": []
     },
     {
-      "match": "Ventura County FC - Portland Timbers II",
+      "match": "Z.Fulham - Z.Tottenham",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.21,
+              4.45
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.21,
+                "under": 4.45
+              },
+              {
+                "line": 6.5,
+                "over": 1.46,
+                "under": 2.71
+              },
+              {
+                "line": 7.5,
+                "over": 1.89,
+                "under": 1.9
+              },
+              {
+                "line": 8.5,
+                "over": 2.69,
+                "under": 1.47
+              },
+              {
+                "line": 9.5,
+                "over": 4.15,
+                "under": 1.23
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            3.4,
-            1.95
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -50,7 +112,62 @@
       "alerts": []
     },
     {
-      "match": "Z.Bournemouth - Z.Hull City",
+      "match": "Z.Bournemouth - Z.Crystal Palace",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.2,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.2,
+                "under": 4.5
+              },
+              {
+                "line": 10.5,
+                "over": 1.45,
+                "under": 2.73
+              },
+              {
+                "line": 11.5,
+                "over": 1.9,
+                "under": 1.89
+              },
+              {
+                "line": 12.5,
+                "over": 2.66,
+                "under": 1.47
+              },
+              {
+                "line": 13.5,
+                "over": 4.1,
+                "under": 1.24
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Z.Liverpool - Z.Brighton",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -58,79 +175,34 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.09,
-              7.8
+              1.31,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.09,
-                "under": 7.8
+                "over": 1.31,
+                "under": 3.45
               },
               {
                 "line": 11.5,
-                "over": 1.56,
-                "under": 2.42
+                "over": 1.63,
+                "under": 2.27
               },
               {
                 "line": 12.5,
-                "over": 2.92,
-                "under": 1.41
+                "over": 2.17,
+                "under": 1.69
               },
               {
                 "line": 13.5,
-                "over": 7.1,
-                "under": 1.11
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Z.Brighton - Z.Tottenham",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.07,
-              8.95
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.07,
-                "under": 8.95
-              },
-              {
-                "line": 13.5,
-                "over": 1.48,
-                "under": 2.65
+                "over": 3.15,
+                "under": 1.36
               },
               {
                 "line": 14.5,
-                "over": 2.63,
-                "under": 1.48
-              },
-              {
-                "line": 15.5,
-                "over": 6.05,
-                "under": 1.14
+                "over": 4.9,
+                "under": 1.18
               }
             ]
           },
@@ -150,37 +222,42 @@
       "alerts": []
     },
     {
-      "match": "Z.Aston Villa - Z.Coventry City",
+      "match": "Z.Ipswich Town - Z.Chelsea",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 7.5,
             "odds": [
-              1.1,
-              7.4
+              1.25,
+              3.9
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.1,
-                "under": 7.4
-              },
-              {
-                "line": 5.5,
-                "over": 1.6,
-                "under": 2.33
-              },
-              {
-                "line": 6.5,
-                "over": 3.05,
-                "under": 1.38
-              },
-              {
                 "line": 7.5,
-                "over": 7.7,
-                "under": 1.09
+                "over": 1.25,
+                "under": 3.9
+              },
+              {
+                "line": 8.5,
+                "over": 1.55,
+                "under": 2.45
+              },
+              {
+                "line": 9.5,
+                "over": 2.06,
+                "under": 1.76
+              },
+              {
+                "line": 10.5,
+                "over": 3.0,
+                "under": 1.39
+              },
+              {
+                "line": 11.5,
+                "over": 4.75,
+                "under": 1.18
               }
             ]
           },
