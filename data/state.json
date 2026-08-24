@@ -1,139 +1,33 @@
 {
   "matches": {
-    "Club Libertad Asunción|Sportivo San Lorenzo": {
-      "home": "Club Libertad Asunción",
-      "away": "Sportivo San Lorenzo",
-      "event_id": "9984326",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787608770.217006
-    },
-    "Real Santander|Independiente Valle del Cauca": {
-      "home": "Real Santander",
-      "away": "Independiente Valle del Cauca",
-      "event_id": "9984322",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787608796.9319856
-    },
-    "Alianza Universidad|CD Bentín Tacna Heroica": {
-      "home": "Alianza Universidad",
-      "away": "CD Bentín Tacna Heroica",
-      "event_id": "9984321",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            5.8,
-            7.25
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787608828.926015
-    },
-    "12 de Junio de Villa Hayes|Paraguari AC": {
-      "home": "12 de Junio de Villa Hayes",
-      "away": "Paraguari AC",
-      "event_id": "9984327",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787608855.8847795
-    },
-    "Z.Aston Villa|Z.Leeds": {
-      "home": "Z.Aston Villa",
-      "away": "Z.Leeds",
-      "event_id": "9987375",
+    "Tigre|Central Córdoba": {
+      "home": "Tigre",
+      "away": "Central Córdoba",
+      "event_id": "9984329",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 8.5,
             "odds": [
-              1.14,
-              5.9
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
                 "line": 10.5,
-                "over": 1.14,
-                "under": 5.9
-              },
-              {
-                "line": 11.5,
-                "over": 1.37,
-                "under": 3.1
-              },
-              {
-                "line": 12.5,
-                "over": 1.83,
-                "under": 1.97
-              },
-              {
-                "line": 13.5,
-                "over": 2.7,
-                "under": 1.47
-              },
-              {
-                "line": 14.5,
-                "over": 4.45,
-                "under": 1.21
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -150,7 +44,103 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787608880.995567
+      "last_checked": 1787612360.1878142
+    },
+    "Athletic Club MG|Gremio Novorizontino": {
+      "home": "Athletic Club MG",
+      "away": "Gremio Novorizontino",
+      "event_id": "9986425",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787612386.7137804
+    },
+    "Sport Club do Recife|América-MG": {
+      "home": "Sport Club do Recife",
+      "away": "América-MG",
+      "event_id": "9986426",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787612413.5201163
+    },
+    "Club Libertad Asunción|Sportivo San Lorenzo": {
+      "home": "Club Libertad Asunción",
+      "away": "Sportivo San Lorenzo",
+      "event_id": "9984326",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.1,
+            6.2
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787612445.262958
+    },
+    "Leones FC|Real Cartagena": {
+      "home": "Leones FC",
+      "away": "Real Cartagena",
+      "event_id": "9984330",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787612471.8238902
     }
   }
 }
