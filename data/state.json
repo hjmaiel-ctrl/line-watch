@@ -1,13 +1,36 @@
 {
   "matches": {
-    "AL Mostaqbal SC|Helwan Club": {
-      "home": "AL Mostaqbal SC",
-      "away": "Helwan Club",
-      "event_id": "9983965",
+    "VSG Altglienicke|VfL Wolfsburg": {
+      "home": "VSG Altglienicke",
+      "away": "VfL Wolfsburg",
+      "event_id": "9984257",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.55,
+              2.25
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
+                "line": 10.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 11.5,
+                "over": 2.35,
+                "under": 1.5
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -21,17 +44,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787581478.591905
+      "last_checked": 1787587690.1608791
     },
-    "FK Kokand 1912|FC Buxoro": {
-      "home": "FK Kokand 1912",
-      "away": "FC Buxoro",
-      "event_id": "9984217",
+    "Wurzburger Kickers|Cologne": {
+      "home": "Wurzburger Kickers",
+      "away": "Cologne",
+      "event_id": "9984259",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.57,
+              2.16
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.57,
+                "under": 2.16
+              },
+              {
+                "line": 10.5,
+                "over": 1.91,
+                "under": 1.73
+              },
+              {
+                "line": 11.5,
+                "over": 2.42,
+                "under": 1.45
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.67,
+              2.0
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.67,
+                "under": 2.0
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -44,17 +103,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787581505.7253318
+      "last_checked": 1787587713.5708697
     },
-    "Club Atletico Penarol Reserves|Albion FC Reserves": {
-      "home": "Club Atletico Penarol Reserves",
-      "away": "Albion FC Reserves",
-      "event_id": "9983962",
+    "Verl|Hamburg": {
+      "home": "Verl",
+      "away": "Hamburg",
+      "event_id": "9984260",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.58,
+              2.14
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.58,
+                "under": 2.14
+              },
+              {
+                "line": 9.5,
+                "over": 1.94,
+                "under": 1.71
+              },
+              {
+                "line": 10.5,
+                "over": 2.46,
+                "under": 1.44
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.64,
+              2.04
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.64,
+                "under": 2.04
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -67,12 +162,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787581532.6359081
+      "last_checked": 1787587736.6710126
     },
-    "Real Tomayapo U19|Academia de Balompie Boliviano U19": {
-      "home": "Real Tomayapo U19",
-      "away": "Academia de Balompie Boliviano U19",
-      "event_id": "9983963",
+    "Watanga|Lprc Oilers": {
+      "home": "Watanga",
+      "away": "Lprc Oilers",
+      "event_id": "9984263",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +185,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787581559.444892
+      "last_checked": 1787587763.477311
     },
-    "Selangor FC Women|Kelana United F.C. Women": {
-      "home": "Selangor FC Women",
-      "away": "Kelana United F.C. Women",
-      "event_id": "9983964",
+    "Hellas Verona FC U20|Cesena U20": {
+      "home": "Hellas Verona FC U20",
+      "away": "Cesena U20",
+      "event_id": "9984224",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +208,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787581586.5826955
+      "last_checked": 1787587790.0542786
     }
   }
 }

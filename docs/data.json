@@ -1,8 +1,169 @@
 {
-  "generated_at": 1787581586.629159,
+  "generated_at": 1787587790.090252,
   "matches": [
     {
-      "match": "AL Mostaqbal SC - Helwan Club",
+      "match": "VSG Altglienicke - VfL Wolfsburg",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.55,
+              2.25
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
+                "line": 10.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 11.5,
+                "over": 2.35,
+                "under": 1.5
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Wurzburger Kickers - Cologne",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.57,
+              2.16
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.57,
+                "under": 2.16
+              },
+              {
+                "line": 10.5,
+                "over": 1.91,
+                "under": 1.73
+              },
+              {
+                "line": 11.5,
+                "over": 2.42,
+                "under": 1.45
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.67,
+              2.0
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.67,
+                "under": 2.0
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Verl - Hamburg",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.58,
+              2.14
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.58,
+                "under": 2.14
+              },
+              {
+                "line": 9.5,
+                "over": 1.94,
+                "under": 1.71
+              },
+              {
+                "line": 10.5,
+                "over": 2.46,
+                "under": 1.44
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.64,
+              2.04
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.64,
+                "under": 2.04
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Watanga - Lprc Oilers",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,73 +185,7 @@
       "alerts": []
     },
     {
-      "match": "FK Kokand 1912 - FC Buxoro",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Club Atletico Penarol Reserves - Albion FC Reserves",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Real Tomayapo U19 - Academia de Balompie Boliviano U19",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Selangor FC Women - Kelana United F.C. Women",
+      "match": "Hellas Verona FC U20 - Cesena U20",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
