@@ -1,33 +1,33 @@
 {
-  "generated_at": 1787612471.857621,
+  "generated_at": 1787615573.4282088,
   "matches": [
     {
-      "match": "Tigre - Central Córdoba",
+      "match": "Botafogo FR - Athlético Paranaense",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.45,
-              2.5
+              1.47,
+              2.45
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
                 "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 10.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 11.5,
+                "over": 2.65,
+                "under": 1.4
               }
             ]
           },
@@ -35,6 +35,32 @@
         },
         "sportybet": {
           "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Tigre - Central Córdoba",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.1,
+            4.7
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -91,33 +117,7 @@
       "alerts": []
     },
     {
-      "match": "Club Libertad Asunción - Sportivo San Lorenzo",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.1,
-            6.2
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Leones FC - Real Cartagena",
+      "match": "Everton de Viña del Mar - Universidad de Concepción",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

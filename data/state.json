@@ -1,33 +1,33 @@
 {
   "matches": {
-    "Tigre|Central Córdoba": {
-      "home": "Tigre",
-      "away": "Central Córdoba",
-      "event_id": "9984329",
+    "Botafogo FR|Athlético Paranaense": {
+      "home": "Botafogo FR",
+      "away": "Athlético Paranaense",
+      "event_id": "9983427",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.45,
-              2.5
+              1.47,
+              2.45
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
                 "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 10.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 11.5,
+                "over": 2.65,
+                "under": 1.4
               }
             ]
           },
@@ -44,7 +44,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787612360.1878142
+      "last_checked": 1787615462.2451878
+    },
+    "Tigre|Central Córdoba": {
+      "home": "Tigre",
+      "away": "Central Córdoba",
+      "event_id": "9984329",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.1,
+            4.7
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787615493.895567
     },
     "Athletic Club MG|Gremio Novorizontino": {
       "home": "Athletic Club MG",
@@ -67,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787612386.7137804
+      "last_checked": 1787615520.4660847
     },
     "Sport Club do Recife|América-MG": {
       "home": "Sport Club do Recife",
@@ -90,39 +117,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787612413.5201163
+      "last_checked": 1787615546.983605
     },
-    "Club Libertad Asunción|Sportivo San Lorenzo": {
-      "home": "Club Libertad Asunción",
-      "away": "Sportivo San Lorenzo",
-      "event_id": "9984326",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.1,
-            6.2
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787612445.262958
-    },
-    "Leones FC|Real Cartagena": {
-      "home": "Leones FC",
-      "away": "Real Cartagena",
-      "event_id": "9984330",
+    "Everton de Viña del Mar|Universidad de Concepción": {
+      "home": "Everton de Viña del Mar",
+      "away": "Universidad de Concepción",
+      "event_id": "9986429",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -140,7 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787612471.8238902
+      "last_checked": 1787615573.3701954
     }
   }
 }
