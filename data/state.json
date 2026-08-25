@@ -1,5 +1,51 @@
 {
   "matches": {
+    "Sabah Masazir|Hapoel Beer Sheva": {
+      "home": "Sabah Masazir",
+      "away": "Hapoel Beer Sheva",
+      "event_id": "9908505",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.63,
+              2.14
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.63,
+                "under": 2.14
+              },
+              {
+                "line": 10.5,
+                "over": 2.2,
+                "under": 1.6
+              },
+              {
+                "line": 11.5,
+                "over": 3.1,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787680297.9961228
+    },
     "SK Brann Women|FK Austria Wien Women": {
       "home": "SK Brann Women",
       "away": "FK Austria Wien Women",
@@ -21,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787674823.1792228
+      "last_checked": 1787680324.6516266
     },
     "Abha|Al-Khaleej Saihat": {
       "home": "Abha",
@@ -44,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787674850.613115
+      "last_checked": 1787680351.3170934
     },
     "Al-Taawoun Buraidah|Al-Fayha FC": {
       "home": "Al-Taawoun Buraidah",
@@ -67,12 +113,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787674877.4866655
+      "last_checked": 1787680379.2520003
     },
-    "Allerød FK|Vanløse Idrætsforening": {
-      "home": "Allerød FK",
-      "away": "Vanløse Idrætsforening",
-      "event_id": "9989941",
+    "RC Kouba|CA Batna": {
+      "home": "RC Kouba",
+      "away": "CA Batna",
+      "event_id": "9989953",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,30 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787674904.653116
-    },
-    "OKS|Middelfart Boldklub": {
-      "home": "OKS",
-      "away": "Middelfart Boldklub",
-      "event_id": "9989942",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787674931.5969388
+      "last_checked": 1787680405.782961
     }
   }
 }
