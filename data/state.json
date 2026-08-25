@@ -21,80 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787698914.305848
-    },
-    "Club 2 de Mayo|Club Guaraní": {
-      "home": "Club 2 de Mayo",
-      "away": "Club Guaraní",
-      "event_id": "9990059",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787698941.2033556
-    },
-    "Defensor Sporting|CA Rentistas": {
-      "home": "Defensor Sporting",
-      "away": "CA Rentistas",
-      "event_id": "9990057",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            4.0,
-            1.34
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787698973.542833
-    },
-    "Club Sol de América|Club Sportivo Trinidense": {
-      "home": "Club Sol de América",
-      "away": "Club Sportivo Trinidense",
-      "event_id": "9990058",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787699000.6191378
+      "last_checked": 1787702281.6183324
     },
     "Deportivo Madryn|Godoy Cruz": {
       "home": "Deportivo Madryn",
@@ -117,7 +44,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787699027.349873
+      "last_checked": 1787702308.4036458
+    },
+    "CA Excursionistas|Argentino de Merlo": {
+      "home": "CA Excursionistas",
+      "away": "Argentino de Merlo",
+      "event_id": "9992467",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787702335.1958702
+    },
+    "Universitario de Vinto|Nacional Potosi": {
+      "home": "Universitario de Vinto",
+      "away": "Nacional Potosi",
+      "event_id": "9992469",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787702362.5230417
+    },
+    "Cibao CF|Delfines Del Este": {
+      "home": "Cibao CF",
+      "away": "Delfines Del Este",
+      "event_id": "9992470",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787702389.2864954
     }
   }
 }
