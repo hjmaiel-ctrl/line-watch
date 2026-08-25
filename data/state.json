@@ -1,5 +1,28 @@
 {
   "matches": {
+    "Atlético Goianiense|Botafogo SP": {
+      "home": "Atlético Goianiense",
+      "away": "Botafogo SP",
+      "event_id": "9992465",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787698914.305848
+    },
     "Club 2 de Mayo|Club Guaraní": {
       "home": "Club 2 de Mayo",
       "away": "Club Guaraní",
@@ -21,53 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787695086.1058857
-    },
-    "Boca Juniors de Cali|Bogotá F.C.": {
-      "home": "Boca Juniors de Cali",
-      "away": "Bogotá F.C.",
-      "event_id": "9990055",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787695112.0254736
-    },
-    "Alianza Atletico|Universidad Técnica de Cajamarca": {
-      "home": "Alianza Atletico",
-      "away": "Universidad Técnica de Cajamarca",
-      "event_id": "9990054",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787695137.8792262
+      "last_checked": 1787698941.2033556
     },
     "Defensor Sporting|CA Rentistas": {
       "home": "Defensor Sporting",
@@ -80,7 +57,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            4.0,
+            1.34
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787695163.8775141
+      "last_checked": 1787698973.542833
     },
     "Club Sol de América|Club Sportivo Trinidense": {
       "home": "Club Sol de América",
@@ -113,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787695189.8304634
+      "last_checked": 1787699000.6191378
+    },
+    "Deportivo Madryn|Godoy Cruz": {
+      "home": "Deportivo Madryn",
+      "away": "Godoy Cruz",
+      "event_id": "9990060",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787699027.349873
     }
   }
 }
