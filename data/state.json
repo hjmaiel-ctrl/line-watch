@@ -7,47 +7,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.54,
-              2.32
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.54,
-                "under": 2.32
-              },
-              {
-                "line": 11.5,
-                "over": 2.04,
-                "under": 1.7
-              },
-              {
-                "line": 12.5,
-                "over": 2.84,
-                "under": 1.38
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 1.5,
-            "odds": [
-              1.56,
-              2.22
-            ],
-            "_all_lines": [
-              {
-                "line": 1.5,
-                "over": 1.56,
-                "under": 2.22
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.6,
+            2.2
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -57,127 +25,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787687175.7690923
+      "last_checked": 1787691579.4577534
     },
-    "Bodoe/Glimt|Nijmegen": {
-      "home": "Bodoe/Glimt",
-      "away": "Nijmegen",
-      "event_id": "9908526",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.65,
-              2.12
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.65,
-                "under": 2.12
-              },
-              {
-                "line": 11.5,
-                "over": 2.16,
-                "under": 1.63
-              },
-              {
-                "line": 12.5,
-                "over": 2.94,
-                "under": 1.35
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.73,
-              1.96
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.73,
-                "under": 1.96
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787687198.9732902
-    },
-    "Doncaster Rovers|Middlesbrough": {
-      "home": "Doncaster Rovers",
-      "away": "Middlesbrough",
-      "event_id": "9979101",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.28,
-              3.25
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.28,
-                "under": 3.25
-              },
-              {
-                "line": 8.5,
-                "over": 1.65,
-                "under": 2.0
-              },
-              {
-                "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 10.5,
-                "over": 3.9,
-                "under": 1.2
-              },
-              {
-                "line": 11.5,
-                "over": 6.5,
-                "under": 1.07
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787687223.9162662
-    },
-    "Cardiff City|Norwich City": {
-      "home": "Cardiff City",
-      "away": "Norwich City",
-      "event_id": "9979102",
+    "Boca Juniors de Cali|Bogotá F.C.": {
+      "home": "Boca Juniors de Cali",
+      "away": "Bogotá F.C.",
+      "event_id": "9990055",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -195,49 +48,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787687250.7247348
+      "last_checked": 1787691606.0237803
     },
-    "Blackburn Rovers|Sheffield United": {
-      "home": "Blackburn Rovers",
-      "away": "Sheffield United",
-      "event_id": "9979103",
+    "Club General Caballero JLM|Rubio Ñú": {
+      "home": "Club General Caballero JLM",
+      "away": "Rubio Ñú",
+      "event_id": "9990050",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.17,
-              4.25
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.17,
-                "under": 4.25
-              },
-              {
-                "line": 12.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 13.5,
-                "over": 1.75,
-                "under": 1.92
-              },
-              {
-                "line": 14.5,
-                "over": 2.35,
-                "under": 1.5
-              },
-              {
-                "line": 15.5,
-                "over": 3.25,
-                "under": 1.28
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -251,7 +71,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787687275.6170843
+      "last_checked": 1787691632.5131402
+    },
+    "GV CD San Jose|Oriente Petrolero": {
+      "home": "GV CD San Jose",
+      "away": "Oriente Petrolero",
+      "event_id": "9990051",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787691659.0996628
+    },
+    "Afturelding|Grotta": {
+      "home": "Afturelding",
+      "away": "Grotta",
+      "event_id": "9990052",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787691685.5711691
     }
   }
 }
