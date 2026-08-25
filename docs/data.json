@@ -1,8 +1,8 @@
 {
-  "generated_at": 1787659572.3214295,
+  "generated_at": 1787668341.4138741,
   "matches": [
     {
-      "match": "Swansea City U21 - Peterborough United U21",
+      "match": "Queens Park Rangers U21 - Hull City U21",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Millwall U21 - Huddersfield Town U21",
+      "match": "FC Tobol Kostanay - FC Kaisar Kyzylorda",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -46,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Coventry City U21 - Fleetwood Town U21",
+      "match": "Termez Surkhon - FC AGMK",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -68,7 +68,7 @@
       "alerts": []
     },
     {
-      "match": "Wigan Athletic U21 - Cardiff City U21",
+      "match": "FK Andijan - Xorazm Urganch",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -90,44 +90,13 @@
       "alerts": []
     },
     {
-      "match": "Jeju SK FC - FC Pohang Steelers",
+      "match": "Samail - Oman Club",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.51,
-              2.24
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.51,
-                "under": 2.24
-              },
-              {
-                "line": 8.5,
-                "over": 2.4,
-                "under": 1.44
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 1.5,
-            "odds": [
-              1.54,
-              2.18
-            ],
-            "_all_lines": [
-              {
-                "line": 1.5,
-                "over": 1.54,
-                "under": 2.18
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,

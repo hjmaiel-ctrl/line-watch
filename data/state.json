@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Swansea City U21|Peterborough United U21": {
-      "home": "Swansea City U21",
-      "away": "Peterborough United U21",
-      "event_id": "9986453",
+    "Queens Park Rangers U21|Hull City U21": {
+      "home": "Queens Park Rangers U21",
+      "away": "Hull City U21",
+      "event_id": "9990310",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787659452.7024925
+      "last_checked": 1787668234.660896
     },
-    "Millwall U21|Huddersfield Town U21": {
-      "home": "Millwall U21",
-      "away": "Huddersfield Town U21",
-      "event_id": "9986460",
+    "FC Tobol Kostanay|FC Kaisar Kyzylorda": {
+      "home": "FC Tobol Kostanay",
+      "away": "FC Kaisar Kyzylorda",
+      "event_id": "9989904",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787659483.1269996
+      "last_checked": 1787668261.4509544
     },
-    "Coventry City U21|Fleetwood Town U21": {
-      "home": "Coventry City U21",
-      "away": "Fleetwood Town U21",
-      "event_id": "9986461",
+    "Termez Surkhon|FC AGMK": {
+      "home": "Termez Surkhon",
+      "away": "FC AGMK",
+      "event_id": "9989914",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787659512.7703307
+      "last_checked": 1787668288.0685887
     },
-    "Wigan Athletic U21|Cardiff City U21": {
-      "home": "Wigan Athletic U21",
-      "away": "Cardiff City U21",
-      "event_id": "9986462",
+    "FK Andijan|Xorazm Urganch": {
+      "home": "FK Andijan",
+      "away": "Xorazm Urganch",
+      "event_id": "9989915",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,48 +90,17 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787659546.4486568
+      "last_checked": 1787668314.8585021
     },
-    "Jeju SK FC|FC Pohang Steelers": {
-      "home": "Jeju SK FC",
-      "away": "FC Pohang Steelers",
-      "event_id": "9986449",
+    "Samail|Oman Club": {
+      "home": "Samail",
+      "away": "Oman Club",
+      "event_id": "9990336",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.51,
-              2.24
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.51,
-                "under": 2.24
-              },
-              {
-                "line": 8.5,
-                "over": 2.4,
-                "under": 1.44
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 1.5,
-            "odds": [
-              1.54,
-              2.18
-            ],
-            "_all_lines": [
-              {
-                "line": 1.5,
-                "over": 1.54,
-                "under": 2.18
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -144,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787659572.2850895
+      "last_checked": 1787668341.3713915
     }
   }
 }
