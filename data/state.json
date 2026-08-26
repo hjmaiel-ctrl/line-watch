@@ -1,19 +1,71 @@
 {
   "matches": {
-    "Atlético Goianiense|Botafogo SP": {
-      "home": "Atlético Goianiense",
-      "away": "Botafogo SP",
-      "event_id": "9992465",
+    "Club Leon|Real Salt Lake": {
+      "home": "Club Leon",
+      "away": "Real Salt Lake",
+      "event_id": "9992479",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.33,
+              2.88
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.33,
+                "under": 2.88
+              },
+              {
+                "line": 7.5,
+                "over": 1.69,
+                "under": 1.96
+              },
+              {
+                "line": 8.5,
+                "over": 2.3,
+                "under": 1.5
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.89,
+              1.75
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.89,
+                "under": 1.75
+              }
+            ]
+          }
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "1X2": [
+            2.4,
+            1.6,
+            3.4
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.35
+            ]
+          },
+          "CARDS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.9
+            ]
+          }
         },
         "bet365": {
           "1X2": null,
@@ -21,12 +73,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787702281.6183324
+      "last_checked": 1787715382.1700995
     },
-    "Deportivo Madryn|Godoy Cruz": {
-      "home": "Deportivo Madryn",
-      "away": "Godoy Cruz",
-      "event_id": "9990060",
+    "C.S. Cartaginés|CD Fas": {
+      "home": "C.S. Cartaginés",
+      "away": "CD Fas",
+      "event_id": "9992474",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +96,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787702308.4036458
+      "last_checked": 1787715408.7233908
     },
-    "CA Excursionistas|Argentino de Merlo": {
-      "home": "CA Excursionistas",
-      "away": "Argentino de Merlo",
-      "event_id": "9992467",
+    "Municipal|Motagua": {
+      "home": "Municipal",
+      "away": "Motagua",
+      "event_id": "9992475",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,16 +119,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787702335.1958702
+      "last_checked": 1787715435.3941476
     },
-    "Universitario de Vinto|Nacional Potosi": {
-      "home": "Universitario de Vinto",
-      "away": "Nacional Potosi",
-      "event_id": "9992469",
+    "Z.Arsenal|Z.Coventry City": {
+      "home": "Z.Arsenal",
+      "away": "Z.Coventry City",
+      "event_id": "9995053",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.25,
+              3.95
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.25,
+                "under": 3.95
+              },
+              {
+                "line": 9.5,
+                "over": 1.5,
+                "under": 2.6
+              },
+              {
+                "line": 10.5,
+                "over": 1.9,
+                "under": 1.91
+              },
+              {
+                "line": 11.5,
+                "over": 2.57,
+                "under": 1.51
+              },
+              {
+                "line": 12.5,
+                "over": 3.75,
+                "under": 1.27
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -90,16 +175,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787702362.5230417
+      "last_checked": 1787715460.2922132
     },
-    "Cibao CF|Delfines Del Este": {
-      "home": "Cibao CF",
-      "away": "Delfines Del Este",
-      "event_id": "9992470",
+    "Z.Liverpool|Z.Everton": {
+      "home": "Z.Liverpool",
+      "away": "Z.Everton",
+      "event_id": "9995054",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.26,
+              3.85
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.26,
+                "under": 3.85
+              },
+              {
+                "line": 10.5,
+                "over": 1.51,
+                "under": 2.54
+              },
+              {
+                "line": 11.5,
+                "over": 1.92,
+                "under": 1.87
+              },
+              {
+                "line": 12.5,
+                "over": 2.63,
+                "under": 1.49
+              },
+              {
+                "line": 13.5,
+                "over": 3.85,
+                "under": 1.26
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -113,7 +231,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787702389.2864954
+      "last_checked": 1787715485.1125855
     }
   }
 }
