@@ -1,8 +1,8 @@
 {
-  "generated_at": 1787731418.7006078,
+  "generated_at": 1787739055.8562698,
   "matches": [
     {
-      "match": "Auckland United FC Women - Fencibles United AFC Women",
+      "match": "Borneo Samarinda - Madura Utd",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Umrynjah SC - Sohiong SC",
+      "match": "Cerezo Osaka - FC Gifu",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -46,33 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Sohryngkham SC - Jongksha SC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            2.55,
-            3.25
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Crvena Zvezda U19 - OFK Beograd U19",
+      "match": "Sanfrecce Hiroshima - Okinawa SV",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -94,35 +68,34 @@
       "alerts": []
     },
     {
-      "match": "Z.Ipswich Town - Z.Coventry City",
+      "match": "Machida Zelvia - Iwate Grulla Morioka",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              2.61,
-              1.49
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 2.61,
-                "under": 1.49
-              },
-              {
-                "line": 11.5,
-                "over": 16.0,
-                "under": 1.02
-              },
-              {
-                "line": 12.5,
-                "over": 189.0,
-                "under": null
-              }
-            ]
-          },
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Tokushima Vortis - Tokushima Celeste",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
