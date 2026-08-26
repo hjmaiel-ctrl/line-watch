@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Borneo Samarinda|Madura Utd": {
-      "home": "Borneo Samarinda",
-      "away": "Madura Utd",
-      "event_id": "9992491",
+    "Anyang|Incheon Utd": {
+      "home": "Anyang",
+      "away": "Incheon Utd",
+      "event_id": "9992594",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,17 +21,48 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787738951.8673756
+      "last_checked": 1787745038.9526458
     },
-    "Cerezo Osaka|FC Gifu": {
-      "home": "Cerezo Osaka",
-      "away": "FC Gifu",
-      "event_id": "9992509",
+    "Daejeon Citizen|Ulsan HD FC": {
+      "home": "Daejeon Citizen",
+      "away": "Ulsan HD FC",
+      "event_id": "9992595",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.71,
+              1.9
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.71,
+                "under": 1.9
+              },
+              {
+                "line": 9.5,
+                "over": 2.44,
+                "under": 1.43
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.61,
+              2.08
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.61,
+                "under": 2.08
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -44,16 +75,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787738977.7922356
+      "last_checked": 1787745062.3528898
     },
-    "Sanfrecce Hiroshima|Okinawa SV": {
-      "home": "Sanfrecce Hiroshima",
-      "away": "Okinawa SV",
-      "event_id": "9992511",
+    "Gangwon|Gwangju": {
+      "home": "Gangwon",
+      "away": "Gwangju",
+      "event_id": "9992596",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.51,
+              2.22
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.51,
+                "under": 2.22
+              },
+              {
+                "line": 11.5,
+                "over": 2.04,
+                "under": 1.62
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -67,12 +116,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787739003.8071337
+      "last_checked": 1787745087.6640227
     },
-    "Machida Zelvia|Iwate Grulla Morioka": {
-      "home": "Machida Zelvia",
-      "away": "Iwate Grulla Morioka",
-      "event_id": "9992512",
+    "Vissel Kobe|Veroskronos Tsuno": {
+      "home": "Vissel Kobe",
+      "away": "Veroskronos Tsuno",
+      "event_id": "9992517",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +139,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787739029.8891742
+      "last_checked": 1787745114.6774523
     },
-    "Tokushima Vortis|Tokushima Celeste": {
-      "home": "Tokushima Vortis",
-      "away": "Tokushima Celeste",
-      "event_id": "9992513",
+    "Avispa Fukuoka|Verspah Oita": {
+      "home": "Avispa Fukuoka",
+      "away": "Verspah Oita",
+      "event_id": "9992518",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +162,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787739055.8166988
+      "last_checked": 1787745141.3475938
     }
   }
 }

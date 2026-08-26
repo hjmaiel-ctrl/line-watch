@@ -1,8 +1,8 @@
 {
-  "generated_at": 1787739055.8562698,
+  "generated_at": 1787745141.393299,
   "matches": [
     {
-      "match": "Borneo Samarinda - Madura Utd",
+      "match": "Anyang - Incheon Utd",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,7 +24,100 @@
       "alerts": []
     },
     {
-      "match": "Cerezo Osaka - FC Gifu",
+      "match": "Daejeon Citizen - Ulsan HD FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.71,
+              1.9
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.71,
+                "under": 1.9
+              },
+              {
+                "line": 9.5,
+                "over": 2.44,
+                "under": 1.43
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.61,
+              2.08
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.61,
+                "under": 2.08
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Gangwon - Gwangju",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.51,
+              2.22
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.51,
+                "under": 2.22
+              },
+              {
+                "line": 11.5,
+                "over": 2.04,
+                "under": 1.62
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Vissel Kobe - Veroskronos Tsuno",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -46,51 +139,7 @@
       "alerts": []
     },
     {
-      "match": "Sanfrecce Hiroshima - Okinawa SV",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Machida Zelvia - Iwate Grulla Morioka",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Tokushima Vortis - Tokushima Celeste",
+      "match": "Avispa Fukuoka - Verspah Oita",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
