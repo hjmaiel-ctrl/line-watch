@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Anyang|Incheon Utd": {
-      "home": "Anyang",
-      "away": "Incheon Utd",
-      "event_id": "9992594",
+    "Smouha SC|Asyut Petroleum": {
+      "home": "Smouha SC",
+      "away": "Asyut Petroleum",
+      "event_id": "9996671",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,45 +21,45 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787745038.9526458
+      "last_checked": 1787754373.097064
     },
-    "Daejeon Citizen|Ulsan HD FC": {
-      "home": "Daejeon Citizen",
-      "away": "Ulsan HD FC",
-      "event_id": "9992595",
+    "Vietnam|Thailand": {
+      "home": "Vietnam",
+      "away": "Thailand",
+      "event_id": "9996655",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.71,
-              1.9
+              1.31,
+              2.9
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.71,
-                "under": 1.9
+                "line": 7.5,
+                "over": 1.31,
+                "under": 2.9
               },
               {
-                "line": 9.5,
-                "over": 2.44,
-                "under": 1.43
+                "line": 8.5,
+                "over": 1.88,
+                "under": 1.73
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 1.5,
             "odds": [
-              1.61,
-              2.08
+              1.94,
+              1.71
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.61,
-                "under": 2.08
+                "line": 1.5,
+                "over": 1.94,
+                "under": 1.71
               }
             ]
           }
@@ -75,53 +75,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787745062.3528898
+      "last_checked": 1787754396.1670804
     },
-    "Gangwon|Gwangju": {
-      "home": "Gangwon",
-      "away": "Gwangju",
-      "event_id": "9992596",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.51,
-              2.22
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.51,
-                "under": 2.22
-              },
-              {
-                "line": 11.5,
-                "over": 2.04,
-                "under": 1.62
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787745087.6640227
-    },
-    "Vissel Kobe|Veroskronos Tsuno": {
-      "home": "Vissel Kobe",
-      "away": "Veroskronos Tsuno",
-      "event_id": "9992517",
+    "Mash'al Mubarek|Navbahor Namangan": {
+      "home": "Mash'al Mubarek",
+      "away": "Navbahor Namangan",
+      "event_id": "9996666",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -139,12 +98,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787745114.6774523
+      "last_checked": 1787754422.6231344
     },
-    "Avispa Fukuoka|Verspah Oita": {
-      "home": "Avispa Fukuoka",
-      "away": "Verspah Oita",
-      "event_id": "9992518",
+    "Lokomotiv Tashkent|Bunyodkor": {
+      "home": "Lokomotiv Tashkent",
+      "away": "Bunyodkor",
+      "event_id": "9996667",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -162,7 +121,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787745141.3475938
+      "last_checked": 1787754449.2538218
+    },
+    "Mika Yerevan|FC Bentonit": {
+      "home": "Mika Yerevan",
+      "away": "FC Bentonit",
+      "event_id": "9992600",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.32,
+            3.5
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787754481.0805647
     }
   }
 }
