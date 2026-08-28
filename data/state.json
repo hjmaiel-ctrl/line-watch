@@ -10,19 +10,19 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.42,
-              2.6
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 7.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 1.73,
+                "under": 1.95
               },
               {
                 "line": 8.5,
@@ -44,7 +44,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787955926.1694763
+      "last_checked": 1787956539.9232855
+    },
+    "Goiás EC|São Bernardo FC": {
+      "home": "Goiás EC",
+      "away": "São Bernardo FC",
+      "event_id": "10010797",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787956567.1754987
+    },
+    "Cobresal|Palestino": {
+      "home": "Cobresal",
+      "away": "Palestino",
+      "event_id": "10010798",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787956594.1576812
     },
     "Mushuc Runa|Delfin SC": {
       "home": "Mushuc Runa",
@@ -57,11 +103,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.03,
-            11.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -71,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787955957.9099374
+      "last_checked": 1787956626.6794448
     },
     "Sportivo San Lorenzo|Club Nacional Asuncion": {
       "home": "Sportivo San Lorenzo",
@@ -94,53 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787955984.445288
-    },
-    "Independiente Valle del Cauca|Leones FC": {
-      "home": "Independiente Valle del Cauca",
-      "away": "Leones FC",
-      "event_id": "10009682",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787956010.9919174
-    },
-    "Comerciantes Unidos|FC Cajamarca": {
-      "home": "Comerciantes Unidos",
-      "away": "FC Cajamarca",
-      "event_id": "10009684",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787956037.4641812
+      "last_checked": 1787956653.6416965
     }
   }
 }
