@@ -1,140 +1,180 @@
 {
-  "generated_at": 1787754481.1268785,
+  "generated_at": 1787878514.6098135,
   "matches": [
     {
-      "match": "Smouha SC - Asyut Petroleum",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Vietnam - Thailand",
+      "match": "SC Internacional - Grêmio FBPA",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 9.5,
             "odds": [
-              1.31,
-              2.9
+              1.18,
+              4.0
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.31,
-                "under": 2.9
+                "line": 9.5,
+                "over": 1.18,
+                "under": 4.0
               },
               {
-                "line": 8.5,
-                "over": 1.88,
-                "under": 1.73
+                "line": 10.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 11.5,
+                "over": 2.6,
+                "under": 1.42
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 1.5,
-            "odds": [
-              1.94,
-              1.71
-            ],
-            "_all_lines": [
-              {
-                "line": 1.5,
-                "over": 1.94,
-                "under": 1.71
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Mash'al Mubarek - Navbahor Namangan",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Lokomotiv Tashkent - Bunyodkor",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Mika Yerevan - FC Bentonit",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
           "1X2": [
             2.4,
-            1.32,
-            3.5
+            4.15,
+            1.4
           ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.7
+            ]
+          },
+          "CARDS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.75
+            ]
+          }
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_differente",
+          "match": "SC Internacional - Grêmio FBPA",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja=1.18 vs sportybet=2.4 (esito #1, differenza 103.4%)"
+        },
+        {
+          "type": "quota_differente",
+          "match": "SC Internacional - Grêmio FBPA",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja=4.0 vs sportybet=1.7 (esito #2, differenza 135.3%)"
+        }
+      ]
+    },
+    {
+      "match": "Platense - Instituto de Córdoba",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.47,
+              2.45
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 6.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 7.5,
+                "over": 2.7,
+                "under": 1.38
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Llaneros FC Villavicencio - Millonarios",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Blue Waters Bath Estate FC - CCCUL Dublanc SC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "CD Cuenca Jrs - Club Nueve de Octubre",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -147,5 +187,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }

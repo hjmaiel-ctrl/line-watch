@@ -1312,5 +1312,17 @@
     "match": "Club Leon - Real Salt Lake",
     "market": "CARDS_OU",
     "detail": "bet9ja=1.75 vs sportybet=1.9 (esito #2, differenza 8.6%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "SC Internacional - Grêmio FBPA",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=1.18 vs sportybet=2.4 (esito #1, differenza 103.4%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "SC Internacional - Grêmio FBPA",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=4.0 vs sportybet=1.7 (esito #2, differenza 135.3%)"
   }
 ]
