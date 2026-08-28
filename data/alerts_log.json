@@ -1324,5 +1324,11 @@
     "match": "SC Internacional - Grêmio FBPA",
     "market": "CORNERS_OU",
     "detail": "bet9ja=4.0 vs sportybet=1.7 (esito #2, differenza 135.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Comerciantes Unidos - FC Cajamarca",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
   }
 ]

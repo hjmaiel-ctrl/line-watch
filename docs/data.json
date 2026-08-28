@@ -1,6 +1,51 @@
 {
-  "generated_at": 1787954090.3692412,
+  "generated_at": 1787954839.9854584,
   "matches": [
+    {
+      "match": "Unión de Santa Fe - Club Atlético Sarmiento",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.4,
+              2.65
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 8.5,
+                "over": 1.65,
+                "under": 2.0
+              },
+              {
+                "line": 9.5,
+                "over": 2.1,
+                "under": 1.62
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Mushuc Runa - Delfin SC",
       "bet9ja_stats": null,
@@ -11,7 +56,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.12,
+            6.6
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -68,49 +117,27 @@
       "alerts": []
     },
     {
-      "match": "Club Tijuana de Caliente - Universidad Nacional",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
       "match": "Comerciantes Unidos - FC Cajamarca",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.47,
-              2.32
+              1.48,
+              2.3
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.47,
-                "under": 2.32
+                "line": 8.5,
+                "over": 1.48,
+                "under": 2.3
               },
               {
-                "line": 8.5,
-                "over": 2.1,
-                "under": 1.58
+                "line": 9.5,
+                "over": 2.32,
+                "under": 1.47
               }
             ]
           },
@@ -127,8 +154,15 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Comerciantes Unidos - FC Cajamarca",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 7.5 a 8.5"
+        }
+      ]
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }

@@ -1,13 +1,36 @@
 {
   "matches": {
-    "Mushuc Runa|Delfin SC": {
-      "home": "Mushuc Runa",
-      "away": "Delfin SC",
-      "event_id": "10009683",
+    "Unión de Santa Fe|Club Atlético Sarmiento": {
+      "home": "Unión de Santa Fe",
+      "away": "Club Atlético Sarmiento",
+      "event_id": "10010795",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.4,
+              2.65
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 8.5,
+                "over": 1.65,
+                "under": 2.0
+              },
+              {
+                "line": 9.5,
+                "over": 2.1,
+                "under": 1.62
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -21,7 +44,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787953984.3771858
+      "last_checked": 1787954726.976323
+    },
+    "Mushuc Runa|Delfin SC": {
+      "home": "Mushuc Runa",
+      "away": "Delfin SC",
+      "event_id": "10009683",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.12,
+            6.6
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787954759.6119518
     },
     "Sportivo San Lorenzo|Club Nacional Asuncion": {
       "home": "Sportivo San Lorenzo",
@@ -44,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787954011.3368466
+      "last_checked": 1787954788.4035974
     },
     "Independiente Valle del Cauca|Leones FC": {
       "home": "Independiente Valle del Cauca",
@@ -67,30 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787954038.162518
-    },
-    "Club Tijuana de Caliente|Universidad Nacional": {
-      "home": "Club Tijuana de Caliente",
-      "away": "Universidad Nacional",
-      "event_id": "10009660",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787954065.2269795
+      "last_checked": 1787954815.1626399
     },
     "Comerciantes Unidos|FC Cajamarca": {
       "home": "Comerciantes Unidos",
@@ -100,21 +127,21 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.47,
-              2.32
+              1.48,
+              2.3
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.47,
-                "under": 2.32
+                "line": 8.5,
+                "over": 1.48,
+                "under": 2.3
               },
               {
-                "line": 8.5,
-                "over": 2.1,
-                "under": 1.58
+                "line": 9.5,
+                "over": 2.32,
+                "under": 1.47
               }
             ]
           },
@@ -131,7 +158,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787954090.3297231
+      "last_checked": 1787954839.947884
     }
   }
 }
