@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.62,
-              2.1
+              1.42,
+              2.6
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.42,
+                "under": 2.6
+              },
+              {
                 "line": 7.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.78,
+                "under": 1.9
               },
               {
                 "line": 8.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 9.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 2.35,
+                "under": 1.5
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787955328.4956355
+      "last_checked": 1787955926.1694763
     },
     "Mushuc Runa|Delfin SC": {
       "home": "Mushuc Runa",
@@ -59,8 +59,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.07,
-            8.4
+            1.03,
+            11.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787955369.8876083
+      "last_checked": 1787955957.9099374
     },
     "Sportivo San Lorenzo|Club Nacional Asuncion": {
       "home": "Sportivo San Lorenzo",
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787955396.907969
+      "last_checked": 1787955984.445288
     },
     "Independiente Valle del Cauca|Leones FC": {
       "home": "Independiente Valle del Cauca",
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787955426.7266173
+      "last_checked": 1787956010.9919174
     },
     "Comerciantes Unidos|FC Cajamarca": {
       "home": "Comerciantes Unidos",
@@ -140,7 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787955454.0704305
+      "last_checked": 1787956037.4641812
     }
   }
 }
