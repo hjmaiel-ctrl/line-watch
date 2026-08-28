@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.4,
-              2.65
+              1.62,
+              2.1
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 8.5,
-                "over": 1.65,
-                "under": 2.0
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 9.5,
-                "over": 2.1,
-                "under": 1.62
+                "over": 2.7,
+                "under": 1.38
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787954726.976323
+      "last_checked": 1787955328.4956355
     },
     "Mushuc Runa|Delfin SC": {
       "home": "Mushuc Runa",
@@ -59,8 +59,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.12,
-            6.6
+            1.07,
+            8.4
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787954759.6119518
+      "last_checked": 1787955369.8876083
     },
     "Sportivo San Lorenzo|Club Nacional Asuncion": {
       "home": "Sportivo San Lorenzo",
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787954788.4035974
+      "last_checked": 1787955396.907969
     },
     "Independiente Valle del Cauca|Leones FC": {
       "home": "Independiente Valle del Cauca",
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787954815.1626399
+      "last_checked": 1787955426.7266173
     },
     "Comerciantes Unidos|FC Cajamarca": {
       "home": "Comerciantes Unidos",
@@ -126,25 +126,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.48,
-              2.3
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.48,
-                "under": 2.3
-              },
-              {
-                "line": 9.5,
-                "over": 2.32,
-                "under": 1.47
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -158,7 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787954839.947884
+      "last_checked": 1787955454.0704305
     }
   }
 }
