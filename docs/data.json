@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787959623.653486,
+  "generated_at": 1787960260.0944715,
   "matches": [
     {
       "match": "Unión de Santa Fe - Club Atlético Sarmiento",
@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              1.35,
-              2.85
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
+                "line": 4.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
                 "line": 5.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 6.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 7.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
@@ -46,15 +46,65 @@
       },
       "alerts": [
         {
+          "type": "linea_cambiata",
+          "match": "Unión de Santa Fe - Club Atlético Sarmiento",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 5.5 a 4.5"
+        },
+        {
           "type": "quota_cambiata",
           "match": "Unión de Santa Fe - Club Atlético Sarmiento",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.6 a 2.85 (9.6%)"
+          "detail": "bet9ja: esito #2 passato da 2.85 a 3.25 (14.0%)"
         }
       ]
     },
     {
       "match": "Goiás EC - São Bernardo FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Clube Náutico Capibaribe - Athletic Club MG",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Gremio Novorizontino - Sport Club do Recife",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -96,51 +146,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Montevideo Wanderers - Central Español",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "CD Municipal Limeno - Isidro Metapán",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 2
 }

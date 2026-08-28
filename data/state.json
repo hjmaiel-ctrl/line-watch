@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              1.35,
-              2.85
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
+                "line": 4.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
                 "line": 5.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 6.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 7.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787959516.255132
+      "last_checked": 1787960153.3950899
     },
     "Goiás EC|São Bernardo FC": {
       "home": "Goiás EC",
@@ -67,7 +67,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787959543.0797281
+      "last_checked": 1787960180.071329
+    },
+    "Clube Náutico Capibaribe|Athletic Club MG": {
+      "home": "Clube Náutico Capibaribe",
+      "away": "Athletic Club MG",
+      "event_id": "10010813",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787960206.6102545
+    },
+    "Gremio Novorizontino|Sport Club do Recife": {
+      "home": "Gremio Novorizontino",
+      "away": "Sport Club do Recife",
+      "event_id": "10010814",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787960233.362351
     },
     "Cobresal|Palestino": {
       "home": "Cobresal",
@@ -90,53 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787959569.8932378
-    },
-    "Montevideo Wanderers|Central Español": {
-      "home": "Montevideo Wanderers",
-      "away": "Central Español",
-      "event_id": "10010793",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787959596.661354
-    },
-    "CD Municipal Limeno|Isidro Metapán": {
-      "home": "CD Municipal Limeno",
-      "away": "Isidro Metapán",
-      "event_id": "10010794",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787959623.6099284
+      "last_checked": 1787960260.0631247
     }
   }
 }
