@@ -1396,5 +1396,29 @@
     "match": "Unión de Santa Fe - Club Atlético Sarmiento",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.7 a 2.35 (14.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Unión de Santa Fe - Club Atlético Sarmiento",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Unión de Santa Fe - Club Atlético Sarmiento",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.35 a 2.6 (10.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Sportivo San Lorenzo - Club Nacional Asuncion",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 29.0 a 54.0 (86.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Sportivo San Lorenzo - Club Nacional Asuncion",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 5.25 a 7.5 (42.9%)"
   }
 ]
