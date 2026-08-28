@@ -7,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.28,
-              3.25
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.28,
-                "under": 3.25
-              },
-              {
-                "line": 5.5,
-                "over": 2.35,
-                "under": 1.5
-              },
-              {
-                "line": 6.5,
-                "over": 4.75,
-                "under": 1.13
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787960153.3950899
+      "last_checked": 1787960717.722676
     },
     "Goiás EC|São Bernardo FC": {
       "home": "Goiás EC",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787960180.071329
+      "last_checked": 1787960744.3244023
     },
     "Clube Náutico Capibaribe|Athletic Club MG": {
       "home": "Clube Náutico Capibaribe",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787960206.6102545
+      "last_checked": 1787960770.4201567
     },
     "Gremio Novorizontino|Sport Club do Recife": {
       "home": "Gremio Novorizontino",
@@ -113,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787960233.362351
+      "last_checked": 1787960796.5578847
     },
     "Cobresal|Palestino": {
       "home": "Cobresal",
@@ -136,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787960260.0631247
+      "last_checked": 1787960822.757014
     }
   }
 }
