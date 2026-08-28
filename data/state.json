@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.38,
-              2.7
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 7.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 8.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787957715.332528
+      "last_checked": 1787958326.0025632
     },
     "Goiás EC|São Bernardo FC": {
       "home": "Goiás EC",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787957742.629646
+      "last_checked": 1787958352.522288
     },
     "Cobresal|Palestino": {
       "home": "Cobresal",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787957769.8679628
+      "last_checked": 1787958379.0767543
     },
     "Sportivo San Lorenzo|Club Nacional Asuncion": {
       "home": "Sportivo San Lorenzo",
@@ -103,7 +103,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            29.0,
+            5.25
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787957796.969739
+      "last_checked": 1787958410.9967341
     },
     "Club General Caballero JLM|Deportivo Capiata": {
       "home": "Club General Caballero JLM",
@@ -136,7 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787957824.1471024
+      "last_checked": 1787958437.6090786
     }
   }
 }
