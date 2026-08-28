@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787957228.5056198,
+  "generated_at": 1787957824.199962,
   "matches": [
     {
       "match": "Unión de Santa Fe - Club Atlético Sarmiento",
@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.32,
-              3.0
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 7.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.85,
+                "under": 1.82
               },
               {
                 "line": 8.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 2.65,
+                "under": 1.4
               }
             ]
           },
@@ -49,7 +49,7 @@
           "type": "quota_cambiata",
           "match": "Unión de Santa Fe - Club Atlético Sarmiento",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.7 a 3.0 (11.1%)"
+          "detail": "bet9ja: esito #2 passato da 3.0 a 2.7 (11.1%)"
         }
       ]
     },
@@ -120,7 +120,7 @@
       "alerts": []
     },
     {
-      "match": "Asociación Deportiva Carmelita - Aserri FC",
+      "match": "Club General Caballero JLM - Deportivo Capiata",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
