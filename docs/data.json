@@ -1,116 +1,8 @@
 {
-  "generated_at": 1787969849.507543,
+  "generated_at": 1787970430.7458062,
   "matches": [
     {
-      "match": "Boca Juniors - Lanus",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 14.5,
-            "odds": [
-              1.75,
-              1.92
-            ],
-            "_all_lines": [
-              {
-                "line": 14.5,
-                "over": 1.75,
-                "under": 1.92
-              },
-              {
-                "line": 15.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 16.5,
-                "over": 5.75,
-                "under": 1.09
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Boca Juniors - Lanus",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 15.5 a 14.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Boca Juniors - Lanus",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.6 a 1.75 (9.4%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Boca Juniors - Lanus",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.15 a 1.92 (12.0%)"
-        }
-      ]
-    },
-    {
       "match": "Unión Magdalena - Deportes Quindío",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Chapulineros de Oaxaca - Jaguares de Chiapas",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Saint Louis City SC 2 - North Texas",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -152,7 +44,73 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Club Necaxa - Cruz Azul",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "CSD Dorados de Sinaloa - Club Atletico Morelia",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Correcaminos UAT - Alacranes de Durango",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 0
 }

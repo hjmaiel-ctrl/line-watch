@@ -1,51 +1,5 @@
 {
   "matches": {
-    "Boca Juniors|Lanus": {
-      "home": "Boca Juniors",
-      "away": "Lanus",
-      "event_id": "10010834",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 14.5,
-            "odds": [
-              1.75,
-              1.92
-            ],
-            "_all_lines": [
-              {
-                "line": 14.5,
-                "over": 1.75,
-                "under": 1.92
-              },
-              {
-                "line": 15.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 16.5,
-                "over": 5.75,
-                "under": 1.09
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787969740.8444223
-    },
     "Unión Magdalena|Deportes Quindío": {
       "home": "Unión Magdalena",
       "away": "Deportes Quindío",
@@ -67,53 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787969768.0264616
-    },
-    "Chapulineros de Oaxaca|Jaguares de Chiapas": {
-      "home": "Chapulineros de Oaxaca",
-      "away": "Jaguares de Chiapas",
-      "event_id": "10010826",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787969794.9436996
-    },
-    "Saint Louis City SC 2|North Texas": {
-      "home": "Saint Louis City SC 2",
-      "away": "North Texas",
-      "event_id": "10010831",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787969822.2537022
+      "last_checked": 1787970324.5886917
     },
     "Atlante|Club León": {
       "home": "Atlante",
@@ -136,7 +44,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787969849.469519
+      "last_checked": 1787970351.0418658
+    },
+    "Club Necaxa|Cruz Azul": {
+      "home": "Club Necaxa",
+      "away": "Cruz Azul",
+      "event_id": "10010837",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787970377.5365112
+    },
+    "CSD Dorados de Sinaloa|Club Atletico Morelia": {
+      "home": "CSD Dorados de Sinaloa",
+      "away": "Club Atletico Morelia",
+      "event_id": "10010838",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787970404.1932297
+    },
+    "Correcaminos UAT|Alacranes de Durango": {
+      "home": "Correcaminos UAT",
+      "away": "Alacranes de Durango",
+      "event_id": "10010839",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787970430.6993897
     }
   }
 }
