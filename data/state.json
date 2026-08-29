@@ -7,40 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.28,
-              3.25
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.28,
-                "under": 3.25
-              },
-              {
-                "line": 9.5,
-                "over": 1.82,
-                "under": 1.85
-              },
-              {
-                "line": 10.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 11.5,
-                "over": 5.5,
-                "under": 1.1
-              },
-              {
-                "line": 12.5,
-                "over": 8.0,
-                "under": 1.03
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -54,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788009330.6613486
+      "last_checked": 1788009953.7417905
     },
-    "Wolverhampton Wanderers|Stoke City": {
-      "home": "Wolverhampton Wanderers",
-      "away": "Stoke City",
-      "event_id": "10002704",
+    "Red Star FC 93|Stade Reims": {
+      "home": "Red Star FC 93",
+      "away": "Stade Reims",
+      "event_id": "10011229",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -77,39 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788009357.5641353
+      "last_checked": 1788009980.7443614
     },
-    "Derby County|Swansea City": {
-      "home": "Derby County",
-      "away": "Swansea City",
-      "event_id": "10002706",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            17.0,
-            17.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788009390.0747414
-    },
-    "Middlesbrough|West Bromwich Albion": {
-      "home": "Middlesbrough",
-      "away": "West Bromwich Albion",
-      "event_id": "10002707",
+    "Annecy FC|FC Metz": {
+      "home": "Annecy FC",
+      "away": "FC Metz",
+      "event_id": "10011231",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -127,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788009417.0271277
+      "last_checked": 1788010007.6887121
     },
-    "Milton Keynes Dons|Leicester City": {
-      "home": "Milton Keynes Dons",
-      "away": "Leicester City",
-      "event_id": "10011175",
+    "Rotherham United|Chesterfield": {
+      "home": "Rotherham United",
+      "away": "Chesterfield",
+      "event_id": "10011237",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -150,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788009443.8798988
+      "last_checked": 1788010034.6173823
+    },
+    "Académica de Coimbra|Lusitânia de Lourosa": {
+      "home": "Académica de Coimbra",
+      "away": "Lusitânia de Lourosa",
+      "event_id": "10011261",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788010061.5544329
     }
   }
 }
