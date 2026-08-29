@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Avondale|Hume City": {
-      "home": "Avondale",
-      "away": "Hume City",
-      "event_id": "10010878",
+    "Robina City|Ipswich FC": {
+      "home": "Robina City",
+      "away": "Ipswich FC",
+      "event_id": "10010894",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787985932.3169959
+      "last_checked": 1787986537.1091144
     },
-    "Heidelberg Utd|Bentleigh": {
-      "home": "Heidelberg Utd",
-      "away": "Bentleigh",
-      "event_id": "10010879",
+    "Salisbury International|Western Strikers": {
+      "home": "Salisbury International",
+      "away": "Western Strikers",
+      "event_id": "10010895",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787985959.1361177
+      "last_checked": 1787986563.8697705
     },
-    "Oakleigh|Dandenong City": {
-      "home": "Oakleigh",
-      "away": "Dandenong City",
-      "event_id": "10010880",
+    "Adelaide Blue Eagles|Raiders": {
+      "home": "Adelaide Blue Eagles",
+      "away": "Raiders",
+      "event_id": "10010896",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787985985.9588826
+      "last_checked": 1787986590.8827746
     },
-    "Melbourne City FC 2|Green Gully": {
-      "home": "Melbourne City FC 2",
-      "away": "Green Gully",
-      "event_id": "10010883",
+    "Maruyasu Okazaki|Verspah Oita": {
+      "home": "Maruyasu Okazaki",
+      "away": "Verspah Oita",
+      "event_id": "10010898",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787986013.0027688
+      "last_checked": 1787986618.0498037
     },
-    "Keilor Park|Altona City SC": {
-      "home": "Keilor Park",
-      "away": "Altona City SC",
-      "event_id": "10010884",
+    "Playford City|Adelaide City": {
+      "home": "Playford City",
+      "away": "Adelaide City",
+      "event_id": "10010899",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787986039.9308012
+      "last_checked": 1787986644.9613864
     }
   }
 }
