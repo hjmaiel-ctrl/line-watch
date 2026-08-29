@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Atlético Mineiro|EC Vitória": {
-      "home": "Atlético Mineiro",
-      "away": "EC Vitória",
-      "event_id": "10011969",
+    "CA Huracan|Estudiantes Río Cuarto": {
+      "home": "CA Huracan",
+      "away": "Estudiantes Río Cuarto",
+      "event_id": "10011985",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,36 +21,36 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788045331.7098465
+      "last_checked": 1788045930.5860338
     },
-    "CA Huracan|Estudiantes Río Cuarto": {
-      "home": "CA Huracan",
-      "away": "Estudiantes Río Cuarto",
-      "event_id": "10011985",
+    "São Paulo|Red Bull Bragantino": {
+      "home": "São Paulo",
+      "away": "Red Bull Bragantino",
+      "event_id": "10017215",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.42,
-              2.6
+              1.47,
+              2.45
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
                 "line": 7.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 8.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 1.82,
+                "under": 1.85
+              },
+              {
+                "line": 9.5,
+                "over": 2.35,
+                "under": 1.5
               }
             ]
           },
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788045356.980882
+      "last_checked": 1788045955.408128
     },
     "Botafogo SP|Cuiabá EC": {
       "home": "Botafogo SP",
@@ -90,30 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788045383.6657157
-    },
-    "Deportes Limache|Everton de Viña del Mar": {
-      "home": "Deportes Limache",
-      "away": "Everton de Viña del Mar",
-      "event_id": "10011975",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788045410.3626826
+      "last_checked": 1788045981.9337025
     },
     "Jaguares de Córdoba|América de Cali": {
       "home": "Jaguares de Córdoba",
@@ -136,7 +113,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788045439.016117
+      "last_checked": 1788046008.6318095
+    },
+    "Recoleta FC|Club Olimpia": {
+      "home": "Recoleta FC",
+      "away": "Club Olimpia",
+      "event_id": "10011973",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788046035.1378233
     }
   }
 }
