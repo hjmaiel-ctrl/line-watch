@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 13.5,
             "odds": [
-              1.35,
-              2.85
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 12.5,
-                "over": 1.8,
-                "under": 1.87
-              },
-              {
                 "line": 13.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 14.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 15.5,
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           },
@@ -44,30 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787967930.7008924
-    },
-    "Club Deportivo Técnico Universitario|Deportivo Cuenca": {
-      "home": "Club Deportivo Técnico Universitario",
-      "away": "Deportivo Cuenca",
-      "event_id": "10010828",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787967957.8121789
+      "last_checked": 1787968520.8424923
     },
     "Unión Magdalena|Deportes Quindío": {
       "home": "Unión Magdalena",
@@ -90,34 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787967984.8332157
-    },
-    "Charlotte Independence|Av Alta FC": {
-      "home": "Charlotte Independence",
-      "away": "Av Alta FC",
-      "event_id": "10010815",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            3.75,
-            1.22
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787968017.3848934
+      "last_checked": 1787968547.2927747
     },
     "Chapulineros de Oaxaca|Jaguares de Chiapas": {
       "home": "Chapulineros de Oaxaca",
@@ -140,7 +90,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787968044.690963
+      "last_checked": 1787968574.1671612
+    },
+    "Colorado Rapids 2|Ventura County FC": {
+      "home": "Colorado Rapids 2",
+      "away": "Ventura County FC",
+      "event_id": "10010830",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787968601.2252395
+    },
+    "Saint Louis City SC 2|North Texas": {
+      "home": "Saint Louis City SC 2",
+      "away": "North Texas",
+      "event_id": "10010831",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787968633.2260058
     }
   }
 }

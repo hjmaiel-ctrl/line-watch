@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787968044.743773,
+  "generated_at": 1787968633.263202,
   "matches": [
     {
       "match": "Boca Juniors - Lanus",
@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 13.5,
             "odds": [
-              1.35,
-              2.85
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 12.5,
-                "over": 1.8,
-                "under": 1.87
-              },
-              {
                 "line": 13.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 14.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 15.5,
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           },
@@ -44,29 +44,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
-    },
-    {
-      "match": "Club Deportivo Técnico Universitario - Deportivo Cuenca",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Boca Juniors - Lanus",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 11.5 a 13.5"
         },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "Boca Juniors - Lanus",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.35 a 1.25 (8.0%)"
         },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "Boca Juniors - Lanus",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.85 a 3.45 (21.1%)"
         }
-      },
-      "alerts": []
+      ]
     },
     {
       "match": "Unión Magdalena - Deportes Quindío",
@@ -91,7 +88,7 @@
       "alerts": []
     },
     {
-      "match": "Charlotte Independence - Av Alta FC",
+      "match": "Chapulineros de Oaxaca - Jaguares de Chiapas",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -100,11 +97,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            3.75,
-            1.22
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -114,23 +107,32 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Charlotte Independence - Av Alta FC",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 11.5 a 3.75 (206.7%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Charlotte Independence - Av Alta FC",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 100.0 a 1.22 (8096.7%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Chapulineros de Oaxaca - Jaguares de Chiapas",
+      "match": "Colorado Rapids 2 - Ventura County FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Saint Louis City SC 2 - North Texas",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -152,5 +154,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 3
 }
