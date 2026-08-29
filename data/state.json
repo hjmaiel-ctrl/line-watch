@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787972132.7296042
+      "last_checked": 1787972738.2729049
     },
     "CSD Dorados de Sinaloa|Club Atletico Morelia": {
       "home": "CSD Dorados de Sinaloa",
@@ -44,53 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787972159.8230777
-    },
-    "Correcaminos UAT|Alacranes de Durango": {
-      "home": "Correcaminos UAT",
-      "away": "Alacranes de Durango",
-      "event_id": "10010839",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787972187.0966444
-    },
-    "Gimnasia Y Tiro de Salta|Chacarita Juniors": {
-      "home": "Gimnasia Y Tiro de Salta",
-      "away": "Chacarita Juniors",
-      "event_id": "10010841",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787972214.0423505
+      "last_checked": 1787972764.9904656
     },
     "Tauro FC|CA Independiente": {
       "home": "Tauro FC",
@@ -103,6 +57,33 @@
           "CARDS_OU": null
         },
         "sportybet": {
+          "1X2": [
+            2.4,
+            1.19,
+            4.8
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787972797.070043
+    },
+    "Wellington Olympic AFC|Waterside Karori": {
+      "home": "Wellington Olympic AFC",
+      "away": "Waterside Karori",
+      "event_id": "10010844",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -113,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787972240.7381911
+      "last_checked": 1787972823.7459168
+    },
+    "Miramar Rangers|Western Suburbs FC": {
+      "home": "Miramar Rangers",
+      "away": "Western Suburbs FC",
+      "event_id": "10010845",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787972850.371952
     }
   }
 }
