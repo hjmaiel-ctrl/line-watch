@@ -1,28 +1,6 @@
 {
-  "generated_at": 1787985441.6778798,
+  "generated_at": 1787986039.9685633,
   "matches": [
-    {
-      "match": "Robina City - Ipswich FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Avondale - Hume City",
       "bet9ja_stats": null,
@@ -90,7 +68,29 @@
       "alerts": []
     },
     {
-      "match": "Preston Lions - Altona Magic",
+      "match": "Melbourne City FC 2 - Green Gully",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Keilor Park - Altona City SC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
