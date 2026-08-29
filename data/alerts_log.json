@@ -1624,5 +1624,17 @@
     "match": "Marist FC - GHUPO",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 2.8 a 4.5 (60.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Marist FC - GHUPO",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 2.6 a 11.0 (323.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Marist FC - GHUPO",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 2.15 a 3.9 (81.4%)"
   }
 ]
