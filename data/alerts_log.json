@@ -1612,5 +1612,17 @@
     "match": "Queanbeyan City FC - Tuggeranong United FC",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 4.1 a 6.5 (58.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Marist FC - GHUPO",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 2.2 a 1.26 (74.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Marist FC - GHUPO",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 2.8 a 4.5 (60.7%)"
   }
 ]

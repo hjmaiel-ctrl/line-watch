@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            2.2,
-            2.8
+            1.26,
+            4.5
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787981744.2760918
+      "last_checked": 1787982321.3607318
     },
     "Wellington Phoenix Reserves|Upper Hutt City Football": {
       "home": "Wellington Phoenix Reserves",
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787981770.964724
+      "last_checked": 1787982348.3446856
     },
     "Kahibah|New Lambton": {
       "home": "Kahibah",
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787981797.6861928
+      "last_checked": 1787982375.7013903
     },
     "South Hobart|Kingborough Lions Utd": {
       "home": "South Hobart",
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787981824.3923385
+      "last_checked": 1787982402.6669266
     },
     "Avondale|Hume City": {
       "home": "Avondale",
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787981851.1702483
+      "last_checked": 1787982429.9447753
     }
   }
 }
