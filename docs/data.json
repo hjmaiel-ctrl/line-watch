@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787962638.1085773,
+  "generated_at": 1787963239.5168993,
   "matches": [
     {
       "match": "Goiás EC - São Bernardo FC",
@@ -68,7 +68,7 @@
       "alerts": []
     },
     {
-      "match": "Cobresal - Palestino",
+      "match": "Club Deportivo Técnico Universitario - Deportivo Cuenca",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -77,11 +77,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.3,
-            3.7
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -91,23 +87,10 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Cobresal - Palestino",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 1.5 a 1.3 (15.4%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Cobresal - Palestino",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 3.0 a 3.7 (23.3%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Club Deportivo Técnico Universitario - Deportivo Cuenca",
+      "match": "Atletico Ottawa - Inter Toronto FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -129,5 +112,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
