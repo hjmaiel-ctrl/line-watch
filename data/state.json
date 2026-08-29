@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            3.65,
-            1.75
+            25.0,
+            4.1
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787979946.9800825
+      "last_checked": 1787980533.7200773
     },
     "Marist FC|GHUPO": {
       "home": "Marist FC",
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787979973.7662892
+      "last_checked": 1787980560.2142236
     },
     "Wellington Phoenix Reserves|Upper Hutt City Football": {
       "home": "Wellington Phoenix Reserves",
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787980000.4050486
+      "last_checked": 1787980586.69126
     },
     "Kahibah|New Lambton": {
       "home": "Kahibah",
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787980027.0747914
+      "last_checked": 1787980613.4204834
     },
     "South Hobart|Kingborough Lions Utd": {
       "home": "South Hobart",
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787980054.0453146
+      "last_checked": 1787980639.8912768
     }
   }
 }

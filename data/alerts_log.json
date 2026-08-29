@@ -1588,5 +1588,17 @@
     "match": "ACF Zapotlanejo - Guerreros de Autlan",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 3.7 a 9.0 (143.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Queanbeyan City FC - Tuggeranong United FC",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 3.65 a 25.0 (584.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Queanbeyan City FC - Tuggeranong United FC",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 1.75 a 4.1 (134.3%)"
   }
 ]
