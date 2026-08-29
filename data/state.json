@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 11.5,
             "odds": [
-              1.35,
-              2.85
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
                 "line": 11.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 12.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 13.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 2.3,
+                "under": 1.52
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787966167.790883
+      "last_checked": 1787966735.7918022
     },
     "Clube Náutico Capibaribe|Athletic Club MG": {
       "home": "Clube Náutico Capibaribe",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787966194.4964275
+      "last_checked": 1787966762.3774083
     },
     "Gremio Novorizontino|Sport Club do Recife": {
       "home": "Gremio Novorizontino",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787966221.229563
+      "last_checked": 1787966789.0925186
     },
     "Club Deportivo Técnico Universitario|Deportivo Cuenca": {
       "home": "Club Deportivo Técnico Universitario",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787966248.1164856
+      "last_checked": 1787966816.0676172
     },
     "Unión Magdalena|Deportes Quindío": {
       "home": "Unión Magdalena",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787966274.8275645
+      "last_checked": 1787966843.0089393
     }
   }
 }

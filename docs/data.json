@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787966274.878673,
+  "generated_at": 1787966843.0531492,
   "matches": [
     {
       "match": "Boca Juniors - Lanus",
@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 11.5,
             "odds": [
-              1.35,
-              2.85
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
                 "line": 11.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 12.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 13.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 2.3,
+                "under": 1.52
               }
             ]
           },
@@ -44,14 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Boca Juniors - Lanus",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 11.5"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Clube Náutico Capibaribe - Athletic Club MG",
@@ -142,5 +135,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 0
 }
