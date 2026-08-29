@@ -11,11 +11,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.26,
-            4.5
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -25,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787982321.3607318
+      "last_checked": 1787982918.8375976
     },
     "Wellington Phoenix Reserves|Upper Hutt City Football": {
       "home": "Wellington Phoenix Reserves",
@@ -48,30 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787982348.3446856
-    },
-    "Kahibah|New Lambton": {
-      "home": "Kahibah",
-      "away": "New Lambton",
-      "event_id": "10010873",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787982375.7013903
+      "last_checked": 1787982945.349372
     },
     "South Hobart|Kingborough Lions Utd": {
       "home": "South Hobart",
@@ -94,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787982402.6669266
+      "last_checked": 1787982971.8069158
     },
     "Avondale|Hume City": {
       "home": "Avondale",
@@ -117,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787982429.9447753
+      "last_checked": 1787982998.456025
+    },
+    "Heidelberg Utd|Bentleigh": {
+      "home": "Heidelberg Utd",
+      "away": "Bentleigh",
+      "event_id": "10010879",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787983024.9262056
     }
   }
 }
