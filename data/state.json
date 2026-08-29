@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787961322.4241083
+      "last_checked": 1787961962.2026045
     },
     "Clube Náutico Capibaribe|Athletic Club MG": {
       "home": "Clube Náutico Capibaribe",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787961348.8854575
+      "last_checked": 1787961988.72759
     },
     "Gremio Novorizontino|Sport Club do Recife": {
       "home": "Gremio Novorizontino",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787961375.3221338
+      "last_checked": 1787962015.360419
     },
     "Cobresal|Palestino": {
       "home": "Cobresal",
@@ -80,8 +80,18 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "1X2": [
+            2.4,
+            1.5,
+            3.0
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.47
+            ]
+          },
           "CARDS_OU": null
         },
         "bet365": {
@@ -90,12 +100,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787961401.9508715
+      "last_checked": 1787962047.1204908
     },
-    "CD Municipal Limeno|Isidro Metapán": {
-      "home": "CD Municipal Limeno",
-      "away": "Isidro Metapán",
-      "event_id": "10010794",
+    "Club Deportivo Técnico Universitario|Deportivo Cuenca": {
+      "home": "Club Deportivo Técnico Universitario",
+      "away": "Deportivo Cuenca",
+      "event_id": "10010828",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +123,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787961428.4675398
+      "last_checked": 1787962073.7365086
     }
   }
 }
