@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787967436.0287018,
+  "generated_at": 1787968044.743773,
   "matches": [
     {
       "match": "Boca Juniors - Lanus",
@@ -10,19 +10,19 @@
           "CORNERS_OU": {
             "line": 11.5,
             "odds": [
-              1.4,
-              2.65
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
                 "line": 11.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 12.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 1.8,
+                "under": 1.87
               },
               {
                 "line": 13.5,
@@ -44,14 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Boca Juniors - Lanus",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.0 a 2.65 (13.2%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Club Deportivo Técnico Universitario - Deportivo Cuenca",
@@ -109,8 +102,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            11.5,
-            100.0
+            3.75,
+            1.22
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -121,7 +114,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Charlotte Independence - Av Alta FC",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 11.5 a 3.75 (206.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Charlotte Independence - Av Alta FC",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 100.0 a 1.22 (8096.7%)"
+        }
+      ]
     },
     {
       "match": "Chapulineros de Oaxaca - Jaguares de Chiapas",
@@ -146,5 +152,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 2
 }
