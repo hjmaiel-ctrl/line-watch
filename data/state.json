@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787973345.2444818
+      "last_checked": 1787973950.5863142
     },
     "CSD Dorados de Sinaloa|Club Atletico Morelia": {
       "home": "CSD Dorados de Sinaloa",
@@ -44,34 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787973371.6844628
-    },
-    "Tauro FC|CA Independiente": {
-      "home": "Tauro FC",
-      "away": "CA Independiente",
-      "event_id": "10010843",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            13.0,
-            13.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787973403.2189627
+      "last_checked": 1787973977.2428615
     },
     "Wellington Olympic AFC|Waterside Karori": {
       "home": "Wellington Olympic AFC",
@@ -94,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787973429.882136
+      "last_checked": 1787974003.8179579
     },
     "Miramar Rangers|Western Suburbs FC": {
       "home": "Miramar Rangers",
@@ -117,7 +90,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787973456.4605029
+      "last_checked": 1787974030.340629
+    },
+    "ACF Zapotlanejo|Guerreros de Autlan": {
+      "home": "ACF Zapotlanejo",
+      "away": "Guerreros de Autlan",
+      "event_id": "10010846",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.4,
+            3.7
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787974062.2730765
     }
   }
 }

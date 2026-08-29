@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787973456.4957962,
+  "generated_at": 1787974062.3069315,
   "matches": [
     {
       "match": "Atlante - Club León",
@@ -46,45 +46,6 @@
       "alerts": []
     },
     {
-      "match": "Tauro FC - CA Independiente",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            13.0,
-            13.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Tauro FC - CA Independiente",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 1.19 a 13.0 (992.4%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Tauro FC - CA Independiente",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 4.8 a 13.0 (170.8%)"
-        }
-      ]
-    },
-    {
       "match": "Wellington Olympic AFC - Waterside Karori",
       "bet9ja_stats": null,
       "odds": {
@@ -127,7 +88,33 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "ACF Zapotlanejo - Guerreros de Autlan",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.4,
+            3.7
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
