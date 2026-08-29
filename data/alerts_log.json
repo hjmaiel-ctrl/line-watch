@@ -1648,5 +1648,17 @@
     "match": "Playford City - Adelaide City",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 4.7 a 5.4 (14.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Playford City - Adelaide City",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 55.0 a 100.0 (81.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Playford City - Adelaide City",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 5.4 a 7.25 (34.3%)"
   }
 ]

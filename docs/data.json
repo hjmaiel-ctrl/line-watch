@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787987852.784677,
+  "generated_at": 1787988448.8177445,
   "matches": [
     {
       "match": "Salisbury International - Western Strikers",
@@ -79,8 +79,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            55.0,
-            5.4
+            100.0,
+            7.25
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -96,13 +96,13 @@
           "type": "quota_cambiata",
           "match": "Playford City - Adelaide City",
           "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 28.0 a 55.0 (96.4%)"
+          "detail": "sportybet: esito #2 passato da 55.0 a 100.0 (81.8%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Playford City - Adelaide City",
           "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 4.7 a 5.4 (14.9%)"
+          "detail": "sportybet: esito #3 passato da 5.4 a 7.25 (34.3%)"
         }
       ]
     },
