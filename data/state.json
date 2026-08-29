@@ -21,53 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787975740.949237
-    },
-    "Suchitepéquez|CSD Cobán Imperial": {
-      "home": "Suchitepéquez",
-      "away": "CSD Cobán Imperial",
-      "event_id": "10010847",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787975767.4339652
-    },
-    "Sporting San Jose FC|Inter San Carlos": {
-      "home": "Sporting San Jose FC",
-      "away": "Inter San Carlos",
-      "event_id": "10010848",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787975793.9254274
+      "last_checked": 1787976329.815918
     },
     "Tigres de Álica FC|Zacatepec F.C.": {
       "home": "Tigres de Álica FC",
@@ -90,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787975820.4959671
+      "last_checked": 1787976356.3384378
     },
     "Petone FC|Island Bay United": {
       "home": "Petone FC",
@@ -113,7 +67,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787975847.0190706
+      "last_checked": 1787976383.0005584
+    },
+    "Heidelberg United FC|Bentleigh Greens SC": {
+      "home": "Heidelberg United FC",
+      "away": "Bentleigh Greens SC",
+      "event_id": "10010853",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787976409.6069188
+    },
+    "Preston Lions FC|Altona Magic SC": {
+      "home": "Preston Lions FC",
+      "away": "Altona Magic SC",
+      "event_id": "10010854",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787976436.2128694
     }
   }
 }
