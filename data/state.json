@@ -10,51 +10,38 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.12,
-              5.0
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.12,
-                "under": 5.0
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 6.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 7.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 8.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 3.45,
+                "under": 1.22
               },
               {
                 "line": 9.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 5.5,
+                "under": 1.1
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.62,
-              2.1
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.62,
-                "under": 2.1
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -67,12 +54,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788035717.7692165
+      "last_checked": 1788036325.046638
     },
-    "Juventus|Parma": {
-      "home": "Juventus",
-      "away": "Parma",
-      "event_id": "10002753",
+    "PEC Zwolle|NEC": {
+      "home": "PEC Zwolle",
+      "away": "NEC",
+      "event_id": "10011826",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -82,8 +69,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            17.0,
-            15.0
+            9.5,
+            100.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -94,12 +81,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788035749.7850738
+      "last_checked": 1788036361.7311525
     },
-    "AJ Auxerre|Angers SCO": {
-      "home": "AJ Auxerre",
-      "away": "Angers SCO",
-      "event_id": "9999935",
+    "Girona|UD Las Palmas": {
+      "home": "Girona",
+      "away": "UD Las Palmas",
+      "event_id": "10011913",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,12 +104,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788035776.5414019
+      "last_checked": 1788036388.2793207
     },
-    "Olympique Lyonnais|Le Havre AC": {
-      "home": "Olympique Lyonnais",
-      "away": "Le Havre AC",
-      "event_id": "9999995",
+    "Ascoli|Carrarese": {
+      "home": "Ascoli",
+      "away": "Carrarese",
+      "event_id": "10011901",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -140,12 +127,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788035803.2440119
+      "last_checked": 1788036414.8337376
     },
-    "Stade Brestois 29|Toulouse FC": {
-      "home": "Stade Brestois 29",
-      "away": "Toulouse FC",
-      "event_id": "10002754",
+    "Padova|Hellas Verona": {
+      "home": "Padova",
+      "away": "Hellas Verona",
+      "event_id": "10011902",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -163,7 +150,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788035830.0529072
+      "last_checked": 1788036441.36013
     }
   }
 }

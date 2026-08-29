@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788035830.0976186,
+  "generated_at": 1788036441.4035707,
   "matches": [
     {
       "match": "Sevilla - Atlético de Madrid",
@@ -10,51 +10,38 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.12,
-              5.0
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.12,
-                "under": 5.0
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 6.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 7.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 8.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 3.45,
+                "under": 1.22
               },
               {
                 "line": 9.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 5.5,
+                "under": 1.1
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.62,
-              2.1
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.62,
-                "under": 2.1
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -67,10 +54,23 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Sevilla - Atlético de Madrid",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.12 a 1.25 (11.6%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Sevilla - Atlético de Madrid",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 5.0 a 3.45 (44.9%)"
+        }
+      ]
     },
     {
-      "match": "Juventus - Parma",
+      "match": "PEC Zwolle - NEC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -81,8 +81,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            17.0,
-            15.0
+            9.5,
+            100.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -96,7 +96,7 @@
       "alerts": []
     },
     {
-      "match": "AJ Auxerre - Angers SCO",
+      "match": "Girona - UD Las Palmas",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -118,7 +118,7 @@
       "alerts": []
     },
     {
-      "match": "Olympique Lyonnais - Le Havre AC",
+      "match": "Ascoli - Carrarese",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -140,7 +140,7 @@
       "alerts": []
     },
     {
-      "match": "Stade Brestois 29 - Toulouse FC",
+      "match": "Padova - Hellas Verona",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -162,5 +162,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
