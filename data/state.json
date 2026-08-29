@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787978128.8757753
+      "last_checked": 1787978735.4423478
     },
     "Tauranga City United AFC|Manukau United": {
       "home": "Tauranga City United AFC",
@@ -34,7 +34,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.67,
+            2.04
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787978155.720998
+      "last_checked": 1787978767.204821
     },
     "Eastern Suburbs Auckland AFC|Auckland FC II": {
       "home": "Eastern Suburbs Auckland AFC",
@@ -67,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787978182.670028
+      "last_checked": 1787978793.8160772
     },
     "Melville United AFC|Auckland City": {
       "home": "Melville United AFC",
@@ -90,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787978209.5634615
+      "last_checked": 1787978820.5165267
     },
     "East Coast Bays|Auckland United": {
       "home": "East Coast Bays",
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787978236.4334373
+      "last_checked": 1787978847.011582
     }
   }
 }

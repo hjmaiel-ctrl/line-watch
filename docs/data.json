@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787978236.4757357,
+  "generated_at": 1787978847.0614567,
   "matches": [
     {
       "match": "Fencibles United AFC - Western Springs AFC",
@@ -33,7 +33,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.67,
+            2.04
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
