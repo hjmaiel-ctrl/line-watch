@@ -8,24 +8,24 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 11.5,
             "odds": [
-              1.55,
-              2.25
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.55,
-                "under": 2.25
+                "line": 11.5,
+                "over": 1.5,
+                "under": 2.35
               },
               {
-                "line": 8.5,
-                "over": 1.95,
-                "under": 1.73
+                "line": 12.5,
+                "over": 1.9,
+                "under": 1.78
               },
               {
-                "line": 9.5,
+                "line": 13.5,
                 "over": 2.6,
                 "under": 1.42
               }
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787964333.8366547
+      "last_checked": 1787964915.8484287
     },
     "Clube Náutico Capibaribe|Athletic Club MG": {
       "home": "Clube Náutico Capibaribe",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787964360.6701832
+      "last_checked": 1787964942.4322073
     },
     "Gremio Novorizontino|Sport Club do Recife": {
       "home": "Gremio Novorizontino",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787964388.0976481
+      "last_checked": 1787964968.9138644
     },
     "Club Deportivo Técnico Universitario|Deportivo Cuenca": {
       "home": "Club Deportivo Técnico Universitario",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787964414.5702462
+      "last_checked": 1787964995.596986
     },
     "Atletico Ottawa|Inter Toronto FC": {
       "home": "Atletico Ottawa",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787964441.2170477
+      "last_checked": 1787965022.1845345
     }
   }
 }
