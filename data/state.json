@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 13.5,
+            "line": 15.5,
             "odds": [
-              1.25,
-              3.45
+              1.6,
+              2.15
             ],
             "_all_lines": [
               {
-                "line": 13.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 14.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
                 "line": 15.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.6,
+                "under": 2.15
+              },
+              {
+                "line": 16.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 17.5,
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787968520.8424923
+      "last_checked": 1787969121.8076103
     },
     "Unión Magdalena|Deportes Quindío": {
       "home": "Unión Magdalena",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787968547.2927747
+      "last_checked": 1787969148.4679275
     },
     "Chapulineros de Oaxaca|Jaguares de Chiapas": {
       "home": "Chapulineros de Oaxaca",
@@ -80,7 +80,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            6.25,
+            1.37
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,30 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787968574.1671612
-    },
-    "Colorado Rapids 2|Ventura County FC": {
-      "home": "Colorado Rapids 2",
-      "away": "Ventura County FC",
-      "event_id": "10010830",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787968601.2252395
+      "last_checked": 1787969180.12815
     },
     "Saint Louis City SC 2|North Texas": {
       "home": "Saint Louis City SC 2",
@@ -136,7 +117,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787968633.2260058
+      "last_checked": 1787969206.693974
+    },
+    "CD Inca|CD Cacahuatique": {
+      "home": "CD Inca",
+      "away": "CD Cacahuatique",
+      "event_id": "10010833",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787969233.2385588
     }
   }
 }
