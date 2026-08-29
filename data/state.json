@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.47,
-              2.45
+              1.55,
+              2.25
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
                 "line": 8.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.95,
+                "under": 1.73
               },
               {
                 "line": 9.5,
-                "over": 1.8,
-                "under": 1.87
-              },
-              {
-                "line": 10.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 2.6,
+                "under": 1.42
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787963727.5672781
+      "last_checked": 1787964333.8366547
     },
     "Clube Náutico Capibaribe|Athletic Club MG": {
       "home": "Clube Náutico Capibaribe",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787963755.0021515
+      "last_checked": 1787964360.6701832
     },
     "Gremio Novorizontino|Sport Club do Recife": {
       "home": "Gremio Novorizontino",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787963782.8546252
+      "last_checked": 1787964388.0976481
     },
     "Club Deportivo Técnico Universitario|Deportivo Cuenca": {
       "home": "Club Deportivo Técnico Universitario",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787963816.4732904
+      "last_checked": 1787964414.5702462
     },
     "Atletico Ottawa|Inter Toronto FC": {
       "home": "Atletico Ottawa",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787963843.5653083
+      "last_checked": 1787964441.2170477
     }
   }
 }
