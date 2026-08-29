@@ -1,30 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Playford City - Adelaide City",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 55.0 a 100.0 (81.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Playford City - Adelaide City",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 5.4 a 7.25 (34.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Mito Hollyhock - Machida Zelvia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 5.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Mito Hollyhock - Machida Zelvia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.32 a 1.2 (10.0%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Mito Hollyhock - Machida Zelvia",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.0 a 3.9 (30.0%)"
@@ -2998,5 +2974,29 @@
     "match": "Atlético Mineiro - EC Vitória",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 8.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atlético Mineiro - EC Vitória",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.3 a 1.15 (13.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atlético Mineiro - EC Vitória",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.1 a 4.5 (45.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "CA Huracan - Estudiantes Río Cuarto",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.42 a 1.55 (9.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "CA Huracan - Estudiantes Río Cuarto",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.6 a 2.25 (15.6%)"
   }
 ]
