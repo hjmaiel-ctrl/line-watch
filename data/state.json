@@ -1,110 +1,5 @@
 {
   "matches": {
-    "AFC Bournemouth|Everton": {
-      "home": "AFC Bournemouth",
-      "away": "Everton",
-      "event_id": "9999932",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.98,
-              1.7
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.98,
-                "under": 1.7
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788018342.3912067
-    },
-    "Coventry City|Hull City": {
-      "home": "Coventry City",
-      "away": "Hull City",
-      "event_id": "9999933",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.32,
-              2.9
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.32,
-                "under": 2.9
-              },
-              {
-                "line": 9.5,
-                "over": 2.5,
-                "under": 1.45
-              },
-              {
-                "line": 10.5,
-                "over": 5.25,
-                "under": 1.11
-              },
-              {
-                "line": 11.5,
-                "over": 13.0,
-                "under": null
-              },
-              {
-                "line": 12.5,
-                "over": 11.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.73,
-              1.95
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.73,
-                "under": 1.95
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788018365.4447985
-    },
     "Levante UD|Real Betis": {
       "home": "Levante UD",
       "away": "Real Betis",
@@ -112,7 +7,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 13.5,
+            "odds": [
+              1.2,
+              3.9
+            ],
+            "_all_lines": [
+              {
+                "line": 13.5,
+                "over": 1.2,
+                "under": 3.9
+              },
+              {
+                "line": 14.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 15.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 16.5,
+                "over": 2.65,
+                "under": 1.4
+              },
+              {
+                "line": 17.5,
+                "over": 3.9,
+                "under": 1.2
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -126,7 +54,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788018392.1395385
+      "last_checked": 1788018949.4229052
     },
     "RC Strasbourg|RC Lens": {
       "home": "RC Strasbourg",
@@ -135,7 +63,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.17,
+              4.25
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.17,
+                "under": 4.25
+              },
+              {
+                "line": 5.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 6.5,
+                "over": 1.82,
+                "under": 1.85
+              },
+              {
+                "line": 7.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 8.5,
+                "over": 3.65,
+                "under": 1.22
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -149,7 +110,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788018418.9347377
+      "last_checked": 1788018974.3445857
     },
     "Excelsior Rotterdam|Sparta Rotterdam": {
       "home": "Excelsior Rotterdam",
@@ -172,7 +133,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788018445.652005
+      "last_checked": 1788019000.9923592
+    },
+    "Futebol Clube de Arouca|Marítimo": {
+      "home": "Futebol Clube de Arouca",
+      "away": "Marítimo",
+      "event_id": "10011413",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788019027.7488523
+    },
+    "Alverca|Santa Clara": {
+      "home": "Alverca",
+      "away": "Santa Clara",
+      "event_id": "10011414",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788019054.5475442
     }
   }
 }
