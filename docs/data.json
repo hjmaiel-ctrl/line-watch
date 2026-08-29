@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788016619.921837,
+  "generated_at": 1788017220.113076,
   "matches": [
     {
       "match": "AFC Bournemouth - Everton",
@@ -21,37 +21,37 @@
               },
               {
                 "line": 11.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 12.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 13.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 3.65,
+                "under": 1.22
               },
               {
                 "line": 14.5,
-                "over": 4.25,
-                "under": 1.17
+                "over": 5.5,
+                "under": 1.1
               }
             ]
           },
           "CARDS_OU": {
             "line": 5.5,
             "odds": [
-              2.05,
-              1.65
+              1.7,
+              1.98
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 1.7,
+                "under": 1.98
               }
             ]
           }
@@ -71,26 +71,14 @@
         {
           "type": "quota_cambiata",
           "match": "AFC Bournemouth - Everton",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.25 a 3.65 (12.3%)"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "AFC Bournemouth - Everton",
           "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 5.5"
+          "detail": "bet9ja: esito #1 passato da 2.05 a 1.7 (20.6%)"
         },
         {
           "type": "quota_cambiata",
           "match": "AFC Bournemouth - Everton",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.83 a 2.05 (12.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "AFC Bournemouth - Everton",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.83 a 1.65 (10.9%)"
+          "detail": "bet9ja: esito #2 passato da 1.65 a 1.98 (20.0%)"
         }
       ]
     },
@@ -103,48 +91,48 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.28,
-              3.25
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.18,
+                "under": 4.1
               },
               {
                 "line": 7.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 8.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 2.45,
+                "under": 1.47
               },
               {
                 "line": 9.5,
-                "over": 3.9,
-                "under": 1.2
+                "over": 4.1,
+                "under": 1.18
               },
               {
                 "line": 10.5,
-                "over": 6.5,
-                "under": 1.07
+                "over": 7.25,
+                "under": 1.05
               }
             ]
           },
           "CARDS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              2.15,
-              1.6
+              1.65,
+              2.05
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 2.15,
-                "under": 1.6
+                "line": 4.5,
+                "over": 1.65,
+                "under": 2.05
               }
             ]
           }
@@ -162,22 +150,34 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Coventry City - Hull City",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 6.5"
+          "detail": "bet9ja: esito #1 passato da 1.28 a 1.18 (8.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Coventry City - Hull City",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.25 a 4.1 (26.2%)"
         },
         {
           "type": "linea_cambiata",
           "match": "Coventry City - Hull City",
           "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 3.5 a 5.5"
+          "detail": "bet9ja: linea passata da 5.5 a 4.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Coventry City - Hull City",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.98 a 2.15 (8.6%)"
+          "detail": "bet9ja: esito #1 passato da 2.15 a 1.65 (30.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Coventry City - Hull City",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.6 a 2.05 (28.1%)"
         }
       ]
     },
@@ -187,51 +187,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.25,
-              3.45
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 7.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
-                "line": 8.5,
-                "over": 1.75,
-                "under": 1.92
-              },
-              {
-                "line": 9.5,
-                "over": 2.25,
-                "under": 1.55
-              },
-              {
-                "line": 10.5,
-                "over": 3.0,
-                "under": 1.32
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.8,
-              1.87
+              2.05,
+              1.65
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.8,
-                "under": 1.87
+                "over": 2.05,
+                "under": 1.65
               }
             ]
           }
@@ -249,28 +216,16 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
-          "match": "Levante UD - Real Betis",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 6.5"
-        },
-        {
           "type": "quota_cambiata",
           "match": "Levante UD - Real Betis",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.0 a 3.45 (15.0%)"
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.8 a 2.05 (13.9%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Levante UD - Real Betis",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.6 a 1.8 (12.5%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Levante UD - Real Betis",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.15 a 1.87 (15.0%)"
+          "detail": "bet9ja: esito #2 passato da 1.87 a 1.65 (13.3%)"
         }
       ]
     },
@@ -280,20 +235,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.75,
-              1.89
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.75,
-                "under": 1.89
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -310,7 +252,7 @@
       "alerts": []
     },
     {
-      "match": "Mainz - Paderborn",
+      "match": "Union Berlin - Eintracht Frankfurt",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -332,5 +274,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 11
+  "alert_count_this_run": 9
 }

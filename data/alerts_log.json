@@ -2938,5 +2938,59 @@
     "match": "Levante UD - Real Betis",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 2.15 a 1.87 (15.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AFC Bournemouth - Everton",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.05 a 1.7 (20.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AFC Bournemouth - Everton",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.65 a 1.98 (20.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Coventry City - Hull City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.28 a 1.18 (8.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Coventry City - Hull City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.25 a 4.1 (26.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Coventry City - Hull City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Coventry City - Hull City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.15 a 1.65 (30.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Coventry City - Hull City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.6 a 2.05 (28.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Levante UD - Real Betis",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.8 a 2.05 (13.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Levante UD - Real Betis",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.87 a 1.65 (13.3%)"
   }
 ]
