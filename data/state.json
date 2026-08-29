@@ -1,5 +1,146 @@
 {
   "matches": {
+    "Heidenheim|Dynamo Dresden": {
+      "home": "Heidenheim",
+      "away": "Dynamo Dresden",
+      "event_id": "10011165",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.49,
+              2.44
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.49,
+                "under": 2.44
+              },
+              {
+                "line": 10.5,
+                "over": 1.8,
+                "under": 1.91
+              },
+              {
+                "line": 11.5,
+                "over": 2.26,
+                "under": 1.57
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              2.0,
+              1.7
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 2.0,
+                "under": 1.7
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788001533.1504047
+    },
+    "Karlsruher|Wolfsburg": {
+      "home": "Karlsruher",
+      "away": "Wolfsburg",
+      "event_id": "10011168",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.62,
+              2.16
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.62,
+                "under": 2.16
+              },
+              {
+                "line": 12.5,
+                "over": 1.97,
+                "under": 1.75
+              },
+              {
+                "line": 13.5,
+                "over": 2.48,
+                "under": 1.48
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.7,
+              1.99
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.7,
+                "under": 1.99
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788001556.581711
+    },
+    "Energie Cottbus|Greuther Furth": {
+      "home": "Energie Cottbus",
+      "away": "Greuther Furth",
+      "event_id": "10011169",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788001583.4937878
+    },
     "Portimonense|Leixões": {
       "home": "Portimonense",
       "away": "Leixões",
@@ -21,7 +162,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788000938.839772
+      "last_checked": 1788001610.461025
     },
     "UD Oliveirense|Penalva Do Castelo": {
       "home": "UD Oliveirense",
@@ -44,109 +185,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788000965.5539045
-    },
-    "Mito Hollyhock|Machida Zelvia": {
-      "home": "Mito Hollyhock",
-      "away": "Machida Zelvia",
-      "event_id": "10011041",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788000992.1340082
-    },
-    "Gamba Osaka|Sanfrecce Hiroshima": {
-      "home": "Gamba Osaka",
-      "away": "Sanfrecce Hiroshima",
-      "event_id": "10011042",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788001018.797395
-    },
-    "V-Varen Nagasaki|FC Tokyo": {
-      "home": "V-Varen Nagasaki",
-      "away": "FC Tokyo",
-      "event_id": "10011058",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.12,
-              5.0
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.12,
-                "under": 5.0
-              },
-              {
-                "line": 7.5,
-                "over": 1.4,
-                "under": 2.65
-              },
-              {
-                "line": 8.5,
-                "over": 1.9,
-                "under": 1.77
-              },
-              {
-                "line": 9.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 10.5,
-                "over": 4.5,
-                "under": 1.15
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788001044.7089949
+      "last_checked": 1788001637.4916093
     }
   }
 }
