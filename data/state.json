@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 15.5,
+            "line": 14.5,
             "odds": [
-              1.6,
-              2.15
+              1.75,
+              1.92
             ],
             "_all_lines": [
               {
+                "line": 14.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
                 "line": 15.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 2.85,
+                "under": 1.35
               },
               {
                 "line": 16.5,
-                "over": 2.5,
-                "under": 1.45
-              },
-              {
-                "line": 17.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 5.75,
+                "under": 1.09
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787969121.8076103
+      "last_checked": 1787969740.8444223
     },
     "Unión Magdalena|Deportes Quindío": {
       "home": "Unión Magdalena",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787969148.4679275
+      "last_checked": 1787969768.0264616
     },
     "Chapulineros de Oaxaca|Jaguares de Chiapas": {
       "home": "Chapulineros de Oaxaca",
@@ -80,11 +80,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            6.25,
-            1.37
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -94,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787969180.12815
+      "last_checked": 1787969794.9436996
     },
     "Saint Louis City SC 2|North Texas": {
       "home": "Saint Louis City SC 2",
@@ -117,12 +113,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787969206.693974
+      "last_checked": 1787969822.2537022
     },
-    "CD Inca|CD Cacahuatique": {
-      "home": "CD Inca",
-      "away": "CD Cacahuatique",
-      "event_id": "10010833",
+    "Atlante|Club León": {
+      "home": "Atlante",
+      "away": "Club León",
+      "event_id": "10010836",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -140,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787969233.2385588
+      "last_checked": 1787969849.469519
     }
   }
 }

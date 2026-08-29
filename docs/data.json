@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787969233.286779,
+  "generated_at": 1787969849.507543,
   "matches": [
     {
       "match": "Boca Juniors - Lanus",
@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 15.5,
+            "line": 14.5,
             "odds": [
-              1.6,
-              2.15
+              1.75,
+              1.92
             ],
             "_all_lines": [
               {
+                "line": 14.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
                 "line": 15.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 2.85,
+                "under": 1.35
               },
               {
                 "line": 16.5,
-                "over": 2.5,
-                "under": 1.45
-              },
-              {
-                "line": 17.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 5.75,
+                "under": 1.09
               }
             ]
           },
@@ -49,19 +49,19 @@
           "type": "linea_cambiata",
           "match": "Boca Juniors - Lanus",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 13.5 a 15.5"
+          "detail": "bet9ja: linea passata da 15.5 a 14.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Boca Juniors - Lanus",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.25 a 1.6 (28.0%)"
+          "detail": "bet9ja: esito #1 passato da 1.6 a 1.75 (9.4%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Boca Juniors - Lanus",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.45 a 2.15 (60.5%)"
+          "detail": "bet9ja: esito #2 passato da 2.15 a 1.92 (12.0%)"
         }
       ]
     },
@@ -97,11 +97,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            6.25,
-            1.37
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -136,7 +132,7 @@
       "alerts": []
     },
     {
-      "match": "CD Inca - CD Cacahuatique",
+      "match": "Atlante - Club León",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

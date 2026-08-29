@@ -1546,5 +1546,23 @@
     "match": "Boca Juniors - Lanus",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.45 a 2.15 (60.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Boca Juniors - Lanus",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 15.5 a 14.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Boca Juniors - Lanus",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.6 a 1.75 (9.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Boca Juniors - Lanus",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.15 a 1.92 (12.0%)"
   }
 ]
