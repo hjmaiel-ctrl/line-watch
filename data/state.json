@@ -21,17 +21,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788029137.723258
+      "last_checked": 1788029727.6161427
     },
-    "Académico de Viseu|FC Porto": {
-      "home": "Académico de Viseu",
-      "away": "FC Porto",
-      "event_id": "10011595",
+    "Juventus|Parma": {
+      "home": "Juventus",
+      "away": "Parma",
+      "event_id": "10002753",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 10.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
+                "line": 11.5,
+                "over": 2.0,
+                "under": 1.65
+              },
+              {
+                "line": 12.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 13.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.62,
+              2.1
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.62,
+                "under": 2.1
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -44,50 +90,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788029164.7031562
+      "last_checked": 1788029750.5907001
     },
-    "Gazisehir Gaziantep F.K.|Caykur Rizespor": {
-      "home": "Gazisehir Gaziantep F.K.",
-      "away": "Caykur Rizespor",
-      "event_id": "10011810",
+    "AJ Auxerre|Angers SCO": {
+      "home": "AJ Auxerre",
+      "away": "Angers SCO",
+      "event_id": "9999935",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.38,
-              2.7
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 8.5,
-                "over": 1.65,
-                "under": 2.0
+                "over": 1.42,
+                "under": 2.55
               },
               {
                 "line": 9.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 1.75,
+                "under": 1.92
               },
               {
                 "line": 10.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 11.5,
-                "over": 4.25,
-                "under": 1.17
+                "over": 2.9,
+                "under": 1.32
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.6,
+              2.15
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.6,
+                "under": 2.15
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -100,50 +159,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788029190.237602
+      "last_checked": 1788029773.7496116
     },
-    "Galatasaray SK|Göztepe": {
-      "home": "Galatasaray SK",
-      "away": "Göztepe",
-      "event_id": "10011812",
+    "Olympique Lyonnais|Le Havre AC": {
+      "home": "Olympique Lyonnais",
+      "away": "Le Havre AC",
+      "event_id": "9999995",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.18,
-              4.0
+              1.2,
+              3.75
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.18,
-                "under": 4.0
+                "over": 1.2,
+                "under": 3.75
               },
               {
                 "line": 9.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 10.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.75,
+                "under": 1.92
               },
               {
                 "line": 11.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 12.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              2.2,
+              1.57
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 2.2,
+                "under": 1.57
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -156,17 +228,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788029215.5402389
+      "last_checked": 1788029796.888381
     },
-    "Albacete Balompié|Real Oviedo": {
-      "home": "Albacete Balompié",
-      "away": "Real Oviedo",
-      "event_id": "10011591",
+    "Stade Brestois 29|Toulouse FC": {
+      "home": "Stade Brestois 29",
+      "away": "Toulouse FC",
+      "event_id": "10002754",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 7.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 8.5,
+                "over": 1.9,
+                "under": 1.77
+              },
+              {
+                "line": 9.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 10.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.98,
+              1.7
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.98,
+                "under": 1.7
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -179,7 +297,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788029244.1457171
+      "last_checked": 1788029819.9055364
     }
   }
 }
