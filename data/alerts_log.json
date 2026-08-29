@@ -1,17 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Boca Juniors - Lanus",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 11.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Boca Juniors - Lanus",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.0 a 2.65 (13.2%)"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Charlotte Independence - Av Alta FC",
     "market": "1X2",
@@ -2998,5 +2986,17 @@
     "match": "Seattle Sounders - Chicago Fire",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.59 a 1.95 (22.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Pacos Ferreira - AD Fafe",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 1.9 a 10.0 (426.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Pacos Ferreira - AD Fafe",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 1.85 a 1.02 (81.4%)"
   }
 ]

@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Sevilla|Atlético de Madrid": {
-      "home": "Sevilla",
-      "away": "Atlético de Madrid",
-      "event_id": "10016376",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788038727.4759388
-    },
     "Seattle Sounders|Chicago Fire": {
       "home": "Seattle Sounders",
       "away": "Chicago Fire",
@@ -30,18 +7,41 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.32,
+              3.1
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.32,
+                "under": 3.1
+              },
+              {
+                "line": 8.5,
+                "over": 1.67,
+                "under": 2.08
+              },
+              {
+                "line": 9.5,
+                "over": 2.28,
+                "under": 1.56
+              }
+            ]
+          },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.73,
-              1.95
+              1.84,
+              1.83
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.73,
-                "under": 1.95
+                "over": 1.84,
+                "under": 1.83
               }
             ]
           }
@@ -57,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788038752.5400274
+      "last_checked": 1788039322.1737251
     },
     "Pacos Ferreira|AD Fafe": {
       "home": "Pacos Ferreira",
@@ -72,8 +72,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.9,
-            1.85
+            10.0,
+            1.02
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -84,7 +84,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788038784.3825915
+      "last_checked": 1788039353.9716976
     },
     "Rosario Central|Gimnasia y Esgrima La Plata": {
       "home": "Rosario Central",
@@ -107,12 +107,58 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788038811.6191542
+      "last_checked": 1788039380.6313004
     },
-    "Guayaquil City FC|LDU Quito": {
-      "home": "Guayaquil City FC",
-      "away": "LDU Quito",
-      "event_id": "10011965",
+    "Atlético Mineiro|EC Vitória": {
+      "home": "Atlético Mineiro",
+      "away": "EC Vitória",
+      "event_id": "10011969",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.62,
+              2.1
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
+                "line": 10.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 11.5,
+                "over": 2.65,
+                "under": 1.4
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788039405.572909
+    },
+    "Botafogo SP|Cuiabá EC": {
+      "home": "Botafogo SP",
+      "away": "Cuiabá EC",
+      "event_id": "10011968",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -130,7 +176,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788038838.278558
+      "last_checked": 1788039432.1894135
     }
   }
 }
