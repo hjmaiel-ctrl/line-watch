@@ -8,7 +8,20 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.55,
+              2.25
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.55,
+                "under": 2.25
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -21,12 +34,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788027949.5540884
+      "last_checked": 1788028528.3188627
     },
-    "Fiorentina|Frosinone": {
-      "home": "Fiorentina",
-      "away": "Frosinone",
-      "event_id": "9999993",
+    "Académico de Viseu|FC Porto": {
+      "home": "Académico de Viseu",
+      "away": "FC Porto",
+      "event_id": "10011595",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +57,68 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788027975.6438804
+      "last_checked": 1788028555.3552792
     },
-    "Monza|Udinese": {
-      "home": "Monza",
-      "away": "Udinese",
-      "event_id": "9999994",
+    "Gazisehir Gaziantep F.K.|Caykur Rizespor": {
+      "home": "Gazisehir Gaziantep F.K.",
+      "away": "Caykur Rizespor",
+      "event_id": "10011810",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 7.5,
+                "over": 1.42,
+                "under": 2.6
+              },
+              {
+                "line": 8.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 9.5,
+                "over": 2.25,
+                "under": 1.55
+              },
+              {
+                "line": 10.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788028580.5573575
+    },
+    "Albacete Balompié|Real Oviedo": {
+      "home": "Albacete Balompié",
+      "away": "Real Oviedo",
+      "event_id": "10011591",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +136,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788028001.7256107
+      "last_checked": 1788028607.3458705
     },
-    "Sassuolo|Torino": {
-      "home": "Sassuolo",
-      "away": "Torino",
-      "event_id": "10002739",
+    "Leganés|CD Eldense": {
+      "home": "Leganés",
+      "away": "CD Eldense",
+      "event_id": "10011592",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,30 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788028027.8350997
-    },
-    "AZ Alkmaar|Go Ahead Eagles": {
-      "home": "AZ Alkmaar",
-      "away": "Go Ahead Eagles",
-      "event_id": "10011587",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788028053.8931386
+      "last_checked": 1788028634.168205
     }
   }
 }

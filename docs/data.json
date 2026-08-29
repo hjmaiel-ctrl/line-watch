@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788028053.939071,
+  "generated_at": 1788028634.2163155,
   "matches": [
     {
       "match": "Real Sociedad - Espanyol",
@@ -8,7 +8,20 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.55,
+              2.25
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.55,
+                "under": 2.25
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -24,7 +37,7 @@
       "alerts": []
     },
     {
-      "match": "Fiorentina - Frosinone",
+      "match": "Académico de Viseu - FC Porto",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -46,7 +59,62 @@
       "alerts": []
     },
     {
-      "match": "Monza - Udinese",
+      "match": "Gazisehir Gaziantep F.K. - Caykur Rizespor",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 7.5,
+                "over": 1.42,
+                "under": 2.6
+              },
+              {
+                "line": 8.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 9.5,
+                "over": 2.25,
+                "under": 1.55
+              },
+              {
+                "line": 10.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Albacete Balompié - Real Oviedo",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -68,29 +136,7 @@
       "alerts": []
     },
     {
-      "match": "Sassuolo - Torino",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "AZ Alkmaar - Go Ahead Eagles",
+      "match": "Leganés - CD Eldense",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
