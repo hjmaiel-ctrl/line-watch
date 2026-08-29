@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 11.5,
             "odds": [
-              1.38,
-              2.7
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
                 "line": 11.5,
-                "over": 1.73,
-                "under": 1.95
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 12.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 13.5,
+                "over": 2.35,
+                "under": 1.5
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787965550.0895839
+      "last_checked": 1787966167.790883
     },
     "Clube Náutico Capibaribe|Athletic Club MG": {
       "home": "Clube Náutico Capibaribe",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787965576.8274808
+      "last_checked": 1787966194.4964275
     },
     "Gremio Novorizontino|Sport Club do Recife": {
       "home": "Gremio Novorizontino",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787965603.297823
+      "last_checked": 1787966221.229563
     },
     "Club Deportivo Técnico Universitario|Deportivo Cuenca": {
       "home": "Club Deportivo Técnico Universitario",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787965630.0428572
+      "last_checked": 1787966248.1164856
     },
     "Unión Magdalena|Deportes Quindío": {
       "home": "Unión Magdalena",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787965656.5226176
+      "last_checked": 1787966274.8275645
     }
   }
 }
