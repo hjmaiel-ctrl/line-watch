@@ -1,47 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Mito Hollyhock - Machida Zelvia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.9 a 2.85 (36.8%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Mito Hollyhock - Machida Zelvia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 6.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Mito Hollyhock - Machida Zelvia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.35 a 1.25 (8.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Mito Hollyhock - Machida Zelvia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.85 a 3.45 (21.1%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Gamba Osaka - Sanfrecce Hiroshima",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 10.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Gamba Osaka - Sanfrecce Hiroshima",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.5 a 3.9 (11.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Mito Hollyhock - Machida Zelvia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 5.5"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Gamba Osaka - Sanfrecce Hiroshima",
     "market": "CORNERS_OU",
@@ -2998,5 +2956,47 @@
     "match": "São Paulo - Red Bull Bragantino",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.45 a 2.85 (16.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "DC United - Los Angeles",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Inter Miami CF - CF Montreal",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Inter Miami CF - CF Montreal",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.14 a 1.62 (32.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Inter Miami CF - CF Montreal",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.61 a 2.12 (31.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "New York Red Bulls - Philadelphia Union",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "New York Red Bulls - Philadelphia Union",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.06 a 2.24 (8.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Toronto - New York City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 10.5"
   }
 ]
