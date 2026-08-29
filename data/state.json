@@ -1,78 +1,5 @@
 {
   "matches": {
-    "Adelaide Olympic Reserve|The Cove FC Reserves": {
-      "home": "Adelaide Olympic Reserve",
-      "away": "The Cove FC Reserves",
-      "event_id": "10010864",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787979336.7907698
-    },
-    "Club Tijuana|Pumas UNAM": {
-      "home": "Club Tijuana",
-      "away": "Pumas UNAM",
-      "event_id": "10010866",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            15.0,
-            44.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787979368.6976225
-    },
-    "Campbelltown City Reserve|Adelaide Utd Reserves": {
-      "home": "Campbelltown City Reserve",
-      "away": "Adelaide Utd Reserves",
-      "event_id": "10010869",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787979395.9118903
-    },
     "Queanbeyan City FC|Tuggeranong United FC": {
       "home": "Queanbeyan City FC",
       "away": "Tuggeranong United FC",
@@ -84,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            3.65,
+            1.75
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -94,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787979422.871138
+      "last_checked": 1787979946.9800825
     },
     "Marist FC|GHUPO": {
       "home": "Marist FC",
@@ -117,7 +48,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787979449.7133398
+      "last_checked": 1787979973.7662892
+    },
+    "Wellington Phoenix Reserves|Upper Hutt City Football": {
+      "home": "Wellington Phoenix Reserves",
+      "away": "Upper Hutt City Football",
+      "event_id": "10010872",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787980000.4050486
+    },
+    "Kahibah|New Lambton": {
+      "home": "Kahibah",
+      "away": "New Lambton",
+      "event_id": "10010873",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787980027.0747914
+    },
+    "South Hobart|Kingborough Lions Utd": {
+      "home": "South Hobart",
+      "away": "Kingborough Lions Utd",
+      "event_id": "10010874",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787980054.0453146
     }
   }
 }
