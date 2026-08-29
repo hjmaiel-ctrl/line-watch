@@ -3,24 +3,6 @@
     "type": "linea_cambiata",
     "match": "Boca Juniors - Lanus",
     "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 11.5 a 10.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Boca Juniors - Lanus",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.5 a 1.38 (8.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Boca Juniors - Lanus",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.35 a 2.7 (14.9%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Boca Juniors - Lanus",
-    "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 10.5 a 11.5"
   },
   {
@@ -2998,5 +2980,23 @@
     "match": "Seattle Sounders - Chicago Fire",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.85 a 1.59 (16.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Seattle Sounders - Chicago Fire",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Seattle Sounders - Chicago Fire",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.16 a 1.73 (24.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Seattle Sounders - Chicago Fire",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.59 a 1.95 (22.6%)"
   }
 ]
