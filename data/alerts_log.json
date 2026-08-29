@@ -2812,5 +2812,41 @@
     "match": "Union Berlin - Eintracht Frankfurt",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.51 a 2.18 (44.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "AFC Bournemouth - Everton",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 11.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AFC Bournemouth - Everton",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.38 a 1.2 (15.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AFC Bournemouth - Everton",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.7 a 3.9 (44.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Mainz - Paderborn",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 11.5 a 12.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Union Berlin - Eintracht Frankfurt",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.58 a 1.83 (15.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Union Berlin - Eintracht Frankfurt",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.18 a 1.84 (18.5%)"
   }
 ]
