@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788008227.4630623,
+  "generated_at": 1788008853.5079396,
   "matches": [
     {
       "match": "Liverpool - Nottingham Forest",
@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.3,
-              3.1
+              1.2,
+              3.75
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.3,
-                "under": 3.1
+                "line": 8.5,
+                "over": 1.2,
+                "under": 3.75
               },
               {
-                "line": 10.5,
+                "line": 9.5,
                 "over": 1.65,
                 "under": 2.05
               },
               {
+                "line": 10.5,
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
                 "line": 11.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 3.75,
+                "under": 1.2
               },
               {
                 "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 13.5,
-                "over": 5.0,
-                "under": 1.12
+                "over": 5.75,
+                "under": 1.09
               }
             ]
           },
           "CARDS_OU": {
-            "line": 5.5,
+            "line": 6.5,
             "odds": [
-              1.57,
-              2.2
+              1.92,
+              1.75
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.57,
-                "under": 2.2
+                "line": 6.5,
+                "over": 1.92,
+                "under": 1.75
               }
             ]
           }
@@ -72,25 +72,37 @@
           "type": "linea_cambiata",
           "match": "Liverpool - Nottingham Forest",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 9.5"
+          "detail": "bet9ja: linea passata da 9.5 a 8.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Liverpool - Nottingham Forest",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.45 a 3.1 (11.3%)"
+          "detail": "bet9ja: esito #1 passato da 1.3 a 1.2 (8.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Liverpool - Nottingham Forest",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.1 a 3.75 (21.0%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Liverpool - Nottingham Forest",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 5.5 a 6.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Liverpool - Nottingham Forest",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.9 a 1.57 (21.0%)"
+          "detail": "bet9ja: esito #1 passato da 1.57 a 1.92 (22.3%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Liverpool - Nottingham Forest",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.78 a 2.2 (23.6%)"
+          "detail": "bet9ja: esito #2 passato da 2.2 a 1.75 (25.7%)"
         }
       ]
     },
@@ -101,102 +113,53 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 5.5,
             "odds": [
-              1.02,
-              9.0
+              1.2,
+              3.75
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.02,
-                "under": 9.0
-              },
-              {
                 "line": 5.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.2,
+                "under": 3.75
               },
               {
                 "line": 6.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 7.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 8.5,
                 "over": 5.5,
                 "under": 1.1
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Wolverhampton Wanderers - Stoke City",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 5.75 a 9.0 (56.5%)"
-        }
-      ]
-    },
-    {
-      "match": "Derby County - Swansea City",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 8.5,
-                "over": 1.6,
-                "under": 2.15
               },
               {
                 "line": 9.5,
-                "over": 2.3,
-                "under": 1.52
-              },
-              {
-                "line": 10.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 11.5,
-                "over": 6.0,
-                "under": 1.08
+                "over": 9.0,
+                "under": 1.02
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.65,
+              2.05
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.65,
+                "under": 2.05
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -212,9 +175,117 @@
       "alerts": [
         {
           "type": "linea_cambiata",
+          "match": "Wolverhampton Wanderers - Stoke City",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 4.5 a 5.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Wolverhampton Wanderers - Stoke City",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.02 a 1.2 (17.6%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Wolverhampton Wanderers - Stoke City",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 9.0 a 3.75 (140.0%)"
+        }
+      ]
+    },
+    {
+      "match": "Derby County - Swansea City",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.15,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
+                "line": 10.5,
+                "over": 1.6,
+                "under": 2.15
+              },
+              {
+                "line": 11.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 12.5,
+                "over": 4.1,
+                "under": 1.18
+              },
+              {
+                "line": 13.5,
+                "over": 6.75,
+                "under": 1.06
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            80.0,
+            24.0
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.18
+            ]
+          },
+          "CARDS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              4.0
+            ]
+          }
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_differente",
           "match": "Derby County - Swansea City",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 7.5"
+          "detail": "bet9ja=1.15 vs sportybet=2.4 (esito #1, differenza 108.7%)"
+        },
+        {
+          "type": "quota_differente",
+          "match": "Derby County - Swansea City",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja=4.5 vs sportybet=1.18 (esito #2, differenza 281.4%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Derby County - Swansea City",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 7.5 a 9.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Derby County - Swansea City",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.65 a 4.5 (23.3%)"
         }
       ]
     },
@@ -224,7 +295,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.2,
+              4.0
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.2,
+                "under": 4.0
+              },
+              {
+                "line": 12.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 13.5,
+                "over": 3.45,
+                "under": 1.25
+              },
+              {
+                "line": 14.5,
+                "over": 6.5,
+                "under": 1.07
+              },
+              {
+                "line": 15.5,
+                "over": 10.0,
+                "under": 1.01
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -263,5 +367,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 6
+  "alert_count_this_run": 13
 }
