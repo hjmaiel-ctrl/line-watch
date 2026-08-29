@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Tigres de Álica FC|Zacatepec F.C.": {
-      "home": "Tigres de Álica FC",
-      "away": "Zacatepec F.C.",
-      "event_id": "10010850",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787977543.7870572
-    },
     "Fencibles United AFC|Western Springs AFC": {
       "home": "Fencibles United AFC",
       "away": "Western Springs AFC",
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787977570.534561
+      "last_checked": 1787978128.8757753
     },
     "Tauranga City United AFC|Manukau United": {
       "home": "Tauranga City United AFC",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787977597.2793353
+      "last_checked": 1787978155.720998
     },
     "Eastern Suburbs Auckland AFC|Auckland FC II": {
       "home": "Eastern Suburbs Auckland AFC",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787977624.4147472
+      "last_checked": 1787978182.670028
     },
     "Melville United AFC|Auckland City": {
       "home": "Melville United AFC",
@@ -113,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787977651.3244605
+      "last_checked": 1787978209.5634615
+    },
+    "East Coast Bays|Auckland United": {
+      "home": "East Coast Bays",
+      "away": "Auckland United",
+      "event_id": "10010863",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787978236.4334373
     }
   }
 }

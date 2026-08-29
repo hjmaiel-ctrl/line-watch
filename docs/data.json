@@ -1,28 +1,6 @@
 {
-  "generated_at": 1787977651.3714898,
+  "generated_at": 1787978236.4757357,
   "matches": [
-    {
-      "match": "Tigres de Álica FC - Zacatepec F.C.",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Fencibles United AFC - Western Springs AFC",
       "bet9ja_stats": null,
@@ -91,6 +69,28 @@
     },
     {
       "match": "Melville United AFC - Auckland City",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "East Coast Bays - Auckland United",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
