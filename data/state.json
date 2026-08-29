@@ -10,68 +10,22 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.35,
-              2.75
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.35,
-                "under": 2.75
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 9.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 1.8,
+                "under": 1.87
               },
               {
                 "line": 10.5,
-                "over": 2.6,
-                "under": 1.42
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788042928.9668806
-    },
-    "CA Huracan|Estudiantes Río Cuarto": {
-      "home": "CA Huracan",
-      "away": "Estudiantes Río Cuarto",
-      "event_id": "10011985",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.47,
-              2.45
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 7.5,
-                "over": 1.92,
-                "under": 1.75
-              },
-              {
-                "line": 8.5,
                 "over": 2.65,
                 "under": 1.4
               }
@@ -90,7 +44,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788042953.9484885
+      "last_checked": 1788043524.3493903
+    },
+    "CA Huracan|Estudiantes Río Cuarto": {
+      "home": "CA Huracan",
+      "away": "Estudiantes Río Cuarto",
+      "event_id": "10011985",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.38,
+              2.7
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 7.5,
+                "over": 1.82,
+                "under": 1.85
+              },
+              {
+                "line": 8.5,
+                "over": 2.6,
+                "under": 1.42
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788043549.4583352
     },
     "Botafogo SP|Cuiabá EC": {
       "home": "Botafogo SP",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788042980.62881
+      "last_checked": 1788043576.312791
     },
     "Deportes Limache|Everton de Viña del Mar": {
       "home": "Deportes Limache",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788043007.520764
+      "last_checked": 1788043603.2241142
     },
     "Guayaquil City FC|LDU Quito": {
       "home": "Guayaquil City FC",
@@ -159,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788043034.1109443
+      "last_checked": 1788043630.1468291
     }
   }
 }

@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Marist FC - GHUPO",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 2.15 a 3.9 (81.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Playford City - Adelaide City",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 28.0 a 55.0 (96.4%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Playford City - Adelaide City",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 4.7 a 5.4 (14.9%)"
@@ -2998,5 +2986,17 @@
     "match": "Seattle Sounders - Chicago Fire",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 9.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atlético Mineiro - EC Vitória",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.75 a 3.0 (9.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "CA Huracan - Estudiantes Río Cuarto",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.45 a 2.7 (10.2%)"
   }
 ]

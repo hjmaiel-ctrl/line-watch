@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788043034.1465328,
+  "generated_at": 1788043630.1929798,
   "matches": [
     {
       "match": "Atlético Mineiro - EC Vitória",
@@ -10,67 +10,22 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.35,
-              2.75
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.35,
-                "under": 2.75
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 9.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 1.8,
+                "under": 1.87
               },
               {
                 "line": 10.5,
-                "over": 2.6,
-                "under": 1.42
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "CA Huracan - Estudiantes Río Cuarto",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.47,
-              2.45
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 7.5,
-                "over": 1.92,
-                "under": 1.75
-              },
-              {
-                "line": 8.5,
                 "over": 2.65,
                 "under": 1.4
               }
@@ -89,7 +44,66 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Atlético Mineiro - EC Vitória",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.75 a 3.0 (9.1%)"
+        }
+      ]
+    },
+    {
+      "match": "CA Huracan - Estudiantes Río Cuarto",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.38,
+              2.7
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 7.5,
+                "over": 1.82,
+                "under": 1.85
+              },
+              {
+                "line": 8.5,
+                "over": 2.6,
+                "under": 1.42
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "CA Huracan - Estudiantes Río Cuarto",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.45 a 2.7 (10.2%)"
+        }
+      ]
     },
     {
       "match": "Botafogo SP - Cuiabá EC",
@@ -158,5 +172,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
