@@ -1,36 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "ACF Zapotlanejo - Guerreros de Autlan",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 3.7 a 9.0 (143.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Queanbeyan City FC - Tuggeranong United FC",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 3.65 a 25.0 (584.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Queanbeyan City FC - Tuggeranong United FC",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 1.75 a 4.1 (134.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Queanbeyan City FC - Tuggeranong United FC",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 25.0 a 50.0 (100.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Queanbeyan City FC - Tuggeranong United FC",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 4.1 a 6.5 (58.5%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Marist FC - GHUPO",
     "market": "1X2",
     "detail": "sportybet: esito #2 passato da 2.2 a 1.26 (74.6%)"
@@ -2998,5 +2968,35 @@
     "match": "Atlético Mineiro - EC Vitória",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.35 a 2.1 (11.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Seattle Sounders - Chicago Fire",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Seattle Sounders - Chicago Fire",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.23 a 1.54 (25.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Seattle Sounders - Chicago Fire",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 2.26 (61.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Seattle Sounders - Chicago Fire",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.54 a 2.02 (31.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Seattle Sounders - Chicago Fire",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.28 a 1.65 (38.2%)"
   }
 ]
