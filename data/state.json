@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 10.5,
             "odds": [
-              1.5,
-              2.35
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
+                "line": 10.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
                 "line": 11.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.73,
+                "under": 1.95
               },
               {
                 "line": 12.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
-                "line": 13.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.3,
+                "under": 1.52
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787964915.8484287
+      "last_checked": 1787965550.0895839
     },
     "Clube Náutico Capibaribe|Athletic Club MG": {
       "home": "Clube Náutico Capibaribe",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787964942.4322073
+      "last_checked": 1787965576.8274808
     },
     "Gremio Novorizontino|Sport Club do Recife": {
       "home": "Gremio Novorizontino",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787964968.9138644
+      "last_checked": 1787965603.297823
     },
     "Club Deportivo Técnico Universitario|Deportivo Cuenca": {
       "home": "Club Deportivo Técnico Universitario",
@@ -113,12 +113,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787964995.596986
+      "last_checked": 1787965630.0428572
     },
-    "Atletico Ottawa|Inter Toronto FC": {
-      "home": "Atletico Ottawa",
-      "away": "Inter Toronto FC",
-      "event_id": "10010799",
+    "Unión Magdalena|Deportes Quindío": {
+      "home": "Unión Magdalena",
+      "away": "Deportes Quindío",
+      "event_id": "10010840",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787965022.1845345
+      "last_checked": 1787965656.5226176
     }
   }
 }
