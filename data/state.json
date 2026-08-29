@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787991933.7348711
+      "last_checked": 1787992532.1691954
     },
     "Southern District RSA|Kowloon City": {
       "home": "Southern District RSA",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787991960.5279844
+      "last_checked": 1787992558.97231
     },
     "North District|Kitchee": {
       "home": "North District",
@@ -67,30 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787991987.0320792
-    },
-    "Broadmeadow Magic|Weston Workers": {
-      "home": "Broadmeadow Magic",
-      "away": "Weston Workers",
-      "event_id": "10010902",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787992019.0504973
+      "last_checked": 1787992585.843084
     },
     "Hills Utd Brumbies|Mariners Academy": {
       "home": "Hills Utd Brumbies",
@@ -113,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787992045.6551769
+      "last_checked": 1787992612.7459536
+    },
+    "Bankstown Berries|Macarthur": {
+      "home": "Bankstown Berries",
+      "away": "Macarthur",
+      "event_id": "10010911",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787992639.6767132
     }
   }
 }
