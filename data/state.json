@@ -1,32 +1,5 @@
 {
   "matches": {
-    "Queanbeyan City FC|Tuggeranong United FC": {
-      "home": "Queanbeyan City FC",
-      "away": "Tuggeranong United FC",
-      "event_id": "10010870",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            50.0,
-            6.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787981146.140776
-    },
     "Marist FC|GHUPO": {
       "home": "Marist FC",
       "away": "GHUPO",
@@ -38,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            2.2,
+            2.8
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -48,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787981172.7702136
+      "last_checked": 1787981744.2760918
     },
     "Wellington Phoenix Reserves|Upper Hutt City Football": {
       "home": "Wellington Phoenix Reserves",
@@ -71,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787981199.5266466
+      "last_checked": 1787981770.964724
     },
     "Kahibah|New Lambton": {
       "home": "Kahibah",
@@ -94,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787981226.6255627
+      "last_checked": 1787981797.6861928
     },
     "South Hobart|Kingborough Lions Utd": {
       "home": "South Hobart",
@@ -117,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787981253.4026775
+      "last_checked": 1787981824.3923385
+    },
+    "Avondale|Hume City": {
+      "home": "Avondale",
+      "away": "Hume City",
+      "event_id": "10010878",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787981851.1702483
     }
   }
 }

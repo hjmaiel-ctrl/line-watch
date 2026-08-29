@@ -1,45 +1,6 @@
 {
-  "generated_at": 1787981253.4367137,
+  "generated_at": 1787981851.2086244,
   "matches": [
-    {
-      "match": "Queanbeyan City FC - Tuggeranong United FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            50.0,
-            6.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Queanbeyan City FC - Tuggeranong United FC",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 25.0 a 50.0 (100.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Queanbeyan City FC - Tuggeranong United FC",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 4.1 a 6.5 (58.5%)"
-        }
-      ]
-    },
     {
       "match": "Marist FC - GHUPO",
       "bet9ja_stats": null,
@@ -50,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            2.2,
+            2.8
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -127,7 +92,29 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Avondale - Hume City",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
