@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787998644.1039448,
+  "generated_at": 1787999225.724579,
   "matches": [
     {
       "match": "Portimonense - Leixões",
@@ -52,36 +52,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              1.18,
-              4.1
+              1.11,
+              5.25
             ],
             "_all_lines": [
               {
+                "line": 3.5,
+                "over": 1.11,
+                "under": 5.25
+              },
+              {
                 "line": 4.5,
-                "over": 1.18,
-                "under": 4.1
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 5.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 6.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 7.5,
                 "over": 3.25,
                 "under": 1.28
               },
               {
-                "line": 8.5,
-                "over": 5.0,
-                "under": 1.12
+                "line": 7.5,
+                "over": 5.25,
+                "under": 1.11
               }
             ]
           },
@@ -100,10 +100,16 @@
       },
       "alerts": [
         {
+          "type": "linea_cambiata",
+          "match": "Mito Hollyhock - Machida Zelvia",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 4.5 a 3.5"
+        },
+        {
           "type": "quota_cambiata",
           "match": "Mito Hollyhock - Machida Zelvia",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.5 a 4.1 (9.8%)"
+          "detail": "bet9ja: esito #2 passato da 4.1 a 5.25 (28.0%)"
         }
       ]
     },
@@ -114,36 +120,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 9.5,
             "odds": [
-              1.22,
-              3.65
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
+                "line": 9.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
                 "line": 10.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 11.5,
-                "over": 1.57,
-                "under": 2.15
-              },
-              {
-                "line": 12.5,
                 "over": 2.25,
                 "under": 1.55
               },
               {
-                "line": 13.5,
-                "over": 3.45,
-                "under": 1.25
+                "line": 12.5,
+                "over": 3.65,
+                "under": 1.22
               },
               {
-                "line": 14.5,
-                "over": 5.5,
-                "under": 1.1
+                "line": 13.5,
+                "over": 6.0,
+                "under": 1.08
               }
             ]
           },
@@ -165,7 +171,13 @@
           "type": "linea_cambiata",
           "match": "Gamba Osaka - Sanfrecce Hiroshima",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 10.5"
+          "detail": "bet9ja: linea passata da 10.5 a 9.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Gamba Osaka - Sanfrecce Hiroshima",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.65 a 4.5 (23.3%)"
         }
       ]
     },
@@ -178,34 +190,34 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.15,
-              4.5
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.15,
-                "under": 4.5
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 8.5,
-                "over": 1.65,
-                "under": 2.0
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 9.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 10.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 4.5,
+                "under": 1.15
               }
             ]
           },
@@ -222,8 +234,21 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "V-Varen Nagasaki - FC Tokyo",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.15 a 1.25 (8.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "V-Varen Nagasaki - FC Tokyo",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.5 a 3.45 (30.4%)"
+        }
+      ]
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 6
 }

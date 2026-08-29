@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787998541.6237276
+      "last_checked": 1787999123.755958
     },
     "UD Oliveirense|Penalva Do Castelo": {
       "home": "UD Oliveirense",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787998568.4429686
+      "last_checked": 1787999150.4475372
     },
     "Mito Hollyhock|Machida Zelvia": {
       "home": "Mito Hollyhock",
@@ -54,36 +54,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              1.18,
-              4.1
+              1.11,
+              5.25
             ],
             "_all_lines": [
               {
+                "line": 3.5,
+                "over": 1.11,
+                "under": 5.25
+              },
+              {
                 "line": 4.5,
-                "over": 1.18,
-                "under": 4.1
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 5.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 6.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 7.5,
                 "over": 3.25,
                 "under": 1.28
               },
               {
-                "line": 8.5,
-                "over": 5.0,
-                "under": 1.12
+                "line": 7.5,
+                "over": 5.25,
+                "under": 1.11
               }
             ]
           },
@@ -100,7 +100,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787998593.6291947
+      "last_checked": 1787999175.4583094
     },
     "Gamba Osaka|Sanfrecce Hiroshima": {
       "home": "Gamba Osaka",
@@ -110,36 +110,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 9.5,
             "odds": [
-              1.22,
-              3.65
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
+                "line": 9.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
                 "line": 10.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 11.5,
-                "over": 1.57,
-                "under": 2.15
-              },
-              {
-                "line": 12.5,
                 "over": 2.25,
                 "under": 1.55
               },
               {
-                "line": 13.5,
-                "over": 3.45,
-                "under": 1.25
+                "line": 12.5,
+                "over": 3.65,
+                "under": 1.22
               },
               {
-                "line": 14.5,
-                "over": 5.5,
-                "under": 1.1
+                "line": 13.5,
+                "over": 6.0,
+                "under": 1.08
               }
             ]
           },
@@ -156,7 +156,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787998618.8841085
+      "last_checked": 1787999200.7353373
     },
     "V-Varen Nagasaki|FC Tokyo": {
       "home": "V-Varen Nagasaki",
@@ -168,34 +168,34 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.15,
-              4.5
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.15,
-                "under": 4.5
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 8.5,
-                "over": 1.65,
-                "under": 2.0
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 9.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 10.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 4.5,
+                "under": 1.15
               }
             ]
           },
@@ -212,7 +212,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787998644.0560758
+      "last_checked": 1787999225.6783218
     }
   }
 }
