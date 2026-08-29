@@ -1,28 +1,5 @@
 {
   "matches": {
-    "CSD Dorados de Sinaloa|Club Atletico Morelia": {
-      "home": "CSD Dorados de Sinaloa",
-      "away": "Club Atletico Morelia",
-      "event_id": "10010838",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787976950.6713657
-    },
     "Tigres de Álica FC|Zacatepec F.C.": {
       "home": "Tigres de Álica FC",
       "away": "Zacatepec F.C.",
@@ -44,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787976977.6797695
+      "last_checked": 1787977543.7870572
     },
-    "Petone FC|Island Bay United": {
-      "home": "Petone FC",
-      "away": "Island Bay United",
-      "event_id": "10010851",
+    "Fencibles United AFC|Western Springs AFC": {
+      "home": "Fencibles United AFC",
+      "away": "Western Springs AFC",
+      "event_id": "10010858",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787977004.7282257
+      "last_checked": 1787977570.534561
     },
-    "Heidelberg United FC|Bentleigh Greens SC": {
-      "home": "Heidelberg United FC",
-      "away": "Bentleigh Greens SC",
-      "event_id": "10010853",
+    "Tauranga City United AFC|Manukau United": {
+      "home": "Tauranga City United AFC",
+      "away": "Manukau United",
+      "event_id": "10010859",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787977032.0144784
+      "last_checked": 1787977597.2793353
     },
-    "Caroline Springs George Cross FC|South Melbourne FC": {
-      "home": "Caroline Springs George Cross FC",
-      "away": "South Melbourne FC",
-      "event_id": "10010855",
+    "Eastern Suburbs Auckland AFC|Auckland FC II": {
+      "home": "Eastern Suburbs Auckland AFC",
+      "away": "Auckland FC II",
+      "event_id": "10010860",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787977058.7906678
+      "last_checked": 1787977624.4147472
+    },
+    "Melville United AFC|Auckland City": {
+      "home": "Melville United AFC",
+      "away": "Auckland City",
+      "event_id": "10010861",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787977651.3244605
     }
   }
 }
