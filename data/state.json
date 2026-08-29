@@ -1,13 +1,36 @@
 {
   "matches": {
-    "Goiás EC|São Bernardo FC": {
-      "home": "Goiás EC",
-      "away": "São Bernardo FC",
-      "event_id": "10010797",
+    "Boca Juniors|Lanus": {
+      "home": "Boca Juniors",
+      "away": "Lanus",
+      "event_id": "10010834",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.47,
+              2.45
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 9.5,
+                "over": 1.8,
+                "under": 1.87
+              },
+              {
+                "line": 10.5,
+                "over": 2.25,
+                "under": 1.55
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -21,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787963132.9387581
+      "last_checked": 1787963727.5672781
     },
     "Clube Náutico Capibaribe|Athletic Club MG": {
       "home": "Clube Náutico Capibaribe",
@@ -44,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787963159.516033
+      "last_checked": 1787963755.0021515
     },
     "Gremio Novorizontino|Sport Club do Recife": {
       "home": "Gremio Novorizontino",
@@ -67,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787963186.160921
+      "last_checked": 1787963782.8546252
     },
     "Club Deportivo Técnico Universitario|Deportivo Cuenca": {
       "home": "Club Deportivo Técnico Universitario",
@@ -90,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787963212.791492
+      "last_checked": 1787963816.4732904
     },
     "Atletico Ottawa|Inter Toronto FC": {
       "home": "Atletico Ottawa",
@@ -113,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787963239.4683352
+      "last_checked": 1787963843.5653083
     }
   }
 }

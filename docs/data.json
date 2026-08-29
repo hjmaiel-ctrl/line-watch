@@ -1,13 +1,36 @@
 {
-  "generated_at": 1787963239.5168993,
+  "generated_at": 1787963843.6155922,
   "matches": [
     {
-      "match": "Goiás EC - São Bernardo FC",
+      "match": "Boca Juniors - Lanus",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.47,
+              2.45
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 9.5,
+                "over": 1.8,
+                "under": 1.87
+              },
+              {
+                "line": 10.5,
+                "over": 2.25,
+                "under": 1.55
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
