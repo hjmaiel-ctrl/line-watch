@@ -1930,5 +1930,17 @@
     "match": "V-Varen Nagasaki - FC Tokyo",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 5.0 a 4.5 (11.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "V-Varen Nagasaki - FC Tokyo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "V-Varen Nagasaki - FC Tokyo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.5 a 5.0 (11.1%)"
   }
 ]
