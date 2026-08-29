@@ -1576,5 +1576,17 @@
     "match": "Tauro FC - CA Independiente",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 4.8 a 13.0 (170.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "ACF Zapotlanejo - Guerreros de Autlan",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 1.4 a 1.02 (37.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "ACF Zapotlanejo - Guerreros de Autlan",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 3.7 a 9.0 (143.2%)"
   }
 ]

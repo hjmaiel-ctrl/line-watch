@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787974062.3069315,
+  "generated_at": 1787974673.2920752,
   "matches": [
     {
       "match": "Atlante - Club León",
@@ -101,8 +101,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.4,
-            3.7
+            1.02,
+            9.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -113,8 +113,21 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "ACF Zapotlanejo - Guerreros de Autlan",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 1.4 a 1.02 (37.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "ACF Zapotlanejo - Guerreros de Autlan",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 3.7 a 9.0 (143.2%)"
+        }
+      ]
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
