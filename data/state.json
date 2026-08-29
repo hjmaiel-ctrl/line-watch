@@ -8,36 +8,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 7.5,
             "odds": [
-              1.2,
-              3.9
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
-                "line": 6.5,
-                "over": 1.4,
-                "under": 2.65
-              },
-              {
                 "line": 7.5,
-                "over": 1.73,
-                "under": 1.95
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 8.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 9.5,
+                "over": 2.2,
+                "under": 1.57
+              },
+              {
+                "line": 10.5,
                 "over": 3.1,
                 "under": 1.3
+              },
+              {
+                "line": 11.5,
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
@@ -54,7 +54,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787994939.6382287
+      "last_checked": 1787995541.6738122
     },
     "Gamba Osaka|Sanfrecce Hiroshima": {
       "home": "Gamba Osaka",
@@ -66,29 +66,29 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.28,
-              3.25
+              1.22,
+              3.5
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.22,
+                "under": 3.5
               },
               {
                 "line": 9.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.52,
+                "under": 2.3
               },
               {
                 "line": 10.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.95,
+                "under": 1.73
               },
               {
                 "line": 11.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 2.7,
+                "under": 1.38
               },
               {
                 "line": 12.5,
@@ -110,7 +110,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787994964.9559808
+      "last_checked": 1787995566.7859287
     },
     "Cadiz B|Club Atletico Central": {
       "home": "Cadiz B",
@@ -133,7 +133,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787994991.8399472
+      "last_checked": 1787995593.6881886
     },
     "Illescas|Pozuelo de Alarcon": {
       "home": "Illescas",
@@ -156,7 +156,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787995019.2839234
+      "last_checked": 1787995620.4628148
     },
     "Gimnastica Segoviana CF|Real Madrid C": {
       "home": "Gimnastica Segoviana CF",
@@ -179,7 +179,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787995046.1452363
+      "last_checked": 1787995647.1762404
     }
   }
 }
