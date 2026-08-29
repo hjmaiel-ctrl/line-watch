@@ -1,24 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Gamba Osaka - Sanfrecce Hiroshima",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.85 a 3.25 (14.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Mito Hollyhock - Machida Zelvia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Mito Hollyhock - Machida Zelvia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.2 a 1.35 (12.5%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Mito Hollyhock - Machida Zelvia",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.9 a 2.85 (36.8%)"
@@ -2998,5 +2980,23 @@
     "match": "CA Huracan - Estudiantes Río Cuarto",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.25 a 2.6 (15.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "São Paulo - Red Bull Bragantino",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "São Paulo - Red Bull Bragantino",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.47 a 1.35 (8.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "São Paulo - Red Bull Bragantino",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.45 a 2.85 (16.3%)"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788046035.1876225,
+  "generated_at": 1788046637.063363,
   "matches": [
     {
       "match": "CA Huracan - Estudiantes Río Cuarto",
@@ -7,7 +7,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.12,
+              5.0
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.12,
+                "under": 5.0
+              },
+              {
+                "line": 8.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 9.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -30,26 +53,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.47,
-              2.45
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
                 "line": 8.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 9.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 10.5,
+                "over": 2.1,
+                "under": 1.62
               }
             ]
           },
@@ -66,10 +89,29 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "São Paulo - Red Bull Bragantino",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 7.5 a 8.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "São Paulo - Red Bull Bragantino",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.47 a 1.35 (8.9%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "São Paulo - Red Bull Bragantino",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.45 a 2.85 (16.3%)"
+        }
+      ]
     },
     {
-      "match": "Botafogo SP - Cuiabá EC",
+      "match": "Junior - Santa Fe",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -91,7 +133,7 @@
       "alerts": []
     },
     {
-      "match": "Jaguares de Córdoba - América de Cali",
+      "match": "Real Cartagena - Tigres",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -113,7 +155,7 @@
       "alerts": []
     },
     {
-      "match": "Recoleta FC - Club Olimpia",
+      "match": "Real Refineros - Artesanos Metepec F.C.",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -135,5 +177,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 3
 }

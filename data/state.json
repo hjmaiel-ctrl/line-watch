@@ -7,50 +7,27 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788045930.5860338
-    },
-    "São Paulo|Red Bull Bragantino": {
-      "home": "São Paulo",
-      "away": "Red Bull Bragantino",
-      "event_id": "10017215",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.47,
-              2.45
+              1.12,
+              5.0
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.12,
+                "under": 5.0
               },
               {
                 "line": 8.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 9.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -67,12 +44,58 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788045955.408128
+      "last_checked": 1788046531.2712798
     },
-    "Botafogo SP|Cuiabá EC": {
-      "home": "Botafogo SP",
-      "away": "Cuiabá EC",
-      "event_id": "10011968",
+    "São Paulo|Red Bull Bragantino": {
+      "home": "São Paulo",
+      "away": "Red Bull Bragantino",
+      "event_id": "10017215",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 9.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 10.5,
+                "over": 2.1,
+                "under": 1.62
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788046556.427466
+    },
+    "Junior|Santa Fe": {
+      "home": "Junior",
+      "away": "Santa Fe",
+      "event_id": "10017240",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +113,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788045981.9337025
+      "last_checked": 1788046583.239674
     },
-    "Jaguares de Córdoba|América de Cali": {
-      "home": "Jaguares de Córdoba",
-      "away": "América de Cali",
-      "event_id": "10011967",
+    "Real Cartagena|Tigres": {
+      "home": "Real Cartagena",
+      "away": "Tigres",
+      "event_id": "10011989",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,12 +136,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788046008.6318095
+      "last_checked": 1788046610.192452
     },
-    "Recoleta FC|Club Olimpia": {
-      "home": "Recoleta FC",
-      "away": "Club Olimpia",
-      "event_id": "10011973",
+    "Real Refineros|Artesanos Metepec F.C.": {
+      "home": "Real Refineros",
+      "away": "Artesanos Metepec F.C.",
+      "event_id": "10011982",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -136,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788046035.1378233
+      "last_checked": 1788046637.0163198
     }
   }
 }
