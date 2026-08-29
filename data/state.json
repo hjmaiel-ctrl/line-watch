@@ -10,241 +10,34 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.2,
-              3.9
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.2,
-                "under": 3.9
+                "over": 1.18,
+                "under": 4.1
               },
               {
                 "line": 6.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 7.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 8.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 9.5,
                 "over": 3.1,
                 "under": 1.3
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.98,
-              1.7
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.98,
-                "under": 1.7
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788032708.8712277
-    },
-    "Juventus|Parma": {
-      "home": "Juventus",
-      "away": "Parma",
-      "event_id": "10002753",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.2,
-              3.9
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
-                "line": 10.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 11.5,
-                "over": 1.92,
-                "under": 1.75
-              },
-              {
-                "line": 12.5,
-                "over": 2.65,
-                "under": 1.4
-              },
-              {
-                "line": 13.5,
-                "over": 3.9,
-                "under": 1.2
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              2.25,
-              1.55
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 2.25,
-                "under": 1.55
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788032732.096028
-    },
-    "AJ Auxerre|Angers SCO": {
-      "home": "AJ Auxerre",
-      "away": "Angers SCO",
-      "event_id": "9999935",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.25,
-              3.45
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 12.5,
-                "over": 1.55,
-                "under": 2.25
-              },
-              {
-                "line": 13.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 14.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 15.5,
-                "over": 4.25,
-                "under": 1.17
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.78,
-              1.9
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.78,
-                "under": 1.9
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788032755.6098845
-    },
-    "Olympique Lyonnais|Le Havre AC": {
-      "home": "Olympique Lyonnais",
-      "away": "Le Havre AC",
-      "event_id": "9999995",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 10.5,
-                "over": 1.55,
-                "under": 2.25
-              },
-              {
-                "line": 11.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 12.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 13.5,
-                "over": 4.5,
-                "under": 1.15
               }
             ]
           },
@@ -274,60 +67,60 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788032779.3125193
+      "last_checked": 1788033326.6294322
     },
-    "Stade Brestois 29|Toulouse FC": {
-      "home": "Stade Brestois 29",
-      "away": "Toulouse FC",
-      "event_id": "10002754",
+    "Juventus|Parma": {
+      "home": "Juventus",
+      "away": "Parma",
+      "event_id": "10002753",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 9.5,
             "odds": [
-              1.11,
-              5.25
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.11,
-                "under": 5.25
-              },
-              {
-                "line": 6.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 7.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 8.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
                 "line": 9.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 10.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 11.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 12.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 13.5,
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
           "CARDS_OU": {
-            "line": 5.5,
+            "line": 2.5,
             "odds": [
-              1.6,
-              2.15
+              1.52,
+              2.3
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.6,
-                "under": 2.15
+                "line": 2.5,
+                "over": 1.52,
+                "under": 2.3
               }
             ]
           }
@@ -343,7 +136,214 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788032802.6610503
+      "last_checked": 1788033349.7685132
+    },
+    "AJ Auxerre|Angers SCO": {
+      "home": "AJ Auxerre",
+      "away": "Angers SCO",
+      "event_id": "9999935",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.15,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
+                "line": 11.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 12.5,
+                "over": 1.83,
+                "under": 1.83
+              },
+              {
+                "line": 13.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 14.5,
+                "over": 3.9,
+                "under": 1.2
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.92,
+              1.75
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.92,
+                "under": 1.75
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788033372.756736
+    },
+    "Olympique Lyonnais|Le Havre AC": {
+      "home": "Olympique Lyonnais",
+      "away": "Le Havre AC",
+      "event_id": "9999995",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.18,
+              4.1
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.18,
+                "under": 4.1
+              },
+              {
+                "line": 11.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 12.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 13.5,
+                "over": 3.0,
+                "under": 1.32
+              },
+              {
+                "line": 14.5,
+                "over": 4.5,
+                "under": 1.15
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              2.05,
+              1.65
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 2.05,
+                "under": 1.65
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788033395.8798292
+    },
+    "Stade Brestois 29|Toulouse FC": {
+      "home": "Stade Brestois 29",
+      "away": "Toulouse FC",
+      "event_id": "10002754",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.2,
+              3.9
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.2,
+                "under": 3.9
+              },
+              {
+                "line": 6.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 7.5,
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 8.5,
+                "over": 3.25,
+                "under": 1.28
+              },
+              {
+                "line": 9.5,
+                "over": 5.25,
+                "under": 1.11
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.8,
+              1.87
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.8,
+                "under": 1.87
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788033418.9326653
     }
   }
 }
