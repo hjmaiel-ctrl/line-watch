@@ -1,42 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "Parma - Cagliari",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 3.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Parma - Cagliari",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.85 a 2.15 (16.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Parma - Cagliari",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.82 a 1.6 (13.7%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Espanyol - Real Madrid",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Espanyol - Real Madrid",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.51 a 1.36 (11.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Espanyol - Real Madrid",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.4 a 2.8 (16.7%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Espanyol - Real Madrid",
     "market": "CARDS_OU",
     "detail": "bet9ja: linea passata da 3.5 a 5.5"
@@ -2998,5 +2962,41 @@
     "match": "Stade Brestois 29 - Toulouse FC",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.8 a 1.6 (12.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Juventus - Parma",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 2.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Juventus - Parma",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.52 a 2.25 (48.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Juventus - Parma",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.3 a 1.55 (48.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Stade Brestois 29 - Toulouse FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Stade Brestois 29 - Toulouse FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.15 a 1.6 (34.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Stade Brestois 29 - Toulouse FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.6 a 2.15 (34.4%)"
   }
 ]
