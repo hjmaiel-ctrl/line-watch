@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788037627.1453917,
+  "generated_at": 1788038260.7968898,
   "matches": [
     {
       "match": "Sevilla - Atlético de Madrid",
@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 3.5,
             "odds": [
-              1.05,
-              7.0
+              1.22,
+              3.5
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.05,
-                "under": 7.0
+                "over": 1.22,
+                "under": 3.5
               },
               {
                 "line": 4.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 2.15,
+                "under": 1.6
               },
               {
                 "line": 5.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 4.25,
+                "under": 1.17
               },
               {
                 "line": 6.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 9.0,
+                "under": 1.02
               },
               {
                 "line": 7.5,
-                "over": 6.5,
-                "under": 1.07
+                "over": 11.0,
+                "under": null
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 1.5,
             "odds": [
-              1.95,
-              1.73
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.95,
-                "under": 1.73
+                "line": 1.5,
+                "over": 1.45,
+                "under": 2.5
               }
             ]
           }
@@ -69,61 +69,39 @@
       },
       "alerts": [
         {
+          "type": "quota_cambiata",
+          "match": "Sevilla - Atlético de Madrid",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.05 a 1.22 (16.2%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Sevilla - Atlético de Madrid",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 7.0 a 3.5 (100.0%)"
+        },
+        {
           "type": "linea_cambiata",
           "match": "Sevilla - Atlético de Madrid",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 3.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Sevilla - Atlético de Madrid",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.2 a 1.05 (14.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Sevilla - Atlético de Madrid",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.9 a 7.0 (79.5%)"
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 2.5 a 1.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Sevilla - Atlético de Madrid",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.65 a 1.95 (18.2%)"
+          "detail": "bet9ja: esito #1 passato da 1.95 a 1.45 (34.5%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Sevilla - Atlético de Madrid",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.05 a 1.73 (18.5%)"
+          "detail": "bet9ja: esito #2 passato da 1.73 a 2.5 (44.5%)"
         }
       ]
     },
     {
       "match": "Girona - UD Las Palmas",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Forli - Pescara",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -151,40 +129,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.36,
-              2.88
+              1.35,
+              2.94
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.35,
+                "under": 2.94
+              },
+              {
                 "line": 8.5,
-                "over": 1.36,
-                "under": 2.88
+                "over": 1.68,
+                "under": 2.06
               },
               {
                 "line": 9.5,
-                "over": 1.67,
-                "under": 2.08
-              },
-              {
-                "line": 10.5,
-                "over": 2.16,
-                "under": 1.63
+                "over": 2.22,
+                "under": 1.59
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.82,
-              1.85
+              2.16,
+              1.59
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 2.16,
+                "under": 1.59
               }
             ]
           }
@@ -200,7 +178,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Seattle Sounders - Chicago Fire",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 7.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Seattle Sounders - Chicago Fire",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.82 a 2.16 (18.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Seattle Sounders - Chicago Fire",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.85 a 1.59 (16.4%)"
+        }
+      ]
     },
     {
       "match": "SC União Torreense - Vizela",
@@ -223,7 +220,33 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Pacos Ferreira - AD Fafe",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.9,
+            1.85
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 5
+  "alert_count_this_run": 8
 }

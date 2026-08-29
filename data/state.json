@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 3.5,
             "odds": [
-              1.05,
-              7.0
+              1.22,
+              3.5
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.05,
-                "under": 7.0
+                "over": 1.22,
+                "under": 3.5
               },
               {
                 "line": 4.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 2.15,
+                "under": 1.6
               },
               {
                 "line": 5.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 4.25,
+                "under": 1.17
               },
               {
                 "line": 6.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 9.0,
+                "under": 1.02
               },
               {
                 "line": 7.5,
-                "over": 6.5,
-                "under": 1.07
+                "over": 11.0,
+                "under": null
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 1.5,
             "odds": [
-              1.95,
-              1.73
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.95,
-                "under": 1.73
+                "line": 1.5,
+                "over": 1.45,
+                "under": 2.5
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788037524.2678351
+      "last_checked": 1788038150.8687656
     },
     "Girona|UD Las Palmas": {
       "home": "Girona",
@@ -90,30 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788037550.802178
-    },
-    "Forli|Pescara": {
-      "home": "Forli",
-      "away": "Pescara",
-      "event_id": "10011898",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788037577.2601566
+      "last_checked": 1788038178.1032538
     },
     "Seattle Sounders|Chicago Fire": {
       "home": "Seattle Sounders",
@@ -123,40 +100,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.36,
-              2.88
+              1.35,
+              2.94
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.35,
+                "under": 2.94
+              },
+              {
                 "line": 8.5,
-                "over": 1.36,
-                "under": 2.88
+                "over": 1.68,
+                "under": 2.06
               },
               {
                 "line": 9.5,
-                "over": 1.67,
-                "under": 2.08
-              },
-              {
-                "line": 10.5,
-                "over": 2.16,
-                "under": 1.63
+                "over": 2.22,
+                "under": 1.59
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.82,
-              1.85
+              2.16,
+              1.59
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 2.16,
+                "under": 1.59
               }
             ]
           }
@@ -172,7 +149,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788037600.4940507
+      "last_checked": 1788038201.4479806
     },
     "SC União Torreense|Vizela": {
       "home": "SC União Torreense",
@@ -195,7 +172,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788037627.1048012
+      "last_checked": 1788038228.804862
+    },
+    "Pacos Ferreira|AD Fafe": {
+      "home": "Pacos Ferreira",
+      "away": "AD Fafe",
+      "event_id": "10011828",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.9,
+            1.85
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788038260.7402294
     }
   }
 }
