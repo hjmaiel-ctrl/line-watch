@@ -8,40 +8,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.32,
-              3.1
+              1.62,
+              2.16
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.32,
-                "under": 3.1
-              },
-              {
                 "line": 8.5,
-                "over": 1.67,
-                "under": 2.08
+                "over": 1.62,
+                "under": 2.16
               },
               {
                 "line": 9.5,
-                "over": 2.28,
-                "under": 1.56
+                "over": 2.18,
+                "under": 1.61
+              },
+              {
+                "line": 10.5,
+                "over": 3.1,
+                "under": 1.32
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.84,
-              1.83
+              1.85,
+              1.82
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.84,
-                "under": 1.83
+                "over": 1.85,
+                "under": 1.82
               }
             ]
           }
@@ -57,34 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788039322.1737251
-    },
-    "Pacos Ferreira|AD Fafe": {
-      "home": "Pacos Ferreira",
-      "away": "AD Fafe",
-      "event_id": "10011828",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            10.0,
-            1.02
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788039353.9716976
+      "last_checked": 1788039929.5862298
     },
     "Rosario Central|Gimnasia y Esgrima La Plata": {
       "home": "Rosario Central",
@@ -107,7 +80,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788039380.6313004
+      "last_checked": 1788039956.4642332
     },
     "Atlético Mineiro|EC Vitória": {
       "home": "Atlético Mineiro",
@@ -117,26 +90,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 10.5,
             "odds": [
-              1.62,
-              2.1
+              1.52,
+              2.3
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
                 "line": 10.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 1.52,
+                "under": 2.3
               },
               {
                 "line": 11.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 12.5,
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           },
@@ -153,7 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788039405.572909
+      "last_checked": 1788039981.6347725
     },
     "Botafogo SP|Cuiabá EC": {
       "home": "Botafogo SP",
@@ -176,7 +149,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788039432.1894135
+      "last_checked": 1788040008.671179
+    },
+    "Deportes Limache|Everton de Viña del Mar": {
+      "home": "Deportes Limache",
+      "away": "Everton de Viña del Mar",
+      "event_id": "10011975",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788040035.5024886
     }
   }
 }
