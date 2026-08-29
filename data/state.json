@@ -1,5 +1,117 @@
 {
   "matches": {
+    "Mito Hollyhock|Machida Zelvia": {
+      "home": "Mito Hollyhock",
+      "away": "Machida Zelvia",
+      "event_id": "10011041",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 7.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
+                "line": 8.5,
+                "over": 2.1,
+                "under": 1.62
+              },
+              {
+                "line": 9.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 10.5,
+                "over": 3.9,
+                "under": 1.2
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787994334.3490515
+    },
+    "Gamba Osaka|Sanfrecce Hiroshima": {
+      "home": "Gamba Osaka",
+      "away": "Sanfrecce Hiroshima",
+      "event_id": "10011042",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 8.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
+                "line": 9.5,
+                "over": 2.1,
+                "under": 1.62
+              },
+              {
+                "line": 10.5,
+                "over": 2.7,
+                "under": 1.38
+              },
+              {
+                "line": 11.5,
+                "over": 3.75,
+                "under": 1.2
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787994359.497897
+    },
     "Cadiz B|Club Atletico Central": {
       "home": "Cadiz B",
       "away": "Club Atletico Central",
@@ -21,12 +133,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787993736.6843333
+      "last_checked": 1787994386.377873
     },
-    "Southern District RSA|Kowloon City": {
-      "home": "Southern District RSA",
-      "away": "Kowloon City",
-      "event_id": "10010941",
+    "Illescas|Pozuelo de Alarcon": {
+      "home": "Illescas",
+      "away": "Pozuelo de Alarcon",
+      "event_id": "10010999",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +156,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787993763.3570192
+      "last_checked": 1787994413.5835235
     },
-    "North District|Kitchee": {
-      "home": "North District",
-      "away": "Kitchee",
-      "event_id": "10010942",
+    "Gimnastica Segoviana CF|Real Madrid C": {
+      "home": "Gimnastica Segoviana CF",
+      "away": "Real Madrid C",
+      "event_id": "10011012",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,57 +179,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787993790.0949547
-    },
-    "Bankstown Berries|Macarthur": {
-      "home": "Bankstown Berries",
-      "away": "Macarthur",
-      "event_id": "10010911",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.14,
-            4.85
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787993822.1460304
-    },
-    "Inter Lions|Hakoah Sydney City East": {
-      "home": "Inter Lions",
-      "away": "Hakoah Sydney City East",
-      "event_id": "10010912",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787993848.8203356
+      "last_checked": 1787994440.4289825
     }
   }
 }
