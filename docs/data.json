@@ -1,50 +1,6 @@
 {
-  "generated_at": 1787988448.8177445,
+  "generated_at": 1787989034.2293396,
   "matches": [
-    {
-      "match": "Salisbury International - Western Strikers",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Adelaide Blue Eagles - Raiders",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Maruyasu Okazaki - Verspah Oita",
       "bet9ja_stats": null,
@@ -68,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Playford City - Adelaide City",
+      "match": "Broadmeadow Magic - Weston Workers",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -77,11 +33,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            7.25
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -91,23 +43,54 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Playford City - Adelaide City",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 55.0 a 100.0 (81.8%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Playford City - Adelaide City",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 5.4 a 7.25 (34.3%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Broadmeadow Magic - Weston Workers",
+      "match": "Cooma - Canberra Juventus FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Rydalmere Lions U20 - Dulwich Hill",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Hills Utd Brumbies - Mariners Academy",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -129,5 +112,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }

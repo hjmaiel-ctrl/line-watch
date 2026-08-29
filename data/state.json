@@ -1,51 +1,5 @@
 {
   "matches": {
-    "Salisbury International|Western Strikers": {
-      "home": "Salisbury International",
-      "away": "Western Strikers",
-      "event_id": "10010895",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787988336.3437414
-    },
-    "Adelaide Blue Eagles|Raiders": {
-      "home": "Adelaide Blue Eagles",
-      "away": "Raiders",
-      "event_id": "10010896",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787988363.0249119
-    },
     "Maruyasu Okazaki|Verspah Oita": {
       "home": "Maruyasu Okazaki",
       "away": "Verspah Oita",
@@ -67,34 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787988390.2047462
-    },
-    "Playford City|Adelaide City": {
-      "home": "Playford City",
-      "away": "Adelaide City",
-      "event_id": "10010899",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            7.25
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787988422.1201406
+      "last_checked": 1787988926.7354105
     },
     "Broadmeadow Magic|Weston Workers": {
       "home": "Broadmeadow Magic",
@@ -117,7 +44,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787988448.769701
+      "last_checked": 1787988953.5688872
+    },
+    "Cooma|Canberra Juventus FC": {
+      "home": "Cooma",
+      "away": "Canberra Juventus FC",
+      "event_id": "10010903",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787988980.586488
+    },
+    "Rydalmere Lions U20|Dulwich Hill": {
+      "home": "Rydalmere Lions U20",
+      "away": "Dulwich Hill",
+      "event_id": "10010904",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787989007.4078345
+    },
+    "Hills Utd Brumbies|Mariners Academy": {
+      "home": "Hills Utd Brumbies",
+      "away": "Mariners Academy",
+      "event_id": "10010909",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787989034.1894128
     }
   }
 }
