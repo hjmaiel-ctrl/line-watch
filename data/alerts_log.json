@@ -1,78 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "Brentford - Tottenham Hotspur",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 2.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Udinese - Como",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Udinese - Como",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.5 a 3.9 (15.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Udinese - Como",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 4.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Valencia - Celta Vigo",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 3.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Valencia - Celta Vigo",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.7 a 2.92 (8.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Genoa - Napoli",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.35 a 1.18 (14.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Genoa - Napoli",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.85 a 4.1 (43.9%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Genoa - Napoli",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 2.5 a 1.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Parma - Cagliari",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Parma - Cagliari",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.28 a 1.17 (9.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Parma - Cagliari",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.25 a 4.25 (30.8%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Parma - Cagliari",
     "market": "CARDS_OU",
     "detail": "bet9ja: linea passata da 4.5 a 3.5"
@@ -2998,5 +2926,77 @@
     "match": "PEC Zwolle - NEC",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 15.0 a 1.23 (1119.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Juventus - Parma",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.45 a 3.9 (13.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Juventus - Parma",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Juventus - Parma",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.1 a 1.52 (38.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Juventus - Parma",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.62 a 2.3 (42.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AJ Auxerre - Angers SCO",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.85 a 3.25 (14.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AJ Auxerre - Angers SCO",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.57 a 1.78 (13.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AJ Auxerre - Angers SCO",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.2 a 1.9 (15.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Olympique Lyonnais - Le Havre AC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.5 a 3.65 (23.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Stade Brestois 29 - Toulouse FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.25 a 5.25 (23.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Stade Brestois 29 - Toulouse FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Stade Brestois 29 - Toulouse FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.87 a 2.15 (15.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Stade Brestois 29 - Toulouse FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.8 a 1.6 (12.5%)"
   }
 ]

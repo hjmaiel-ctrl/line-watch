@@ -1,6 +1,28 @@
 {
-  "generated_at": 1788031620.5185292,
+  "generated_at": 1788032226.241891,
   "matches": [
+    {
+      "match": "Sevilla - Atlético de Madrid",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Juventus - Parma",
       "bet9ja_stats": null,
@@ -10,48 +32,48 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.25,
-              3.45
+              1.2,
+              3.9
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.25,
-                "under": 3.45
+                "over": 1.2,
+                "under": 3.9
               },
               {
                 "line": 10.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 11.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 1.95,
+                "under": 1.73
               },
               {
                 "line": 12.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.7,
+                "under": 1.38
               },
               {
                 "line": 13.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              2.1,
-              1.62
+              1.52,
+              2.3
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 2.1,
-                "under": 1.62
+                "line": 2.5,
+                "over": 1.52,
+                "under": 2.3
               }
             ]
           }
@@ -69,22 +91,28 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Juventus - Parma",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 9.5"
+          "detail": "bet9ja: esito #2 passato da 3.45 a 3.9 (13.0%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Juventus - Parma",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 3.5 a 2.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Juventus - Parma",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.73 a 2.1 (21.4%)"
+          "detail": "bet9ja: esito #1 passato da 2.1 a 1.52 (38.2%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Juventus - Parma",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.95 a 1.62 (20.4%)"
+          "detail": "bet9ja: esito #2 passato da 1.62 a 2.3 (42.0%)"
         }
       ]
     },
@@ -97,24 +125,24 @@
           "CORNERS_OU": {
             "line": 11.5,
             "odds": [
-              1.35,
-              2.85
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 11.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 12.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.6,
+                "under": 2.15
               },
               {
                 "line": 13.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 14.5,
@@ -131,14 +159,14 @@
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.57,
-              2.2
+              1.78,
+              1.9
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.78,
+                "under": 1.9
               }
             ]
           }
@@ -156,28 +184,22 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "AJ Auxerre - Angers SCO",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 11.5"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "AJ Auxerre - Angers SCO",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 3.5"
+          "detail": "bet9ja: esito #2 passato da 2.85 a 3.25 (14.0%)"
         },
         {
           "type": "quota_cambiata",
           "match": "AJ Auxerre - Angers SCO",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.87 a 1.57 (19.1%)"
+          "detail": "bet9ja: esito #1 passato da 1.57 a 1.78 (13.4%)"
         },
         {
           "type": "quota_cambiata",
           "match": "AJ Auxerre - Angers SCO",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.8 a 2.2 (22.2%)"
+          "detail": "bet9ja: esito #2 passato da 2.2 a 1.9 (15.8%)"
         }
       ]
     },
@@ -190,103 +212,48 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.15,
-              4.5
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.15,
-                "under": 4.5
+                "over": 1.22,
+                "under": 3.65
               },
               {
                 "line": 10.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.52,
+                "under": 2.3
               },
               {
                 "line": 11.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 12.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 13.5,
-                "over": 3.45,
-                "under": 1.25
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Stade Brestois 29 - Toulouse FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.17,
-              4.25
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.17,
-                "under": 4.25
-              },
-              {
-                "line": 6.5,
-                "over": 1.4,
-                "under": 2.65
-              },
-              {
-                "line": 7.5,
-                "over": 1.82,
-                "under": 1.85
-              },
-              {
-                "line": 8.5,
-                "over": 2.5,
-                "under": 1.45
-              },
-              {
-                "line": 9.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 4.5,
+                "under": 1.15
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              1.87,
-              1.8
+              1.65,
+              2.05
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.87,
-                "under": 1.8
+                "line": 3.5,
+                "over": 1.65,
+                "under": 2.05
               }
             ]
           }
@@ -302,23 +269,72 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Olympique Lyonnais - Le Havre AC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.5 a 3.65 (23.3%)"
+        }
+      ]
     },
     {
-      "match": "PEC Zwolle - NEC",
+      "match": "Stade Brestois 29 - Toulouse FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.11,
+              5.25
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.11,
+                "under": 5.25
+              },
+              {
+                "line": 6.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 7.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 8.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 9.5,
+                "over": 3.65,
+                "under": 1.22
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 6.5,
+            "odds": [
+              2.15,
+              1.6
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 2.15,
+                "under": 1.6
+              }
+            ]
+          }
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            7.3,
-            1.23
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -331,18 +347,30 @@
       "alerts": [
         {
           "type": "quota_cambiata",
-          "match": "PEC Zwolle - NEC",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 32.0 a 7.3 (338.4%)"
+          "match": "Stade Brestois 29 - Toulouse FC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.25 a 5.25 (23.5%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Stade Brestois 29 - Toulouse FC",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 4.5 a 6.5"
         },
         {
           "type": "quota_cambiata",
-          "match": "PEC Zwolle - NEC",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 15.0 a 1.23 (1119.5%)"
+          "match": "Stade Brestois 29 - Toulouse FC",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.87 a 2.15 (15.0%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Stade Brestois 29 - Toulouse FC",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.8 a 1.6 (12.5%)"
         }
       ]
     }
   ],
-  "alert_count_this_run": 9
+  "alert_count_this_run": 12
 }
