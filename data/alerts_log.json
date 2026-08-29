@@ -2002,5 +2002,17 @@
     "match": "Energie Cottbus - Greuther Furth",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.97 a 1.8 (9.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Wolverhampton Wanderers - Stoke City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 4.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Derby County - Swansea City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
   }
 ]
