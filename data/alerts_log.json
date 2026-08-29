@@ -2638,5 +2638,71 @@
     "match": "Union Berlin - Eintracht Frankfurt",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.98 a 1.75 (13.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "AFC Bournemouth - Everton",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 11.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AFC Bournemouth - Everton",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.25 a 1.35 (8.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AFC Bournemouth - Everton",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.45 a 2.85 (21.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "AFC Bournemouth - Everton",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 5.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Leipzig - Monchengladbach",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Leipzig - Monchengladbach",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.31 a 1.56 (19.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Leipzig - Monchengladbach",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.2 a 2.28 (40.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Union Berlin - Eintracht Frankfurt",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.36 a 1.57 (15.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Union Berlin - Eintracht Frankfurt",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.9 a 2.24 (29.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Union Berlin - Eintracht Frankfurt",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.93 a 2.34 (21.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Union Berlin - Eintracht Frankfurt",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.75 a 1.51 (15.9%)"
   }
 ]
