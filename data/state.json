@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Unión Magdalena|Deportes Quindío": {
-      "home": "Unión Magdalena",
-      "away": "Deportes Quindío",
-      "event_id": "10010840",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787971523.2777011
-    },
     "Atlante|Club León": {
       "home": "Atlante",
       "away": "Club León",
@@ -44,30 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787971550.0506167
-    },
-    "Club Necaxa|Cruz Azul": {
-      "home": "Club Necaxa",
-      "away": "Cruz Azul",
-      "event_id": "10010837",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787971577.0420327
+      "last_checked": 1787972132.7296042
     },
     "CSD Dorados de Sinaloa|Club Atletico Morelia": {
       "home": "CSD Dorados de Sinaloa",
@@ -90,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787971603.7249973
+      "last_checked": 1787972159.8230777
     },
     "Correcaminos UAT|Alacranes de Durango": {
       "home": "Correcaminos UAT",
@@ -113,7 +67,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787971630.2912786
+      "last_checked": 1787972187.0966444
+    },
+    "Gimnasia Y Tiro de Salta|Chacarita Juniors": {
+      "home": "Gimnasia Y Tiro de Salta",
+      "away": "Chacarita Juniors",
+      "event_id": "10010841",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787972214.0423505
+    },
+    "Tauro FC|CA Independiente": {
+      "home": "Tauro FC",
+      "away": "CA Independiente",
+      "event_id": "10010843",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787972240.7381911
     }
   }
 }
