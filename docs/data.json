@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787974673.2920752,
+  "generated_at": 1787975224.0402856,
   "matches": [
     {
       "match": "Atlante - Club León",
@@ -46,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Wellington Olympic AFC - Waterside Karori",
+      "match": "Suchitepéquez - CSD Cobán Imperial",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -68,7 +68,7 @@
       "alerts": []
     },
     {
-      "match": "Miramar Rangers - Western Suburbs FC",
+      "match": "Sporting San Jose FC - Inter San Carlos",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -90,7 +90,7 @@
       "alerts": []
     },
     {
-      "match": "ACF Zapotlanejo - Guerreros de Autlan",
+      "match": "Tigres de Álica FC - Zacatepec F.C.",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -99,11 +99,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.02,
-            9.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -113,21 +109,8 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "ACF Zapotlanejo - Guerreros de Autlan",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 1.4 a 1.02 (37.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "ACF Zapotlanejo - Guerreros de Autlan",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 3.7 a 9.0 (143.2%)"
-        }
-      ]
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }

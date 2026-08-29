@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787974558.2208257
+      "last_checked": 1787975115.6644301
     },
     "CSD Dorados de Sinaloa|Club Atletico Morelia": {
       "home": "CSD Dorados de Sinaloa",
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787974585.5604503
+      "last_checked": 1787975142.4416687
     },
-    "Wellington Olympic AFC|Waterside Karori": {
-      "home": "Wellington Olympic AFC",
-      "away": "Waterside Karori",
-      "event_id": "10010844",
+    "Suchitepéquez|CSD Cobán Imperial": {
+      "home": "Suchitepéquez",
+      "away": "CSD Cobán Imperial",
+      "event_id": "10010847",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787974612.4719505
+      "last_checked": 1787975169.643428
     },
-    "Miramar Rangers|Western Suburbs FC": {
-      "home": "Miramar Rangers",
-      "away": "Western Suburbs FC",
-      "event_id": "10010845",
+    "Sporting San Jose FC|Inter San Carlos": {
+      "home": "Sporting San Jose FC",
+      "away": "Inter San Carlos",
+      "event_id": "10010848",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787974640.1295595
+      "last_checked": 1787975196.871972
     },
-    "ACF Zapotlanejo|Guerreros de Autlan": {
-      "home": "ACF Zapotlanejo",
-      "away": "Guerreros de Autlan",
-      "event_id": "10010846",
+    "Tigres de Álica FC|Zacatepec F.C.": {
+      "home": "Tigres de Álica FC",
+      "away": "Zacatepec F.C.",
+      "event_id": "10010850",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -103,11 +103,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.02,
-            9.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -117,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787974673.2461765
+      "last_checked": 1787975224.0031905
     }
   }
 }
