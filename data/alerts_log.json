@@ -2716,5 +2716,101 @@
     "match": "AFC Bournemouth - Everton",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.83 a 1.65 (10.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "AFC Bournemouth - Everton",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AFC Bournemouth - Everton",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.05 a 1.65 (24.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AFC Bournemouth - Everton",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.65 a 2.05 (24.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Coventry City - Hull City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Coventry City - Hull City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.25 a 1.85 (21.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Coventry City - Hull City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.55 a 1.82 (17.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Leipzig - Monchengladbach",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.53 a 2.14 (39.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Leipzig - Monchengladbach",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.28 a 1.61 (41.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Mainz - Paderborn",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 11.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Mainz - Paderborn",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.89 a 2.34 (23.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Mainz - Paderborn",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.78 a 1.51 (17.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Union Berlin - Eintracht Frankfurt",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.57 a 1.43 (9.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Union Berlin - Eintracht Frankfurt",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.26 a 2.62 (15.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Union Berlin - Eintracht Frankfurt",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Union Berlin - Eintracht Frankfurt",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.34 a 1.58 (48.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Union Berlin - Eintracht Frankfurt",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.51 a 2.18 (44.4%)"
   }
 ]
