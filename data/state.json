@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Marist FC|GHUPO": {
-      "home": "Marist FC",
-      "away": "GHUPO",
-      "event_id": "10010871",
+    "Robina City|Ipswich FC": {
+      "home": "Robina City",
+      "away": "Ipswich FC",
+      "event_id": "10010894",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,53 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787984770.8437934
-    },
-    "Wellington Phoenix Reserves|Upper Hutt City Football": {
-      "home": "Wellington Phoenix Reserves",
-      "away": "Upper Hutt City Football",
-      "event_id": "10010872",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787984797.4932477
-    },
-    "South Hobart|Kingborough Lions Utd": {
-      "home": "South Hobart",
-      "away": "Kingborough Lions Utd",
-      "event_id": "10010874",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787984824.0220203
+      "last_checked": 1787985335.197596
     },
     "Avondale|Hume City": {
       "home": "Avondale",
@@ -90,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787984851.0368133
+      "last_checked": 1787985361.8113577
     },
     "Heidelberg Utd|Bentleigh": {
       "home": "Heidelberg Utd",
@@ -113,7 +67,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787984877.983905
+      "last_checked": 1787985388.4488604
+    },
+    "Oakleigh|Dandenong City": {
+      "home": "Oakleigh",
+      "away": "Dandenong City",
+      "event_id": "10010880",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787985415.1094458
+    },
+    "Preston Lions|Altona Magic": {
+      "home": "Preston Lions",
+      "away": "Altona Magic",
+      "event_id": "10010881",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787985441.6350853
     }
   }
 }
