@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787993118.7115169
+      "last_checked": 1787993736.6843333
     },
     "Southern District RSA|Kowloon City": {
       "home": "Southern District RSA",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787993145.6072273
+      "last_checked": 1787993763.3570192
     },
     "North District|Kitchee": {
       "home": "North District",
@@ -67,30 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787993172.6774192
-    },
-    "Hills Utd Brumbies|Mariners Academy": {
-      "home": "Hills Utd Brumbies",
-      "away": "Mariners Academy",
-      "event_id": "10010909",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787993199.6080146
+      "last_checked": 1787993790.0949547
     },
     "Bankstown Berries|Macarthur": {
       "home": "Bankstown Berries",
@@ -103,6 +80,33 @@
           "CARDS_OU": null
         },
         "sportybet": {
+          "1X2": [
+            2.4,
+            1.14,
+            4.85
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787993822.1460304
+    },
+    "Inter Lions|Hakoah Sydney City East": {
+      "home": "Inter Lions",
+      "away": "Hakoah Sydney City East",
+      "event_id": "10010912",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787993226.6320403
+      "last_checked": 1787993848.8203356
     }
   }
 }
