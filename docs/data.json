@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787972850.4167817,
+  "generated_at": 1787973456.4957962,
   "matches": [
     {
       "match": "Atlante - Club León",
@@ -57,8 +57,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.19,
-            4.8
+            13.0,
+            13.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -69,7 +69,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Tauro FC - CA Independiente",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 1.19 a 13.0 (992.4%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Tauro FC - CA Independiente",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 4.8 a 13.0 (170.8%)"
+        }
+      ]
     },
     {
       "match": "Wellington Olympic AFC - Waterside Karori",
@@ -116,5 +129,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }

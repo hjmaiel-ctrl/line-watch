@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787972738.2729049
+      "last_checked": 1787973345.2444818
     },
     "CSD Dorados de Sinaloa|Club Atletico Morelia": {
       "home": "CSD Dorados de Sinaloa",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787972764.9904656
+      "last_checked": 1787973371.6844628
     },
     "Tauro FC|CA Independiente": {
       "home": "Tauro FC",
@@ -59,8 +59,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.19,
-            4.8
+            13.0,
+            13.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787972797.070043
+      "last_checked": 1787973403.2189627
     },
     "Wellington Olympic AFC|Waterside Karori": {
       "home": "Wellington Olympic AFC",
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787972823.7459168
+      "last_checked": 1787973429.882136
     },
     "Miramar Rangers|Western Suburbs FC": {
       "home": "Miramar Rangers",
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787972850.371952
+      "last_checked": 1787973456.4605029
     }
   }
 }

@@ -1564,5 +1564,17 @@
     "match": "Boca Juniors - Lanus",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.15 a 1.92 (12.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Tauro FC - CA Independiente",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 1.19 a 13.0 (992.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Tauro FC - CA Independiente",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 4.8 a 13.0 (170.8%)"
   }
 ]
