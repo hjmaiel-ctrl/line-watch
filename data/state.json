@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 10.5,
             "odds": [
               1.25,
               3.45
             ],
             "_all_lines": [
               {
-                "line": 7.5,
+                "line": 10.5,
                 "over": 1.25,
                 "under": 3.45
               },
               {
-                "line": 8.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
-                "line": 9.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 10.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
                 "line": 11.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 12.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 13.5,
+                "over": 2.2,
+                "under": 1.57
+              },
+              {
+                "line": 14.5,
+                "over": 2.85,
+                "under": 1.35
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.7,
-              1.98
+              1.78,
+              1.9
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.78,
+                "under": 1.9
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788012328.2579591
+      "last_checked": 1788012953.4275038
     },
     "Coventry City|Hull City": {
       "home": "Coventry City",
@@ -77,50 +77,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 6.5,
             "odds": [
-              1.35,
-              2.75
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.35,
-                "under": 2.75
+                "line": 6.5,
+                "over": 1.18,
+                "under": 4.1
               },
               {
-                "line": 9.5,
+                "line": 7.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 8.5,
                 "over": 1.65,
                 "under": 2.05
               },
               {
+                "line": 9.5,
+                "over": 2.2,
+                "under": 1.57
+              },
+              {
                 "line": 10.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 11.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 12.5,
-                "over": 3.9,
-                "under": 1.2
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 4.5,
             "odds": [
-              1.73,
-              1.95
+              1.8,
+              1.87
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.73,
-                "under": 1.95
+                "line": 4.5,
+                "over": 1.8,
+                "under": 1.87
               }
             ]
           }
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788012350.663925
+      "last_checked": 1788012976.5012493
     },
     "Leipzig|Monchengladbach": {
       "home": "Leipzig",
@@ -146,40 +146,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.56,
-              2.28
+              1.31,
+              3.2
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.31,
+                "under": 3.2
+              },
+              {
                 "line": 9.5,
-                "over": 1.56,
-                "under": 2.28
+                "over": 1.65,
+                "under": 2.1
               },
               {
                 "line": 10.5,
-                "over": 2.02,
-                "under": 1.72
-              },
-              {
-                "line": 11.5,
-                "over": 2.72,
-                "under": 1.4
+                "over": 2.24,
+                "under": 1.58
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 1.5,
             "odds": [
-              1.88,
-              1.79
+              1.53,
+              2.3
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.88,
-                "under": 1.79
+                "line": 1.5,
+                "over": 1.53,
+                "under": 2.3
               }
             ]
           }
@@ -195,7 +195,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788012373.2877016
+      "last_checked": 1788012999.0805066
     },
     "Mainz|Paderborn": {
       "home": "Mainz",
@@ -205,20 +205,7 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.65,
-              2.06
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.65,
-                "under": 2.06
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -231,7 +218,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788012397.4756682
+      "last_checked": 1788013025.4177623
     },
     "Union Berlin|Eintracht Frankfurt": {
       "home": "Union Berlin",
@@ -240,18 +227,41 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.36,
+              2.9
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.36,
+                "under": 2.9
+              },
+              {
+                "line": 7.5,
+                "over": 1.7,
+                "under": 2.04
+              },
+              {
+                "line": 8.5,
+                "over": 2.26,
+                "under": 1.57
+              }
+            ]
+          },
           "CARDS_OU": {
             "line": 5.5,
             "odds": [
-              1.71,
-              1.98
+              1.93,
+              1.75
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.71,
-                "under": 1.98
+                "over": 1.93,
+                "under": 1.75
               }
             ]
           }
@@ -267,7 +277,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788012421.6169565
+      "last_checked": 1788013048.044301
     }
   }
 }
