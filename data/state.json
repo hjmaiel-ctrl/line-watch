@@ -1,165 +1,57 @@
 {
   "matches": {
-    "Heidenheim|Dynamo Dresden": {
-      "home": "Heidenheim",
-      "away": "Dynamo Dresden",
-      "event_id": "10011165",
+    "Liverpool|Nottingham Forest": {
+      "home": "Liverpool",
+      "away": "Nottingham Forest",
+      "event_id": "10002736",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.48,
-              2.48
+              1.32,
+              2.9
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.48,
-                "under": 2.48
+                "over": 1.32,
+                "under": 2.9
               },
               {
                 "line": 9.5,
-                "over": 1.83,
-                "under": 1.88
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 10.5,
-                "over": 2.36,
-                "under": 1.52
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.64,
-              2.08
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.64,
-                "under": 2.08
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788002737.8216388
-    },
-    "Karlsruher|Wolfsburg": {
-      "home": "Karlsruher",
-      "away": "Wolfsburg",
-      "event_id": "10011168",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.63,
-              2.14
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.63,
-                "under": 2.14
+                "over": 1.92,
+                "under": 1.75
               },
-              {
-                "line": 13.5,
-                "over": 2.04,
-                "under": 1.69
-              },
-              {
-                "line": 14.5,
-                "over": 2.66,
-                "under": 1.42
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.88,
-              1.79
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.88,
-                "under": 1.79
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788002760.9758217
-    },
-    "Energie Cottbus|Greuther Furth": {
-      "home": "Energie Cottbus",
-      "away": "Greuther Furth",
-      "event_id": "10011169",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.52,
-              2.36
-            ],
-            "_all_lines": [
               {
                 "line": 11.5,
-                "over": 1.52,
-                "under": 2.36
+                "over": 2.45,
+                "under": 1.47
               },
               {
                 "line": 12.5,
-                "over": 1.9,
-                "under": 1.8
-              },
-              {
-                "line": 13.5,
-                "over": 2.48,
-                "under": 1.48
+                "over": 3.1,
+                "under": 1.3
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.87,
-              1.8
+              1.98,
+              1.7
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 1.98,
+                "under": 1.7
               }
             ]
           }
@@ -175,12 +67,193 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788002784.0157008
+      "last_checked": 1788003325.0064354
     },
-    "Portimonense|Leixões": {
-      "home": "Portimonense",
-      "away": "Leixões",
-      "event_id": "10011078",
+    "Wolverhampton Wanderers|Stoke City": {
+      "home": "Wolverhampton Wanderers",
+      "away": "Stoke City",
+      "event_id": "10002704",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 9.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
+                "line": 10.5,
+                "over": 1.87,
+                "under": 1.8
+              },
+              {
+                "line": 11.5,
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 12.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.65,
+              2.05
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.65,
+                "under": 2.05
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788003348.5485992
+    },
+    "Derby County|Swansea City": {
+      "home": "Derby County",
+      "away": "Swansea City",
+      "event_id": "10002706",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.3,
+              3.1
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.3,
+                "under": 3.1
+              },
+              {
+                "line": 8.5,
+                "over": 1.47,
+                "under": 2.4
+              },
+              {
+                "line": 9.5,
+                "over": 1.82,
+                "under": 1.85
+              },
+              {
+                "line": 10.5,
+                "over": 2.25,
+                "under": 1.55
+              },
+              {
+                "line": 11.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788003373.4196045
+    },
+    "Middlesbrough|West Bromwich Albion": {
+      "home": "Middlesbrough",
+      "away": "West Bromwich Albion",
+      "event_id": "10002707",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 8.5,
+                "over": 1.47,
+                "under": 2.4
+              },
+              {
+                "line": 9.5,
+                "over": 1.82,
+                "under": 1.85
+              },
+              {
+                "line": 10.5,
+                "over": 2.3,
+                "under": 1.52
+              },
+              {
+                "line": 11.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788003398.345639
+    },
+    "Milton Keynes Dons|Leicester City": {
+      "home": "Milton Keynes Dons",
+      "away": "Leicester City",
+      "event_id": "10011175",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -198,30 +271,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788002810.869473
-    },
-    "UD Oliveirense|Penalva Do Castelo": {
-      "home": "UD Oliveirense",
-      "away": "Penalva Do Castelo",
-      "event_id": "10011077",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788002837.7845206
+      "last_checked": 1788003425.0224092
     }
   }
 }
