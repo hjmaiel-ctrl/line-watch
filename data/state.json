@@ -10,38 +10,38 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.28,
-              3.4
+              1.23,
+              3.65
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.28,
-                "under": 3.4
+                "over": 1.23,
+                "under": 3.65
               },
               {
                 "line": 8.5,
-                "over": 1.66,
-                "under": 2.1
+                "over": 1.67,
+                "under": 2.04
               },
               {
                 "line": 9.5,
-                "over": 2.36,
-                "under": 1.53
+                "over": 2.52,
+                "under": 1.44
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              1.89,
-              1.79
+              1.54,
+              2.28
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.89,
-                "under": 1.79
+                "line": 2.5,
+                "over": 1.54,
+                "under": 2.28
               }
             ]
           }
@@ -57,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788040511.737189
+      "last_checked": 1788041145.0780547
     },
     "Atlético Mineiro|EC Vitória": {
       "home": "Atlético Mineiro",
@@ -69,24 +69,24 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.5,
-              2.35
+              1.62,
+              2.1
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 11.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 2.15,
+                "under": 1.6
               },
               {
                 "line": 12.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -103,7 +103,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788040536.6551895
+      "last_checked": 1788041170.2347345
+    },
+    "CA Huracan|Estudiantes Río Cuarto": {
+      "home": "CA Huracan",
+      "away": "Estudiantes Río Cuarto",
+      "event_id": "10011985",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.38,
+              2.7
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 7.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 8.5,
+                "over": 2.1,
+                "under": 1.62
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788041195.2239468
     },
     "Botafogo SP|Cuiabá EC": {
       "home": "Botafogo SP",
@@ -126,7 +172,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788040563.18707
+      "last_checked": 1788041222.1173978
     },
     "Deportes Limache|Everton de Viña del Mar": {
       "home": "Deportes Limache",
@@ -149,30 +195,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788040589.9899921
-    },
-    "Guayaquil City FC|LDU Quito": {
-      "home": "Guayaquil City FC",
-      "away": "LDU Quito",
-      "event_id": "10011965",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788040616.5887434
+      "last_checked": 1788041248.9866495
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788040616.636827,
+  "generated_at": 1788041249.0546844,
   "matches": [
     {
       "match": "Seattle Sounders - Chicago Fire",
@@ -10,38 +10,38 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.28,
-              3.4
+              1.23,
+              3.65
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.28,
-                "under": 3.4
+                "over": 1.23,
+                "under": 3.65
               },
               {
                 "line": 8.5,
-                "over": 1.66,
-                "under": 2.1
+                "over": 1.67,
+                "under": 2.04
               },
               {
                 "line": 9.5,
-                "over": 2.36,
-                "under": 1.53
+                "over": 2.52,
+                "under": 1.44
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              1.89,
-              1.79
+              1.54,
+              2.28
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.89,
-                "under": 1.79
+                "line": 2.5,
+                "over": 1.54,
+                "under": 2.28
               }
             ]
           }
@@ -61,26 +61,20 @@
         {
           "type": "linea_cambiata",
           "match": "Seattle Sounders - Chicago Fire",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 7.5"
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 3.5 a 2.5"
         },
         {
           "type": "quota_cambiata",
-          "match": "Seattle Sounders - Chicago Fire",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.62 a 1.28 (26.6%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Seattle Sounders - Chicago Fire",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.16 a 3.4 (57.4%)"
-        },
-        {
-          "type": "linea_cambiata",
           "match": "Seattle Sounders - Chicago Fire",
           "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 2.5 a 3.5"
+          "detail": "bet9ja: esito #1 passato da 1.89 a 1.54 (22.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Seattle Sounders - Chicago Fire",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.79 a 2.28 (27.4%)"
         }
       ]
     },
@@ -93,24 +87,82 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.5,
-              2.35
+              1.62,
+              2.1
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 11.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 2.15,
+                "under": 1.6
               },
               {
                 "line": 12.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Atlético Mineiro - EC Vitória",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.5 a 1.62 (8.0%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Atlético Mineiro - EC Vitória",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.35 a 2.1 (11.9%)"
+        }
+      ]
+    },
+    {
+      "match": "CA Huracan - Estudiantes Río Cuarto",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.38,
+              2.7
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 7.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 8.5,
+                "over": 2.1,
+                "under": 1.62
               }
             ]
           },
@@ -172,29 +224,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Guayaquil City FC - LDU Quito",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 4
+  "alert_count_this_run": 5
 }
