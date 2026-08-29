@@ -1,28 +1,6 @@
 {
-  "generated_at": 1787989643.540579,
+  "generated_at": 1787990231.2433617,
   "matches": [
-    {
-      "match": "Maruyasu Okazaki - Verspah Oita",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Broadmeadow Magic - Weston Workers",
       "bet9ja_stats": null,
@@ -55,7 +33,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.08,
+            5.9
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -91,6 +73,28 @@
     },
     {
       "match": "Hills Utd Brumbies - Mariners Academy",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Bankstown Berries - Macarthur",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

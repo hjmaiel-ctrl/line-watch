@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Maruyasu Okazaki|Verspah Oita": {
-      "home": "Maruyasu Okazaki",
-      "away": "Verspah Oita",
-      "event_id": "10010898",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787989537.0332313
-    },
     "Broadmeadow Magic|Weston Workers": {
       "home": "Broadmeadow Magic",
       "away": "Weston Workers",
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787989563.6179166
+      "last_checked": 1787990119.7010674
     },
     "Cooma|Canberra Juventus FC": {
       "home": "Cooma",
@@ -57,7 +34,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.08,
+            5.9
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -67,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787989590.121887
+      "last_checked": 1787990151.3920932
     },
     "Rydalmere Lions U20|Dulwich Hill": {
       "home": "Rydalmere Lions U20",
@@ -90,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787989616.7196505
+      "last_checked": 1787990177.8666089
     },
     "Hills Utd Brumbies|Mariners Academy": {
       "home": "Hills Utd Brumbies",
@@ -113,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787989643.4974232
+      "last_checked": 1787990204.6837366
+    },
+    "Bankstown Berries|Macarthur": {
+      "home": "Bankstown Berries",
+      "away": "Macarthur",
+      "event_id": "10010911",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787990231.2044334
     }
   }
 }
