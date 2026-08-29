@@ -1,37 +1,27 @@
 {
-  "generated_at": 1788046637.063363,
+  "generated_at": 1788047227.2358234,
   "matches": [
     {
-      "match": "CA Huracan - Estudiantes Río Cuarto",
+      "match": "Atlanta Utd - Charlotte FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
+          "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": 4.5,
             "odds": [
-              1.12,
-              5.0
+              1.88,
+              1.79
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.12,
-                "under": 5.0
-              },
-              {
-                "line": 8.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 9.5,
-                "over": 3.0,
-                "under": 1.32
+                "line": 4.5,
+                "over": 1.88,
+                "under": 1.79
               }
             ]
-          },
-          "CARDS_OU": null
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -47,7 +37,7 @@
       "alerts": []
     },
     {
-      "match": "São Paulo - Red Bull Bragantino",
+      "match": "DC United - Los Angeles",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -55,69 +45,41 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.35,
-              2.85
+              1.61,
+              2.18
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.61,
+                "under": 2.18
               },
               {
                 "line": 9.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.99,
+                "under": 1.74
               },
               {
                 "line": 10.5,
-                "over": 2.1,
-                "under": 1.62
+                "over": 2.54,
+                "under": 1.46
               }
             ]
           },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "São Paulo - Red Bull Bragantino",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 8.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "São Paulo - Red Bull Bragantino",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.47 a 1.35 (8.9%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "São Paulo - Red Bull Bragantino",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.45 a 2.85 (16.3%)"
-        }
-      ]
-    },
-    {
-      "match": "Junior - Santa Fe",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              2.02,
+              1.68
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 2.02,
+                "under": 1.68
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -133,13 +95,49 @@
       "alerts": []
     },
     {
-      "match": "Real Cartagena - Tigres",
+      "match": "Inter Miami CF - CF Montreal",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.48,
+              2.48
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.48,
+                "under": 2.48
+              },
+              {
+                "line": 8.5,
+                "over": 1.8,
+                "under": 1.91
+              },
+              {
+                "line": 9.5,
+                "over": 2.28,
+                "under": 1.56
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              2.14,
+              1.61
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 2.14,
+                "under": 1.61
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -155,13 +153,107 @@
       "alerts": []
     },
     {
-      "match": "Real Refineros - Artesanos Metepec F.C.",
+      "match": "New York Red Bulls - Philadelphia Union",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.68,
+              2.06
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.68,
+                "under": 2.06
+              },
+              {
+                "line": 9.5,
+                "over": 2.1,
+                "under": 1.66
+              },
+              {
+                "line": 10.5,
+                "over": 2.7,
+                "under": 1.41
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.75,
+              1.92
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.75,
+                "under": 1.92
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Toronto - New York City",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.62,
+              2.16
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.62,
+                "under": 2.16
+              },
+              {
+                "line": 9.5,
+                "over": 2.0,
+                "under": 1.72
+              },
+              {
+                "line": 10.5,
+                "over": 2.56,
+                "under": 1.45
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.85,
+              1.82
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.85,
+                "under": 1.82
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -177,5 +269,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 0
 }
