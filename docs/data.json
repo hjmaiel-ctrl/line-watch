@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788025623.9182608,
+  "generated_at": 1788026215.7151341,
   "matches": [
     {
       "match": "Tottenham Hotspur - Newcastle United",
@@ -8,34 +8,34 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 14.5,
+            "line": 13.5,
             "odds": [
-              1.17,
-              4.25
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
+                "line": 13.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
                 "line": 14.5,
-                "over": 1.17,
-                "under": 4.25
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 15.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 1.9,
+                "under": 1.78
               },
               {
                 "line": 16.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 2.65,
+                "under": 1.4
               },
               {
                 "line": 17.5,
-                "over": 2.6,
-                "under": 1.42
-              },
-              {
-                "line": 18.5,
                 "over": 3.9,
                 "under": 1.2
               }
@@ -44,14 +44,14 @@
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.52,
-              2.3
+              1.75,
+              1.92
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.75,
+                "under": 1.92
               }
             ]
           }
@@ -71,20 +71,20 @@
         {
           "type": "linea_cambiata",
           "match": "Tottenham Hotspur - Newcastle United",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 3.5"
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 14.5 a 13.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Tottenham Hotspur - Newcastle United",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.98 a 1.52 (30.3%)"
+          "detail": "bet9ja: esito #1 passato da 1.52 a 1.75 (15.1%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Tottenham Hotspur - Newcastle United",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.7 a 2.3 (35.3%)"
+          "detail": "bet9ja: esito #2 passato da 2.3 a 1.92 (19.8%)"
         }
       ]
     },
@@ -97,48 +97,48 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.22,
-              3.65
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 11.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 12.5,
-                "over": 2.1,
-                "under": 1.62
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 13.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 14.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 5.0,
+                "under": 1.12
               }
             ]
           },
           "CARDS_OU": {
             "line": 5.5,
             "odds": [
-              1.78,
-              1.9
+              1.87,
+              1.8
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 1.87,
+                "under": 1.8
               }
             ]
           }
@@ -156,28 +156,10 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Real Sociedad - Espanyol",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 10.5"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Real Sociedad - Espanyol",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 5.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Real Sociedad - Espanyol",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.98 a 1.78 (11.2%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Real Sociedad - Espanyol",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.7 a 1.9 (11.8%)"
+          "detail": "bet9ja: esito #2 passato da 3.65 a 3.25 (12.3%)"
         }
       ]
     },
@@ -187,18 +169,51 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 12.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 12.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 13.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 14.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 15.5,
+                "over": 3.0,
+                "under": 1.32
+              },
+              {
+                "line": 16.5,
+                "over": 4.25,
+                "under": 1.17
+              }
+            ]
+          },
           "CARDS_OU": {
             "line": 7.5,
             "odds": [
-              1.82,
-              1.85
+              2.2,
+              1.57
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 2.2,
+                "under": 1.57
               }
             ]
           }
@@ -216,22 +231,16 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Fiorentina - Frosinone",
           "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 7.5"
+          "detail": "bet9ja: esito #1 passato da 1.82 a 2.2 (20.9%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Fiorentina - Frosinone",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.55 a 1.82 (17.4%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Fiorentina - Frosinone",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.25 a 1.85 (21.6%)"
+          "detail": "bet9ja: esito #2 passato da 1.85 a 1.57 (17.8%)"
         }
       ]
     },
@@ -266,14 +275,14 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.25,
-              3.45
+              1.2,
+              3.9
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.25,
-                "under": 3.45
+                "over": 1.2,
+                "under": 3.9
               },
               {
                 "line": 8.5,
@@ -282,32 +291,32 @@
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 10.5,
-                "over": 3.9,
-                "under": 1.2
+                "over": 4.5,
+                "under": 1.15
               },
               {
                 "line": 11.5,
-                "over": 7.0,
-                "under": 1.05
+                "over": 9.0,
+                "under": 1.02
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.6,
-              2.15
+              2.15,
+              1.6
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 2.15,
+                "under": 1.6
               }
             ]
           }
@@ -325,37 +334,25 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
-          "match": "Sassuolo - Torino",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 7.5"
-        },
-        {
           "type": "quota_cambiata",
           "match": "Sassuolo - Torino",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.13 a 1.25 (10.6%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Sassuolo - Torino",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.75 a 3.45 (37.7%)"
+          "detail": "bet9ja: esito #2 passato da 3.45 a 3.9 (13.0%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Sassuolo - Torino",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.25 a 1.6 (40.6%)"
+          "detail": "bet9ja: esito #1 passato da 1.6 a 2.15 (34.4%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Sassuolo - Torino",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.55 a 2.15 (38.7%)"
+          "detail": "bet9ja: esito #2 passato da 2.15 a 1.6 (34.4%)"
         }
       ]
     }
   ],
-  "alert_count_this_run": 15
+  "alert_count_this_run": 9
 }

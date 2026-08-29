@@ -8,34 +8,34 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 14.5,
+            "line": 13.5,
             "odds": [
-              1.17,
-              4.25
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
+                "line": 13.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
                 "line": 14.5,
-                "over": 1.17,
-                "under": 4.25
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 15.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 1.9,
+                "under": 1.78
               },
               {
                 "line": 16.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 2.65,
+                "under": 1.4
               },
               {
                 "line": 17.5,
-                "over": 2.6,
-                "under": 1.42
-              },
-              {
-                "line": 18.5,
                 "over": 3.9,
                 "under": 1.2
               }
@@ -44,14 +44,14 @@
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.52,
-              2.3
+              1.75,
+              1.92
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.75,
+                "under": 1.92
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788025526.4298565
+      "last_checked": 1788026119.7858233
     },
     "Real Sociedad|Espanyol": {
       "home": "Real Sociedad",
@@ -79,48 +79,48 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.22,
-              3.65
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 11.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 12.5,
-                "over": 2.1,
-                "under": 1.62
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 13.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 14.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 5.0,
+                "under": 1.12
               }
             ]
           },
           "CARDS_OU": {
             "line": 5.5,
             "odds": [
-              1.78,
-              1.9
+              1.87,
+              1.8
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 1.87,
+                "under": 1.8
               }
             ]
           }
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788025549.4631524
+      "last_checked": 1788026142.9156513
     },
     "Fiorentina|Frosinone": {
       "home": "Fiorentina",
@@ -145,18 +145,51 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 12.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 12.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 13.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 14.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 15.5,
+                "over": 3.0,
+                "under": 1.32
+              },
+              {
+                "line": 16.5,
+                "over": 4.25,
+                "under": 1.17
+              }
+            ]
+          },
           "CARDS_OU": {
             "line": 7.5,
             "odds": [
-              1.82,
-              1.85
+              2.2,
+              1.57
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 2.2,
+                "under": 1.57
               }
             ]
           }
@@ -172,7 +205,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788025574.217693
+      "last_checked": 1788026165.8885949
     },
     "Monza|Udinese": {
       "home": "Monza",
@@ -195,7 +228,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788025600.7791238
+      "last_checked": 1788026192.6199474
     },
     "Sassuolo|Torino": {
       "home": "Sassuolo",
@@ -207,14 +240,14 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.25,
-              3.45
+              1.2,
+              3.9
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.25,
-                "under": 3.45
+                "over": 1.2,
+                "under": 3.9
               },
               {
                 "line": 8.5,
@@ -223,32 +256,32 @@
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 10.5,
-                "over": 3.9,
-                "under": 1.2
+                "over": 4.5,
+                "under": 1.15
               },
               {
                 "line": 11.5,
-                "over": 7.0,
-                "under": 1.05
+                "over": 9.0,
+                "under": 1.02
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.6,
-              2.15
+              2.15,
+              1.6
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 2.15,
+                "under": 1.6
               }
             ]
           }
@@ -264,7 +297,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788025623.8696682
+      "last_checked": 1788026215.684599
     }
   }
 }
