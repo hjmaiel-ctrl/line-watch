@@ -1,28 +1,6 @@
 {
-  "generated_at": 1787986645.0070014,
+  "generated_at": 1787987249.1062253,
   "matches": [
-    {
-      "match": "Robina City - Ipswich FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Salisbury International - Western Strikers",
       "bet9ja_stats": null,
@@ -91,6 +69,32 @@
     },
     {
       "match": "Playford City - Adelaide City",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            28.0,
+            4.7
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Broadmeadow Magic - Weston Workers",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

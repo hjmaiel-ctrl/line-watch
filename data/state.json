@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Robina City|Ipswich FC": {
-      "home": "Robina City",
-      "away": "Ipswich FC",
-      "event_id": "10010894",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787986537.1091144
-    },
     "Salisbury International|Western Strikers": {
       "home": "Salisbury International",
       "away": "Western Strikers",
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787986563.8697705
+      "last_checked": 1787987136.6581364
     },
     "Adelaide Blue Eagles|Raiders": {
       "home": "Adelaide Blue Eagles",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787986590.8827746
+      "last_checked": 1787987163.419903
     },
     "Maruyasu Okazaki|Verspah Oita": {
       "home": "Maruyasu Okazaki",
@@ -90,12 +67,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787986618.0498037
+      "last_checked": 1787987190.2345843
     },
     "Playford City|Adelaide City": {
       "home": "Playford City",
       "away": "Adelaide City",
       "event_id": "10010899",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            28.0,
+            4.7
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787987222.094955
+    },
+    "Broadmeadow Magic|Weston Workers": {
+      "home": "Broadmeadow Magic",
+      "away": "Weston Workers",
+      "event_id": "10010902",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787986644.9613864
+      "last_checked": 1787987249.0631614
     }
   }
 }
