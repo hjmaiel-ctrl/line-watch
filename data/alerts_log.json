@@ -1600,5 +1600,17 @@
     "match": "Queanbeyan City FC - Tuggeranong United FC",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 1.75 a 4.1 (134.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Queanbeyan City FC - Tuggeranong United FC",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 25.0 a 50.0 (100.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Queanbeyan City FC - Tuggeranong United FC",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 4.1 a 6.5 (58.5%)"
   }
 ]
