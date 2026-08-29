@@ -1,29 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Boca Juniors - Lanus",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 13.5 a 15.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Boca Juniors - Lanus",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.25 a 1.6 (28.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Boca Juniors - Lanus",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.45 a 2.15 (60.5%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Boca Juniors - Lanus",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 15.5 a 14.5"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Boca Juniors - Lanus",
     "market": "CORNERS_OU",
@@ -2998,5 +2974,29 @@
     "match": "Atlético Mineiro - EC Vitória",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.1 a 2.3 (9.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Seattle Sounders - Chicago Fire",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Seattle Sounders - Chicago Fire",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.62 a 1.28 (26.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Seattle Sounders - Chicago Fire",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.16 a 3.4 (57.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Seattle Sounders - Chicago Fire",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 2.5 a 3.5"
   }
 ]

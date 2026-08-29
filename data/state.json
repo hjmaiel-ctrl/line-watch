@@ -8,40 +8,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.62,
-              2.16
+              1.28,
+              3.4
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.28,
+                "under": 3.4
+              },
+              {
                 "line": 8.5,
-                "over": 1.62,
-                "under": 2.16
+                "over": 1.66,
+                "under": 2.1
               },
               {
                 "line": 9.5,
-                "over": 2.18,
-                "under": 1.61
-              },
-              {
-                "line": 10.5,
-                "over": 3.1,
-                "under": 1.32
+                "over": 2.36,
+                "under": 1.53
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 3.5,
             "odds": [
-              1.85,
-              1.82
+              1.89,
+              1.79
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.85,
-                "under": 1.82
+                "line": 3.5,
+                "over": 1.89,
+                "under": 1.79
               }
             ]
           }
@@ -57,30 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788039929.5862298
-    },
-    "Rosario Central|Gimnasia y Esgrima La Plata": {
-      "home": "Rosario Central",
-      "away": "Gimnasia y Esgrima La Plata",
-      "event_id": "10011940",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788039956.4642332
+      "last_checked": 1788040511.737189
     },
     "Atlético Mineiro|EC Vitória": {
       "home": "Atlético Mineiro",
@@ -92,19 +69,19 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.52,
-              2.3
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 11.5,
-                "over": 1.9,
-                "under": 1.78
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 12.5,
@@ -126,7 +103,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788039981.6347725
+      "last_checked": 1788040536.6551895
     },
     "Botafogo SP|Cuiabá EC": {
       "home": "Botafogo SP",
@@ -149,7 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788040008.671179
+      "last_checked": 1788040563.18707
     },
     "Deportes Limache|Everton de Viña del Mar": {
       "home": "Deportes Limache",
@@ -172,7 +149,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788040035.5024886
+      "last_checked": 1788040589.9899921
+    },
+    "Guayaquil City FC|LDU Quito": {
+      "home": "Guayaquil City FC",
+      "away": "LDU Quito",
+      "event_id": "10011965",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788040616.5887434
     }
   }
 }
