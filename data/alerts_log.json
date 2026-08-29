@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Mito Hollyhock - Machida Zelvia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.0 a 3.9 (30.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Gamba Osaka - Sanfrecce Hiroshima",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Gamba Osaka - Sanfrecce Hiroshima",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.85 a 3.25 (14.0%)"
@@ -2998,5 +2986,17 @@
     "match": "CA Huracan - Estudiantes Río Cuarto",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.6 a 2.25 (15.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "CA Huracan - Estudiantes Río Cuarto",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.55 a 1.42 (9.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "CA Huracan - Estudiantes Río Cuarto",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.25 a 2.6 (15.6%)"
   }
 ]

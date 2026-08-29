@@ -7,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.15,
-              4.5
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.15,
-                "under": 4.5
-              },
-              {
-                "line": 8.5,
-                "over": 1.78,
-                "under": 1.9
-              },
-              {
-                "line": 9.5,
-                "over": 3.25,
-                "under": 1.28
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788044755.1693296
+      "last_checked": 1788045331.7098465
     },
     "CA Huracan|Estudiantes Río Cuarto": {
       "home": "CA Huracan",
@@ -56,24 +33,24 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.55,
-              2.25
+              1.42,
+              2.6
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 7.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 8.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -90,53 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788044780.401224
-    },
-    "São Paulo|Red Bull Bragantino": {
-      "home": "São Paulo",
-      "away": "Red Bull Bragantino",
-      "event_id": "10017215",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.45,
-              2.5
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
-                "line": 10.5,
-                "over": 1.73,
-                "under": 1.95
-              },
-              {
-                "line": 11.5,
-                "over": 2.15,
-                "under": 1.6
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788044805.541698
+      "last_checked": 1788045356.980882
     },
     "Botafogo SP|Cuiabá EC": {
       "home": "Botafogo SP",
@@ -159,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788044832.5573344
+      "last_checked": 1788045383.6657157
     },
     "Deportes Limache|Everton de Viña del Mar": {
       "home": "Deportes Limache",
@@ -182,7 +113,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788044859.1024563
+      "last_checked": 1788045410.3626826
+    },
+    "Jaguares de Córdoba|América de Cali": {
+      "home": "Jaguares de Córdoba",
+      "away": "América de Cali",
+      "event_id": "10011967",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788045439.016117
     }
   }
 }
