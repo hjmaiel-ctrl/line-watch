@@ -7,7 +7,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.2,
+              3.75
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.2,
+                "under": 3.75
+              },
+              {
+                "line": 9.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 10.5,
+                "over": 1.85,
+                "under": 1.82
+              },
+              {
+                "line": 11.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 12.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -21,7 +54,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788005179.2227044
+      "last_checked": 1788005749.8692458
     },
     "Wolverhampton Wanderers|Stoke City": {
       "home": "Wolverhampton Wanderers",
@@ -44,37 +77,37 @@
               },
               {
                 "line": 6.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 7.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 8.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 9.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 6.5,
             "odds": [
-              1.65,
-              2.05
+              1.92,
+              1.75
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.65,
-                "under": 2.05
+                "line": 6.5,
+                "over": 1.92,
+                "under": 1.75
               }
             ]
           }
@@ -90,7 +123,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788005202.2831004
+      "last_checked": 1788005774.5368974
     },
     "Derby County|Swansea City": {
       "home": "Derby County",
@@ -100,36 +133,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
               1.25,
               3.45
             ],
             "_all_lines": [
               {
-                "line": 4.5,
+                "line": 3.5,
                 "over": 1.25,
                 "under": 3.45
               },
               {
-                "line": 5.5,
+                "line": 4.5,
                 "over": 1.52,
                 "under": 2.3
               },
               {
+                "line": 5.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
                 "line": 6.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 2.85,
+                "under": 1.35
               },
               {
                 "line": 7.5,
-                "over": 2.5,
-                "under": 1.45
-              },
-              {
-                "line": 8.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
@@ -146,7 +179,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788005227.4425457
+      "last_checked": 1788005799.665592
     },
     "Middlesbrough|West Bromwich Albion": {
       "home": "Middlesbrough",
@@ -156,36 +189,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.22,
-              3.5
+              1.2,
+              3.9
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.22,
-                "under": 3.5
-              },
-              {
                 "line": 9.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.2,
+                "under": 3.9
               },
               {
                 "line": 10.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 11.5,
                 "over": 1.92,
                 "under": 1.75
               },
               {
-                "line": 11.5,
-                "over": 2.6,
-                "under": 1.42
+                "line": 12.5,
+                "over": 2.65,
+                "under": 1.4
               },
               {
-                "line": 12.5,
-                "over": 3.65,
-                "under": 1.22
+                "line": 13.5,
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
@@ -202,7 +235,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788005252.4161775
+      "last_checked": 1788005824.8487818
     },
     "Milton Keynes Dons|Leicester City": {
       "home": "Milton Keynes Dons",
@@ -225,7 +258,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788005279.071494
+      "last_checked": 1788005851.7859757
     }
   }
 }
