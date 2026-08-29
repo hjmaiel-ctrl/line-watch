@@ -3,12 +3,6 @@
     "type": "quota_cambiata",
     "match": "Playford City - Adelaide City",
     "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 4.7 a 5.4 (14.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Playford City - Adelaide City",
-    "market": "1X2",
     "detail": "sportybet: esito #2 passato da 55.0 a 100.0 (81.8%)"
   },
   {
@@ -2998,5 +2992,11 @@
     "match": "CA Huracan - Estudiantes Río Cuarto",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.45 a 2.7 (10.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Atlético Mineiro - EC Vitória",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 7.5"
   }
 ]
