@@ -8,34 +8,34 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              1.2,
-              3.9
+              1.05,
+              7.0
             ],
             "_all_lines": [
               {
+                "line": 3.5,
+                "over": 1.05,
+                "under": 7.0
+              },
+              {
                 "line": 4.5,
-                "over": 1.2,
-                "under": 3.9
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 5.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 6.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 3.65,
+                "under": 1.22
               },
               {
                 "line": 7.5,
-                "over": 3.9,
-                "under": 1.2
-              },
-              {
-                "line": 8.5,
                 "over": 6.5,
                 "under": 1.07
               }
@@ -44,14 +44,14 @@
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.65,
-              2.05
+              1.95,
+              1.73
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.95,
+                "under": 1.73
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788036924.559307
+      "last_checked": 1788037524.2678351
     },
     "Girona|UD Las Palmas": {
       "home": "Girona",
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788036951.1257555
+      "last_checked": 1788037550.802178
     },
-    "Ascoli|Carrarese": {
-      "home": "Ascoli",
-      "away": "Carrarese",
-      "event_id": "10011901",
+    "Forli|Pescara": {
+      "home": "Forli",
+      "away": "Pescara",
+      "event_id": "10011898",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,24 +113,56 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788036977.596792
+      "last_checked": 1788037577.2601566
     },
-    "Padova|Hellas Verona": {
-      "home": "Padova",
-      "away": "Hellas Verona",
-      "event_id": "10011902",
+    "Seattle Sounders|Chicago Fire": {
+      "home": "Seattle Sounders",
+      "away": "Chicago Fire",
+      "event_id": "10011961",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.36,
+              2.88
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.36,
+                "under": 2.88
+              },
+              {
+                "line": 9.5,
+                "over": 1.67,
+                "under": 2.08
+              },
+              {
+                "line": 10.5,
+                "over": 2.16,
+                "under": 1.63
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.82,
+              1.85
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.82,
+                "under": 1.85
+              }
+            ]
+          }
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            16.0,
-            1.05
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -140,12 +172,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788037009.492388
+      "last_checked": 1788037600.4940507
     },
-    "Cosenza|Potenza": {
-      "home": "Cosenza",
-      "away": "Potenza",
-      "event_id": "10011866",
+    "SC União Torreense|Vizela": {
+      "home": "SC União Torreense",
+      "away": "Vizela",
+      "event_id": "10011914",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -163,7 +195,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788037036.021378
+      "last_checked": 1788037627.1048012
     }
   }
 }

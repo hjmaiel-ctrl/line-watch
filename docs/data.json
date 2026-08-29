@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788037036.0844417,
+  "generated_at": 1788037627.1453917,
   "matches": [
     {
       "match": "Sevilla - Atlético de Madrid",
@@ -8,34 +8,34 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              1.2,
-              3.9
+              1.05,
+              7.0
             ],
             "_all_lines": [
               {
+                "line": 3.5,
+                "over": 1.05,
+                "under": 7.0
+              },
+              {
                 "line": 4.5,
-                "over": 1.2,
-                "under": 3.9
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 5.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 6.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 3.65,
+                "under": 1.22
               },
               {
                 "line": 7.5,
-                "over": 3.9,
-                "under": 1.2
-              },
-              {
-                "line": 8.5,
                 "over": 6.5,
                 "under": 1.07
               }
@@ -44,14 +44,14 @@
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.65,
-              2.05
+              1.95,
+              1.73
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.95,
+                "under": 1.73
               }
             ]
           }
@@ -72,13 +72,31 @@
           "type": "linea_cambiata",
           "match": "Sevilla - Atlético de Madrid",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 4.5"
+          "detail": "bet9ja: linea passata da 4.5 a 3.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Sevilla - Atlético de Madrid",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.45 a 3.9 (13.0%)"
+          "detail": "bet9ja: esito #1 passato da 1.2 a 1.05 (14.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Sevilla - Atlético de Madrid",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.9 a 7.0 (79.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Sevilla - Atlético de Madrid",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.65 a 1.95 (18.2%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Sevilla - Atlético de Madrid",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.05 a 1.73 (18.5%)"
         }
       ]
     },
@@ -105,7 +123,7 @@
       "alerts": []
     },
     {
-      "match": "Ascoli - Carrarese",
+      "match": "Forli - Pescara",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -127,20 +145,52 @@
       "alerts": []
     },
     {
-      "match": "Padova - Hellas Verona",
+      "match": "Seattle Sounders - Chicago Fire",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.36,
+              2.88
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.36,
+                "under": 2.88
+              },
+              {
+                "line": 9.5,
+                "over": 1.67,
+                "under": 2.08
+              },
+              {
+                "line": 10.5,
+                "over": 2.16,
+                "under": 1.63
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.82,
+              1.85
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.82,
+                "under": 1.85
+              }
+            ]
+          }
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            16.0,
-            1.05
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -153,7 +203,7 @@
       "alerts": []
     },
     {
-      "match": "Cosenza - Potenza",
+      "match": "SC União Torreense - Vizela",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -175,5 +225,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 5
 }
