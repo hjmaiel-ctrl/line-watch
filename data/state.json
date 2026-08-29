@@ -8,20 +8,7 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.55,
-              2.25
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.55,
-                "under": 2.25
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -34,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788028528.3188627
+      "last_checked": 1788029137.723258
     },
     "Académico de Viseu|FC Porto": {
       "home": "Académico de Viseu",
@@ -57,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788028555.3552792
+      "last_checked": 1788029164.7031562
     },
     "Gazisehir Gaziantep F.K.|Caykur Rizespor": {
       "home": "Gazisehir Gaziantep F.K.",
@@ -67,36 +54,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.22,
-              3.65
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
                 "line": 7.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 8.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.65,
+                "under": 2.0
               },
               {
                 "line": 9.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 2.15,
+                "under": 1.6
               },
               {
                 "line": 10.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 11.5,
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
@@ -113,7 +100,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788028580.5573575
+      "last_checked": 1788029190.237602
+    },
+    "Galatasaray SK|Göztepe": {
+      "home": "Galatasaray SK",
+      "away": "Göztepe",
+      "event_id": "10011812",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.18,
+              4.0
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.18,
+                "under": 4.0
+              },
+              {
+                "line": 9.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 10.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 11.5,
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 12.5,
+                "over": 2.85,
+                "under": 1.35
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788029215.5402389
     },
     "Albacete Balompié|Real Oviedo": {
       "home": "Albacete Balompié",
@@ -136,30 +179,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788028607.3458705
-    },
-    "Leganés|CD Eldense": {
-      "home": "Leganés",
-      "away": "CD Eldense",
-      "event_id": "10011592",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788028634.168205
+      "last_checked": 1788029244.1457171
     }
   }
 }
