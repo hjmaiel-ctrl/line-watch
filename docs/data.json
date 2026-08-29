@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787966843.0531492,
+  "generated_at": 1787967436.0287018,
   "matches": [
     {
       "match": "Boca Juniors - Lanus",
@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 11.5,
             "odds": [
-              1.32,
-              3.0
+              1.4,
+              2.65
             ],
             "_all_lines": [
               {
                 "line": 11.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 12.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.85,
+                "under": 1.82
               },
               {
                 "line": 13.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.6,
+                "under": 1.42
               }
             ]
           },
@@ -44,51 +44,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
-    },
-    {
-      "match": "Clube Náutico Capibaribe - Athletic Club MG",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Boca Juniors - Lanus",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.0 a 2.65 (13.2%)"
         }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Gremio Novorizontino - Sport Club do Recife",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
+      ]
     },
     {
       "match": "Club Deportivo Técnico Universitario - Deportivo Cuenca",
@@ -133,7 +96,55 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Charlotte Independence - Av Alta FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            11.5,
+            100.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Chapulineros de Oaxaca - Jaguares de Chiapas",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }
