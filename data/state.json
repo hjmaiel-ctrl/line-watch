@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Broadmeadow Magic|Weston Workers": {
-      "home": "Broadmeadow Magic",
-      "away": "Weston Workers",
-      "event_id": "10010902",
+    "Cadiz B|Club Atletico Central": {
+      "home": "Cadiz B",
+      "away": "Club Atletico Central",
+      "event_id": "10010928",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,7 +21,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787990119.7010674
+      "last_checked": 1787990742.0818532
+    },
+    "Southern District RSA|Kowloon City": {
+      "home": "Southern District RSA",
+      "away": "Kowloon City",
+      "event_id": "10010941",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787990768.642245
+    },
+    "North District|Kitchee": {
+      "home": "North District",
+      "away": "Kitchee",
+      "event_id": "10010942",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1787990795.2555377
     },
     "Cooma|Canberra Juventus FC": {
       "home": "Cooma",
@@ -34,11 +80,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.08,
-            5.9
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -48,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787990151.3920932
+      "last_checked": 1787990821.8740087
     },
     "Rydalmere Lions U20|Dulwich Hill": {
       "home": "Rydalmere Lions U20",
@@ -71,53 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1787990177.8666089
-    },
-    "Hills Utd Brumbies|Mariners Academy": {
-      "home": "Hills Utd Brumbies",
-      "away": "Mariners Academy",
-      "event_id": "10010909",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787990204.6837366
-    },
-    "Bankstown Berries|Macarthur": {
-      "home": "Bankstown Berries",
-      "away": "Macarthur",
-      "event_id": "10010911",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1787990231.2044334
+      "last_checked": 1787990848.5283556
     }
   }
 }
