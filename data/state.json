@@ -10,34 +10,34 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.17,
-              4.25
+              1.08,
+              6.0
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.17,
-                "under": 4.25
+                "over": 1.08,
+                "under": 6.0
               },
               {
                 "line": 11.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 12.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 13.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 4.5,
+                "under": 1.15
               },
               {
                 "line": 14.5,
-                "over": 5.5,
-                "under": 1.1
+                "over": 8.0,
+                "under": 1.03
               }
             ]
           },
@@ -54,30 +54,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788108931.0501595
-    },
-    "Real Madrid|Málaga": {
-      "home": "Real Madrid",
-      "away": "Málaga",
-      "event_id": "10022207",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788108957.5588012
+      "last_checked": 1788109542.806999
     },
     "Napoli|Como": {
       "home": "Napoli",
@@ -86,51 +63,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.18,
-              4.1
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.18,
-                "under": 4.1
-              },
-              {
-                "line": 7.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 8.5,
-                "over": 1.75,
-                "under": 1.92
-              },
-              {
-                "line": 9.5,
-                "over": 2.35,
-                "under": 1.5
-              },
-              {
-                "line": 10.5,
-                "over": 3.25,
-                "under": 1.28
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.75,
-              1.92
+              1.95,
+              1.73
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.95,
+                "under": 1.73
               }
             ]
           }
@@ -146,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788108980.6612473
+      "last_checked": 1788109568.031932
     },
     "Stade Rennais|Le Mans FC": {
       "home": "Stade Rennais",
@@ -169,7 +113,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788109007.360744
+      "last_checked": 1788109594.7750757
+    },
+    "Casa Pia|Moreirense FC": {
+      "home": "Casa Pia",
+      "away": "Moreirense FC",
+      "event_id": "10017973",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788109621.8042896
     },
     "Eyüpspor|Alanyaspor": {
       "home": "Eyüpspor",
@@ -181,34 +148,34 @@
           "CORNERS_OU": {
             "line": 3.5,
             "odds": [
-              1.15,
-              4.5
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.15,
-                "under": 4.5
+                "over": 1.22,
+                "under": 3.65
               },
               {
                 "line": 4.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 5.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 6.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 3.45,
+                "under": 1.25
               },
               {
                 "line": 7.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 5.75,
+                "under": 1.09
               }
             ]
           },
@@ -225,7 +192,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788109032.3747222
+      "last_checked": 1788109646.8817694
     }
   }
 }
