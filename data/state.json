@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.17,
-              4.25
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.17,
-                "under": 4.25
+                "over": 1.18,
+                "under": 4.1
               },
               {
                 "line": 10.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 11.5,
-                "over": 1.8,
-                "under": 1.87
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 12.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 13.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.87,
-              1.8
+              2.1,
+              1.62
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 2.1,
+                "under": 1.62
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788106557.5948148
+      "last_checked": 1788107123.4810355
     },
     "Real Madrid|Málaga": {
       "home": "Real Madrid",
@@ -76,51 +76,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 10.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
-                "line": 11.5,
-                "over": 2.25,
-                "under": 1.55
-              },
-              {
-                "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 13.5,
-                "over": 5.75,
-                "under": 1.09
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
             "line": 1.5,
             "odds": [
-              2.05,
-              1.65
+              2.65,
+              1.4
             ],
             "_all_lines": [
               {
                 "line": 1.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 2.65,
+                "under": 1.4
               }
             ]
           }
@@ -136,7 +103,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788106580.6988556
+      "last_checked": 1788107148.5499868
     },
     "Stade Rennais|Le Mans FC": {
       "home": "Stade Rennais",
@@ -145,54 +112,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 13.5,
-                "over": 1.5,
-                "under": 2.35
-              },
-              {
-                "line": 14.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 15.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 16.5,
-                "over": 4.25,
-                "under": 1.17
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.92,
-              1.75
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.92,
-                "under": 1.75
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -205,7 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788106603.7911122
+      "last_checked": 1788107175.5243328
     },
     "SC Telstar|Ajax": {
       "home": "SC Telstar",
@@ -228,16 +149,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788106630.5746062
+      "last_checked": 1788107202.490033
     },
-    "Nacional da Madeira|Club Football Estrela": {
-      "home": "Nacional da Madeira",
-      "away": "Club Football Estrela",
-      "event_id": "10017739",
+    "Eyüpspor|Alanyaspor": {
+      "home": "Eyüpspor",
+      "away": "Alanyaspor",
+      "event_id": "10017918",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 5.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 6.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 7.5,
+                "over": 2.7,
+                "under": 1.38
+              },
+              {
+                "line": 8.5,
+                "over": 3.9,
+                "under": 1.2
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -251,7 +205,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788106657.364257
+      "last_checked": 1788107227.6206331
     }
   }
 }
