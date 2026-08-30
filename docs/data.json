@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788086827.4039,
+  "generated_at": 1788087448.474948,
   "matches": [
     {
       "match": "FC Utrecht - PSV Eindhoven",
@@ -8,36 +8,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 11.5,
             "odds": [
-              1.2,
-              3.9
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
-                "line": 10.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
                 "line": 11.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.18,
+                "under": 4.1
               },
               {
                 "line": 12.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 13.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 14.5,
+                "over": 2.2,
+                "under": 1.57
+              },
+              {
+                "line": 15.5,
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -54,10 +54,39 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "FC Utrecht - PSV Eindhoven",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 11.5"
+        }
+      ]
     },
     {
       "match": "FC Eindhoven - Heracles Almelo",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Amarante FC - Benfica B",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -121,29 +150,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Chernomorets Odessa - Kryvbas Kriviy Rih",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }
