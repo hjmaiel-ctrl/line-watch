@@ -1,35 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Toronto - New York City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.29 a 1.61 (24.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Toronto - New York City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.3 a 2.12 (55.7%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "Atlanta Utd - Charlotte FC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja=1.39 vs sportybet=2.4 (esito #1, differenza 72.7%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "Atlanta Utd - Charlotte FC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja=2.7 vs sportybet=1.4 (esito #2, differenza 92.9%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Atlanta Utd - Charlotte FC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 12.5 a 14.5"
-  },
-  {
     "type": "quota_differente",
     "match": "Atlanta Utd - Charlotte FC",
     "market": "CARDS_OU",
@@ -2998,5 +2968,35 @@
     "match": "Celta de Vigo - Athletic Bilbao",
     "market": "CARDS_OU",
     "detail": "bet9ja: linea passata da 2.5 a 3.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.07 a 1.18 (10.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.5 a 4.0 (62.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.05 a 1.65 (24.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.65 a 2.05 (24.2%)"
   }
 ]
