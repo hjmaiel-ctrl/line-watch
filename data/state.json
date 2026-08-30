@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Howler's FC|Northerners FC": {
-      "home": "Howler's FC",
-      "away": "Northerners FC",
-      "event_id": "10017361",
+    "Tai Po FC|Eastern Athletic": {
+      "home": "Tai Po FC",
+      "away": "Eastern Athletic",
+      "event_id": "10017399",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788076520.7824612
+      "last_checked": 1788077149.6508825
     },
     "University Azzurri|Garuda FC": {
       "home": "University Azzurri",
@@ -44,53 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788076547.27779
-    },
-    "Maitland|Edgeworth": {
-      "home": "Maitland",
-      "away": "Edgeworth",
-      "event_id": "10017375",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788076573.7531831
-    },
-    "Bandito Ikoma|Route 11": {
-      "home": "Bandito Ikoma",
-      "away": "Route 11",
-      "event_id": "10017377",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788076600.3658345
+      "last_checked": 1788077175.6444945
     },
     "Queensland Lions|Peninsula": {
       "home": "Queensland Lions",
@@ -113,7 +67,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788076626.8733459
+      "last_checked": 1788077201.6409423
+    },
+    "Siheung Citizen|FC Pocheon": {
+      "home": "Siheung Citizen",
+      "away": "FC Pocheon",
+      "event_id": "10017386",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788077227.6654446
+    },
+    "SSU Politehnica Timisoara|AFC ASA Tg.Mures": {
+      "home": "SSU Politehnica Timisoara",
+      "away": "AFC ASA Tg.Mures",
+      "event_id": "10017393",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788077253.6506083
     }
   }
 }
