@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788055638.8200378,
+  "generated_at": 1788056228.4258466,
   "matches": [
     {
       "match": "Sporting Kansas City - Vancouver Whitecaps",
@@ -7,18 +7,41 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.53,
+              2.28
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.53,
+                "under": 2.28
+              },
+              {
+                "line": 6.5,
+                "over": 2.48,
+                "under": 1.46
+              },
+              {
+                "line": 7.5,
+                "over": 4.3,
+                "under": 1.16
+              }
+            ]
+          },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              2.18,
-              1.58
+              1.47,
+              2.38
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 2.18,
-                "under": 1.58
+                "over": 1.47,
+                "under": 2.38
               }
             ]
           }
@@ -39,13 +62,13 @@
           "type": "quota_cambiata",
           "match": "Sporting Kansas City - Vancouver Whitecaps",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.75 a 2.18 (24.6%)"
+          "detail": "bet9ja: esito #1 passato da 2.18 a 1.47 (48.3%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Sporting Kansas City - Vancouver Whitecaps",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.93 a 1.58 (22.2%)"
+          "detail": "bet9ja: esito #2 passato da 1.58 a 2.38 (50.6%)"
         }
       ]
     },
@@ -55,30 +78,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.37,
-              2.8
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.37,
-                "under": 2.8
-              },
-              {
-                "line": 6.5,
-                "over": 1.85,
-                "under": 1.82
-              },
-              {
-                "line": 7.5,
-                "over": 2.72,
-                "under": 1.39
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -101,40 +101,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.26,
-              3.4
+              1.6,
+              2.14
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.26,
-                "under": 3.4
-              },
-              {
                 "line": 9.5,
-                "over": 1.74,
-                "under": 1.94
+                "over": 1.6,
+                "under": 2.14
               },
               {
                 "line": 10.5,
-                "over": 2.7,
-                "under": 1.39
+                "over": 2.66,
+                "under": 1.4
+              },
+              {
+                "line": 11.5,
+                "over": 4.7,
+                "under": 1.14
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              2.24,
-              1.56
+              1.54,
+              2.22
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 2.24,
-                "under": 1.56
+                "over": 1.54,
+                "under": 2.22
               }
             ]
           }
@@ -152,87 +152,34 @@
       },
       "alerts": [
         {
+          "type": "linea_cambiata",
+          "match": "Nashville SC - Cincinnati",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 9.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Nashville SC - Cincinnati",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.26 a 1.6 (27.0%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Nashville SC - Cincinnati",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.4 a 2.14 (58.9%)"
+        },
+        {
           "type": "quota_cambiata",
           "match": "Nashville SC - Cincinnati",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.66 a 2.24 (34.9%)"
+          "detail": "bet9ja: esito #1 passato da 2.24 a 1.54 (45.5%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Nashville SC - Cincinnati",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.04 a 1.56 (30.8%)"
-        }
-      ]
-    },
-    {
-      "match": "Houston Dynamo - San Jose Earthquakes",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.47,
-              2.44
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.47,
-                "under": 2.44
-              },
-              {
-                "line": 11.5,
-                "over": 2.08,
-                "under": 1.64
-              },
-              {
-                "line": 12.5,
-                "over": 3.2,
-                "under": 1.29
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.64,
-              2.08
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.64,
-                "under": 2.08
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Houston Dynamo - San Jose Earthquakes",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.14 a 1.64 (30.5%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Houston Dynamo - San Jose Earthquakes",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.61 a 2.08 (29.2%)"
+          "detail": "bet9ja: esito #2 passato da 1.56 a 2.22 (42.3%)"
         }
       ]
     },
@@ -242,41 +189,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.56,
-              2.28
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.56,
-                "under": 2.28
-              },
-              {
-                "line": 9.5,
-                "over": 1.96,
-                "under": 1.75
-              },
-              {
-                "line": 10.5,
-                "over": 2.58,
-                "under": 1.45
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              2.02,
-              1.68
+              1.68,
+              2.02
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 2.02,
-                "under": 1.68
+                "line": 4.5,
+                "over": 1.68,
+                "under": 2.02
               }
             ]
           }
@@ -294,19 +218,47 @@
       },
       "alerts": [
         {
-          "type": "quota_cambiata",
+          "type": "linea_cambiata",
           "match": "Colorado Rapids - Real Salt Lake",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.77 a 2.02 (14.1%)"
+          "detail": "bet9ja: linea passata da 5.5 a 4.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Colorado Rapids - Real Salt Lake",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.91 a 1.68 (13.7%)"
+          "detail": "bet9ja: esito #1 passato da 2.02 a 1.68 (20.2%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Colorado Rapids - Real Salt Lake",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.68 a 2.02 (20.2%)"
         }
       ]
+    },
+    {
+      "match": "Talleres de Córdoba - Central Córdoba",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 8
+  "alert_count_this_run": 10
 }
