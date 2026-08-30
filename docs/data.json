@@ -1,76 +1,6 @@
 {
-  "generated_at": 1788060430.4654605,
+  "generated_at": 1788061034.8433685,
   "matches": [
-    {
-      "match": "Colorado Rapids - Real Salt Lake",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.53,
-              2.24
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.53,
-                "under": 2.24
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.06,
-            8.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Colorado Rapids - Real Salt Lake",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 1.16 a 1.06 (9.4%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Colorado Rapids - Real Salt Lake",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 5.4 a 8.5 (57.4%)"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Colorado Rapids - Real Salt Lake",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 8.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Colorado Rapids - Real Salt Lake",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.18 a 1.53 (29.7%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Colorado Rapids - Real Salt Lake",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.1 a 2.24 (83.0%)"
-        }
-      ]
-    },
     {
       "match": "Portland Timbers - Austin FC",
       "bet9ja_stats": null,
@@ -80,38 +10,38 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.44,
-              2.58
+              1.41,
+              2.68
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.44,
-                "under": 2.58
+                "over": 1.41,
+                "under": 2.68
               },
               {
                 "line": 11.5,
-                "over": 1.85,
-                "under": 1.85
+                "over": 1.79,
+                "under": 1.91
               },
               {
                 "line": 12.5,
-                "over": 2.5,
-                "under": 1.47
+                "over": 2.4,
+                "under": 1.5
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              2.1,
-              1.63
+              2.08,
+              1.64
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 2.1,
-                "under": 1.63
+                "over": 2.08,
+                "under": 1.64
               }
             ]
           }
@@ -127,20 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Portland Timbers - Austin FC",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.79 a 2.1 (17.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Portland Timbers - Austin FC",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.88 a 1.63 (15.3%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "San Diego FC - Los Angeles Galaxy",
@@ -149,40 +66,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 10.5,
             "odds": [
-              1.64,
-              2.12
+              1.35,
+              2.94
             ],
             "_all_lines": [
               {
+                "line": 10.5,
+                "over": 1.35,
+                "under": 2.94
+              },
+              {
                 "line": 11.5,
-                "over": 1.64,
-                "under": 2.12
+                "over": 1.74,
+                "under": 1.98
               },
               {
                 "line": 12.5,
-                "over": 2.22,
-                "under": 1.59
-              },
-              {
-                "line": 13.5,
-                "over": 3.15,
-                "under": 1.31
+                "over": 2.4,
+                "under": 1.51
               }
             ]
           },
           "CARDS_OU": {
             "line": 6.5,
             "odds": [
-              1.67,
-              2.04
+              1.66,
+              2.06
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.67,
-                "under": 2.04
+                "over": 1.66,
+                "under": 2.06
               }
             ]
           }
@@ -203,24 +120,46 @@
           "type": "linea_cambiata",
           "match": "San Diego FC - Los Angeles Galaxy",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 11.5"
+          "detail": "bet9ja: linea passata da 11.5 a 10.5"
         },
         {
           "type": "quota_cambiata",
           "match": "San Diego FC - Los Angeles Galaxy",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.95 a 1.67 (16.8%)"
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.64 a 1.35 (21.5%)"
         },
         {
           "type": "quota_cambiata",
           "match": "San Diego FC - Los Angeles Galaxy",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.73 a 2.04 (17.9%)"
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.12 a 2.94 (38.7%)"
         }
       ]
     },
     {
       "match": "New Mexico Utd - San Antonio",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Kobe FC 1970 - Osaka City SC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -264,5 +203,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 10
+  "alert_count_this_run": 3
 }
