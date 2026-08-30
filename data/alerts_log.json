@@ -1,77 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Mito Hollyhock - Machida Zelvia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.25 a 10.0 (90.5%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Gamba Osaka - Sanfrecce Hiroshima",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Gamba Osaka - Sanfrecce Hiroshima",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.5 a 6.5 (44.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "V-Varen Nagasaki - FC Tokyo",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 5.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "V-Varen Nagasaki - FC Tokyo",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.25 a 1.12 (11.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "V-Varen Nagasaki - FC Tokyo",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.45 a 5.0 (44.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Mito Hollyhock - Machida Zelvia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.01 a 1.17 (15.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Mito Hollyhock - Machida Zelvia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 10.0 a 4.25 (135.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "V-Varen Nagasaki - FC Tokyo",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.0 a 4.5 (11.1%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "V-Varen Nagasaki - FC Tokyo",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 6.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "V-Varen Nagasaki - FC Tokyo",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.5 a 5.0 (11.1%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Heidenheim - Dynamo Dresden",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Heidenheim - Dynamo Dresden",
     "market": "CARDS_OU",
@@ -2998,5 +2926,77 @@
     "match": "Toronto - New York City",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.61 a 2.12 (31.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Atlanta Utd - Charlotte FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 12.5 a 14.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atlanta Utd - Charlotte FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.74 a 2.08 (19.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atlanta Utd - Charlotte FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.94 a 1.65 (17.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "DC United - Los Angeles",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "DC United - Los Angeles",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.99 a 1.67 (19.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "DC United - Los Angeles",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.7 a 2.04 (20.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Inter Miami CF - CF Montreal",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.2 a 1.66 (32.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Inter Miami CF - CF Montreal",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.58 a 2.06 (30.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Toronto - New York City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 9.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Toronto - New York City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Toronto - New York City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.62 a 2.06 (27.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Toronto - New York City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.12 a 1.66 (27.7%)"
   }
 ]
