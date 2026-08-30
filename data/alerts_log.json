@@ -1,36 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Sassuolo - Torino",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.57 a 2.1 (33.8%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Tottenham Hotspur - Newcastle United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 14.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Tottenham Hotspur - Newcastle United",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Tottenham Hotspur - Newcastle United",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.9 a 1.57 (21.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Tottenham Hotspur - Newcastle United",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.78 a 2.2 (23.6%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Fiorentina - Frosinone",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.22 a 1.32 (8.2%)"
@@ -2998,5 +2968,35 @@
     "match": "Paris FC - OGC Nice",
     "market": "CARDS_OU",
     "detail": "bet9ja: linea passata da 3.5 a 4.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Sunderland - Fulham",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Chelsea - Brighton & Hove Albion",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Leeds United - Brentford",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 2.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Leeds United - Brentford",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.57 a 1.78 (13.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Leeds United - Brentford",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.2 a 1.9 (15.8%)"
   }
 ]
