@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788082547.474625
+      "last_checked": 1788083127.9204729
     },
     "Casetas|Real Zaragoza Deportivo Aragon": {
       "home": "Casetas",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788082574.386637
+      "last_checked": 1788083154.6384065
     },
     "SK Sturm Graz II|SK Rapid II": {
       "home": "SK Sturm Graz II",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788082601.4515412
+      "last_checked": 1788083180.7677531
     },
     "Tai Po FC|Eastern Athletic": {
       "home": "Tai Po FC",
@@ -80,32 +80,9 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788082628.4752657
-    },
-    "Queensland Lions|Peninsula": {
-      "home": "Queensland Lions",
-      "away": "Peninsula",
-      "event_id": "10017383",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
           "1X2": [
             2.4,
-            9.5,
+            10.0,
             100.0
           ],
           "CORNERS_OU": null,
@@ -117,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788082660.4644325
+      "last_checked": 1788083212.2040892
+    },
+    "Siheung Citizen|FC Pocheon": {
+      "home": "Siheung Citizen",
+      "away": "FC Pocheon",
+      "event_id": "10017386",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788083238.431469
     }
   }
 }

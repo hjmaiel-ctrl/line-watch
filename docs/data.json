@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788082660.526699,
+  "generated_at": 1788083238.4789603,
   "matches": [
     {
       "match": "Las Rozas - Tarancon",
@@ -77,7 +77,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            10.0,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,7 +94,7 @@
       "alerts": []
     },
     {
-      "match": "Queensland Lions - Peninsula",
+      "match": "Siheung Citizen - FC Pocheon",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -99,11 +103,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            9.5,
-            100.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -113,15 +113,8 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Queensland Lions - Peninsula",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 85.0 a 100.0 (17.6%)"
-        }
-      ]
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 0
 }
