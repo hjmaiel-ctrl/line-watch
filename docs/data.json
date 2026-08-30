@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788088661.4496932,
+  "generated_at": 1788089233.5498464,
   "matches": [
     {
       "match": "FC Utrecht - PSV Eindhoven",
@@ -8,34 +8,34 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 10.5,
             "odds": [
-              1.35,
-              2.85
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
+                "line": 10.5,
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
                 "line": 11.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 12.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 13.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 2.85,
+                "under": 1.35
               },
               {
                 "line": 14.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 15.5,
                 "over": 4.1,
                 "under": 1.18
               }
@@ -54,7 +54,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "FC Utrecht - PSV Eindhoven",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 11.5 a 10.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "FC Utrecht - PSV Eindhoven",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.35 a 1.25 (8.0%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "FC Utrecht - PSV Eindhoven",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.85 a 3.45 (21.1%)"
+        }
+      ]
     },
     {
       "match": "Aberdeen - Rangers",
@@ -62,7 +81,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 7.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 8.5,
+                "over": 1.83,
+                "under": 1.83
+              },
+              {
+                "line": 9.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 10.5,
+                "over": 3.25,
+                "under": 1.28
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -145,5 +197,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 3
 }
