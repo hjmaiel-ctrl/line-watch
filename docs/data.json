@@ -1,28 +1,6 @@
 {
-  "generated_at": 1788064060.0881605,
+  "generated_at": 1788064672.0946743,
   "matches": [
-    {
-      "match": "Portland Timbers - Austin FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "San Diego FC - Los Angeles Galaxy",
       "bet9ja_stats": null,
@@ -33,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            14.5,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -46,7 +28,7 @@
       "alerts": []
     },
     {
-      "match": "New Mexico Utd - San Antonio",
+      "match": "Santos Laguna - Tigres de la UANL",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -68,7 +50,7 @@
       "alerts": []
     },
     {
-      "match": "Las Vegas Lights - Charleston Battery",
+      "match": "Wallsend - Newcastle Croatia FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -90,7 +72,29 @@
       "alerts": []
     },
     {
-      "match": "Phoenix Rising - Indy Eleven",
+      "match": "Queensland Lions FC - Gold Coast Knights FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Wollongong Wolves U20 - Manly Utd U20",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

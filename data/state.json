@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Portland Timbers|Austin FC": {
-      "home": "Portland Timbers",
-      "away": "Austin FC",
-      "event_id": "10017321",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788063952.314862
-    },
     "San Diego FC|Los Angeles Galaxy": {
       "home": "San Diego FC",
       "away": "Los Angeles Galaxy",
@@ -34,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            14.5,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,12 +25,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788063979.2286444
+      "last_checked": 1788064563.4683669
     },
-    "New Mexico Utd|San Antonio": {
-      "home": "New Mexico Utd",
-      "away": "San Antonio",
-      "event_id": "10017316",
+    "Santos Laguna|Tigres de la UANL": {
+      "home": "Santos Laguna",
+      "away": "Tigres de la UANL",
+      "event_id": "10017337",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +48,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788064006.106689
+      "last_checked": 1788064590.462493
     },
-    "Las Vegas Lights|Charleston Battery": {
-      "home": "Las Vegas Lights",
-      "away": "Charleston Battery",
-      "event_id": "10017323",
+    "Wallsend|Newcastle Croatia FC": {
+      "home": "Wallsend",
+      "away": "Newcastle Croatia FC",
+      "event_id": "10017342",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +71,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788064033.35272
+      "last_checked": 1788064617.3605144
     },
-    "Phoenix Rising|Indy Eleven": {
-      "home": "Phoenix Rising",
-      "away": "Indy Eleven",
-      "event_id": "10017325",
+    "Queensland Lions FC|Gold Coast Knights FC": {
+      "home": "Queensland Lions FC",
+      "away": "Gold Coast Knights FC",
+      "event_id": "10017343",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788064060.0472546
+      "last_checked": 1788064644.7906237
+    },
+    "Wollongong Wolves U20|Manly Utd U20": {
+      "home": "Wollongong Wolves U20",
+      "away": "Manly Utd U20",
+      "event_id": "10017334",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788064672.0435452
     }
   }
 }
