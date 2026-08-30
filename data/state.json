@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            4.6,
-            1.36
+            22.0,
+            35.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788066346.4855595
+      "last_checked": 1788066946.2173414
     },
     "Wallsend|Newcastle Croatia FC": {
       "home": "Wallsend",
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788066372.9903615
+      "last_checked": 1788066972.9515216
     },
     "Queensland Lions FC|Gold Coast Knights FC": {
       "home": "Queensland Lions FC",
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788066399.4805336
+      "last_checked": 1788066999.533205
     },
     "South West Queensland Thunder|Pine Hills": {
       "home": "South West Queensland Thunder",
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788066426.1887832
+      "last_checked": 1788067026.348707
     },
     "Moreland Zebras|Manningham Utd Blues": {
       "home": "Moreland Zebras",
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788066452.6756823
+      "last_checked": 1788067053.139698
     }
   }
 }

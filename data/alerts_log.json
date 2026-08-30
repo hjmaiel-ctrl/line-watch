@@ -1,17 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Coventry City - Hull City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 6.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Coventry City - Hull City",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 5.5"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Coventry City - Hull City",
     "market": "CARDS_OU",
@@ -2998,5 +2986,17 @@
     "match": "San Diego FC - Los Angeles Galaxy",
     "market": "CARDS_OU",
     "detail": "bet9ja: linea passata da 8.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Santos Laguna - Tigres de la UANL",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 4.6 a 22.0 (378.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Santos Laguna - Tigres de la UANL",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 1.36 a 35.0 (2473.5%)"
   }
 ]
