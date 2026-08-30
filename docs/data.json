@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788068248.6955538,
+  "generated_at": 1788068835.8896186,
   "matches": [
     {
       "match": "Wallsend - Newcastle Croatia FC",
@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            20.0,
-            4.65
+            45.0,
+            5.2
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -30,13 +30,13 @@
           "type": "quota_cambiata",
           "match": "Wallsend - Newcastle Croatia FC",
           "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 4.5 a 20.0 (344.4%)"
+          "detail": "sportybet: esito #2 passato da 20.0 a 45.0 (125.0%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Wallsend - Newcastle Croatia FC",
           "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 2.3 a 4.65 (102.2%)"
+          "detail": "sportybet: esito #3 passato da 4.65 a 5.2 (11.8%)"
         }
       ]
     },
