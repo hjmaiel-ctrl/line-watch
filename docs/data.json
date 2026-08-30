@@ -1,28 +1,6 @@
 {
-  "generated_at": 1788091659.4338322,
+  "generated_at": 1788092238.079183,
   "matches": [
-    {
-      "match": "FC Utrecht - PSV Eindhoven",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "1. FC Magdeburg - Holstein Kiel",
       "bet9ja_stats": null,
@@ -43,23 +21,23 @@
               },
               {
                 "line": 6.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 7.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.8,
+                "under": 1.87
               },
               {
                 "line": 8.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 2.45,
+                "under": 1.47
               },
               {
                 "line": 9.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
@@ -76,14 +54,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "1. FC Magdeburg - Holstein Kiel",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 5.5"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "SV Darmstadt 98 - Hannover 96",
@@ -150,7 +121,29 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Aberdeen - Rangers",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 0
 }
