@@ -1,24 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Levante UD - Real Betis",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.6 a 1.9 (18.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Levante UD - Real Betis",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.15 a 1.78 (20.8%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "RC Strasbourg - RC Lens",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 5.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "RC Strasbourg - RC Lens",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.11 a 1.28 (15.3%)"
@@ -2998,5 +2980,23 @@
     "match": "1. FC Magdeburg - Holstein Kiel",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Feyenoord - ADO Den Haag",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Feyenoord - ADO Den Haag",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.38 a 1.22 (13.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Feyenoord - ADO Den Haag",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.7 a 3.65 (35.2%)"
   }
 ]
