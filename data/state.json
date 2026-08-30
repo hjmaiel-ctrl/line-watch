@@ -21,7 +21,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788080734.6725266
+      "last_checked": 1788081337.2428398
+    },
+    "Casetas|Real Zaragoza Deportivo Aragon": {
+      "home": "Casetas",
+      "away": "Real Zaragoza Deportivo Aragon",
+      "event_id": "10017417",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788081364.2930217
     },
     "SK Sturm Graz II|SK Rapid II": {
       "home": "SK Sturm Graz II",
@@ -44,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788080761.5044932
+      "last_checked": 1788081391.335666
     },
     "Tai Po FC|Eastern Athletic": {
       "home": "Tai Po FC",
@@ -67,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788080788.235007
+      "last_checked": 1788081418.2049105
     },
     "Queensland Lions|Peninsula": {
       "home": "Queensland Lions",
@@ -83,7 +106,7 @@
           "1X2": [
             2.4,
             1.27,
-            4.15
+            4.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -94,30 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788080819.9750593
-    },
-    "Siheung Citizen|FC Pocheon": {
-      "home": "Siheung Citizen",
-      "away": "FC Pocheon",
-      "event_id": "10017386",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788080846.488276
+      "last_checked": 1788081450.1541884
     }
   }
 }
