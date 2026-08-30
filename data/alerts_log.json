@@ -1,54 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Liverpool - Nottingham Forest",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.57 a 1.92 (22.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Liverpool - Nottingham Forest",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.2 a 1.75 (25.7%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Wolverhampton Wanderers - Stoke City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 5.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Wolverhampton Wanderers - Stoke City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.02 a 1.2 (17.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Wolverhampton Wanderers - Stoke City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 9.0 a 3.75 (140.0%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "Derby County - Swansea City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja=1.15 vs sportybet=2.4 (esito #1, differenza 108.7%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "Derby County - Swansea City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja=4.5 vs sportybet=1.18 (esito #2, differenza 281.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Derby County - Swansea City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Derby County - Swansea City",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.65 a 4.5 (23.3%)"
@@ -2998,5 +2950,53 @@
     "match": "Colorado Rapids - Real Salt Lake",
     "market": "CARDS_OU",
     "detail": "bet9ja: linea passata da 4.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Sporting Kansas City - Vancouver Whitecaps",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.75 a 2.18 (24.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Sporting Kansas City - Vancouver Whitecaps",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.93 a 1.58 (22.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Nashville SC - Cincinnati",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.66 a 2.24 (34.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Nashville SC - Cincinnati",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.04 a 1.56 (30.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Houston Dynamo - San Jose Earthquakes",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.14 a 1.64 (30.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Houston Dynamo - San Jose Earthquakes",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.61 a 2.08 (29.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Colorado Rapids - Real Salt Lake",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.77 a 2.02 (14.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Colorado Rapids - Real Salt Lake",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.91 a 1.68 (13.7%)"
   }
 ]
