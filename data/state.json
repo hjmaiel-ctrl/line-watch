@@ -8,40 +8,30 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              1.53,
-              2.28
+              1.39,
+              2.62
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.53,
-                "under": 2.28
-              },
-              {
-                "line": 6.5,
-                "over": 2.48,
-                "under": 1.46
-              },
-              {
-                "line": 7.5,
-                "over": 4.3,
-                "under": 1.16
+                "line": 4.5,
+                "over": 1.39,
+                "under": 2.62
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.47,
-              2.38
+              2.28,
+              1.51
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.47,
-                "under": 2.38
+                "over": 2.28,
+                "under": 1.51
               }
             ]
           }
@@ -57,7 +47,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788056126.3305166
+      "last_checked": 1788056747.180615
     },
     "Minnesota Utd|Orlando City": {
       "home": "Minnesota Utd",
@@ -80,7 +70,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788056152.9962068
+      "last_checked": 1788056773.879475
     },
     "Nashville SC|Cincinnati": {
       "home": "Nashville SC",
@@ -92,41 +82,18 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.6,
-              2.14
+              2.34,
+              1.49
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.6,
-                "under": 2.14
-              },
-              {
-                "line": 10.5,
-                "over": 2.66,
-                "under": 1.4
-              },
-              {
-                "line": 11.5,
-                "over": 4.7,
-                "under": 1.14
+                "over": 2.34,
+                "under": 1.49
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.54,
-              2.22
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.54,
-                "under": 2.22
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -139,7 +106,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788056176.1022868
+      "last_checked": 1788056799.3373988
+    },
+    "Houston Dynamo|San Jose Earthquakes": {
+      "home": "Houston Dynamo",
+      "away": "San Jose Earthquakes",
+      "event_id": "10017280",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              2.46,
+              1.44
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 2.46,
+                "under": 1.44
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            4.95,
+            1.35
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              2.55
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788056830.2509706
     },
     "Colorado Rapids|Real Salt Lake": {
       "home": "Colorado Rapids",
@@ -148,18 +161,41 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.31,
+              3.15
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.31,
+                "under": 3.15
+              },
+              {
+                "line": 8.5,
+                "over": 1.65,
+                "under": 2.1
+              },
+              {
+                "line": 9.5,
+                "over": 2.24,
+                "under": 1.58
+              }
+            ]
+          },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.68,
-              2.02
+              2.12,
+              1.62
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.68,
-                "under": 2.02
+                "over": 2.12,
+                "under": 1.62
               }
             ]
           }
@@ -175,30 +211,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788056201.5040052
-    },
-    "Talleres de Córdoba|Central Córdoba": {
-      "home": "Talleres de Córdoba",
-      "away": "Central Córdoba",
-      "event_id": "10017272",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788056228.3777447
+      "last_checked": 1788056853.4234095
     }
   }
 }
