@@ -1,24 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Middlesbrough - West Bromwich Albion",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.75 a 5.5 (15.8%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Liverpool - Nottingham Forest",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Liverpool - Nottingham Forest",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.45 a 3.1 (11.3%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Liverpool - Nottingham Forest",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #1 passato da 1.9 a 1.57 (21.0%)"
@@ -2998,5 +2980,23 @@
     "match": "Toronto - New York City",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.12 a 1.96 (8.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atlanta Utd - Charlotte FC",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 85.0 a 100.0 (17.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atlanta Utd - Charlotte FC",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 13.5 a 15.0 (11.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atlanta Utd - Charlotte FC",
+    "market": "CORNERS_OU",
+    "detail": "sportybet: esito #2 passato da 1.4 a 2.35 (67.9%)"
   }
 ]
