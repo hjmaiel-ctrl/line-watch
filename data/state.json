@@ -1,74 +1,5 @@
 {
   "matches": {
-    "South West Queensland Thunder|Pine Hills": {
-      "home": "South West Queensland Thunder",
-      "away": "Pine Hills",
-      "event_id": "10017344",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788073545.8846247
-    },
-    "Sydney Utd.|St George Saints": {
-      "home": "Sydney Utd.",
-      "away": "St George Saints",
-      "event_id": "10017359",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788073572.396681
-    },
-    "Sutherland|SD Raiders": {
-      "home": "Sutherland",
-      "away": "SD Raiders",
-      "event_id": "10017360",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788073598.962749
-    },
     "Howler's FC|Northerners FC": {
       "home": "Howler's FC",
       "away": "Northerners FC",
@@ -90,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788073625.640367
+      "last_checked": 1788074133.6252832
     },
     "FC Basara Hyogo|Ococias Kyoto AC": {
       "home": "FC Basara Hyogo",
@@ -113,7 +44,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788073652.1285014
+      "last_checked": 1788074160.3013434
+    },
+    "University Azzurri|Garuda FC": {
+      "home": "University Azzurri",
+      "away": "Garuda FC",
+      "event_id": "10017373",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788074186.828936
+    },
+    "Maitland|Edgeworth": {
+      "home": "Maitland",
+      "away": "Edgeworth",
+      "event_id": "10017375",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788074213.5818703
+    },
+    "Bandito Ikoma|Route 11": {
+      "home": "Bandito Ikoma",
+      "away": "Route 11",
+      "event_id": "10017377",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788074240.0917835
     }
   }
 }
