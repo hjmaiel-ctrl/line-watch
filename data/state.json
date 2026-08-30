@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788075930.9204185
+      "last_checked": 1788076520.7824612
     },
     "University Azzurri|Garuda FC": {
       "home": "University Azzurri",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788075957.5284681
+      "last_checked": 1788076547.27779
     },
     "Maitland|Edgeworth": {
       "home": "Maitland",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788075984.1586895
+      "last_checked": 1788076573.7531831
     },
     "Bandito Ikoma|Route 11": {
       "home": "Bandito Ikoma",
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788076010.7182736
+      "last_checked": 1788076600.3658345
     },
-    "Lake Macquarie City FC|Broadmeadow Magic FC": {
-      "home": "Lake Macquarie City FC",
-      "away": "Broadmeadow Magic FC",
-      "event_id": "10017374",
+    "Queensland Lions|Peninsula": {
+      "home": "Queensland Lions",
+      "away": "Peninsula",
+      "event_id": "10017383",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -103,11 +103,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.09,
-            5.6
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -117,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788076042.4325197
+      "last_checked": 1788076626.8733459
     }
   }
 }

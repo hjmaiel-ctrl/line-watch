@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788076042.4813938,
+  "generated_at": 1788076626.9233587,
   "matches": [
     {
       "match": "Howler's FC - Northerners FC",
@@ -90,7 +90,7 @@
       "alerts": []
     },
     {
-      "match": "Lake Macquarie City FC - Broadmeadow Magic FC",
+      "match": "Queensland Lions - Peninsula",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -99,11 +99,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.09,
-            5.6
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
