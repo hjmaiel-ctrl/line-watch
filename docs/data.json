@@ -1,32 +1,6 @@
 {
-  "generated_at": 1788129435.4117095,
+  "generated_at": 1788130021.6853085,
   "matches": [
-    {
-      "match": "Columbus Crew - New England Revolution",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            14.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Grêmio FBPA - Chapecoense",
       "bet9ja_stats": null,
@@ -34,116 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.57,
-              2.2
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
-                "line": 10.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 11.5,
-                "over": 3.0,
-                "under": 1.32
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Mirassol FC - Palmeiras",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.5,
-              2.35
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.95,
+                "under": 1.73
               },
               {
                 "line": 10.5,
-                "over": 2.7,
-                "under": 1.38
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Independiente - Gimnasia y Esgrima de Mendoza",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 6.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 7.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 2.85,
+                "under": 1.35
               }
             ]
           },
@@ -163,21 +47,79 @@
       "alerts": [
         {
           "type": "linea_cambiata",
+          "match": "Grêmio FBPA - Chapecoense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Grêmio FBPA - Chapecoense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.57 a 1.45 (8.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Grêmio FBPA - Chapecoense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.2 a 2.5 (13.6%)"
+        }
+      ]
+    },
+    {
+      "match": "Independiente - Gimnasia y Esgrima de Mendoza",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.55,
+              2.25
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
+                "line": 6.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 7.5,
+                "over": 2.85,
+                "under": 1.35
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
           "match": "Independiente - Gimnasia y Esgrima de Mendoza",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 5.5"
+          "detail": "bet9ja: esito #1 passato da 1.35 a 1.55 (14.8%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Independiente - Gimnasia y Esgrima de Mendoza",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.6 a 1.35 (18.5%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Independiente - Gimnasia y Esgrima de Mendoza",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.15 a 2.85 (32.6%)"
+          "detail": "bet9ja: esito #2 passato da 2.85 a 2.25 (26.7%)"
         }
       ]
     },
@@ -201,13 +143,13 @@
               },
               {
                 "line": 9.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 10.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           },
@@ -225,7 +167,51 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "CRB - Criciúma EC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Vila Nova FC - Ceará SC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 5
 }

@@ -1,32 +1,5 @@
 {
   "matches": {
-    "Columbus Crew|New England Revolution": {
-      "home": "Columbus Crew",
-      "away": "New England Revolution",
-      "event_id": "10018346",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            14.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788129335.549129
-    },
     "Grêmio FBPA|Chapecoense": {
       "home": "Grêmio FBPA",
       "away": "Chapecoense",
@@ -35,72 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.57,
-              2.2
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
-                "line": 10.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 11.5,
-                "over": 3.0,
-                "under": 1.32
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788129360.532976
-    },
-    "Mirassol FC|Palmeiras": {
-      "home": "Mirassol FC",
-      "away": "Palmeiras",
-      "event_id": "10018367",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.5,
-              2.35
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.95,
+                "under": 1.73
               },
               {
                 "line": 10.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 2.85,
+                "under": 1.35
               }
             ]
           },
@@ -117,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788129385.444837
+      "last_checked": 1788129917.638515
     },
     "Independiente|Gimnasia y Esgrima de Mendoza": {
       "home": "Independiente",
@@ -129,24 +56,24 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.35,
-              2.85
+              1.55,
+              2.25
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 6.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 7.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 2.85,
+                "under": 1.35
               }
             ]
           },
@@ -163,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788129410.4543374
+      "last_checked": 1788129942.684582
     },
     "Esporte Clube Bahia|SC Internacional": {
       "home": "Esporte Clube Bahia",
@@ -186,13 +113,13 @@
               },
               {
                 "line": 9.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 10.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           },
@@ -209,7 +136,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788129435.350359
+      "last_checked": 1788129967.673505
+    },
+    "CRB|Criciúma EC": {
+      "home": "CRB",
+      "away": "Criciúma EC",
+      "event_id": "10018358",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788129994.6321833
+    },
+    "Vila Nova FC|Ceará SC": {
+      "home": "Vila Nova FC",
+      "away": "Ceará SC",
+      "event_id": "10018369",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788130021.6361594
     }
   }
 }
