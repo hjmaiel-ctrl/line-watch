@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Córdoba CF|Granada CF": {
-      "home": "Córdoba CF",
-      "away": "Granada CF",
-      "event_id": "10018288",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788125132.6531298
-    },
     "Columbus Crew|New England Revolution": {
       "home": "Columbus Crew",
       "away": "New England Revolution",
@@ -33,38 +10,38 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.5,
-              2.4
+              1.58,
+              2.24
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.5,
-                "under": 2.4
+                "over": 1.58,
+                "under": 2.24
               },
               {
                 "line": 10.5,
-                "over": 1.96,
-                "under": 1.75
+                "over": 2.1,
+                "under": 1.65
               },
               {
                 "line": 11.5,
-                "over": 2.7,
-                "under": 1.41
+                "over": 2.96,
+                "under": 1.35
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.78,
-              1.89
+              1.83,
+              1.84
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.78,
-                "under": 1.89
+                "over": 1.83,
+                "under": 1.84
               }
             ]
           }
@@ -80,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788125155.602469
+      "last_checked": 1788125716.718587
     },
     "Argentinos Juniors|Aldosivi": {
       "home": "Argentinos Juniors",
@@ -89,7 +66,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 16.5,
+            "odds": [
+              1.15,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 16.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
+                "line": 17.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 18.5,
+                "over": 2.7,
+                "under": 1.38
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -103,7 +103,99 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788125182.225255
+      "last_checked": 1788125741.6069593
+    },
+    "Grêmio FBPA|Chapecoense": {
+      "home": "Grêmio FBPA",
+      "away": "Chapecoense",
+      "event_id": "10018362",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.45,
+              2.5
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 10.5,
+                "over": 2.2,
+                "under": 1.57
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788125766.3832233
+    },
+    "Mirassol FC|Palmeiras": {
+      "home": "Mirassol FC",
+      "away": "Palmeiras",
+      "event_id": "10018367",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.45,
+              2.5
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 10.5,
+                "over": 2.15,
+                "under": 1.6
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788125791.1959703
     },
     "CRB|Criciúma EC": {
       "home": "CRB",
@@ -126,30 +218,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788125208.9206853
-    },
-    "Orense SC|Deportivo Macara": {
-      "home": "Orense SC",
-      "away": "Deportivo Macara",
-      "event_id": "10018345",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788125235.5932212
+      "last_checked": 1788125817.9810743
     }
   }
 }

@@ -1,13 +1,94 @@
 {
-  "generated_at": 1788125235.6589043,
+  "generated_at": 1788125818.049861,
   "matches": [
     {
-      "match": "Córdoba CF - Granada CF",
+      "match": "Columbus Crew - New England Revolution",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.58,
+              2.24
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.58,
+                "under": 2.24
+              },
+              {
+                "line": 10.5,
+                "over": 2.1,
+                "under": 1.65
+              },
+              {
+                "line": 11.5,
+                "over": 2.96,
+                "under": 1.35
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.83,
+              1.84
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.83,
+                "under": 1.84
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
           "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Argentinos Juniors - Aldosivi",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 16.5,
+            "odds": [
+              1.15,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 16.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
+                "line": 17.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 18.5,
+                "over": 2.7,
+                "under": 1.38
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -24,49 +105,36 @@
       "alerts": []
     },
     {
-      "match": "Columbus Crew - New England Revolution",
+      "match": "Grêmio FBPA - Chapecoense",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.5,
-              2.4
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
                 "line": 9.5,
-                "over": 1.5,
-                "under": 2.4
+                "over": 1.75,
+                "under": 1.92
               },
               {
                 "line": 10.5,
-                "over": 1.96,
-                "under": 1.75
-              },
-              {
-                "line": 11.5,
-                "over": 2.7,
-                "under": 1.41
+                "over": 2.2,
+                "under": 1.57
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.78,
-              1.89
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.78,
-                "under": 1.89
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -79,40 +147,38 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Columbus Crew - New England Revolution",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 9.5"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Columbus Crew - New England Revolution",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 3.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Columbus Crew - New England Revolution",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.26 a 1.78 (27.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Columbus Crew - New England Revolution",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.55 a 1.89 (21.9%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Argentinos Juniors - Aldosivi",
+      "match": "Mirassol FC - Palmeiras",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.45,
+              2.5
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 10.5,
+                "over": 2.15,
+                "under": 1.6
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -149,29 +215,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Orense SC - Deportivo Macara",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 4
+  "alert_count_this_run": 0
 }
