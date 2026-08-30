@@ -8,40 +8,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 10.5,
             "odds": [
-              1.5,
-              2.42
+              1.42,
+              2.58
             ],
             "_all_lines": [
               {
+                "line": 10.5,
+                "over": 1.42,
+                "under": 2.58
+              },
+              {
                 "line": 11.5,
-                "over": 1.5,
-                "under": 2.42
+                "over": 1.98,
+                "under": 1.71
               },
               {
                 "line": 12.5,
-                "over": 2.02,
-                "under": 1.7
-              },
-              {
-                "line": 13.5,
-                "over": 2.94,
-                "under": 1.35
+                "over": 2.98,
+                "under": 1.33
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              2.08,
-              1.64
+              1.72,
+              1.97
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 2.08,
-                "under": 1.64
+                "line": 2.5,
+                "over": 1.72,
+                "under": 1.97
               }
             ]
           }
@@ -57,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788126910.1239972
+      "last_checked": 1788127546.0176065
     },
     "Grêmio FBPA|Chapecoense": {
       "home": "Grêmio FBPA",
@@ -67,70 +67,24 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 10.5,
             "odds": [
-              1.62,
-              2.1
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
+                "line": 10.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
                 "line": 11.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.73,
+                "under": 1.95
               },
               {
                 "line": 12.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 13.5,
-                "over": 2.65,
-                "under": 1.4
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788126935.5304923
-    },
-    "Mirassol FC|Palmeiras": {
-      "home": "Mirassol FC",
-      "away": "Palmeiras",
-      "event_id": "10018367",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.42,
-              2.6
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
-                "line": 8.5,
-                "over": 1.75,
-                "under": 1.92
-              },
-              {
-                "line": 9.5,
                 "over": 2.25,
                 "under": 1.55
               }
@@ -149,7 +103,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788126960.2094722
+      "last_checked": 1788127571.1799712
+    },
+    "Mirassol FC|Palmeiras": {
+      "home": "Mirassol FC",
+      "away": "Palmeiras",
+      "event_id": "10018367",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.4,
+              2.65
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 7.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 8.5,
+                "over": 2.35,
+                "under": 1.5
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788127596.5164871
     },
     "CRB|Criciúma EC": {
       "home": "CRB",
@@ -172,7 +172,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788126986.5598452
+      "last_checked": 1788127623.5469394
     },
     "Vila Nova FC|Ceará SC": {
       "home": "Vila Nova FC",
@@ -195,7 +195,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788127012.9740245
+      "last_checked": 1788127650.555403
     }
   }
 }
