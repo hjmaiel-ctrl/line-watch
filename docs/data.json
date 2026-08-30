@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788112642.6500967,
+  "generated_at": 1788113235.3076413,
   "matches": [
     {
       "match": "Deportivo La Coruña - Valencia",
@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.18,
-              4.1
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.18,
-                "under": 4.1
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 8.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 9.5,
-                "over": 1.73,
-                "under": 1.95
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 10.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 11.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 5.0,
+                "under": 1.12
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.83,
-              1.83
+              1.95,
+              1.73
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 1.95,
+                "under": 1.73
               }
             ]
           }
@@ -71,14 +71,14 @@
         {
           "type": "quota_cambiata",
           "match": "Deportivo La Coruña - Valencia",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.65 a 1.83 (10.9%)"
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.18 a 1.32 (11.9%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Deportivo La Coruña - Valencia",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.05 a 1.83 (12.0%)"
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.1 a 3.0 (36.7%)"
         }
       ]
     },
@@ -89,50 +89,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.12,
-              5.0
+              1.02,
+              8.5
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.02,
+                "under": 8.5
+              },
+              {
                 "line": 8.5,
-                "over": 1.12,
-                "under": 5.0
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 9.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 10.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 3.45,
+                "under": 1.25
               },
               {
                 "line": 11.5,
-                "over": 3.5,
-                "under": 1.22
-              },
-              {
-                "line": 12.5,
-                "over": 5.75,
-                "under": 1.09
+                "over": 6.5,
+                "under": 1.07
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              1.9,
-              1.78
+              1.55,
+              2.25
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.9,
-                "under": 1.78
+                "line": 2.5,
+                "over": 1.55,
+                "under": 2.25
               }
             ]
           }
@@ -150,33 +150,45 @@
       },
       "alerts": [
         {
+          "type": "linea_cambiata",
+          "match": "Napoli - Como",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 7.5"
+        },
+        {
           "type": "quota_cambiata",
           "match": "Napoli - Como",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.1 a 5.0 (22.0%)"
+          "detail": "bet9ja: esito #1 passato da 1.12 a 1.02 (9.8%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Napoli - Como",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 5.0 a 8.5 (70.0%)"
         },
         {
           "type": "linea_cambiata",
           "match": "Napoli - Como",
           "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 3.5"
+          "detail": "bet9ja: linea passata da 3.5 a 2.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Napoli - Como",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.25 a 1.9 (18.4%)"
+          "detail": "bet9ja: esito #1 passato da 1.9 a 1.55 (22.6%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Napoli - Como",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.55 a 1.78 (14.8%)"
+          "detail": "bet9ja: esito #2 passato da 1.78 a 2.25 (26.4%)"
         }
       ]
     },
     {
-      "match": "Casa Pia - Moreirense FC",
+      "match": "Cambuur Leeuwarden - FC Twente",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -198,7 +210,7 @@
       "alerts": []
     },
     {
-      "match": "Eyüpspor - Alanyaspor",
+      "match": "Niger Tornadoes - Enyimba",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -220,7 +232,7 @@
       "alerts": []
     },
     {
-      "match": "Cádiz - Real Valladolid",
+      "match": "Ikorodu City - Ranchers Bees",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -242,5 +254,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 6
+  "alert_count_this_run": 8
 }

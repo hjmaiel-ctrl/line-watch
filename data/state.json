@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.18,
-              4.1
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.18,
-                "under": 4.1
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 8.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 9.5,
-                "over": 1.73,
-                "under": 1.95
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 10.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 11.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 5.0,
+                "under": 1.12
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.83,
-              1.83
+              1.95,
+              1.73
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 1.95,
+                "under": 1.73
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788112539.2573686
+      "last_checked": 1788113131.545761
     },
     "Napoli|Como": {
       "home": "Napoli",
@@ -77,50 +77,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.12,
-              5.0
+              1.02,
+              8.5
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.02,
+                "under": 8.5
+              },
+              {
                 "line": 8.5,
-                "over": 1.12,
-                "under": 5.0
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 9.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 10.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 3.45,
+                "under": 1.25
               },
               {
                 "line": 11.5,
-                "over": 3.5,
-                "under": 1.22
-              },
-              {
-                "line": 12.5,
-                "over": 5.75,
-                "under": 1.09
+                "over": 6.5,
+                "under": 1.07
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              1.9,
-              1.78
+              1.55,
+              2.25
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.9,
-                "under": 1.78
+                "line": 2.5,
+                "over": 1.55,
+                "under": 2.25
               }
             ]
           }
@@ -136,12 +136,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788112562.364563
+      "last_checked": 1788113154.988683
     },
-    "Casa Pia|Moreirense FC": {
-      "home": "Casa Pia",
-      "away": "Moreirense FC",
-      "event_id": "10017973",
+    "Cambuur Leeuwarden|FC Twente": {
+      "home": "Cambuur Leeuwarden",
+      "away": "FC Twente",
+      "event_id": "10018225",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -159,12 +159,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788112589.122807
+      "last_checked": 1788113181.7999187
     },
-    "Eyüpspor|Alanyaspor": {
-      "home": "Eyüpspor",
-      "away": "Alanyaspor",
-      "event_id": "10017918",
+    "Niger Tornadoes|Enyimba": {
+      "home": "Niger Tornadoes",
+      "away": "Enyimba",
+      "event_id": "10017804",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -182,12 +182,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788112615.8722744
+      "last_checked": 1788113208.65447
     },
-    "Cádiz|Real Valladolid": {
-      "home": "Cádiz",
-      "away": "Real Valladolid",
-      "event_id": "10017957",
+    "Ikorodu City|Ranchers Bees": {
+      "home": "Ikorodu City",
+      "away": "Ranchers Bees",
+      "event_id": "10017805",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -205,7 +205,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788112642.6186934
+      "last_checked": 1788113235.2624602
     }
   }
 }
