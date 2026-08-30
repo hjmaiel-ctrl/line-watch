@@ -1,26 +1,13 @@
 {
   "matches": {
-    "Freiburg|Werder Bremen": {
-      "home": "Freiburg",
-      "away": "Werder Bremen",
-      "event_id": "9823647",
+    "Real Madrid|Málaga": {
+      "home": "Real Madrid",
+      "away": "Málaga",
+      "event_id": "10022207",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.62,
-              2.08
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.62,
-                "under": 2.08
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -34,7 +21,43 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788102947.7481785
+      "last_checked": 1788103529.0345461
+    },
+    "Stade Rennais|Le Mans FC": {
+      "home": "Stade Rennais",
+      "away": "Le Mans FC",
+      "event_id": "10006890",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.82,
+              1.85
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.82,
+                "under": 1.85
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788103553.9143784
     },
     "SC Telstar|Ajax": {
       "home": "SC Telstar",
@@ -57,7 +80,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788102975.2982664
+      "last_checked": 1788103580.5602672
     },
     "Nacional da Madeira|Club Football Estrela": {
       "home": "Nacional da Madeira",
@@ -80,12 +103,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788103002.9831378
+      "last_checked": 1788103607.2211556
     },
-    "Niger Tornadoes|Enyimba": {
-      "home": "Niger Tornadoes",
-      "away": "Enyimba",
-      "event_id": "10017804",
+    "Mansfield Town|Luton Town": {
+      "home": "Mansfield Town",
+      "away": "Luton Town",
+      "event_id": "10017724",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -103,30 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788103031.2692575
-    },
-    "Ikorodu City|Ranchers Bees": {
-      "home": "Ikorodu City",
-      "away": "Ranchers Bees",
-      "event_id": "10017805",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788103058.917661
+      "last_checked": 1788103633.767225
     }
   }
 }
