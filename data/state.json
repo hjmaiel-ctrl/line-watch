@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            2.95,
-            1.6
+            3.5,
+            1.42
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788072327.731716
+      "last_checked": 1788072948.7501218
     },
     "South West Queensland Thunder|Pine Hills": {
       "home": "South West Queensland Thunder",
@@ -48,12 +48,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788072354.7603173
+      "last_checked": 1788072975.9624972
     },
-    "Moreland Zebras|Manningham Utd Blues": {
-      "home": "Moreland Zebras",
-      "away": "Manningham Utd Blues",
-      "event_id": "10017345",
+    "Blacktown|Western Sydney Wanderers Reserves": {
+      "home": "Blacktown",
+      "away": "Western Sydney Wanderers Reserves",
+      "event_id": "10017355",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -71,12 +71,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788072381.4361644
+      "last_checked": 1788073002.7804022
     },
-    "Sydney Olimpic|Sydney Youth": {
-      "home": "Sydney Olimpic",
-      "away": "Sydney Youth",
-      "event_id": "10017353",
+    "Marconi|Northern Spirit": {
+      "home": "Marconi",
+      "away": "Northern Spirit",
+      "event_id": "10017356",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -94,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788072408.4032228
+      "last_checked": 1788073029.8215585
     },
-    "Wollongong|Manly Utd.": {
-      "home": "Wollongong",
-      "away": "Manly Utd.",
-      "event_id": "10017354",
+    "Rockdale|University of Nsw": {
+      "home": "Rockdale",
+      "away": "University of Nsw",
+      "event_id": "10017357",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788072435.3065493
+      "last_checked": 1788073056.711926
     }
   }
 }

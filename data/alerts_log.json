@@ -1,17 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Coventry City - Hull City",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Coventry City - Hull City",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.15 a 1.65 (30.3%)"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Coventry City - Hull City",
     "market": "CARDS_OU",
@@ -2998,5 +2986,17 @@
     "match": "Queensland Lions FC - Gold Coast Knights FC",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 2.1 a 1.6 (31.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Queensland Lions FC - Gold Coast Knights FC",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 2.95 a 3.5 (18.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Queensland Lions FC - Gold Coast Knights FC",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 1.6 a 1.42 (12.7%)"
   }
 ]
