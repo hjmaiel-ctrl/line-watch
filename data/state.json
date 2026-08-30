@@ -21,30 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788074724.8867671
-    },
-    "FC Basara Hyogo|Ococias Kyoto AC": {
-      "home": "FC Basara Hyogo",
-      "away": "Ococias Kyoto AC",
-      "event_id": "10017371",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788074751.7935636
+      "last_checked": 1788075334.460002
     },
     "University Azzurri|Garuda FC": {
       "home": "University Azzurri",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788074778.5461712
+      "last_checked": 1788075361.4475796
     },
     "Maitland|Edgeworth": {
       "home": "Maitland",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788074805.5187666
+      "last_checked": 1788075388.3230553
     },
     "Bandito Ikoma|Route 11": {
       "home": "Bandito Ikoma",
@@ -113,7 +90,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788074832.4167883
+      "last_checked": 1788075415.4127944
+    },
+    "Lake Macquarie City FC|Broadmeadow Magic FC": {
+      "home": "Lake Macquarie City FC",
+      "away": "Broadmeadow Magic FC",
+      "event_id": "10017374",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.12,
+            5.5
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788075447.5990784
     }
   }
 }
