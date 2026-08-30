@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788132443.901815,
+  "generated_at": 1788133047.4636354,
   "matches": [
     {
       "match": "Saint Louis City SC - Dallas",
@@ -10,14 +10,14 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.48,
-              2.46
+              1.47,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.48,
-                "under": 2.46
+                "over": 1.47,
+                "under": 2.5
               },
               {
                 "line": 9.5,
@@ -26,22 +26,22 @@
               },
               {
                 "line": 10.5,
-                "over": 2.3,
-                "under": 1.55
+                "over": 2.34,
+                "under": 1.53
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 4.5,
             "odds": [
-              1.69,
-              2.0
+              1.83,
+              1.84
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.69,
-                "under": 2.0
+                "line": 4.5,
+                "over": 1.83,
+                "under": 1.84
               }
             ]
           }
@@ -57,33 +57,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
-    },
-    {
-      "match": "Mirassol FC - Palmeiras",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Saint Louis City SC - Dallas",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 3.5 a 4.5"
         },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            10.5,
-            1.18
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "Saint Louis City SC - Dallas",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.69 a 1.83 (8.3%)"
         },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "Saint Louis City SC - Dallas",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.0 a 1.84 (8.7%)"
         }
-      },
-      "alerts": []
+      ]
     },
     {
       "match": "Independiente - Gimnasia y Esgrima de Mendoza",
@@ -94,14 +87,14 @@
           "CORNERS_OU": {
             "line": 4.5,
             "odds": [
-              1.42,
-              2.6
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 5.5,
@@ -110,8 +103,8 @@
               },
               {
                 "line": 6.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -128,20 +121,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Independiente - Gimnasia y Esgrima de Mendoza",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.28 a 1.42 (10.9%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Independiente - Gimnasia y Esgrima de Mendoza",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.25 a 2.6 (25.0%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Esporte Clube Bahia - SC Internacional",
@@ -186,29 +166,50 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Esporte Clube Bahia - SC Internacional",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 6.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Esporte Clube Bahia - SC Internacional",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.47 a 1.28 (14.8%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Esporte Clube Bahia - SC Internacional",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.45 a 3.25 (32.7%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Vila Nova FC - Ceará SC",
+      "match": "Cerro Largo - Liverpool Montevideo",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.73,
+              1.88
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.73,
+                "under": 1.88
+              },
+              {
+                "line": 9.5,
+                "over": 2.98,
+                "under": 1.29
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Emelec - Leones del Norte",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -230,5 +231,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 5
+  "alert_count_this_run": 3
 }

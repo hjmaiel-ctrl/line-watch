@@ -2,24 +2,6 @@
   {
     "type": "quota_differente",
     "match": "Colorado Rapids - Real Salt Lake",
-    "market": "CARDS_OU",
-    "detail": "bet9ja=1.51 vs sportybet=2.4 (esito #1, differenza 58.9%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "Colorado Rapids - Real Salt Lake",
-    "market": "CARDS_OU",
-    "detail": "bet9ja=2.34 vs sportybet=1.55 (esito #2, differenza 51.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "San Diego FC - Los Angeles Galaxy",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 5.5"
-  },
-  {
-    "type": "quota_differente",
-    "match": "Colorado Rapids - Real Salt Lake",
     "market": "CORNERS_OU",
     "detail": "bet9ja=1.18 vs sportybet=2.4 (esito #1, differenza 103.4%)"
   },
@@ -2998,5 +2980,23 @@
     "match": "Esporte Clube Bahia - SC Internacional",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.45 a 3.25 (32.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Saint Louis City SC - Dallas",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Saint Louis City SC - Dallas",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.69 a 1.83 (8.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Saint Louis City SC - Dallas",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.0 a 1.84 (8.7%)"
   }
 ]
