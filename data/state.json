@@ -8,40 +8,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.28,
-              3.25
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.28,
-                "under": 3.25
+                "line": 5.5,
+                "over": 1.18,
+                "under": 4.1
               },
               {
-                "line": 7.5,
+                "line": 6.5,
                 "over": 1.81,
                 "under": 1.86
               },
               {
-                "line": 8.5,
-                "over": 2.84,
-                "under": 1.36
+                "line": 7.5,
+                "over": 3.2,
+                "under": 1.28
               }
             ]
           },
           "CARDS_OU": {
             "line": 6.5,
             "odds": [
-              1.51,
-              2.34
+              1.86,
+              1.77
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.51,
-                "under": 2.34
+                "over": 1.86,
+                "under": 1.77
               }
             ]
           }
@@ -49,21 +49,21 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.2,
-            5.3
+            1.16,
+            5.4
           ],
           "CORNERS_OU": {
             "line": null,
             "odds": [
               2.4,
-              1.3
+              1.8
             ]
           },
           "CARDS_OU": {
             "line": null,
             "odds": [
               2.4,
-              1.55
+              1.9
             ]
           }
         },
@@ -73,7 +73,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788059153.4646301
+      "last_checked": 1788059730.525941
     },
     "Portland Timbers|Austin FC": {
       "home": "Portland Timbers",
@@ -86,14 +86,14 @@
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              2.12,
-              1.61
+              1.79,
+              1.88
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 2.12,
-                "under": 1.61
+                "over": 1.79,
+                "under": 1.88
               }
             ]
           }
@@ -109,7 +109,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788059178.3587563
+      "last_checked": 1788059755.3297565
     },
     "San Diego FC|Los Angeles Galaxy": {
       "home": "San Diego FC",
@@ -118,18 +118,41 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 5.5,
+          "CORNERS_OU": {
+            "line": 10.5,
             "odds": [
-              1.76,
-              1.92
+              1.65,
+              2.12
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.76,
-                "under": 1.92
+                "line": 10.5,
+                "over": 1.65,
+                "under": 2.12
+              },
+              {
+                "line": 11.5,
+                "over": 2.16,
+                "under": 1.62
+              },
+              {
+                "line": 12.5,
+                "over": 2.98,
+                "under": 1.34
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.95,
+              1.73
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.95,
+                "under": 1.73
               }
             ]
           }
@@ -145,7 +168,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788059203.1769245
+      "last_checked": 1788059778.529756
     },
     "Alianza FC Valledupar|Atlético Nacional": {
       "home": "Alianza FC Valledupar",
@@ -168,12 +191,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788059229.8774176
+      "last_checked": 1788059805.598016
     },
-    "CD Irapuato|Los Cabos United": {
-      "home": "CD Irapuato",
-      "away": "Los Cabos United",
-      "event_id": "10017308",
+    "Motagua|Olancho FC": {
+      "home": "Motagua",
+      "away": "Olancho FC",
+      "event_id": "10017312",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -191,7 +214,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788059257.518532
+      "last_checked": 1788059832.157398
     }
   }
 }
