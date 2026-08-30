@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.18,
-              4.0
+              1.1,
+              5.5
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.18,
-                "under": 4.0
-              },
-              {
                 "line": 9.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.1,
+                "under": 5.5
               },
               {
                 "line": 10.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 1.6,
+                "under": 2.15
               },
               {
                 "line": 11.5,
-                "over": 4.25,
-                "under": 1.17
+                "over": 2.65,
+                "under": 1.4
               },
               {
                 "line": 12.5,
-                "over": 7.25,
-                "under": 1.05
+                "over": 4.75,
+                "under": 1.13
+              },
+              {
+                "line": 13.5,
+                "over": 8.0,
+                "under": 1.03
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 4.5,
             "odds": [
-              1.65,
-              2.05
+              2.3,
+              1.52
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.65,
-                "under": 2.05
+                "line": 4.5,
+                "over": 2.3,
+                "under": 1.52
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788123324.2178326
+      "last_checked": 1788123939.1171482
     },
     "Famalicão|Gil Vicente": {
       "home": "Famalicão",
@@ -76,40 +76,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.02,
-              9.0
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.02,
-                "under": 9.0
-              },
-              {
-                "line": 6.5,
-                "over": 1.3,
-                "under": 3.1
-              },
-              {
-                "line": 7.5,
-                "over": 1.87,
-                "under": 1.8
-              },
-              {
-                "line": 8.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 9.5,
-                "over": 5.0,
-                "under": 1.12
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -123,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788123349.0704944
+      "last_checked": 1788123965.7415967
     },
     "Córdoba CF|Granada CF": {
       "home": "Córdoba CF",
@@ -146,12 +113,58 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788123375.7127948
+      "last_checked": 1788123992.2876089
     },
-    "Benevento|FC Sudtirol": {
-      "home": "Benevento",
-      "away": "FC Sudtirol",
-      "event_id": "10018273",
+    "Columbus Crew|New England Revolution": {
+      "home": "Columbus Crew",
+      "away": "New England Revolution",
+      "event_id": "10018346",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.64,
+              2.12
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.64,
+                "under": 2.12
+              },
+              {
+                "line": 8.5,
+                "over": 2.1,
+                "under": 1.66
+              },
+              {
+                "line": 9.5,
+                "over": 2.8,
+                "under": 1.38
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788124017.2290683
+    },
+    "Argentinos Juniors|Aldosivi": {
+      "home": "Argentinos Juniors",
+      "away": "Aldosivi",
+      "event_id": "10018343",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -169,30 +182,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788123402.3495228
-    },
-    "Lumenzzane|Giana Erminio": {
-      "home": "Lumenzzane",
-      "away": "Giana Erminio",
-      "event_id": "10018275",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788123429.083982
+      "last_checked": 1788124043.7098384
     }
   }
 }
