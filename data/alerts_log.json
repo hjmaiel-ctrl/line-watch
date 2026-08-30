@@ -1,66 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Fiorentina - Frosinone",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.65 a 3.3 (10.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Fiorentina - Frosinone",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 6.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Sassuolo - Torino",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 6.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Sassuolo - Torino",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.2 a 1.07 (12.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Sassuolo - Torino",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.9 a 6.5 (66.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Sassuolo - Torino",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.15 a 1.45 (48.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Sassuolo - Torino",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.6 a 2.5 (56.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Real Sociedad - Espanyol",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Real Sociedad - Espanyol",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.28 a 1.18 (8.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Real Sociedad - Espanyol",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.25 a 4.1 (26.2%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Real Sociedad - Espanyol",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #1 passato da 1.85 a 2.25 (21.6%)"
@@ -2998,5 +2938,65 @@
     "match": "Paris FC - OGC Nice",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.57 a 2.2 (40.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Chelsea - Brighton & Hove Albion",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.07 a 1.35 (26.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Chelsea - Brighton & Hove Albion",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.5 a 2.85 (128.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Chelsea - Brighton & Hove Albion",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.42 a 2.15 (51.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Chelsea - Brighton & Hove Albion",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.6 a 1.6 (62.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Leeds United - Brentford",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 11.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Leeds United - Brentford",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.07 a 1.47 (37.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Leeds United - Brentford",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.5 a 2.5 (160.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Leeds United - Brentford",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 2.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Leeds United - Brentford",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.4 a 1.85 (32.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Leeds United - Brentford",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.65 a 1.82 (45.6%)"
   }
 ]
