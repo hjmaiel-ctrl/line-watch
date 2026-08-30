@@ -7,51 +7,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.1,
-              5.5
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.1,
-                "under": 5.5
-              },
-              {
-                "line": 10.5,
-                "over": 1.6,
-                "under": 2.15
-              },
-              {
-                "line": 11.5,
-                "over": 2.65,
-                "under": 1.4
-              },
-              {
-                "line": 12.5,
-                "over": 4.75,
-                "under": 1.13
-              },
-              {
-                "line": 13.5,
-                "over": 8.0,
-                "under": 1.03
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              2.3,
-              1.52
+              1.98,
+              1.7
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 2.3,
-                "under": 1.52
+                "line": 3.5,
+                "over": 1.98,
+                "under": 1.7
               }
             ]
           }
@@ -67,7 +34,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788123939.1171482
+      "last_checked": 1788124527.4933143
     },
     "Famalicão|Gil Vicente": {
       "home": "Famalicão",
@@ -90,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788123965.7415967
+      "last_checked": 1788124554.202062
     },
     "Córdoba CF|Granada CF": {
       "home": "Córdoba CF",
@@ -113,7 +80,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788123992.2876089
+      "last_checked": 1788124581.4909859
     },
     "Columbus Crew|New England Revolution": {
       "home": "Columbus Crew",
@@ -125,24 +92,83 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.64,
-              2.12
+              1.57,
+              2.26
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.64,
-                "under": 2.12
+                "over": 1.57,
+                "under": 2.26
               },
               {
                 "line": 8.5,
-                "over": 2.1,
-                "under": 1.66
+                "over": 2.02,
+                "under": 1.7
               },
               {
                 "line": 9.5,
-                "over": 2.8,
-                "under": 1.38
+                "over": 2.76,
+                "under": 1.4
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              2.26,
+              1.55
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 2.26,
+                "under": 1.55
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788124604.6636682
+    },
+    "Argentinos Juniors|Aldosivi": {
+      "home": "Argentinos Juniors",
+      "away": "Aldosivi",
+      "event_id": "10018343",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 17.5,
+            "odds": [
+              1.52,
+              2.3
+            ],
+            "_all_lines": [
+              {
+                "line": 17.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 18.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 19.5,
+                "over": 2.85,
+                "under": 1.35
               }
             ]
           },
@@ -159,30 +185,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788124017.2290683
-    },
-    "Argentinos Juniors|Aldosivi": {
-      "home": "Argentinos Juniors",
-      "away": "Aldosivi",
-      "event_id": "10018343",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788124043.7098384
+      "last_checked": 1788124630.0338187
     }
   }
 }

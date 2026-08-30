@@ -1,24 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "DC United - Los Angeles",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.0 a 1.49 (34.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Inter Miami CF - CF Montreal",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 3.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Inter Miami CF - CF Montreal",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.04 a 1.42 (43.7%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Inter Miami CF - CF Montreal",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.66 a 2.52 (51.8%)"
@@ -2998,5 +2980,23 @@
     "match": "Celta de Vigo - Athletic Bilbao",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 2.05 a 1.52 (34.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.3 a 1.98 (16.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.52 a 1.7 (11.8%)"
   }
 ]
