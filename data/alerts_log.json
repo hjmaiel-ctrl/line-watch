@@ -1,17 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "São Paulo - Red Bull Bragantino",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "São Paulo - Red Bull Bragantino",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.47 a 1.35 (8.9%)"
-  },
-  {
     "type": "quota_cambiata",
     "match": "São Paulo - Red Bull Bragantino",
     "market": "CORNERS_OU",
@@ -2998,5 +2986,17 @@
     "match": "AS Monaco - Olympique Marseille",
     "market": "CARDS_OU",
     "detail": "bet9ja: linea passata da 2.5 a 4.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.25 a 3.65 (12.3%)"
   }
 ]

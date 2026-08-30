@@ -8,34 +8,34 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.28,
-              3.25
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
                 "line": 6.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 7.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.83,
+                "under": 1.83
               },
               {
                 "line": 8.5,
-                "over": 1.95,
-                "under": 1.73
+                "over": 2.45,
+                "under": 1.47
               },
               {
                 "line": 9.5,
-                "over": 2.6,
-                "under": 1.42
-              },
-              {
-                "line": 10.5,
                 "over": 3.45,
                 "under": 1.25
               }
@@ -44,14 +44,14 @@
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.82,
-              1.85
+              1.95,
+              1.73
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 1.95,
+                "under": 1.73
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788118529.1667514
+      "last_checked": 1788119114.6869636
     },
     "Lazio|Genoa": {
       "home": "Lazio",
@@ -79,24 +79,24 @@
           "CORNERS_OU": {
             "line": 4.5,
             "odds": [
-              1.2,
-              3.9
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.2,
-                "under": 3.9
+                "over": 1.18,
+                "under": 4.1
               },
               {
                 "line": 5.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 6.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 7.5,
@@ -105,22 +105,22 @@
               },
               {
                 "line": 8.5,
-                "over": 5.25,
-                "under": 1.11
+                "over": 5.0,
+                "under": 1.12
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              2.05,
-              1.65
+              1.98,
+              1.7
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 1.98,
+                "under": 1.7
               }
             ]
           }
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788118552.4219525
+      "last_checked": 1788119138.030661
     },
     "Cagliari|Internazionale": {
       "home": "Cagliari",
@@ -169,8 +169,8 @@
               },
               {
                 "line": 8.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 2.45,
+                "under": 1.47
               },
               {
                 "line": 9.5,
@@ -205,7 +205,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788118575.5651314
+      "last_checked": 1788119161.5283842
     },
     "AS Monaco|Olympique Marseille": {
       "home": "AS Monaco",
@@ -217,19 +217,19 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.11,
-              5.25
+              1.1,
+              5.5
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.11,
-                "under": 5.25
+                "over": 1.1,
+                "under": 5.5
               },
               {
                 "line": 6.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.3,
+                "under": 3.1
               },
               {
                 "line": 7.5,
@@ -251,14 +251,14 @@
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.85,
-              1.82
+              1.82,
+              1.85
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 1.82,
+                "under": 1.85
               }
             ]
           }
@@ -274,7 +274,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788118598.9193437
+      "last_checked": 1788119185.2071064
     },
     "Cambuur Leeuwarden|FC Twente": {
       "home": "Cambuur Leeuwarden",
@@ -297,7 +297,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788118625.8686347
+      "last_checked": 1788119212.1343076
     }
   }
 }
