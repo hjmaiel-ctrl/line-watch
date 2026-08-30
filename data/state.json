@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788084344.2461944
+      "last_checked": 1788084942.228392
     },
     "AD Machico|AD Camacha": {
       "home": "AD Machico",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788084370.9795141
+      "last_checked": 1788084969.0719972
     },
     "Las Rozas|Tarancon": {
       "home": "Las Rozas",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788084397.642996
+      "last_checked": 1788084995.8345897
     },
     "Casetas|Real Zaragoza Deportivo Aragon": {
       "home": "Casetas",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788084424.4430306
+      "last_checked": 1788085022.7715437
     },
     "SK Sturm Graz II|SK Rapid II": {
       "home": "SK Sturm Graz II",
@@ -103,7 +103,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            11.5,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788084451.1415205
+      "last_checked": 1788085054.9691005
     }
   }
 }

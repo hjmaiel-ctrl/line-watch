@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788084451.18439,
+  "generated_at": 1788085055.002941,
   "matches": [
     {
       "match": "Amarante FC - Benfica B",
@@ -99,7 +99,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            11.5,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
