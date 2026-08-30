@@ -1,47 +1,57 @@
 {
   "matches": {
-    "Real Madrid|Málaga": {
-      "home": "Real Madrid",
-      "away": "Málaga",
-      "event_id": "10022207",
+    "Manchester United|Ipswich Town": {
+      "home": "Manchester United",
+      "away": "Ipswich Town",
+      "event_id": "10009053",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788103529.0345461
-    },
-    "Stade Rennais|Le Mans FC": {
-      "home": "Stade Rennais",
-      "away": "Le Mans FC",
-      "event_id": "10006890",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 8.5,
+                "over": 1.6,
+                "under": 2.15
+              },
+              {
+                "line": 9.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 10.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 11.5,
+                "over": 3.75,
+                "under": 1.2
+              }
+            ]
+          },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.82,
-              1.85
+              2.1,
+              1.62
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 2.1,
+                "under": 1.62
               }
             ]
           }
@@ -57,7 +67,191 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788103553.9143784
+      "last_checked": 1788104141.0647824
+    },
+    "Real Madrid|Málaga": {
+      "home": "Real Madrid",
+      "away": "Málaga",
+      "event_id": "10022207",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 7.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 8.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 9.5,
+                "over": 2.65,
+                "under": 1.4
+              },
+              {
+                "line": 10.5,
+                "over": 3.9,
+                "under": 1.2
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788104165.8911808
+    },
+    "Augsburg|Schalke": {
+      "home": "Augsburg",
+      "away": "Schalke",
+      "event_id": "9825334",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.41,
+              2.7
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.41,
+                "under": 2.7
+              },
+              {
+                "line": 10.5,
+                "over": 1.69,
+                "under": 2.04
+              },
+              {
+                "line": 11.5,
+                "over": 2.1,
+                "under": 1.65
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.59,
+              2.16
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.59,
+                "under": 2.16
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788104189.0154736
+    },
+    "Stade Rennais|Le Mans FC": {
+      "home": "Stade Rennais",
+      "away": "Le Mans FC",
+      "event_id": "10006890",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 10.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 11.5,
+                "over": 1.87,
+                "under": 1.8
+              },
+              {
+                "line": 12.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 13.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.87,
+              1.8
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.87,
+                "under": 1.8
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788104212.148793
     },
     "SC Telstar|Ajax": {
       "home": "SC Telstar",
@@ -80,53 +274,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788103580.5602672
-    },
-    "Nacional da Madeira|Club Football Estrela": {
-      "home": "Nacional da Madeira",
-      "away": "Club Football Estrela",
-      "event_id": "10017739",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788103607.2211556
-    },
-    "Mansfield Town|Luton Town": {
-      "home": "Mansfield Town",
-      "away": "Luton Town",
-      "event_id": "10017724",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788103633.767225
+      "last_checked": 1788104238.7810156
     }
   }
 }
