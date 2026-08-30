@@ -1,152 +1,42 @@
 {
-  "generated_at": 1788088055.325321,
+  "generated_at": 1788088661.4496932,
   "matches": [
     {
-      "match": "Z.Twente - Z.G.A. Eagles",
+      "match": "FC Utrecht - PSV Eindhoven",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 11.5,
             "odds": [
-              1.18,
-              4.85
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.18,
-                "under": 4.85
-              },
-              {
-                "line": 9.5,
-                "over": 1.54,
-                "under": 2.46
-              },
-              {
-                "line": 10.5,
-                "over": 2.3,
-                "under": 1.62
-              },
-              {
                 "line": 11.5,
-                "over": 4.0,
-                "under": 1.25
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 12.5,
-                "over": 7.9,
-                "under": 1.09
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Z.PSV - Z.Den Haag",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.15,
-              5.85
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.15,
-                "under": 5.85
-              },
-              {
-                "line": 10.5,
-                "over": 1.43,
-                "under": 2.83
-              },
-              {
-                "line": 11.5,
-                "over": 2.03,
-                "under": 1.78
-              },
-              {
-                "line": 12.5,
-                "over": 3.35,
-                "under": 1.33
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 13.5,
-                "over": 6.25,
-                "under": 1.13
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Z.Telstar - Z.Sittard",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.05,
-              11.0
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.05,
-                "under": 11.0
+                "over": 2.2,
+                "under": 1.57
               },
               {
-                "line": 7.5,
-                "over": 1.24,
-                "under": 4.1
+                "line": 14.5,
+                "over": 3.0,
+                "under": 1.32
               },
               {
-                "line": 8.5,
-                "over": 1.69,
-                "under": 2.16
-              },
-              {
-                "line": 9.5,
-                "over": 2.64,
-                "under": 1.48
-              },
-              {
-                "line": 10.5,
-                "over": 4.8,
+                "line": 15.5,
+                "over": 4.1,
                 "under": 1.18
               }
             ]
@@ -167,45 +57,12 @@
       "alerts": []
     },
     {
-      "match": "Z.Willem II - Z.Sparta",
+      "match": "Aberdeen - Rangers",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.06,
-              9.7
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.06,
-                "under": 9.7
-              },
-              {
-                "line": 8.5,
-                "over": 1.28,
-                "under": 3.7
-              },
-              {
-                "line": 9.5,
-                "over": 1.79,
-                "under": 2.02
-              },
-              {
-                "line": 10.5,
-                "over": 2.89,
-                "under": 1.41
-              },
-              {
-                "line": 11.5,
-                "over": 5.45,
-                "under": 1.15
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -222,45 +79,56 @@
       "alerts": []
     },
     {
-      "match": "Z.Feyenoord - Z.Heerenveen",
+      "match": "FC Eindhoven - Heracles Almelo",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.14,
-              5.7
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.14,
-                "under": 5.7
-              },
-              {
-                "line": 8.5,
-                "over": 1.44,
-                "under": 2.78
-              },
-              {
-                "line": 9.5,
-                "over": 2.06,
-                "under": 1.76
-              },
-              {
-                "line": 10.5,
-                "over": 3.4,
-                "under": 1.32
-              },
-              {
-                "line": 11.5,
-                "over": 6.45,
-                "under": 1.12
-              }
-            ]
-          },
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Amarante FC - Benfica B",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "AD Machico - AD Camacha",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
