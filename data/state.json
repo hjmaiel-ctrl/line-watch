@@ -1,5 +1,74 @@
 {
   "matches": {
+    "Deportivo La Coruña|Valencia": {
+      "home": "Deportivo La Coruña",
+      "away": "Valencia",
+      "event_id": "10022208",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.25,
+              3.45
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 7.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 8.5,
+                "over": 1.78,
+                "under": 1.9
+              },
+              {
+                "line": 9.5,
+                "over": 2.3,
+                "under": 1.52
+              },
+              {
+                "line": 10.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              2.15,
+              1.6
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 2.15,
+                "under": 1.6
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788111323.4555159
+    },
     "Napoli|Como": {
       "home": "Napoli",
       "away": "Como",
@@ -67,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788110723.1697848
+      "last_checked": 1788111346.7381325
     },
     "Casa Pia|Moreirense FC": {
       "home": "Casa Pia",
@@ -90,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788110752.9500084
+      "last_checked": 1788111373.7668674
     },
     "Eyüpspor|Alanyaspor": {
       "home": "Eyüpspor",
@@ -102,34 +171,34 @@
           "CORNERS_OU": {
             "line": 3.5,
             "odds": [
-              1.02,
-              9.0
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.02,
-                "under": 9.0
+                "over": 1.15,
+                "under": 4.5
               },
               {
                 "line": 4.5,
-                "over": 1.3,
-                "under": 3.1
+                "over": 1.8,
+                "under": 1.87
               },
               {
                 "line": 5.5,
-                "over": 1.9,
-                "under": 1.78
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 6.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 6.5,
+                "under": 1.07
               },
               {
                 "line": 7.5,
-                "over": 5.25,
-                "under": 1.11
+                "over": 10.0,
+                "under": 1.01
               }
             ]
           },
@@ -146,7 +215,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788110777.6736052
+      "last_checked": 1788111399.962752
     },
     "Cádiz|Real Valladolid": {
       "home": "Cádiz",
@@ -169,30 +238,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788110804.294489
-    },
-    "Real Mallorca|AD Ceuta FC": {
-      "home": "Real Mallorca",
-      "away": "AD Ceuta FC",
-      "event_id": "10017958",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788110830.8990753
+      "last_checked": 1788111427.1370668
     }
   }
 }

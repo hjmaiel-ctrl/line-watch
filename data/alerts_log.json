@@ -1,17 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Sevilla - Atlético de Madrid",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.65 a 2.25 (36.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Sevilla - Atlético de Madrid",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.05 a 1.55 (32.3%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Juventus - Parma",
     "market": "CORNERS_OU",
@@ -2998,5 +2986,17 @@
     "match": "Eyüpspor - Alanyaspor",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.5 a 9.0 (100.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Eyüpspor - Alanyaspor",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.02 a 1.15 (12.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Eyüpspor - Alanyaspor",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 9.0 a 4.5 (100.0%)"
   }
 ]
