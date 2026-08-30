@@ -3,12 +3,6 @@
     "type": "quota_cambiata",
     "match": "Coventry City - Hull City",
     "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.05 a 1.32 (25.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Coventry City - Hull City",
-    "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 7.0 a 2.9 (141.4%)"
   },
   {
@@ -2998,5 +2992,11 @@
     "match": "1. FC Magdeburg - Holstein Kiel",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "1. FC Magdeburg - Holstein Kiel",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.1 a 3.65 (12.3%)"
   }
 ]
