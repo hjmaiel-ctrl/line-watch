@@ -7,16 +7,134 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": {
+            "line": 12.5,
+            "odds": [
+              1.44,
+              2.6
+            ],
+            "_all_lines": [
+              {
+                "line": 12.5,
+                "over": 1.44,
+                "under": 2.6
+              },
+              {
+                "line": 13.5,
+                "over": 1.8,
+                "under": 1.91
+              },
+              {
+                "line": 14.5,
+                "over": 2.36,
+                "under": 1.53
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.74,
+              1.94
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.74,
+                "under": 1.94
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788048964.709641
+    },
+    "DC United|Los Angeles": {
+      "home": "DC United",
+      "away": "Los Angeles",
+      "event_id": "10017241",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 3.5,
+            "odds": [
+              1.99,
+              1.7
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.99,
+                "under": 1.7
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788048990.0598776
+    },
+    "Inter Miami CF|CF Montreal": {
+      "home": "Inter Miami CF",
+      "away": "CF Montreal",
+      "event_id": "10017243",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.46,
+              2.52
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.46,
+                "under": 2.52
+              },
+              {
+                "line": 8.5,
+                "over": 1.88,
+                "under": 1.82
+              },
+              {
+                "line": 9.5,
+                "over": 2.58,
+                "under": 1.44
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 5.5,
             "odds": [
               2.2,
               1.58
             ],
             "_all_lines": [
               {
-                "line": 4.5,
+                "line": 5.5,
                 "over": 2.2,
                 "under": 1.58
               }
@@ -34,66 +152,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788048420.7968109
-    },
-    "DC United|Los Angeles": {
-      "home": "DC United",
-      "away": "Los Angeles",
-      "event_id": "10017241",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788048447.3928475
-    },
-    "Inter Miami CF|CF Montreal": {
-      "home": "Inter Miami CF",
-      "away": "CF Montreal",
-      "event_id": "10017243",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.99,
-              1.71
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.99,
-                "under": 1.71
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788048472.2335963
+      "last_checked": 1788049013.427552
     },
     "New York Red Bulls|Philadelphia Union": {
       "home": "New York Red Bulls",
@@ -103,43 +162,30 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 10.5,
             "odds": [
-              1.58,
-              2.24
+              1.54,
+              2.32
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.58,
-                "under": 2.24
-              },
-              {
-                "line": 9.5,
-                "over": 2.0,
-                "under": 1.72
-              },
-              {
                 "line": 10.5,
-                "over": 2.64,
-                "under": 1.43
+                "over": 1.54,
+                "under": 2.32
+              },
+              {
+                "line": 11.5,
+                "over": 1.98,
+                "under": 1.74
+              },
+              {
+                "line": 12.5,
+                "over": 2.66,
+                "under": 1.42
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              2.16,
-              1.6
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 2.16,
-                "under": 1.6
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -152,7 +198,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788048495.5121446
+      "last_checked": 1788049038.5117826
     },
     "Toronto|New York City": {
       "home": "Toronto",
@@ -162,40 +208,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 10.5,
             "odds": [
-              1.63,
-              2.14
+              1.54,
+              2.32
             ],
             "_all_lines": [
               {
+                "line": 10.5,
+                "over": 1.54,
+                "under": 2.32
+              },
+              {
                 "line": 11.5,
-                "over": 1.63,
-                "under": 2.14
+                "over": 1.97,
+                "under": 1.74
               },
               {
                 "line": 12.5,
-                "over": 2.08,
-                "under": 1.67
-              },
-              {
-                "line": 13.5,
-                "over": 2.78,
-                "under": 1.39
+                "over": 2.64,
+                "under": 1.42
               }
             ]
           },
           "CARDS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              2.14,
-              1.61
+              1.62,
+              2.12
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 2.14,
-                "under": 1.61
+                "line": 4.5,
+                "over": 1.62,
+                "under": 2.12
               }
             ]
           }
@@ -211,7 +257,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788048518.5197632
+      "last_checked": 1788049061.5876496
     }
   }
 }
