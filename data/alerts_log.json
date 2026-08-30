@@ -1,24 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Inter Miami CF - CF Montreal",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.6 a 2.04 (27.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Inter Miami CF - CF Montreal",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.16 a 1.66 (30.1%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Toronto - New York City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 10.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Toronto - New York City",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.29 a 1.61 (24.8%)"
@@ -2998,5 +2980,23 @@
     "match": "Famalicão - Gil Vicente",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.45 a 4.1 (18.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.0 a 6.5 (30.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 2.5 a 3.5"
   }
 ]

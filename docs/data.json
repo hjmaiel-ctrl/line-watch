@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788122243.4873316,
+  "generated_at": 1788122834.9516304,
   "matches": [
     {
       "match": "Celta de Vigo - Athletic Bilbao",
@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.12,
-              5.0
+              1.07,
+              6.5
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.07,
+                "under": 6.5
+              },
+              {
                 "line": 8.5,
-                "over": 1.12,
-                "under": 5.0
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 9.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.75,
+                "under": 1.92
               },
               {
                 "line": 10.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 11.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 12.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 3.5,
             "odds": [
-              1.98,
-              1.7
+              2.05,
+              1.65
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.98,
-                "under": 1.7
+                "line": 3.5,
+                "over": 2.05,
+                "under": 1.65
               }
             ]
           }
@@ -72,103 +72,21 @@
           "type": "linea_cambiata",
           "match": "Celta de Vigo - Athletic Bilbao",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+          "detail": "bet9ja: linea passata da 8.5 a 7.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Celta de Vigo - Athletic Bilbao",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.28 a 1.12 (14.3%)"
+          "detail": "bet9ja: esito #2 passato da 5.0 a 6.5 (30.0%)"
         },
         {
-          "type": "quota_cambiata",
-          "match": "Celta de Vigo - Athletic Bilbao",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.25 a 5.0 (53.8%)"
-        },
-        {
-          "type": "quota_cambiata",
+          "type": "linea_cambiata",
           "match": "Celta de Vigo - Athletic Bilbao",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.65 a 1.98 (20.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Celta de Vigo - Athletic Bilbao",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.05 a 1.7 (20.6%)"
+          "detail": "bet9ja: linea passata da 2.5 a 3.5"
         }
       ]
-    },
-    {
-      "match": "Lazio - Genoa",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Cagliari - Internazionale",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            15.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "AS Monaco - Olympique Marseille",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     },
     {
       "match": "Famalicão - Gil Vicente",
@@ -176,40 +94,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.18,
-              4.1
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.18,
-                "under": 4.1
-              },
-              {
-                "line": 6.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 7.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 8.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 9.5,
-                "over": 4.5,
-                "under": 1.15
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -223,21 +108,74 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Famalicão - Gil Vicente",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 5.5"
+      "alerts": []
+    },
+    {
+      "match": "Córdoba CF - Granada CF",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
-        {
-          "type": "quota_cambiata",
-          "match": "Famalicão - Gil Vicente",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.45 a 4.1 (18.8%)"
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         }
-      ]
+      },
+      "alerts": []
+    },
+    {
+      "match": "Benevento - FC Sudtirol",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Lumenzzane - Giana Erminio",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 7
+  "alert_count_this_run": 3
 }
