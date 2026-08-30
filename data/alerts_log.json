@@ -1,54 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Olympique Lyonnais - Le Havre AC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.65 a 2.05 (24.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Olympique Lyonnais - Le Havre AC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.05 a 1.65 (24.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Stade Brestois 29 - Toulouse FC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.11 a 1.2 (8.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Stade Brestois 29 - Toulouse FC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.25 a 3.9 (34.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Stade Brestois 29 - Toulouse FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.6 a 1.8 (12.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Stade Brestois 29 - Toulouse FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.15 a 1.87 (15.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Sevilla - Atlético de Madrid",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Sevilla - Atlético de Madrid",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.1 a 4.5 (9.8%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Sevilla - Atlético de Madrid",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #1 passato da 1.65 a 2.25 (36.4%)"
@@ -2998,5 +2950,53 @@
     "match": "Eyüpspor - Alanyaspor",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.65 a 4.5 (23.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Napoli - Como",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Napoli - Como",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.25 a 1.12 (11.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Napoli - Como",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.45 a 5.0 (44.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Napoli - Como",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.98 a 2.2 (11.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Napoli - Como",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.7 a 1.57 (8.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Eyüpspor - Alanyaspor",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 2.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Eyüpspor - Alanyaspor",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.15 a 1.02 (12.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Eyüpspor - Alanyaspor",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.5 a 9.0 (100.0%)"
   }
 ]
