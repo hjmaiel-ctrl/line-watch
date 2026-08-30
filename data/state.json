@@ -1,9 +1,60 @@
 {
   "matches": {
-    "Amarante FC|Benfica B": {
-      "home": "Amarante FC",
-      "away": "Benfica B",
-      "event_id": "10017495",
+    "FC Utrecht|PSV Eindhoven": {
+      "home": "FC Utrecht",
+      "away": "PSV Eindhoven",
+      "event_id": "10017504",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 11.5,
+                "over": 1.57,
+                "under": 2.15
+              },
+              {
+                "line": 12.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 13.5,
+                "over": 2.45,
+                "under": 1.47
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788085565.1621177
+    },
+    "FC Eindhoven|Heracles Almelo": {
+      "home": "FC Eindhoven",
+      "away": "Heracles Almelo",
+      "event_id": "10017505",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,7 +72,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788084942.228392
+      "last_checked": 1788085591.799676
     },
     "AD Machico|AD Camacha": {
       "home": "AD Machico",
@@ -44,30 +95,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788084969.0719972
-    },
-    "Las Rozas|Tarancon": {
-      "home": "Las Rozas",
-      "away": "Tarancon",
-      "event_id": "10017411",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788084995.8345897
+      "last_checked": 1788085618.5270016
     },
     "Casetas|Real Zaragoza Deportivo Aragon": {
       "home": "Casetas",
@@ -90,24 +118,43 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788085022.7715437
+      "last_checked": 1788085645.0713215
     },
-    "SK Sturm Graz II|SK Rapid II": {
-      "home": "SK Sturm Graz II",
-      "away": "SK Rapid II",
-      "event_id": "10017412",
+    "Chernomorets Odessa|Kryvbas Kriviy Rih": {
+      "home": "Chernomorets Odessa",
+      "away": "Kryvbas Kriviy Rih",
+      "event_id": "10017483",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.5,
+              2.3
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.5,
+                "under": 2.3
+              },
+              {
+                "line": 9.5,
+                "over": 1.84,
+                "under": 1.79
+              },
+              {
+                "line": 10.5,
+                "over": 2.34,
+                "under": 1.49
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            11.5,
-            100.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -117,7 +164,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788085054.9691005
+      "last_checked": 1788085670.181137
     }
   }
 }
