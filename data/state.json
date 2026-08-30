@@ -8,48 +8,64 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 9.5,
             "odds": [
               1.5,
-              2.42
+              2.38
             ],
             "_all_lines": [
               {
-                "line": 10.5,
+                "line": 9.5,
                 "over": 1.5,
-                "under": 2.42
+                "under": 2.38
+              },
+              {
+                "line": 10.5,
+                "over": 2.14,
+                "under": 1.61
               },
               {
                 "line": 11.5,
-                "over": 2.02,
-                "under": 1.71
-              },
-              {
-                "line": 12.5,
-                "over": 2.9,
-                "under": 1.36
+                "over": 3.25,
+                "under": 1.27
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.72,
-              1.97
+              2.3,
+              1.53
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.72,
-                "under": 1.97
+                "over": 2.3,
+                "under": 1.53
               }
             ]
           }
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "1X2": [
+            2.4,
+            8.0,
+            3.1
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.52
+            ]
+          },
+          "CARDS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              2.4
+            ]
+          }
         },
         "bet365": {
           "1X2": null,
@@ -57,7 +73,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788062141.5744743
+      "last_checked": 1788062767.0507329
     },
     "San Diego FC|Los Angeles Galaxy": {
       "home": "San Diego FC",
@@ -67,25 +83,25 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 12.5,
+            "line": 11.5,
             "odds": [
-              1.63,
-              2.14
+              1.5,
+              2.36
             ],
             "_all_lines": [
               {
+                "line": 11.5,
+                "over": 1.5,
+                "under": 2.36
+              },
+              {
                 "line": 12.5,
-                "over": 1.63,
-                "under": 2.14
+                "over": 2.16,
+                "under": 1.6
               },
               {
                 "line": 13.5,
-                "over": 2.28,
-                "under": 1.56
-              },
-              {
-                "line": 14.5,
-                "over": 3.4,
+                "over": 3.3,
                 "under": 1.27
               }
             ]
@@ -93,14 +109,14 @@
           "CARDS_OU": {
             "line": 8.5,
             "odds": [
-              1.98,
-              1.71
+              1.56,
+              2.24
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.98,
-                "under": 1.71
+                "over": 1.56,
+                "under": 2.24
               }
             ]
           }
@@ -116,7 +132,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788062164.6877506
+      "last_checked": 1788062790.3791225
     },
     "New Mexico Utd|San Antonio": {
       "home": "New Mexico Utd",
@@ -139,30 +155,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788062191.30134
-    },
-    "Municipal Pérez Zeledón|Alajuelense": {
-      "home": "Municipal Pérez Zeledón",
-      "away": "Alajuelense",
-      "event_id": "10017319",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788062218.219999
+      "last_checked": 1788062817.0666275
     },
     "Las Vegas Lights|Charleston Battery": {
       "home": "Las Vegas Lights",
@@ -185,7 +178,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788062244.8829312
+      "last_checked": 1788062843.6561344
+    },
+    "Phoenix Rising|Indy Eleven": {
+      "home": "Phoenix Rising",
+      "away": "Indy Eleven",
+      "event_id": "10017325",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788062883.919952
     }
   }
 }

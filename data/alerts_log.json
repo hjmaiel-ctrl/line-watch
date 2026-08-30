@@ -1,72 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Mainz - Paderborn",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.89 a 2.34 (23.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Mainz - Paderborn",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.78 a 1.51 (17.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Union Berlin - Eintracht Frankfurt",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.57 a 1.43 (9.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Union Berlin - Eintracht Frankfurt",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.26 a 2.62 (15.9%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Union Berlin - Eintracht Frankfurt",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Union Berlin - Eintracht Frankfurt",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.34 a 1.58 (48.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Union Berlin - Eintracht Frankfurt",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.51 a 2.18 (44.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "AFC Bournemouth - Everton",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 11.5 a 10.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "AFC Bournemouth - Everton",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.38 a 1.2 (15.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "AFC Bournemouth - Everton",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.7 a 3.9 (44.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Mainz - Paderborn",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 11.5 a 12.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Union Berlin - Eintracht Frankfurt",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #1 passato da 1.58 a 1.83 (15.8%)"
@@ -2998,5 +2932,71 @@
     "match": "Portland Timbers - Austin FC",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.63 a 1.97 (20.9%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Portland Timbers - Austin FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=1.5 vs sportybet=2.4 (esito #1, differenza 60.0%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Portland Timbers - Austin FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=2.38 vs sportybet=1.52 (esito #2, differenza 56.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Portland Timbers - Austin FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 9.5"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Portland Timbers - Austin FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja=1.53 vs sportybet=2.4 (esito #2, differenza 56.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Portland Timbers - Austin FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.72 a 2.3 (33.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Portland Timbers - Austin FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.97 a 1.53 (28.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "San Diego FC - Los Angeles Galaxy",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 12.5 a 11.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "San Diego FC - Los Angeles Galaxy",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.63 a 1.5 (8.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "San Diego FC - Los Angeles Galaxy",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.14 a 2.36 (10.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "San Diego FC - Los Angeles Galaxy",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.98 a 1.56 (26.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "San Diego FC - Los Angeles Galaxy",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.71 a 2.24 (31.0%)"
   }
 ]

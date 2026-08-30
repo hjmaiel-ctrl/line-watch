@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788062244.9368892,
+  "generated_at": 1788062883.9766476,
   "matches": [
     {
       "match": "Portland Timbers - Austin FC",
@@ -8,40 +8,151 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 9.5,
             "odds": [
               1.5,
-              2.42
+              2.38
             ],
             "_all_lines": [
               {
-                "line": 10.5,
+                "line": 9.5,
                 "over": 1.5,
-                "under": 2.42
+                "under": 2.38
+              },
+              {
+                "line": 10.5,
+                "over": 2.14,
+                "under": 1.61
               },
               {
                 "line": 11.5,
-                "over": 2.02,
-                "under": 1.71
-              },
-              {
-                "line": 12.5,
-                "over": 2.9,
-                "under": 1.36
+                "over": 3.25,
+                "under": 1.27
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.72,
-              1.97
+              2.3,
+              1.53
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.72,
-                "under": 1.97
+                "over": 2.3,
+                "under": 1.53
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            8.0,
+            3.1
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.52
+            ]
+          },
+          "CARDS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              2.4
+            ]
+          }
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_differente",
+          "match": "Portland Timbers - Austin FC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja=1.5 vs sportybet=2.4 (esito #1, differenza 60.0%)"
+        },
+        {
+          "type": "quota_differente",
+          "match": "Portland Timbers - Austin FC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja=2.38 vs sportybet=1.52 (esito #2, differenza 56.6%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Portland Timbers - Austin FC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 10.5 a 9.5"
+        },
+        {
+          "type": "quota_differente",
+          "match": "Portland Timbers - Austin FC",
+          "market": "CARDS_OU",
+          "detail": "bet9ja=1.53 vs sportybet=2.4 (esito #2, differenza 56.9%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Portland Timbers - Austin FC",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.72 a 2.3 (33.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Portland Timbers - Austin FC",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.97 a 1.53 (28.8%)"
+        }
+      ]
+    },
+    {
+      "match": "San Diego FC - Los Angeles Galaxy",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.5,
+              2.36
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.5,
+                "under": 2.36
+              },
+              {
+                "line": 12.5,
+                "over": 2.16,
+                "under": 1.6
+              },
+              {
+                "line": 13.5,
+                "over": 3.3,
+                "under": 1.27
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.56,
+              2.24
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.56,
+                "under": 2.24
               }
             ]
           }
@@ -60,106 +171,38 @@
       "alerts": [
         {
           "type": "linea_cambiata",
-          "match": "Portland Timbers - Austin FC",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 4.5"
+          "match": "San Diego FC - Los Angeles Galaxy",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 12.5 a 11.5"
         },
         {
           "type": "quota_cambiata",
-          "match": "Portland Timbers - Austin FC",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.1 a 1.72 (22.1%)"
+          "match": "San Diego FC - Los Angeles Galaxy",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.63 a 1.5 (8.7%)"
         },
         {
           "type": "quota_cambiata",
-          "match": "Portland Timbers - Austin FC",
+          "match": "San Diego FC - Los Angeles Galaxy",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.14 a 2.36 (10.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "San Diego FC - Los Angeles Galaxy",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.63 a 1.97 (20.9%)"
+          "detail": "bet9ja: esito #1 passato da 1.98 a 1.56 (26.9%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "San Diego FC - Los Angeles Galaxy",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.71 a 2.24 (31.0%)"
         }
       ]
     },
     {
-      "match": "San Diego FC - Los Angeles Galaxy",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.63,
-              2.14
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.63,
-                "under": 2.14
-              },
-              {
-                "line": 13.5,
-                "over": 2.28,
-                "under": 1.56
-              },
-              {
-                "line": 14.5,
-                "over": 3.4,
-                "under": 1.27
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.98,
-              1.71
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.98,
-                "under": 1.71
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
       "match": "New Mexico Utd - San Antonio",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Municipal Pérez Zeledón - Alajuelense",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -201,7 +244,29 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Phoenix Rising - Indy Eleven",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 11
 }
