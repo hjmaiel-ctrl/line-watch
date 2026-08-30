@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788081337.2428398
+      "last_checked": 1788081936.7190175
     },
     "Casetas|Real Zaragoza Deportivo Aragon": {
       "home": "Casetas",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788081364.2930217
+      "last_checked": 1788081964.096194
     },
     "SK Sturm Graz II|SK Rapid II": {
       "home": "SK Sturm Graz II",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788081391.335666
+      "last_checked": 1788081991.1125522
     },
     "Tai Po FC|Eastern Athletic": {
       "home": "Tai Po FC",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788081418.2049105
+      "last_checked": 1788082018.1328003
     },
     "Queensland Lions|Peninsula": {
       "home": "Queensland Lions",
@@ -105,8 +105,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.27,
-            4.0
+            9.75,
+            85.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788081450.1541884
+      "last_checked": 1788082050.4833708
     }
   }
 }
