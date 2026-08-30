@@ -11,11 +11,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            18.5,
-            3.55
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -25,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788070548.6618752
+      "last_checked": 1788071144.918429
     },
     "South West Queensland Thunder|Pine Hills": {
       "home": "South West Queensland Thunder",
@@ -38,7 +34,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            7.75,
+            1.37
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788070575.264037
+      "last_checked": 1788071176.8313334
     },
     "Moreland Zebras|Manningham Utd Blues": {
       "home": "Moreland Zebras",
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788070601.769685
+      "last_checked": 1788071203.3777878
     },
     "Sydney Olimpic|Sydney Youth": {
       "home": "Sydney Olimpic",
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788070628.3828647
+      "last_checked": 1788071230.0200865
     },
     "Wollongong|Manly Utd.": {
       "home": "Wollongong",
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788070654.9142456
+      "last_checked": 1788071256.696098
     }
   }
 }
