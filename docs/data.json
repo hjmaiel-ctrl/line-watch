@@ -1,28 +1,6 @@
 {
-  "generated_at": 1788069459.587987,
+  "generated_at": 1788070083.096205,
   "matches": [
-    {
-      "match": "Wallsend - Newcastle Croatia FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Queensland Lions FC - Gold Coast Knights FC",
       "bet9ja_stats": null,
@@ -35,7 +13,7 @@
         "sportybet": {
           "1X2": [
             2.4,
-            4.75,
+            7.25,
             2.85
           ],
           "CORNERS_OU": null,
@@ -47,7 +25,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Queensland Lions FC - Gold Coast Knights FC",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 4.75 a 7.25 (52.6%)"
+        }
+      ]
     },
     {
       "match": "South West Queensland Thunder - Pine Hills",
@@ -114,7 +99,29 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Wollongong - Manly Utd.",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }

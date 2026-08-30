@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Wallsend|Newcastle Croatia FC": {
-      "home": "Wallsend",
-      "away": "Newcastle Croatia FC",
-      "event_id": "10017342",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788069346.7668488
-    },
     "Queensland Lions FC|Gold Coast Knights FC": {
       "home": "Queensland Lions FC",
       "away": "Gold Coast Knights FC",
@@ -36,7 +13,7 @@
         "sportybet": {
           "1X2": [
             2.4,
-            4.75,
+            7.25,
             2.85
           ],
           "CORNERS_OU": null,
@@ -48,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788069378.8640978
+      "last_checked": 1788069974.548176
     },
     "South West Queensland Thunder|Pine Hills": {
       "home": "South West Queensland Thunder",
@@ -71,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788069405.8256145
+      "last_checked": 1788070001.6170263
     },
     "Moreland Zebras|Manningham Utd Blues": {
       "home": "Moreland Zebras",
@@ -94,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788069432.5770016
+      "last_checked": 1788070028.4842427
     },
     "Sydney Olimpic|Sydney Youth": {
       "home": "Sydney Olimpic",
@@ -117,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788069459.5386374
+      "last_checked": 1788070055.7400277
+    },
+    "Wollongong|Manly Utd.": {
+      "home": "Wollongong",
+      "away": "Manly Utd.",
+      "event_id": "10017354",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788070083.0582218
     }
   }
 }
