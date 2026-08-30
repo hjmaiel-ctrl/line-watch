@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788083127.9204729
+      "last_checked": 1788083723.7894027
     },
     "Casetas|Real Zaragoza Deportivo Aragon": {
       "home": "Casetas",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788083154.6384065
+      "last_checked": 1788083750.4414504
     },
     "SK Sturm Graz II|SK Rapid II": {
       "home": "SK Sturm Graz II",
@@ -67,34 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788083180.7677531
-    },
-    "Tai Po FC|Eastern Athletic": {
-      "home": "Tai Po FC",
-      "away": "Eastern Athletic",
-      "event_id": "10017399",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            10.0,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788083212.2040892
+      "last_checked": 1788083777.1006505
     },
     "Siheung Citizen|FC Pocheon": {
       "home": "Siheung Citizen",
@@ -117,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788083238.431469
+      "last_checked": 1788083804.056058
+    },
+    "Bohemians Prague 1905 B|Admira Prague": {
+      "home": "Bohemians Prague 1905 B",
+      "away": "Admira Prague",
+      "event_id": "10017392",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788083830.7292383
     }
   }
 }
