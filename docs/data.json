@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788071861.9963257,
+  "generated_at": 1788072435.3457012,
   "matches": [
     {
       "match": "Queensland Lions FC - Gold Coast Knights FC",
@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            2.2,
-            2.1
+            2.95,
+            1.6
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Queensland Lions FC - Gold Coast Knights FC",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 2.2 a 2.95 (34.1%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Queensland Lions FC - Gold Coast Knights FC",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 2.1 a 1.6 (31.2%)"
+        }
+      ]
     },
     {
       "match": "South West Queensland Thunder - Pine Hills",
@@ -116,5 +129,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
