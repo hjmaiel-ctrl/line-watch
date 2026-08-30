@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788071256.7415183,
+  "generated_at": 1788071861.9963257,
   "matches": [
     {
       "match": "Queensland Lions FC - Gold Coast Knights FC",
@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            2.2,
+            2.1
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -33,11 +37,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            7.75,
-            1.37
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
