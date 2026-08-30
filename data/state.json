@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.09,
-              5.75
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.09,
-                "under": 5.75
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 7.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.73,
+                "under": 1.95
               },
               {
                 "line": 8.5,
-                "over": 1.8,
-                "under": 1.87
-              },
-              {
-                "line": 9.5,
                 "over": 2.7,
                 "under": 1.38
               },
               {
+                "line": 9.5,
+                "over": 4.5,
+                "under": 1.15
+              },
+              {
                 "line": 10.5,
-                "over": 4.25,
-                "under": 1.17
+                "over": 7.5,
+                "under": 1.04
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 3.5,
             "odds": [
-              1.52,
-              2.3
+              1.85,
+              1.82
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.52,
-                "under": 2.3
+                "line": 3.5,
+                "over": 1.85,
+                "under": 1.82
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788099333.1357052
+      "last_checked": 1788099942.2360525
     },
     "Chelsea|Brighton & Hove Albion": {
       "home": "Chelsea",
@@ -79,48 +79,48 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.22,
-              3.65
+              1.17,
+              4.25
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.17,
+                "under": 4.25
               },
               {
                 "line": 10.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 11.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 2.3,
+                "under": 1.52
               },
               {
                 "line": 12.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 3.9,
+                "under": 1.2
               },
               {
                 "line": 13.5,
-                "over": 5.0,
-                "under": 1.12
+                "over": 6.5,
+                "under": 1.07
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.6,
-              2.15
+              1.75,
+              1.92
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 1.75,
+                "under": 1.92
               }
             ]
           }
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788099356.3429244
+      "last_checked": 1788099965.442976
     },
     "Leeds United|Brentford": {
       "home": "Leeds United",
@@ -146,50 +146,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.18,
-              4.1
+              1.17,
+              4.25
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.18,
-                "under": 4.1
-              },
-              {
                 "line": 9.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.17,
+                "under": 4.25
               },
               {
                 "line": 10.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 11.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 2.15,
+                "under": 1.6
               },
               {
                 "line": 12.5,
-                "over": 4.25,
-                "under": 1.17
+                "over": 3.45,
+                "under": 1.25
+              },
+              {
+                "line": 13.5,
+                "over": 5.25,
+                "under": 1.11
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.5,
-              2.35
+              1.92,
+              1.75
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.92,
+                "under": 1.75
               }
             ]
           }
@@ -205,53 +205,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788099379.586782
-    },
-    "Freiburg|Werder Bremen": {
-      "home": "Freiburg",
-      "away": "Werder Bremen",
-      "event_id": "9823647",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.36,
-              2.92
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.36,
-                "under": 2.92
-              },
-              {
-                "line": 8.5,
-                "over": 1.75,
-                "under": 1.96
-              },
-              {
-                "line": 9.5,
-                "over": 2.42,
-                "under": 1.5
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788099404.6907935
+      "last_checked": 1788099988.506671
     },
     "Paris FC|OGC Nice": {
       "home": "Paris FC",
@@ -261,50 +215,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 1.5,
+            "line": 2.5,
             "odds": [
-              1.11,
-              5.25
+              1.02,
+              9.0
             ],
             "_all_lines": [
               {
-                "line": 1.5,
-                "over": 1.11,
-                "under": 5.25
-              },
-              {
                 "line": 2.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.02,
+                "under": 9.0
               },
               {
                 "line": 3.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 4.5,
                 "over": 1.98,
                 "under": 1.7
               },
               {
-                "line": 4.5,
-                "over": 3.1,
-                "under": 1.3
+                "line": 5.5,
+                "over": 3.45,
+                "under": 1.25
               },
               {
-                "line": 5.5,
-                "over": 5.25,
-                "under": 1.11
+                "line": 6.5,
+                "over": 6.0,
+                "under": 1.08
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.62,
-              2.1
+              2.2,
+              1.57
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 2.2,
+                "under": 1.57
               }
             ]
           }
@@ -320,7 +274,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788099428.1040049
+      "last_checked": 1788100011.6440122
+    },
+    "AFC Wimbledon|Wigan Athletic": {
+      "home": "AFC Wimbledon",
+      "away": "Wigan Athletic",
+      "event_id": "10017647",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788100038.4317937
     }
   }
 }
