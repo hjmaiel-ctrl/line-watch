@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.32,
-              3.0
+              1.22,
+              3.5
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
                 "line": 8.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.22,
+                "under": 3.5
               },
               {
                 "line": 9.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 10.5,
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 11.5,
                 "over": 3.25,
                 "under": 1.28
               },
               {
-                "line": 11.5,
-                "over": 5.0,
-                "under": 1.12
+                "line": 12.5,
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              1.95,
-              1.73
+              1.65,
+              2.05
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.95,
-                "under": 1.73
+                "line": 2.5,
+                "over": 1.65,
+                "under": 2.05
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788113131.545761
+      "last_checked": 1788113731.684254
     },
     "Napoli|Como": {
       "home": "Napoli",
@@ -77,50 +77,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.02,
-              8.5
+              1.17,
+              4.25
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.02,
-                "under": 8.5
-              },
-              {
                 "line": 8.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.17,
+                "under": 4.25
               },
               {
                 "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.85,
+                "under": 1.82
               },
               {
                 "line": 10.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 11.5,
-                "over": 6.5,
-                "under": 1.07
+                "over": 7.0,
+                "under": 1.05
+              },
+              {
+                "line": 12.5,
+                "over": 10.0,
+                "under": 1.01
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.55,
-              2.25
+              2.15,
+              1.6
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 2.15,
+                "under": 1.6
               }
             ]
           }
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788113154.988683
+      "last_checked": 1788113755.3205383
     },
     "Cambuur Leeuwarden|FC Twente": {
       "home": "Cambuur Leeuwarden",
@@ -159,7 +159,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788113181.7999187
+      "last_checked": 1788113782.2720737
+    },
+    "Casa Pia|Moreirense FC": {
+      "home": "Casa Pia",
+      "away": "Moreirense FC",
+      "event_id": "10017973",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788113809.2178166
     },
     "Niger Tornadoes|Enyimba": {
       "home": "Niger Tornadoes",
@@ -182,30 +205,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788113208.65447
-    },
-    "Ikorodu City|Ranchers Bees": {
-      "home": "Ikorodu City",
-      "away": "Ranchers Bees",
-      "event_id": "10017805",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788113235.2624602
+      "last_checked": 1788113836.0083303
     }
   }
 }
