@@ -1,54 +1,6 @@
 {
-  "generated_at": 1788053832.6970813,
+  "generated_at": 1788054450.6899405,
   "matches": [
-    {
-      "match": "Atlanta Utd - Charlotte FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            14.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Inter Miami CF - CF Montreal",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Sporting Kansas City - Vancouver Whitecaps",
       "bet9ja_stats": null,
@@ -113,41 +65,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.39,
-              2.78
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.39,
-                "under": 2.78
-              },
-              {
-                "line": 7.5,
-                "over": 1.75,
-                "under": 1.97
-              },
-              {
-                "line": 8.5,
-                "over": 2.32,
-                "under": 1.54
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.8,
-              1.87
+              1.85,
+              1.82
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.8,
-                "under": 1.87
+                "over": 1.85,
+                "under": 1.82
               }
             ]
           }
@@ -174,38 +103,154 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.36,
-              2.9
+              1.35,
+              2.96
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.36,
-                "under": 2.9
+                "over": 1.35,
+                "under": 2.96
               },
               {
                 "line": 8.5,
-                "over": 1.76,
-                "under": 1.96
+                "over": 1.73,
+                "under": 1.99
               },
               {
                 "line": 9.5,
-                "over": 2.44,
-                "under": 1.49
+                "over": 2.38,
+                "under": 1.51
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              2.02,
-              1.68
+              1.99,
+              1.7
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 2.02,
-                "under": 1.68
+                "over": 1.99,
+                "under": 1.7
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Houston Dynamo - San Jose Earthquakes",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.5,
+              2.42
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.5,
+                "under": 2.42
+              },
+              {
+                "line": 12.5,
+                "over": 1.95,
+                "under": 1.76
+              },
+              {
+                "line": 13.5,
+                "over": 2.68,
+                "under": 1.41
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.8,
+              1.87
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.8,
+                "under": 1.87
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Colorado Rapids - Real Salt Lake",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.59,
+              2.22
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.59,
+                "under": 2.22
+              },
+              {
+                "line": 10.5,
+                "over": 1.94,
+                "under": 1.77
+              },
+              {
+                "line": 11.5,
+                "over": 2.48,
+                "under": 1.48
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.72,
+              1.97
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.72,
+                "under": 1.97
               }
             ]
           }

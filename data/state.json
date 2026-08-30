@@ -1,55 +1,5 @@
 {
   "matches": {
-    "Atlanta Utd|Charlotte FC": {
-      "home": "Atlanta Utd",
-      "away": "Charlotte FC",
-      "event_id": "10017239",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            14.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788053736.863532
-    },
-    "Inter Miami CF|CF Montreal": {
-      "home": "Inter Miami CF",
-      "away": "CF Montreal",
-      "event_id": "10017243",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788053763.4714148
-    },
     "Sporting Kansas City|Vancouver Whitecaps": {
       "home": "Sporting Kansas City",
       "away": "Vancouver Whitecaps",
@@ -107,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788053786.5032246
+      "last_checked": 1788054355.2417989
     },
     "Minnesota Utd|Orlando City": {
       "home": "Minnesota Utd",
@@ -116,39 +66,134 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
+          "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": 3.5,
             "odds": [
-              1.39,
-              2.78
+              1.85,
+              1.82
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.39,
-                "under": 2.78
-              },
+                "line": 3.5,
+                "over": 1.85,
+                "under": 1.82
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788054380.192367
+    },
+    "Nashville SC|Cincinnati": {
+      "home": "Nashville SC",
+      "away": "Cincinnati",
+      "event_id": "10017273",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.35,
+              2.96
+            ],
+            "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.75,
-                "under": 1.97
+                "over": 1.35,
+                "under": 2.96
               },
               {
                 "line": 8.5,
-                "over": 2.32,
-                "under": 1.54
+                "over": 1.73,
+                "under": 1.99
+              },
+              {
+                "line": 9.5,
+                "over": 2.38,
+                "under": 1.51
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
+              1.99,
+              1.7
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.99,
+                "under": 1.7
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788054403.477194
+    },
+    "Houston Dynamo|San Jose Earthquakes": {
+      "home": "Houston Dynamo",
+      "away": "San Jose Earthquakes",
+      "event_id": "10017280",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.5,
+              2.42
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.5,
+                "under": 2.42
+              },
+              {
+                "line": 12.5,
+                "over": 1.95,
+                "under": 1.76
+              },
+              {
+                "line": 13.5,
+                "over": 2.68,
+                "under": 1.41
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
               1.8,
               1.87
             ],
             "_all_lines": [
               {
-                "line": 3.5,
+                "line": 2.5,
                 "over": 1.8,
                 "under": 1.87
               }
@@ -166,50 +211,50 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788053809.6714194
+      "last_checked": 1788054427.0141318
     },
-    "Nashville SC|Cincinnati": {
-      "home": "Nashville SC",
-      "away": "Cincinnati",
-      "event_id": "10017273",
+    "Colorado Rapids|Real Salt Lake": {
+      "home": "Colorado Rapids",
+      "away": "Real Salt Lake",
+      "event_id": "10017313",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 9.5,
             "odds": [
-              1.36,
-              2.9
+              1.59,
+              2.22
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.36,
-                "under": 2.9
-              },
-              {
-                "line": 8.5,
-                "over": 1.76,
-                "under": 1.96
-              },
-              {
                 "line": 9.5,
-                "over": 2.44,
-                "under": 1.49
+                "over": 1.59,
+                "under": 2.22
+              },
+              {
+                "line": 10.5,
+                "over": 1.94,
+                "under": 1.77
+              },
+              {
+                "line": 11.5,
+                "over": 2.48,
+                "under": 1.48
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 4.5,
             "odds": [
-              2.02,
-              1.68
+              1.72,
+              1.97
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 2.02,
-                "under": 1.68
+                "line": 4.5,
+                "over": 1.72,
+                "under": 1.97
               }
             ]
           }
@@ -225,7 +270,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788053832.6431231
+      "last_checked": 1788054450.6480012
     }
   }
 }
