@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788094030.8338838,
+  "generated_at": 1788094621.5421498,
   "matches": [
     {
       "match": "Feyenoord - ADO Den Haag",
@@ -8,36 +8,41 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.35,
-              2.85
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
                 "line": 9.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 10.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 11.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 12.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 2.7,
+                "under": 1.38
               },
               {
                 "line": 13.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
@@ -59,7 +64,7 @@
           "type": "linea_cambiata",
           "match": "Feyenoord - ADO Den Haag",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 9.5"
+          "detail": "bet9ja: linea passata da 9.5 a 8.5"
         }
       ]
     },
@@ -92,36 +97,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.22,
-              3.65
+              1.2,
+              3.9
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.2,
+                "under": 3.9
+              },
+              {
                 "line": 6.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.6,
+                "under": 2.15
               },
               {
                 "line": 7.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 8.5,
-                "over": 2.15,
-                "under": 1.57
+                "over": 3.9,
+                "under": 1.2
               },
               {
                 "line": 9.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 10.5,
-                "over": 5.5,
-                "under": 1.1
+                "over": 6.5,
+                "under": 1.07
               }
             ]
           },
@@ -143,12 +148,12 @@
           "type": "linea_cambiata",
           "match": "1. FC Magdeburg - Holstein Kiel",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 6.5"
+          "detail": "bet9ja: linea passata da 6.5 a 5.5"
         }
       ]
     },
     {
-      "match": "FC St. Pauli - 1. FC Kaiserslautern",
+      "match": "SV Darmstadt 98 - Hannover 96",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -170,7 +175,7 @@
       "alerts": []
     },
     {
-      "match": "KAA Gent - Club Brugge",
+      "match": "FC St. Pauli - 1. FC Kaiserslautern",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

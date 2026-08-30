@@ -8,36 +8,41 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.35,
-              2.85
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
                 "line": 9.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 10.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 11.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 12.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 2.7,
+                "under": 1.38
               },
               {
                 "line": 13.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
@@ -54,7 +59,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788093925.7268965
+      "last_checked": 1788094516.2163146
     },
     "Willem II|Heerenveen": {
       "home": "Willem II",
@@ -77,7 +82,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788093952.4245832
+      "last_checked": 1788094542.9761422
     },
     "1. FC Magdeburg|Holstein Kiel": {
       "home": "1. FC Magdeburg",
@@ -87,36 +92,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.22,
-              3.65
+              1.2,
+              3.9
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.2,
+                "under": 3.9
+              },
+              {
                 "line": 6.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.6,
+                "under": 2.15
               },
               {
                 "line": 7.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 8.5,
-                "over": 2.15,
-                "under": 1.57
+                "over": 3.9,
+                "under": 1.2
               },
               {
                 "line": 9.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 10.5,
-                "over": 5.5,
-                "under": 1.1
+                "over": 6.5,
+                "under": 1.07
               }
             ]
           },
@@ -133,7 +138,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788093977.5445106
+      "last_checked": 1788094567.935924
+    },
+    "SV Darmstadt 98|Hannover 96": {
+      "home": "SV Darmstadt 98",
+      "away": "Hannover 96",
+      "event_id": "10017549",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788094594.7899294
     },
     "FC St. Pauli|1. FC Kaiserslautern": {
       "home": "FC St. Pauli",
@@ -156,30 +184,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788094004.2288432
-    },
-    "KAA Gent|Club Brugge": {
-      "home": "KAA Gent",
-      "away": "Club Brugge",
-      "event_id": "10017544",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788094030.780534
+      "last_checked": 1788094621.4879754
     }
   }
 }
