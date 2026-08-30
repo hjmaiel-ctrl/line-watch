@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788079513.359929
+      "last_checked": 1788080113.0754373
     },
     "SK Sturm Graz II|SK Rapid II": {
       "home": "SK Sturm Graz II",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788079540.3049479
+      "last_checked": 1788080139.8918972
     },
     "Tai Po FC|Eastern Athletic": {
       "home": "Tai Po FC",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788079567.3621259
+      "last_checked": 1788080166.808346
     },
     "Queensland Lions|Peninsula": {
       "home": "Queensland Lions",
@@ -80,7 +80,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.3,
+            4.2
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788079594.146981
+      "last_checked": 1788080199.1063397
     },
     "Siheung Citizen|FC Pocheon": {
       "home": "Siheung Citizen",
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788079621.1261394
+      "last_checked": 1788080225.8894346
     }
   }
 }
