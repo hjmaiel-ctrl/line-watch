@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788113836.072159,
+  "generated_at": 1788114438.0570126,
   "matches": [
     {
       "match": "Deportivo La Coruña - Valencia",
@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.22,
-              3.5
+              1.12,
+              5.0
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.22,
-                "under": 3.5
+                "over": 1.12,
+                "under": 5.0
               },
               {
                 "line": 9.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 10.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 1.82,
+                "under": 1.85
               },
               {
                 "line": 11.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 2.65,
+                "under": 1.4
               },
               {
                 "line": 12.5,
-                "over": 4.75,
-                "under": 1.13
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.65,
-              2.05
+              1.8,
+              1.87
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.8,
+                "under": 1.87
               }
             ]
           }
@@ -69,40 +69,28 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
-          "match": "Deportivo La Coruña - Valencia",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 8.5"
-        },
-        {
           "type": "quota_cambiata",
           "match": "Deportivo La Coruña - Valencia",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.32 a 1.22 (8.2%)"
+          "detail": "bet9ja: esito #1 passato da 1.22 a 1.12 (8.9%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Deportivo La Coruña - Valencia",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.0 a 3.5 (16.7%)"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Deportivo La Coruña - Valencia",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 3.5 a 2.5"
+          "detail": "bet9ja: esito #2 passato da 3.5 a 5.0 (42.9%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Deportivo La Coruña - Valencia",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.95 a 1.65 (18.2%)"
+          "detail": "bet9ja: esito #1 passato da 1.65 a 1.8 (9.1%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Deportivo La Coruña - Valencia",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.73 a 2.05 (18.5%)"
+          "detail": "bet9ja: esito #2 passato da 2.05 a 1.87 (9.6%)"
         }
       ]
     },
@@ -112,54 +100,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.17,
-              4.25
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.17,
-                "under": 4.25
-              },
-              {
-                "line": 9.5,
-                "over": 1.85,
-                "under": 1.82
-              },
-              {
-                "line": 10.5,
-                "over": 3.25,
-                "under": 1.28
-              },
-              {
-                "line": 11.5,
-                "over": 7.0,
-                "under": 1.05
-              },
-              {
-                "line": 12.5,
-                "over": 10.0,
-                "under": 1.01
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              2.15,
-              1.6
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 2.15,
-                "under": 1.6
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -172,38 +114,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Napoli - Como",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 8.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Napoli - Como",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.02 a 1.17 (14.7%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Napoli - Como",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 8.5 a 4.25 (100.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Napoli - Como",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.55 a 2.15 (38.7%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Napoli - Como",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.25 a 1.6 (40.6%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Cambuur Leeuwarden - FC Twente",
@@ -272,5 +183,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 11
+  "alert_count_this_run": 4
 }
