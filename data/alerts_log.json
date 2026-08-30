@@ -1,17 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Union Berlin - Eintracht Frankfurt",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.88 a 2.24 (19.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Union Berlin - Eintracht Frankfurt",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.79 a 1.55 (15.5%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Cologne - Hoffenheim",
     "market": "CORNERS_OU",
@@ -2998,5 +2986,17 @@
     "match": "Colorado Rapids - Real Salt Lake",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 2.02 a 1.62 (24.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Houston Dynamo - San Jose Earthquakes",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 4.95 a 11.0 (122.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Houston Dynamo - San Jose Earthquakes",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 1.35 a 1.1 (22.7%)"
   }
 ]

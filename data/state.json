@@ -7,34 +7,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.39,
-              2.62
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.39,
-                "under": 2.62
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              2.28,
-              1.51
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 2.28,
-                "under": 1.51
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -47,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788056747.180615
+      "last_checked": 1788057327.87904
     },
     "Minnesota Utd|Orlando City": {
       "home": "Minnesota Utd",
@@ -70,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788056773.879475
+      "last_checked": 1788057356.8241625
     },
     "Nashville SC|Cincinnati": {
       "home": "Nashville SC",
@@ -79,20 +53,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              2.34,
-              1.49
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 2.34,
-                "under": 1.49
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -106,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788056799.3373988
+      "last_checked": 1788057383.8431187
     },
     "Houston Dynamo|San Jose Earthquakes": {
       "home": "Houston Dynamo",
@@ -115,35 +76,16 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              2.46,
-              1.44
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 2.46,
-                "under": 1.44
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
           "1X2": [
             2.4,
-            4.95,
-            1.35
+            11.0,
+            1.1
           ],
-          "CORNERS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              2.55
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "bet365": {
@@ -152,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788056830.2509706
+      "last_checked": 1788057415.9976053
     },
     "Colorado Rapids|Real Salt Lake": {
       "home": "Colorado Rapids",
@@ -211,7 +153,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788056853.4234095
+      "last_checked": 1788057439.1711533
     }
   }
 }
