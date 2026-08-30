@@ -1,32 +1,5 @@
 {
   "matches": {
-    "Queensland Lions FC|Gold Coast Knights FC": {
-      "home": "Queensland Lions FC",
-      "away": "Gold Coast Knights FC",
-      "event_id": "10017343",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            3.5,
-            1.42
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788072948.7501218
-    },
     "South West Queensland Thunder|Pine Hills": {
       "home": "South West Queensland Thunder",
       "away": "Pine Hills",
@@ -48,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788072975.9624972
+      "last_checked": 1788073545.8846247
     },
-    "Blacktown|Western Sydney Wanderers Reserves": {
-      "home": "Blacktown",
-      "away": "Western Sydney Wanderers Reserves",
-      "event_id": "10017355",
+    "Sydney Utd.|St George Saints": {
+      "home": "Sydney Utd.",
+      "away": "St George Saints",
+      "event_id": "10017359",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -71,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788073002.7804022
+      "last_checked": 1788073572.396681
     },
-    "Marconi|Northern Spirit": {
-      "home": "Marconi",
-      "away": "Northern Spirit",
-      "event_id": "10017356",
+    "Sutherland|SD Raiders": {
+      "home": "Sutherland",
+      "away": "SD Raiders",
+      "event_id": "10017360",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -94,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788073029.8215585
+      "last_checked": 1788073598.962749
     },
-    "Rockdale|University of Nsw": {
-      "home": "Rockdale",
-      "away": "University of Nsw",
-      "event_id": "10017357",
+    "Howler's FC|Northerners FC": {
+      "home": "Howler's FC",
+      "away": "Northerners FC",
+      "event_id": "10017361",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788073056.711926
+      "last_checked": 1788073625.640367
+    },
+    "FC Basara Hyogo|Ococias Kyoto AC": {
+      "home": "FC Basara Hyogo",
+      "away": "Ococias Kyoto AC",
+      "event_id": "10017371",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788073652.1285014
     }
   }
 }

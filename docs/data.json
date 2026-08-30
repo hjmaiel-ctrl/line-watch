@@ -1,45 +1,6 @@
 {
-  "generated_at": 1788073056.7610333,
+  "generated_at": 1788073652.1748188,
   "matches": [
-    {
-      "match": "Queensland Lions FC - Gold Coast Knights FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            3.5,
-            1.42
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Queensland Lions FC - Gold Coast Knights FC",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 2.95 a 3.5 (18.6%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Queensland Lions FC - Gold Coast Knights FC",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 1.6 a 1.42 (12.7%)"
-        }
-      ]
-    },
     {
       "match": "South West Queensland Thunder - Pine Hills",
       "bet9ja_stats": null,
@@ -63,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Blacktown - Western Sydney Wanderers Reserves",
+      "match": "Sydney Utd. - St George Saints",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -85,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Marconi - Northern Spirit",
+      "match": "Sutherland - SD Raiders",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -107,7 +68,29 @@
       "alerts": []
     },
     {
-      "match": "Rockdale - University of Nsw",
+      "match": "Howler's FC - Northerners FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "FC Basara Hyogo - Ococias Kyoto AC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -129,5 +112,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
