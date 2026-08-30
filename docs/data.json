@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788067653.733099,
+  "generated_at": 1788068248.6955538,
   "matches": [
     {
       "match": "Wallsend - Newcastle Croatia FC",
@@ -13,9 +13,44 @@
         "sportybet": {
           "1X2": [
             2.4,
-            4.5,
-            2.3
+            20.0,
+            4.65
           ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Wallsend - Newcastle Croatia FC",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 4.5 a 20.0 (344.4%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Wallsend - Newcastle Croatia FC",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 2.3 a 4.65 (102.2%)"
+        }
+      ]
+    },
+    {
+      "match": "Queensland Lions FC - Gold Coast Knights FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -28,7 +63,7 @@
       "alerts": []
     },
     {
-      "match": "Queensland Lions FC - Gold Coast Knights FC",
+      "match": "South West Queensland Thunder - Pine Hills",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -92,29 +127,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Wollongong - Manly Utd.",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }

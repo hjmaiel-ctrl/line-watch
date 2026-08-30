@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            4.5,
-            2.3
+            20.0,
+            4.65
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788067547.462995
+      "last_checked": 1788068140.6726623
     },
     "Queensland Lions FC|Gold Coast Knights FC": {
       "home": "Queensland Lions FC",
@@ -48,7 +48,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788067573.978488
+      "last_checked": 1788068168.0016465
+    },
+    "South West Queensland Thunder|Pine Hills": {
+      "home": "South West Queensland Thunder",
+      "away": "Pine Hills",
+      "event_id": "10017344",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788068194.9156296
     },
     "Moreland Zebras|Manningham Utd Blues": {
       "home": "Moreland Zebras",
@@ -71,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788067600.4739923
+      "last_checked": 1788068221.708924
     },
     "Sydney Olimpic|Sydney Youth": {
       "home": "Sydney Olimpic",
@@ -94,30 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788067627.1487188
-    },
-    "Wollongong|Manly Utd.": {
-      "home": "Wollongong",
-      "away": "Manly Utd.",
-      "event_id": "10017354",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788067653.6708071
+      "last_checked": 1788068248.6463845
     }
   }
 }
