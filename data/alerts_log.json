@@ -1,41 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Houston Dynamo - San Jose Earthquakes",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 4.95 a 11.0 (122.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Houston Dynamo - San Jose Earthquakes",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 1.35 a 1.1 (22.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Portland Timbers - Austin FC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.58 a 2.36 (9.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Portland Timbers - Austin FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.88 a 2.06 (9.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Portland Timbers - Austin FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.79 a 1.65 (8.5%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "San Diego FC - Los Angeles Galaxy",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 8.5"
-  },
-  {
     "type": "linea_cambiata",
     "match": "San Diego FC - Los Angeles Galaxy",
     "market": "CARDS_OU",
@@ -2998,5 +2962,41 @@
     "match": "Esporte Clube Bahia - SC Internacional",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 8.5 a 7.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Grêmio FBPA - Chapecoense",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Grêmio FBPA - Chapecoense",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.38 a 1.2 (15.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Grêmio FBPA - Chapecoense",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.7 a 3.75 (38.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Independiente - Gimnasia y Esgrima de Mendoza",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Independiente - Gimnasia y Esgrima de Mendoza",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.55 a 1.28 (21.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Independiente - Gimnasia y Esgrima de Mendoza",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.25 a 3.25 (44.4%)"
   }
 ]

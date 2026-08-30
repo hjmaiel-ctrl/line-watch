@@ -1,5 +1,64 @@
 {
   "matches": {
+    "Saint Louis City SC|Dallas": {
+      "home": "Saint Louis City SC",
+      "away": "Dallas",
+      "event_id": "10023835",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.43,
+              2.62
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.43,
+                "under": 2.62
+              },
+              {
+                "line": 9.5,
+                "over": 1.71,
+                "under": 2.02
+              },
+              {
+                "line": 10.5,
+                "over": 2.12,
+                "under": 1.65
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.63,
+              2.1
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.63,
+                "under": 2.1
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788131728.648931
+    },
     "Grêmio FBPA|Chapecoense": {
       "home": "Grêmio FBPA",
       "away": "Chapecoense",
@@ -8,25 +67,25 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 10.5,
             "odds": [
-              1.38,
-              2.7
+              1.2,
+              3.75
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
                 "line": 10.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 1.2,
+                "under": 3.75
               },
               {
                 "line": 11.5,
-                "over": 3.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 12.5,
+                "over": 3.65,
                 "under": 1.22
               }
             ]
@@ -44,53 +103,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788131130.4948716
-    },
-    "Mirassol FC|Palmeiras": {
-      "home": "Mirassol FC",
-      "away": "Palmeiras",
-      "event_id": "10018367",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 8.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
-                "line": 9.5,
-                "over": 3.0,
-                "under": 1.32
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788131155.575684
+      "last_checked": 1788131771.678109
     },
     "Independiente|Gimnasia y Esgrima de Mendoza": {
       "home": "Independiente",
@@ -100,26 +113,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              1.55,
-              2.25
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
+                "line": 4.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
                 "line": 5.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 6.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 7.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 2.25,
+                "under": 1.55
               }
             ]
           },
@@ -136,7 +149,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788131180.38523
+      "last_checked": 1788131796.9022315
     },
     "Esporte Clube Bahia|SC Internacional": {
       "home": "Esporte Clube Bahia",
@@ -148,24 +161,24 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.45,
-              2.5
+              1.47,
+              2.45
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 8.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 1.92,
+                "under": 1.75
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.7,
+                "under": 1.38
               }
             ]
           },
@@ -182,7 +195,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788131205.3212113
+      "last_checked": 1788131821.9003847
     },
     "Vila Nova FC|Ceará SC": {
       "home": "Vila Nova FC",
@@ -205,7 +218,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788131231.7959034
+      "last_checked": 1788131850.4446812
     }
   }
 }

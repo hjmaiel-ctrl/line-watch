@@ -1,6 +1,64 @@
 {
-  "generated_at": 1788131231.8323202,
+  "generated_at": 1788131850.4910984,
   "matches": [
+    {
+      "match": "Saint Louis City SC - Dallas",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.43,
+              2.62
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.43,
+                "under": 2.62
+              },
+              {
+                "line": 9.5,
+                "over": 1.71,
+                "under": 2.02
+              },
+              {
+                "line": 10.5,
+                "over": 2.12,
+                "under": 1.65
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.63,
+              2.1
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.63,
+                "under": 2.1
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Grêmio FBPA - Chapecoense",
       "bet9ja_stats": null,
@@ -8,25 +66,25 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 10.5,
             "odds": [
-              1.38,
-              2.7
+              1.2,
+              3.75
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
                 "line": 10.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 1.2,
+                "under": 3.75
               },
               {
                 "line": 11.5,
-                "over": 3.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 12.5,
+                "over": 3.65,
                 "under": 1.22
               }
             ]
@@ -44,52 +102,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
-    },
-    {
-      "match": "Mirassol FC - Palmeiras",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 8.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
-                "line": 9.5,
-                "over": 3.0,
-                "under": 1.32
-              }
-            ]
-          },
-          "CARDS_OU": null
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Grêmio FBPA - Chapecoense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 10.5"
         },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "Grêmio FBPA - Chapecoense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.38 a 1.2 (15.0%)"
         },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "Grêmio FBPA - Chapecoense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.7 a 3.75 (38.9%)"
         }
-      },
-      "alerts": []
+      ]
     },
     {
       "match": "Independiente - Gimnasia y Esgrima de Mendoza",
@@ -98,26 +130,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              1.55,
-              2.25
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
+                "line": 4.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
                 "line": 5.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 6.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 7.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 2.25,
+                "under": 1.55
               }
             ]
           },
@@ -134,7 +166,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Independiente - Gimnasia y Esgrima de Mendoza",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 5.5 a 4.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Independiente - Gimnasia y Esgrima de Mendoza",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.55 a 1.28 (21.1%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Independiente - Gimnasia y Esgrima de Mendoza",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.25 a 3.25 (44.4%)"
+        }
+      ]
     },
     {
       "match": "Esporte Clube Bahia - SC Internacional",
@@ -145,24 +196,24 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.45,
-              2.5
+              1.47,
+              2.45
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 8.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 1.92,
+                "under": 1.75
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.7,
+                "under": 1.38
               }
             ]
           },
@@ -204,5 +255,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 6
 }
