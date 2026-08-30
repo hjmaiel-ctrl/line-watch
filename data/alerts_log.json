@@ -1,23 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Olympique Lyonnais - Le Havre AC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 7.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Olympique Lyonnais - Le Havre AC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 3.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Olympique Lyonnais - Le Havre AC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.2 a 1.62 (35.8%)"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Olympique Lyonnais - Le Havre AC",
     "market": "CARDS_OU",
@@ -2998,5 +2980,23 @@
     "match": "Freiburg - Werder Bremen",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 2.34 a 1.77 (32.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Freiburg - Werder Bremen",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 11.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Freiburg - Werder Bremen",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.19 a 1.62 (36.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Freiburg - Werder Bremen",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.0 a 2.08 (92.3%)"
   }
 ]

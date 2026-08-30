@@ -1,74 +1,5 @@
 {
   "matches": {
-    "Real Madrid|Málaga": {
-      "home": "Real Madrid",
-      "away": "Málaga",
-      "event_id": "10022207",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 8.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
-                "line": 9.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 10.5,
-                "over": 2.15,
-                "under": 1.6
-              },
-              {
-                "line": 11.5,
-                "over": 2.9,
-                "under": 1.32
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.98,
-              1.7
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.98,
-                "under": 1.7
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788102339.8287404
-    },
     "Freiburg|Werder Bremen": {
       "home": "Freiburg",
       "away": "Werder Bremen",
@@ -77,43 +8,20 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 11.5,
             "odds": [
-              1.19,
-              4.0
+              1.62,
+              2.08
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.19,
-                "under": 4.0
-              },
-              {
-                "line": 10.5,
-                "over": 1.84,
-                "under": 1.83
-              },
-              {
                 "line": 11.5,
-                "over": 3.3,
-                "under": 1.27
+                "over": 1.62,
+                "under": 2.08
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 1.5,
-            "odds": [
-              1.87,
-              1.77
-            ],
-            "_all_lines": [
-              {
-                "line": 1.5,
-                "over": 1.87,
-                "under": 1.77
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -126,7 +34,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788102362.650274
+      "last_checked": 1788102947.7481785
     },
     "SC Telstar|Ajax": {
       "home": "SC Telstar",
@@ -149,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788102389.0405114
+      "last_checked": 1788102975.2982664
     },
     "Nacional da Madeira|Club Football Estrela": {
       "home": "Nacional da Madeira",
@@ -172,7 +80,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788102415.6339047
+      "last_checked": 1788103002.9831378
+    },
+    "Niger Tornadoes|Enyimba": {
+      "home": "Niger Tornadoes",
+      "away": "Enyimba",
+      "event_id": "10017804",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788103031.2692575
     },
     "Ikorodu City|Ranchers Bees": {
       "home": "Ikorodu City",
@@ -195,7 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788102442.0106592
+      "last_checked": 1788103058.917661
     }
   }
 }
