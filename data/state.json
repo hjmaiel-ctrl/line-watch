@@ -7,40 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.08,
-              6.0
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.08,
-                "under": 6.0
-              },
-              {
-                "line": 11.5,
-                "over": 1.55,
-                "under": 2.25
-              },
-              {
-                "line": 12.5,
-                "over": 2.6,
-                "under": 1.42
-              },
-              {
-                "line": 13.5,
-                "over": 4.5,
-                "under": 1.15
-              },
-              {
-                "line": 14.5,
-                "over": 8.0,
-                "under": 1.03
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -54,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788109542.806999
+      "last_checked": 1788110127.1740448
     },
     "Napoli|Como": {
       "home": "Napoli",
@@ -63,18 +30,51 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 3.5,
+          "CORNERS_OU": {
+            "line": 6.5,
             "odds": [
-              1.95,
-              1.73
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.95,
-                "under": 1.73
+                "line": 6.5,
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 7.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
+                "line": 8.5,
+                "over": 2.15,
+                "under": 1.57
+              },
+              {
+                "line": 9.5,
+                "over": 3.25,
+                "under": 1.28
+              },
+              {
+                "line": 10.5,
+                "over": 4.75,
+                "under": 1.13
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.98,
+              1.7
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.98,
+                "under": 1.7
               }
             ]
           }
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788109568.031932
+      "last_checked": 1788110150.2721257
     },
     "Stade Rennais|Le Mans FC": {
       "home": "Stade Rennais",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788109594.7750757
+      "last_checked": 1788110177.0207708
     },
     "Casa Pia|Moreirense FC": {
       "home": "Casa Pia",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788109621.8042896
+      "last_checked": 1788110203.838676
     },
     "Eyüpspor|Alanyaspor": {
       "home": "Eyüpspor",
@@ -146,36 +146,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              1.22,
-              3.65
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
+                "line": 2.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
                 "line": 3.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 4.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 5.5,
-                "over": 2.25,
-                "under": 1.55
-              },
-              {
-                "line": 6.5,
                 "over": 3.45,
                 "under": 1.25
               },
               {
-                "line": 7.5,
-                "over": 5.75,
-                "under": 1.09
+                "line": 6.5,
+                "over": 6.0,
+                "under": 1.08
               }
             ]
           },
@@ -192,7 +192,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788109646.8817694
+      "last_checked": 1788110228.7055116
     }
   }
 }
