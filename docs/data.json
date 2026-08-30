@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788126430.1204002,
+  "generated_at": 1788127013.0232766,
   "matches": [
     {
       "match": "Columbus Crew - New England Revolution",
@@ -8,40 +8,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 11.5,
             "odds": [
-              1.57,
-              2.26
+              1.5,
+              2.42
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.57,
-                "under": 2.26
-              },
-              {
-                "line": 10.5,
-                "over": 2.08,
-                "under": 1.67
-              },
-              {
                 "line": 11.5,
-                "over": 2.92,
-                "under": 1.36
+                "over": 1.5,
+                "under": 2.42
+              },
+              {
+                "line": 12.5,
+                "over": 2.02,
+                "under": 1.7
+              },
+              {
+                "line": 13.5,
+                "over": 2.94,
+                "under": 1.35
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.83,
-              1.84
+              2.08,
+              1.64
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.83,
-                "under": 1.84
+                "over": 2.08,
+                "under": 1.64
               }
             ]
           }
@@ -57,29 +57,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
-    },
-    {
-      "match": "Argentinos Juniors - Aldosivi",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Columbus Crew - New England Revolution",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 11.5"
         },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "Columbus Crew - New England Revolution",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.83 a 2.08 (13.7%)"
         },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "Columbus Crew - New England Revolution",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.84 a 1.64 (12.2%)"
         }
-      },
-      "alerts": []
+      ]
     },
     {
       "match": "Grêmio FBPA - Chapecoense",
@@ -88,26 +85,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 11.5,
             "odds": [
-              1.4,
-              2.65
+              1.62,
+              2.1
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.4,
-                "under": 2.65
-              },
-              {
                 "line": 11.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 12.5,
-                "over": 2.1,
-                "under": 1.62
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 13.5,
+                "over": 2.65,
+                "under": 1.4
               }
             ]
           },
@@ -129,7 +126,19 @@
           "type": "linea_cambiata",
           "match": "Grêmio FBPA - Chapecoense",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 10.5"
+          "detail": "bet9ja: linea passata da 10.5 a 11.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Grêmio FBPA - Chapecoense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.4 a 1.62 (15.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Grêmio FBPA - Chapecoense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.65 a 2.1 (26.2%)"
         }
       ]
     },
@@ -142,24 +151,24 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.45,
-              2.5
+              1.42,
+              2.6
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 8.5,
-                "over": 1.73,
-                "under": 1.95
+                "over": 1.75,
+                "under": 1.92
               },
               {
                 "line": 9.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 2.25,
+                "under": 1.55
               }
             ]
           },
@@ -176,14 +185,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Mirassol FC - Palmeiras",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 7.5"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "CRB - Criciúma EC",
@@ -206,7 +208,29 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Vila Nova FC - Ceará SC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 6
 }
