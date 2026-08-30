@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788125818.049861,
+  "generated_at": 1788126430.1204002,
   "matches": [
     {
       "match": "Columbus Crew - New England Revolution",
@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.58,
-              2.24
+              1.57,
+              2.26
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.58,
-                "under": 2.24
+                "over": 1.57,
+                "under": 2.26
               },
               {
                 "line": 10.5,
-                "over": 2.1,
-                "under": 1.65
+                "over": 2.08,
+                "under": 1.67
               },
               {
                 "line": 11.5,
-                "over": 2.96,
-                "under": 1.35
+                "over": 2.92,
+                "under": 1.36
               }
             ]
           },
@@ -65,30 +65,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 16.5,
-            "odds": [
-              1.15,
-              4.5
-            ],
-            "_all_lines": [
-              {
-                "line": 16.5,
-                "over": 1.15,
-                "under": 4.5
-              },
-              {
-                "line": 17.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 18.5,
-                "over": 2.7,
-                "under": 1.38
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -111,24 +88,76 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 10.5,
+            "odds": [
+              1.4,
+              2.65
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 11.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 12.5,
+                "over": 2.1,
+                "under": 1.62
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Grêmio FBPA - Chapecoense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 10.5"
+        }
+      ]
+    },
+    {
+      "match": "Mirassol FC - Palmeiras",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
             "odds": [
               1.45,
               2.5
             ],
             "_all_lines": [
               {
-                "line": 8.5,
+                "line": 7.5,
                 "over": 1.45,
                 "under": 2.5
               },
               {
-                "line": 9.5,
-                "over": 1.75,
-                "under": 1.92
+                "line": 8.5,
+                "over": 1.73,
+                "under": 1.95
               },
               {
-                "line": 10.5,
+                "line": 9.5,
                 "over": 2.2,
                 "under": 1.57
               }
@@ -147,52 +176,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
-    },
-    {
-      "match": "Mirassol FC - Palmeiras",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.45,
-              2.5
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
-                "line": 9.5,
-                "over": 1.73,
-                "under": 1.95
-              },
-              {
-                "line": 10.5,
-                "over": 2.15,
-                "under": 1.6
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Mirassol FC - Palmeiras",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 7.5"
         }
-      },
-      "alerts": []
+      ]
     },
     {
       "match": "CRB - Criciúma EC",
@@ -217,5 +208,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
