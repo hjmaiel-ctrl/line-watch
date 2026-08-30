@@ -1,12 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Levante UD - Real Betis",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.87 a 1.65 (13.3%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "AFC Bournemouth - Everton",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #1 passato da 1.7 a 2.3 (35.3%)"
@@ -2998,5 +2992,11 @@
     "match": "Queensland Lions - Peninsula",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 4.0 a 85.0 (2025.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Queensland Lions - Peninsula",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 85.0 a 100.0 (17.6%)"
   }
 ]
