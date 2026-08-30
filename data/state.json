@@ -10,38 +10,38 @@
           "CORNERS_OU": {
             "line": 14.5,
             "odds": [
-              1.41,
-              2.7
+              1.55,
+              2.3
             ],
             "_all_lines": [
               {
                 "line": 14.5,
-                "over": 1.41,
-                "under": 2.7
+                "over": 1.55,
+                "under": 2.3
               },
               {
                 "line": 15.5,
-                "over": 1.79,
-                "under": 1.92
+                "over": 2.06,
+                "under": 1.69
               },
               {
                 "line": 16.5,
-                "over": 2.4,
-                "under": 1.5
+                "over": 2.86,
+                "under": 1.37
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 4.5,
             "odds": [
-              2.08,
-              1.65
+              2.18,
+              1.59
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 2.08,
-                "under": 1.65
+                "line": 4.5,
+                "over": 2.18,
+                "under": 1.59
               }
             ]
           }
@@ -57,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788049528.7462008
+      "last_checked": 1788050133.2000597
     },
     "DC United|Los Angeles": {
       "home": "DC United",
@@ -69,24 +69,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.59,
-              2.22
+              1.51,
+              2.4
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.59,
-                "under": 2.22
+                "over": 1.51,
+                "under": 2.4
               },
               {
                 "line": 10.5,
-                "over": 2.12,
-                "under": 1.65
+                "over": 1.97,
+                "under": 1.75
               },
               {
                 "line": 11.5,
-                "over": 2.98,
-                "under": 1.34
+                "over": 2.72,
+                "under": 1.4
               }
             ]
           },
@@ -116,7 +116,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788049552.1821883
+      "last_checked": 1788050156.372945
     },
     "Inter Miami CF|CF Montreal": {
       "home": "Inter Miami CF",
@@ -125,18 +125,41 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.42,
+              2.68
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.42,
+                "under": 2.68
+              },
+              {
+                "line": 8.5,
+                "over": 1.87,
+                "under": 1.84
+              },
+              {
+                "line": 9.5,
+                "over": 2.64,
+                "under": 1.43
+              }
+            ]
+          },
           "CARDS_OU": {
             "line": 5.5,
             "odds": [
-              1.66,
-              2.06
+              1.81,
+              1.86
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.66,
-                "under": 2.06
+                "over": 1.81,
+                "under": 1.86
               }
             ]
           }
@@ -152,7 +175,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788049576.907298
+      "last_checked": 1788050179.5636516
     },
     "New York Red Bulls|Philadelphia Union": {
       "home": "New York Red Bulls",
@@ -161,8 +184,44 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 13.5,
+            "odds": [
+              1.48,
+              2.48
+            ],
+            "_all_lines": [
+              {
+                "line": 13.5,
+                "over": 1.48,
+                "under": 2.48
+              },
+              {
+                "line": 14.5,
+                "over": 1.91,
+                "under": 1.8
+              },
+              {
+                "line": 15.5,
+                "over": 2.62,
+                "under": 1.43
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.59,
+              2.16
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.59,
+                "under": 2.16
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -175,7 +234,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788049603.7239258
+      "last_checked": 1788050202.8552783
     },
     "Toronto|New York City": {
       "home": "Toronto",
@@ -187,38 +246,38 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.58,
-              2.24
+              1.55,
+              2.3
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.58,
-                "under": 2.24
+                "over": 1.55,
+                "under": 2.3
               },
               {
                 "line": 10.5,
-                "over": 2.1,
-                "under": 1.66
+                "over": 2.04,
+                "under": 1.69
               },
               {
                 "line": 11.5,
-                "over": 2.96,
-                "under": 1.35
+                "over": 2.84,
+                "under": 1.37
               }
             ]
           },
           "CARDS_OU": {
             "line": 5.5,
             "odds": [
-              2.06,
-              1.66
+              1.99,
+              1.7
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 2.06,
-                "under": 1.66
+                "over": 1.99,
+                "under": 1.7
               }
             ]
           }
@@ -234,7 +293,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788049626.8001428
+      "last_checked": 1788050226.5097501
     }
   }
 }

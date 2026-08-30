@@ -1,42 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "Heidenheim - Dynamo Dresden",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 2.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Heidenheim - Dynamo Dresden",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.1 a 1.64 (28.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Heidenheim - Dynamo Dresden",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.63 a 2.08 (27.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Karlsruher - Wolfsburg",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 11.5 a 12.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Karlsruher - Wolfsburg",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.72 a 1.88 (9.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Karlsruher - Wolfsburg",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.96 a 1.79 (9.5%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Energie Cottbus - Greuther Furth",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 8.5 a 11.5"
@@ -2998,5 +2962,41 @@
     "match": "Toronto - New York City",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 2.12 a 1.66 (27.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atlanta Utd - Charlotte FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.41 a 1.55 (9.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atlanta Utd - Charlotte FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.7 a 2.3 (17.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Atlanta Utd - Charlotte FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "DC United - Los Angeles",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.22 a 2.4 (8.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Inter Miami CF - CF Montreal",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.66 a 1.81 (9.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Inter Miami CF - CF Montreal",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.06 a 1.86 (10.8%)"
   }
 ]
