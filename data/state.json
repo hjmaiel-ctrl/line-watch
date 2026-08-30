@@ -8,31 +8,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 9.5,
             "odds": [
-              1.35,
-              2.85
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
+                "line": 9.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
                 "line": 10.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 11.5,
-                "over": 1.57,
-                "under": 2.15
+                "over": 1.78,
+                "under": 1.9
               },
               {
                 "line": 12.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 13.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -49,7 +54,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788085565.1621177
+      "last_checked": 1788086137.0194964
     },
     "FC Eindhoven|Heracles Almelo": {
       "home": "FC Eindhoven",
@@ -72,7 +77,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788085591.799676
+      "last_checked": 1788086164.0099556
+    },
+    "Amarante FC|Benfica B": {
+      "home": "Amarante FC",
+      "away": "Benfica B",
+      "event_id": "10017495",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788086191.1791263
     },
     "AD Machico|AD Camacha": {
       "home": "AD Machico",
@@ -95,7 +123,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788085618.5270016
+      "last_checked": 1788086218.2453055
     },
     "Casetas|Real Zaragoza Deportivo Aragon": {
       "home": "Casetas",
@@ -118,53 +146,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788085645.0713215
-    },
-    "Chernomorets Odessa|Kryvbas Kriviy Rih": {
-      "home": "Chernomorets Odessa",
-      "away": "Kryvbas Kriviy Rih",
-      "event_id": "10017483",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.5,
-              2.3
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.5,
-                "under": 2.3
-              },
-              {
-                "line": 9.5,
-                "over": 1.84,
-                "under": 1.79
-              },
-              {
-                "line": 10.5,
-                "over": 2.34,
-                "under": 1.49
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788085670.181137
+      "last_checked": 1788086245.1755388
     }
   }
 }
