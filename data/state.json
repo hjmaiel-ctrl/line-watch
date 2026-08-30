@@ -1,43 +1,43 @@
 {
   "matches": {
-    "FC Utrecht|PSV Eindhoven": {
-      "home": "FC Utrecht",
-      "away": "PSV Eindhoven",
-      "event_id": "10017504",
+    "Z.Twente|Z.G.A. Eagles": {
+      "home": "Z.Twente",
+      "away": "Z.G.A. Eagles",
+      "event_id": "10021763",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 8.5,
             "odds": [
               1.18,
-              4.1
+              4.85
             ],
             "_all_lines": [
               {
-                "line": 11.5,
+                "line": 8.5,
                 "over": 1.18,
-                "under": 4.1
+                "under": 4.85
+              },
+              {
+                "line": 9.5,
+                "over": 1.54,
+                "under": 2.46
+              },
+              {
+                "line": 10.5,
+                "over": 2.3,
+                "under": 1.62
+              },
+              {
+                "line": 11.5,
+                "over": 4.0,
+                "under": 1.25
               },
               {
                 "line": 12.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 13.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 14.5,
-                "over": 2.2,
-                "under": 1.57
-              },
-              {
-                "line": 15.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 7.9,
+                "under": 1.09
               }
             ]
           },
@@ -54,16 +54,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788087341.105401
+      "last_checked": 1788087956.143411
     },
-    "FC Eindhoven|Heracles Almelo": {
-      "home": "FC Eindhoven",
-      "away": "Heracles Almelo",
-      "event_id": "10017505",
+    "Z.PSV|Z.Den Haag": {
+      "home": "Z.PSV",
+      "away": "Z.Den Haag",
+      "event_id": "10021764",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.15,
+              5.85
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.15,
+                "under": 5.85
+              },
+              {
+                "line": 10.5,
+                "over": 1.43,
+                "under": 2.83
+              },
+              {
+                "line": 11.5,
+                "over": 2.03,
+                "under": 1.78
+              },
+              {
+                "line": 12.5,
+                "over": 3.35,
+                "under": 1.33
+              },
+              {
+                "line": 13.5,
+                "over": 6.25,
+                "under": 1.13
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -77,16 +110,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788087367.7918131
+      "last_checked": 1788087980.9085214
     },
-    "Amarante FC|Benfica B": {
-      "home": "Amarante FC",
-      "away": "Benfica B",
-      "event_id": "10017495",
+    "Z.Telstar|Z.Sittard": {
+      "home": "Z.Telstar",
+      "away": "Z.Sittard",
+      "event_id": "10021765",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.05,
+              11.0
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.05,
+                "under": 11.0
+              },
+              {
+                "line": 7.5,
+                "over": 1.24,
+                "under": 4.1
+              },
+              {
+                "line": 8.5,
+                "over": 1.69,
+                "under": 2.16
+              },
+              {
+                "line": 9.5,
+                "over": 2.64,
+                "under": 1.48
+              },
+              {
+                "line": 10.5,
+                "over": 4.8,
+                "under": 1.18
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -100,16 +166,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788087394.8428717
+      "last_checked": 1788088005.6937878
     },
-    "AD Machico|AD Camacha": {
-      "home": "AD Machico",
-      "away": "AD Camacha",
-      "event_id": "10017498",
+    "Z.Willem II|Z.Sparta": {
+      "home": "Z.Willem II",
+      "away": "Z.Sparta",
+      "event_id": "10021766",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.06,
+              9.7
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.06,
+                "under": 9.7
+              },
+              {
+                "line": 8.5,
+                "over": 1.28,
+                "under": 3.7
+              },
+              {
+                "line": 9.5,
+                "over": 1.79,
+                "under": 2.02
+              },
+              {
+                "line": 10.5,
+                "over": 2.89,
+                "under": 1.41
+              },
+              {
+                "line": 11.5,
+                "over": 5.45,
+                "under": 1.15
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -123,16 +222,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788087421.6964152
+      "last_checked": 1788088030.5543072
     },
-    "Casetas|Real Zaragoza Deportivo Aragon": {
-      "home": "Casetas",
-      "away": "Real Zaragoza Deportivo Aragon",
-      "event_id": "10017417",
+    "Z.Feyenoord|Z.Heerenveen": {
+      "home": "Z.Feyenoord",
+      "away": "Z.Heerenveen",
+      "event_id": "10021767",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.14,
+              5.7
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.14,
+                "under": 5.7
+              },
+              {
+                "line": 8.5,
+                "over": 1.44,
+                "under": 2.78
+              },
+              {
+                "line": 9.5,
+                "over": 2.06,
+                "under": 1.76
+              },
+              {
+                "line": 10.5,
+                "over": 3.4,
+                "under": 1.32
+              },
+              {
+                "line": 11.5,
+                "over": 6.45,
+                "under": 1.12
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -146,7 +278,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788087448.4359381
+      "last_checked": 1788088055.282555
     }
   }
 }
