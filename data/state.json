@@ -1,51 +1,5 @@
 {
   "matches": {
-    "Deportivo La Coruña|Valencia": {
-      "home": "Deportivo La Coruña",
-      "away": "Valencia",
-      "event_id": "10022208",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 1.5,
-            "odds": [
-              1.78,
-              1.9
-            ],
-            "_all_lines": [
-              {
-                "line": 1.5,
-                "over": 1.78,
-                "under": 1.9
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            24.0,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              1.85
-            ]
-          }
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788117335.325621
-    },
     "Lazio|Genoa": {
       "home": "Lazio",
       "away": "Genoa",
@@ -55,16 +9,16 @@
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              2.2,
-              1.57
+              1.65,
+              2.05
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 2.2,
-                "under": 1.57
+                "line": 3.5,
+                "over": 1.65,
+                "under": 2.05
               }
             ]
           }
@@ -80,7 +34,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788117360.189288
+      "last_checked": 1788117937.4556553
     },
     "Cagliari|Internazionale": {
       "home": "Cagliari",
@@ -90,50 +44,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 6.5,
             "odds": [
-              1.28,
-              3.25
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.28,
-                "under": 3.25
-              },
-              {
                 "line": 6.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.22,
+                "under": 3.65
               },
               {
                 "line": 7.5,
-                "over": 2.1,
-                "under": 1.62
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 8.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 9.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 10.5,
                 "over": 4.25,
                 "under": 1.17
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              2.2,
-              1.57
+              1.65,
+              2.05
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 2.2,
-                "under": 1.57
+                "line": 2.5,
+                "over": 1.65,
+                "under": 2.05
               }
             ]
           }
@@ -149,7 +103,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788117383.616206
+      "last_checked": 1788117960.8517313
     },
     "AS Monaco|Olympique Marseille": {
       "home": "AS Monaco",
@@ -161,48 +115,48 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.25,
-              3.45
+              1.2,
+              3.9
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.25,
-                "under": 3.45
+                "over": 1.2,
+                "under": 3.9
               },
               {
                 "line": 7.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 8.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.95,
+                "under": 1.73
               },
               {
                 "line": 9.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 2.85,
+                "under": 1.35
               },
               {
                 "line": 10.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.62,
-              2.1
+              1.95,
+              1.73
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.95,
+                "under": 1.73
               }
             ]
           }
@@ -218,7 +172,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788117406.8428752
+      "last_checked": 1788117984.1208239
     },
     "Cambuur Leeuwarden|FC Twente": {
       "home": "Cambuur Leeuwarden",
@@ -241,7 +195,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788117434.562008
+      "last_checked": 1788118011.0855737
+    },
+    "Niger Tornadoes|Enyimba": {
+      "home": "Niger Tornadoes",
+      "away": "Enyimba",
+      "event_id": "10017804",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788118037.857885
     }
   }
 }
