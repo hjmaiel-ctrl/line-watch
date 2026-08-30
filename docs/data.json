@@ -1,45 +1,6 @@
 {
-  "generated_at": 1788067053.1777942,
+  "generated_at": 1788067653.733099,
   "matches": [
-    {
-      "match": "Santos Laguna - Tigres de la UANL",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            22.0,
-            35.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Santos Laguna - Tigres de la UANL",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 4.6 a 22.0 (378.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Santos Laguna - Tigres de la UANL",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 1.36 a 35.0 (2473.5%)"
-        }
-      ]
-    },
     {
       "match": "Wallsend - Newcastle Croatia FC",
       "bet9ja_stats": null,
@@ -50,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            4.5,
+            2.3
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -64,28 +29,6 @@
     },
     {
       "match": "Queensland Lions FC - Gold Coast Knights FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "South West Queensland Thunder - Pine Hills",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -127,7 +70,51 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Sydney Olimpic - Sydney Youth",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Wollongong - Manly Utd.",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }

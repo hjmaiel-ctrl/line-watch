@@ -1,32 +1,5 @@
 {
   "matches": {
-    "Santos Laguna|Tigres de la UANL": {
-      "home": "Santos Laguna",
-      "away": "Tigres de la UANL",
-      "event_id": "10017337",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            22.0,
-            35.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788066946.2173414
-    },
     "Wallsend|Newcastle Croatia FC": {
       "home": "Wallsend",
       "away": "Newcastle Croatia FC",
@@ -38,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            4.5,
+            2.3
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -48,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788066972.9515216
+      "last_checked": 1788067547.462995
     },
     "Queensland Lions FC|Gold Coast Knights FC": {
       "home": "Queensland Lions FC",
@@ -71,30 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788066999.533205
-    },
-    "South West Queensland Thunder|Pine Hills": {
-      "home": "South West Queensland Thunder",
-      "away": "Pine Hills",
-      "event_id": "10017344",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788067026.348707
+      "last_checked": 1788067573.978488
     },
     "Moreland Zebras|Manningham Utd Blues": {
       "home": "Moreland Zebras",
@@ -117,7 +71,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788067053.139698
+      "last_checked": 1788067600.4739923
+    },
+    "Sydney Olimpic|Sydney Youth": {
+      "home": "Sydney Olimpic",
+      "away": "Sydney Youth",
+      "event_id": "10017353",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788067627.1487188
+    },
+    "Wollongong|Manly Utd.": {
+      "home": "Wollongong",
+      "away": "Manly Utd.",
+      "event_id": "10017354",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788067653.6708071
     }
   }
 }
