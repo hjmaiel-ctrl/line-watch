@@ -1,24 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "AFC Bournemouth - Everton",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "AFC Bournemouth - Everton",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.3 a 1.98 (16.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "AFC Bournemouth - Everton",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.52 a 1.7 (11.8%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Coventry City - Hull City",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 7.5 a 8.5"
@@ -2998,5 +2980,23 @@
     "match": "1. FC Magdeburg - Holstein Kiel",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 9.5 a 8.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "1. FC Magdeburg - Holstein Kiel",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "1. FC Magdeburg - Holstein Kiel",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.4 a 1.2 (16.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "1. FC Magdeburg - Holstein Kiel",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.65 a 3.9 (47.2%)"
   }
 ]
