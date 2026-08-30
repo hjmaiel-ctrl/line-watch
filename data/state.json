@@ -1,32 +1,5 @@
 {
   "matches": {
-    "San Diego FC|Los Angeles Galaxy": {
-      "home": "San Diego FC",
-      "away": "Los Angeles Galaxy",
-      "event_id": "10017322",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            14.5,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788064563.4683669
-    },
     "Santos Laguna|Tigres de la UANL": {
       "home": "Santos Laguna",
       "away": "Tigres de la UANL",
@@ -34,7 +7,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.52,
+              2.2
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.52,
+                "under": 2.2
+              },
+              {
+                "line": 12.5,
+                "over": 2.25,
+                "under": 1.5
+              },
+              {
+                "line": 13.5,
+                "over": 3.55,
+                "under": 1.2
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -48,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788064590.462493
+      "last_checked": 1788065128.9720647
     },
     "Wallsend|Newcastle Croatia FC": {
       "home": "Wallsend",
@@ -71,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788064617.3605144
+      "last_checked": 1788065155.6842031
     },
     "Queensland Lions FC|Gold Coast Knights FC": {
       "home": "Queensland Lions FC",
@@ -94,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788064644.7906237
+      "last_checked": 1788065182.5383065
+    },
+    "South West Queensland Thunder|Pine Hills": {
+      "home": "South West Queensland Thunder",
+      "away": "Pine Hills",
+      "event_id": "10017344",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788065209.45153
     },
     "Wollongong Wolves U20|Manly Utd U20": {
       "home": "Wollongong Wolves U20",
@@ -117,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788064672.0435452
+      "last_checked": 1788065236.2482617
     }
   }
 }

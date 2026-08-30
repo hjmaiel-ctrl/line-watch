@@ -1,39 +1,36 @@
 {
-  "generated_at": 1788064672.0946743,
+  "generated_at": 1788065236.284759,
   "matches": [
-    {
-      "match": "San Diego FC - Los Angeles Galaxy",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            14.5,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Santos Laguna - Tigres de la UANL",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.52,
+              2.2
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.52,
+                "under": 2.2
+              },
+              {
+                "line": 12.5,
+                "over": 2.25,
+                "under": 1.5
+              },
+              {
+                "line": 13.5,
+                "over": 3.55,
+                "under": 1.2
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -73,6 +70,28 @@
     },
     {
       "match": "Queensland Lions FC - Gold Coast Knights FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "South West Queensland Thunder - Pine Hills",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
