@@ -1,6 +1,83 @@
 {
-  "generated_at": 1788092841.78442,
+  "generated_at": 1788093434.7677636,
   "matches": [
+    {
+      "match": "Feyenoord - ADO Den Haag",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 9.5,
+                "over": 1.6,
+                "under": 2.15
+              },
+              {
+                "line": 10.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 11.5,
+                "over": 2.55,
+                "under": 1.42
+              },
+              {
+                "line": 12.5,
+                "over": 3.25,
+                "under": 1.28
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Willem II - Heerenveen",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "1. FC Magdeburg - Holstein Kiel",
       "bet9ja_stats": null,
@@ -10,29 +87,29 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.22,
-              3.65
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 6.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 7.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 8.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 3.1,
+                "under": 1.3
               },
               {
                 "line": 9.5,
@@ -54,14 +131,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "1. FC Magdeburg - Holstein Kiel",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.1 a 3.65 (12.3%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "SV Darmstadt 98 - Hannover 96",
@@ -106,84 +176,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "KAA Gent - Club Brugge",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Aberdeen - Rangers",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 13.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 13.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 14.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 15.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 16.5,
-                "over": 3.65,
-                "under": 1.22
-              },
-              {
-                "line": 17.5,
-                "over": 6.0,
-                "under": 1.08
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 0
 }
