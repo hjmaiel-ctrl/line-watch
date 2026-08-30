@@ -1,90 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "São Paulo - Red Bull Bragantino",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.45 a 2.85 (16.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "DC United - Los Angeles",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 9.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Inter Miami CF - CF Montreal",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 6.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Inter Miami CF - CF Montreal",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.14 a 1.62 (32.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Inter Miami CF - CF Montreal",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.61 a 2.12 (31.7%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "New York Red Bulls - Philadelphia Union",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "New York Red Bulls - Philadelphia Union",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.06 a 2.24 (8.7%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Toronto - New York City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 10.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Atlanta Utd - Charlotte FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.96 a 2.2 (12.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Atlanta Utd - Charlotte FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.72 a 1.58 (8.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Inter Miami CF - CF Montreal",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.62 a 1.99 (22.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Inter Miami CF - CF Montreal",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.12 a 1.71 (24.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "New York Red Bulls - Philadelphia Union",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "New York Red Bulls - Philadelphia Union",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.85 a 2.16 (16.8%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "New York Red Bulls - Philadelphia Union",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.82 a 1.6 (13.7%)"
@@ -2998,5 +2914,89 @@
     "match": "Celta de Vigo - Athletic Bilbao",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.25 a 3.65 (12.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.95 a 1.65 (18.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.73 a 2.05 (18.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lazio - Genoa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.18 a 1.28 (8.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lazio - Genoa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.1 a 3.25 (26.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lazio - Genoa",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.98 a 2.25 (13.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lazio - Genoa",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.7 a 1.55 (9.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Cagliari - Internazionale",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Cagliari - Internazionale",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.11 a 1.22 (9.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Cagliari - Internazionale",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.25 a 3.65 (43.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "AS Monaco - Olympique Marseille",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AS Monaco - Olympique Marseille",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.5 a 4.25 (29.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AS Monaco - Olympique Marseille",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.82 a 2.05 (12.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "AS Monaco - Olympique Marseille",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.85 a 1.65 (12.1%)"
   }
 ]
