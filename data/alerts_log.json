@@ -1,41 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Olympique Lyonnais - Le Havre AC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.9 a 4.25 (9.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Olympique Lyonnais - Le Havre AC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.62 a 1.92 (18.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Olympique Lyonnais - Le Havre AC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.1 a 1.75 (20.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Juventus - Parma",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Juventus - Parma",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.73 a 2.1 (21.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Juventus - Parma",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.95 a 1.62 (20.4%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "AJ Auxerre - Angers SCO",
     "market": "CORNERS_OU",
@@ -2998,5 +2962,41 @@
     "match": "Stade Rennais - Le Mans FC",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.8 a 1.55 (16.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Manchester United - Ipswich Town",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.25 a 3.75 (15.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Real Madrid - Málaga",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.62 a 1.83 (13.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Real Madrid - Málaga",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.1 a 1.83 (14.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Stade Rennais - Le Mans FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Stade Rennais - Le Mans FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.25 a 1.7 (32.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Stade Rennais - Le Mans FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.55 a 1.98 (27.7%)"
   }
 ]
