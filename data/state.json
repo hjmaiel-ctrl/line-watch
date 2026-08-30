@@ -1,70 +1,57 @@
 {
   "matches": {
-    "Chelsea|Brighton & Hove Albion": {
-      "home": "Chelsea",
-      "away": "Brighton & Hove Albion",
-      "event_id": "10009043",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788101738.1809177
-    },
-    "Freiburg|Werder Bremen": {
-      "home": "Freiburg",
-      "away": "Werder Bremen",
-      "event_id": "9823647",
+    "Real Madrid|Málaga": {
+      "home": "Real Madrid",
+      "away": "Málaga",
+      "event_id": "10022207",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.33,
-              2.96
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
                 "line": 8.5,
-                "over": 1.33,
-                "under": 2.96
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 9.5,
-                "over": 1.94,
-                "under": 1.74
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 10.5,
-                "over": 3.15,
-                "under": 1.3
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 11.5,
+                "over": 2.9,
+                "under": 1.32
               }
             ]
           },
           "CARDS_OU": {
-            "line": 1.5,
+            "line": 3.5,
             "odds": [
-              1.51,
-              2.34
+              1.98,
+              1.7
             ],
             "_all_lines": [
               {
-                "line": 1.5,
-                "over": 1.51,
-                "under": 2.34
+                "line": 3.5,
+                "over": 1.98,
+                "under": 1.7
               }
             ]
           }
@@ -80,7 +67,66 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788101761.1502216
+      "last_checked": 1788102339.8287404
+    },
+    "Freiburg|Werder Bremen": {
+      "home": "Freiburg",
+      "away": "Werder Bremen",
+      "event_id": "9823647",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.19,
+              4.0
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.19,
+                "under": 4.0
+              },
+              {
+                "line": 10.5,
+                "over": 1.84,
+                "under": 1.83
+              },
+              {
+                "line": 11.5,
+                "over": 3.3,
+                "under": 1.27
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 1.5,
+            "odds": [
+              1.87,
+              1.77
+            ],
+            "_all_lines": [
+              {
+                "line": 1.5,
+                "over": 1.87,
+                "under": 1.77
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788102362.650274
     },
     "SC Telstar|Ajax": {
       "home": "SC Telstar",
@@ -103,7 +149,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788101787.640155
+      "last_checked": 1788102389.0405114
     },
     "Nacional da Madeira|Club Football Estrela": {
       "home": "Nacional da Madeira",
@@ -126,12 +172,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788101814.445263
+      "last_checked": 1788102415.6339047
     },
-    "AFC Wimbledon|Wigan Athletic": {
-      "home": "AFC Wimbledon",
-      "away": "Wigan Athletic",
-      "event_id": "10017647",
+    "Ikorodu City|Ranchers Bees": {
+      "home": "Ikorodu City",
+      "away": "Ranchers Bees",
+      "event_id": "10017805",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -149,7 +195,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788101841.1377845
+      "last_checked": 1788102442.0106592
     }
   }
 }
