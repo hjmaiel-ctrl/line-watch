@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788089233.5498464,
+  "generated_at": 1788089837.1182542,
   "matches": [
     {
       "match": "FC Utrecht - PSV Eindhoven",
@@ -21,23 +21,23 @@
               },
               {
                 "line": 11.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.57,
+                "under": 2.15
               },
               {
                 "line": 12.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 13.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 14.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
@@ -54,64 +54,45 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "FC Utrecht - PSV Eindhoven",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 11.5 a 10.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "FC Utrecht - PSV Eindhoven",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.35 a 1.25 (8.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "FC Utrecht - PSV Eindhoven",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.85 a 3.45 (21.1%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Aberdeen - Rangers",
+      "match": "1. FC Magdeburg - Holstein Kiel",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 9.5,
             "odds": [
-              1.22,
-              3.65
+              1.4,
+              2.65
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 7.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
-                "line": 8.5,
-                "over": 1.83,
-                "under": 1.83
-              },
-              {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 10.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 11.5,
+                "over": 2.1,
+                "under": 1.62
+              },
+              {
+                "line": 12.5,
+                "over": 2.65,
+                "under": 1.4
+              },
+              {
+                "line": 13.5,
+                "over": 3.45,
+                "under": 1.25
               }
             ]
           },
@@ -131,7 +112,7 @@
       "alerts": []
     },
     {
-      "match": "FC Eindhoven - Heracles Almelo",
+      "match": "SV Darmstadt 98 - Hannover 96",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -153,7 +134,7 @@
       "alerts": []
     },
     {
-      "match": "Amarante FC - Benfica B",
+      "match": "FC St. Pauli - 1. FC Kaiserslautern",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -175,7 +156,7 @@
       "alerts": []
     },
     {
-      "match": "AD Machico - AD Camacha",
+      "match": "KAA Gent - Club Brugge",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -197,5 +178,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 0
 }
