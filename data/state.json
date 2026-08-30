@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788077762.8430917
+      "last_checked": 1788078325.555443
     },
     "Queensland Lions|Peninsula": {
       "home": "Queensland Lions",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788077789.607071
+      "last_checked": 1788078352.0765607
     },
     "Siheung Citizen|FC Pocheon": {
       "home": "Siheung Citizen",
@@ -67,7 +67,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788077816.3702874
+      "last_checked": 1788078378.6125526
+    },
+    "Bohemians Prague 1905 B|Admira Prague": {
+      "home": "Bohemians Prague 1905 B",
+      "away": "Admira Prague",
+      "event_id": "10017392",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788078405.2782514
     },
     "SSU Politehnica Timisoara|AFC ASA Tg.Mures": {
       "home": "SSU Politehnica Timisoara",
@@ -90,30 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788077842.9489064
-    },
-    "Pardubice B|Caslav": {
-      "home": "Pardubice B",
-      "away": "Caslav",
-      "event_id": "10017394",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788077869.6012492
+      "last_checked": 1788078431.8177946
     }
   }
 }
