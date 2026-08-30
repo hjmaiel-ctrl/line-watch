@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788130642.7772236,
+  "generated_at": 1788131231.8323202,
   "matches": [
     {
       "match": "Grêmio FBPA - Chapecoense",
@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.42,
-              2.6
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 10.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 11.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 3.5,
+                "under": 1.22
               }
             ]
           },
@@ -44,14 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Grêmio FBPA - Chapecoense",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 9.5"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Mirassol FC - Palmeiras",
@@ -59,7 +52,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 8.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 9.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -84,24 +100,24 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.57,
-              2.2
+              1.55,
+              2.25
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 6.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 7.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -129,24 +145,24 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.5,
-              2.35
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 8.5,
-                "over": 1.9,
-                "under": 1.77
+                "over": 1.83,
+                "under": 1.83
               },
               {
                 "line": 9.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           },
@@ -163,17 +179,10 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Esporte Clube Bahia - SC Internacional",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 7.5"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "CRB - Criciúma EC",
+      "match": "Vila Nova FC - Ceará SC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -195,5 +204,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
