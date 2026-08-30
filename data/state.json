@@ -7,44 +7,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.41,
-              2.68
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.41,
-                "under": 2.68
-              },
-              {
-                "line": 9.5,
-                "over": 1.75,
-                "under": 1.96
-              },
-              {
-                "line": 10.5,
-                "over": 2.28,
-                "under": 1.56
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              2.04,
-              1.67
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 2.04,
-                "under": 1.67
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -57,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788133533.1915302
+      "last_checked": 1788134143.5453947
     },
     "Independiente|Gimnasia y Esgrima de Mendoza": {
       "home": "Independiente",
@@ -69,24 +33,24 @@
           "CORNERS_OU": {
             "line": 4.5,
             "odds": [
-              1.38,
-              2.7
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 5.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 6.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
@@ -103,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788133557.374602
+      "last_checked": 1788134168.0849726
     },
     "Esporte Clube Bahia|SC Internacional": {
       "home": "Esporte Clube Bahia",
@@ -113,26 +77,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.47,
-              2.45
+              1.55,
+              2.25
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
                 "line": 7.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 8.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 9.5,
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
@@ -149,30 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788133581.530439
-    },
-    "Cerro Largo|Liverpool Montevideo": {
-      "home": "Cerro Largo",
-      "away": "Liverpool Montevideo",
-      "event_id": "10018381",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788133607.6023684
+      "last_checked": 1788134192.7441196
     },
     "Emelec|Leones del Norte": {
       "home": "Emelec",
@@ -195,7 +136,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788133633.5796
+      "last_checked": 1788134219.2018888
+    },
+    "Millonarios|Internacional de Bogotá": {
+      "home": "Millonarios",
+      "away": "Internacional de Bogotá",
+      "event_id": "10023840",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.4,
+              2.65
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 9.5,
+                "over": 1.8,
+                "under": 1.87
+              },
+              {
+                "line": 10.5,
+                "over": 2.5,
+                "under": 1.45
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788134243.8025475
     }
   }
 }
