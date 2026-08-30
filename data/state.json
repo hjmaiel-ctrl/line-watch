@@ -21,23 +21,23 @@
               },
               {
                 "line": 11.5,
-                "over": 1.57,
-                "under": 2.15
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 12.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 2.45,
+                "under": 1.47
               },
               {
                 "line": 13.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 3.65,
+                "under": 1.22
               },
               {
                 "line": 14.5,
-                "over": 4.75,
-                "under": 1.13
+                "over": 5.5,
+                "under": 1.1
               }
             ]
           },
@@ -54,7 +54,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788089731.2612534
+      "last_checked": 1788090333.0500863
     },
     "1. FC Magdeburg|Holstein Kiel": {
       "home": "1. FC Magdeburg",
@@ -64,36 +64,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
               1.4,
               2.65
             ],
             "_all_lines": [
               {
-                "line": 9.5,
+                "line": 8.5,
                 "over": 1.4,
                 "under": 2.65
               },
               {
-                "line": 10.5,
+                "line": 9.5,
                 "over": 1.65,
                 "under": 2.05
               },
               {
-                "line": 11.5,
+                "line": 10.5,
                 "over": 2.1,
                 "under": 1.62
               },
               {
-                "line": 12.5,
-                "over": 2.65,
-                "under": 1.4
+                "line": 11.5,
+                "over": 2.75,
+                "under": 1.35
               },
               {
-                "line": 13.5,
-                "over": 3.45,
-                "under": 1.25
+                "line": 12.5,
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
@@ -110,7 +110,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788089756.1713896
+      "last_checked": 1788090358.466593
     },
     "SV Darmstadt 98|Hannover 96": {
       "home": "SV Darmstadt 98",
@@ -133,7 +133,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788089783.0336905
+      "last_checked": 1788090384.918639
     },
     "FC St. Pauli|1. FC Kaiserslautern": {
       "home": "FC St. Pauli",
@@ -156,7 +156,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788089810.103747
+      "last_checked": 1788090411.497192
     },
     "KAA Gent|Club Brugge": {
       "home": "KAA Gent",
@@ -179,7 +179,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788089837.0715332
+      "last_checked": 1788090438.0154386
     }
   }
 }

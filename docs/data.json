@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788089837.1182542,
+  "generated_at": 1788090438.059834,
   "matches": [
     {
       "match": "FC Utrecht - PSV Eindhoven",
@@ -21,23 +21,23 @@
               },
               {
                 "line": 11.5,
-                "over": 1.57,
-                "under": 2.15
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 12.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 2.45,
+                "under": 1.47
               },
               {
                 "line": 13.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 3.65,
+                "under": 1.22
               },
               {
                 "line": 14.5,
-                "over": 4.75,
-                "under": 1.13
+                "over": 5.5,
+                "under": 1.1
               }
             ]
           },
@@ -63,36 +63,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
               1.4,
               2.65
             ],
             "_all_lines": [
               {
-                "line": 9.5,
+                "line": 8.5,
                 "over": 1.4,
                 "under": 2.65
               },
               {
-                "line": 10.5,
+                "line": 9.5,
                 "over": 1.65,
                 "under": 2.05
               },
               {
-                "line": 11.5,
+                "line": 10.5,
                 "over": 2.1,
                 "under": 1.62
               },
               {
-                "line": 12.5,
-                "over": 2.65,
-                "under": 1.4
+                "line": 11.5,
+                "over": 2.75,
+                "under": 1.35
               },
               {
-                "line": 13.5,
-                "over": 3.45,
-                "under": 1.25
+                "line": 12.5,
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
@@ -109,7 +109,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "1. FC Magdeburg - Holstein Kiel",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+        }
+      ]
     },
     {
       "match": "SV Darmstadt 98 - Hannover 96",
@@ -178,5 +185,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }
