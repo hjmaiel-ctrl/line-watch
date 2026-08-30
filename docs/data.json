@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788133047.4636354,
+  "generated_at": 1788133633.621098,
   "matches": [
     {
       "match": "Saint Louis City SC - Dallas",
@@ -10,38 +10,38 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.47,
-              2.5
+              1.41,
+              2.68
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.47,
-                "under": 2.5
+                "over": 1.41,
+                "under": 2.68
               },
               {
                 "line": 9.5,
-                "over": 1.81,
-                "under": 1.89
+                "over": 1.75,
+                "under": 1.96
               },
               {
                 "line": 10.5,
-                "over": 2.34,
-                "under": 1.53
+                "over": 2.28,
+                "under": 1.56
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.83,
-              1.84
+              2.04,
+              1.67
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.83,
-                "under": 1.84
+                "over": 2.04,
+                "under": 1.67
               }
             ]
           }
@@ -59,22 +59,16 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Saint Louis City SC - Dallas",
           "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 3.5 a 4.5"
+          "detail": "bet9ja: esito #1 passato da 1.83 a 2.04 (11.5%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Saint Louis City SC - Dallas",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.69 a 1.83 (8.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Saint Louis City SC - Dallas",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.0 a 1.84 (8.7%)"
+          "detail": "bet9ja: esito #2 passato da 1.84 a 1.67 (10.2%)"
         }
       ]
     },
@@ -98,13 +92,13 @@
               },
               {
                 "line": 5.5,
-                "over": 1.95,
-                "under": 1.73
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 6.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 3.45,
+                "under": 1.25
               }
             ]
           },
@@ -132,24 +126,24 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.28,
-              3.25
+              1.47,
+              2.45
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 7.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 8.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 2.85,
+                "under": 1.35
               }
             ]
           },
@@ -166,7 +160,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Esporte Clube Bahia - SC Internacional",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.28 a 1.47 (14.8%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Esporte Clube Bahia - SC Internacional",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.25 a 2.45 (32.7%)"
+        }
+      ]
     },
     {
       "match": "Cerro Largo - Liverpool Montevideo",
@@ -174,25 +181,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.73,
-              1.88
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.73,
-                "under": 1.88
-              },
-              {
-                "line": 9.5,
-                "over": 2.98,
-                "under": 1.29
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -231,5 +220,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 4
 }
