@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Juventus - Parma",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.3 a 1.55 (48.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Stade Brestois 29 - Toulouse FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 5.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Stade Brestois 29 - Toulouse FC",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #1 passato da 2.15 a 1.6 (34.4%)"
@@ -2998,5 +2986,17 @@
     "match": "Real Madrid - Málaga",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.65 a 1.4 (17.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Real Madrid - Málaga",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.65 a 1.75 (51.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Real Madrid - Málaga",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.4 a 1.92 (37.1%)"
   }
 ]
