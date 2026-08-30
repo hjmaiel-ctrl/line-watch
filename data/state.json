@@ -7,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.52,
-              2.2
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.52,
-                "under": 2.2
-              },
-              {
-                "line": 12.5,
-                "over": 2.25,
-                "under": 1.5
-              },
-              {
-                "line": 13.5,
-                "over": 3.55,
-                "under": 1.2
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788065128.9720647
+      "last_checked": 1788065740.4765694
     },
     "Wallsend|Newcastle Croatia FC": {
       "home": "Wallsend",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788065155.6842031
+      "last_checked": 1788065767.32641
     },
     "Queensland Lions FC|Gold Coast Knights FC": {
       "home": "Queensland Lions FC",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788065182.5383065
+      "last_checked": 1788065794.2964027
     },
     "South West Queensland Thunder|Pine Hills": {
       "home": "South West Queensland Thunder",
@@ -113,16 +90,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788065209.45153
+      "last_checked": 1788065821.5581057
     },
-    "Wollongong Wolves U20|Manly Utd U20": {
-      "home": "Wollongong Wolves U20",
-      "away": "Manly Utd U20",
-      "event_id": "10017334",
+    "Z.Arsenal|Z.Everton": {
+      "home": "Z.Arsenal",
+      "away": "Z.Everton",
+      "event_id": "10020600",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.15,
+              5.5
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.15,
+                "under": 5.5
+              },
+              {
+                "line": 5.5,
+                "over": 1.46,
+                "under": 2.71
+              },
+              {
+                "line": 6.5,
+                "over": 2.11,
+                "under": 1.73
+              },
+              {
+                "line": 7.5,
+                "over": 3.5,
+                "under": 1.3
+              },
+              {
+                "line": 8.5,
+                "over": 6.7,
+                "under": 1.12
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -136,7 +146,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788065236.2482617
+      "last_checked": 1788065846.6492348
     }
   }
 }

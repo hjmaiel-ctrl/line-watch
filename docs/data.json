@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788065236.284759,
+  "generated_at": 1788065846.6979985,
   "matches": [
     {
       "match": "Santos Laguna - Tigres de la UANL",
@@ -7,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.52,
-              2.2
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.52,
-                "under": 2.2
-              },
-              {
-                "line": 12.5,
-                "over": 2.25,
-                "under": 1.5
-              },
-              {
-                "line": 13.5,
-                "over": 3.55,
-                "under": 1.2
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -113,12 +90,45 @@
       "alerts": []
     },
     {
-      "match": "Wollongong Wolves U20 - Manly Utd U20",
+      "match": "Z.Arsenal - Z.Everton",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.15,
+              5.5
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.15,
+                "under": 5.5
+              },
+              {
+                "line": 5.5,
+                "over": 1.46,
+                "under": 2.71
+              },
+              {
+                "line": 6.5,
+                "over": 2.11,
+                "under": 1.73
+              },
+              {
+                "line": 7.5,
+                "over": 3.5,
+                "under": 1.3
+              },
+              {
+                "line": 8.5,
+                "over": 6.7,
+                "under": 1.12
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
