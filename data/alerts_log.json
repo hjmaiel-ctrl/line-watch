@@ -1,47 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Atlanta Utd - Charlotte FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 2.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Atlanta Utd - Charlotte FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.88 a 1.66 (13.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Atlanta Utd - Charlotte FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.79 a 2.06 (15.1%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "DC United - Los Angeles",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 2.5 a 1.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "DC United - Los Angeles",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.04 a 1.7 (20.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "DC United - Los Angeles",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.67 a 2.0 (19.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Inter Miami CF - CF Montreal",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.8 a 3.25 (16.1%)"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Inter Miami CF - CF Montreal",
     "market": "CARDS_OU",
@@ -2998,5 +2956,47 @@
     "match": "AS Monaco - Olympique Marseille",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 8.0 a 3.75 (113.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.28 a 1.12 (14.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.25 a 5.0 (53.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.65 a 1.98 (20.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Celta de Vigo - Athletic Bilbao",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.05 a 1.7 (20.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Famalicão - Gil Vicente",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Famalicão - Gil Vicente",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.45 a 4.1 (18.8%)"
   }
 ]
