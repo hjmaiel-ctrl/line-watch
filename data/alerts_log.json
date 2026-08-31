@@ -1,36 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Manchester United - Ipswich Town",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.85 a 4.25 (49.1%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Manchester United - Ipswich Town",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Manchester United - Ipswich Town",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.6 a 1.87 (16.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Manchester United - Ipswich Town",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.15 a 1.8 (19.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Real Madrid - Málaga",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Real Madrid - Málaga",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.1 a 3.65 (17.7%)"
@@ -2998,5 +2968,35 @@
     "match": "Z.Everton - Z.Leeds",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 7.5 a 8.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Man City - Z.Tottenham",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Aston Villa - Z.Brighton",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.8 a 7.9 (16.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Brentford - Z.Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Brentford - Z.Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.1 a 7.7 (26.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Everton - Z.Leeds",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.55 a 5.7 (25.3%)"
   }
 ]
