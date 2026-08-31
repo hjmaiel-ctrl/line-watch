@@ -11,14 +11,14 @@
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.84,
-              1.83
+              2.12,
+              1.62
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.84,
-                "under": 1.83
+                "over": 2.12,
+                "under": 1.62
               }
             ]
           }
@@ -34,7 +34,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788135401.7002087
+      "last_checked": 1788135964.1852345
     },
     "Esporte Clube Bahia|SC Internacional": {
       "home": "Esporte Clube Bahia",
@@ -49,8 +49,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.13,
-            6.8
+            18.0,
+            13.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -61,7 +61,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788135435.9143562
+      "last_checked": 1788135996.3711722
     },
     "Coquimbo Unido|Huachipato": {
       "home": "Coquimbo Unido",
@@ -84,7 +84,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788135462.7907383
+      "last_checked": 1788136023.0834012
     },
     "Emelec|Leones del Norte": {
       "home": "Emelec",
@@ -107,7 +107,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788135494.3253083
+      "last_checked": 1788136050.0107837
     },
     "Millonarios|Internacional de Bogotá": {
       "home": "Millonarios",
@@ -116,30 +116,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.62,
-              2.1
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 11.5,
-                "over": 2.2,
-                "under": 1.57
-              },
-              {
-                "line": 12.5,
-                "over": 3.25,
-                "under": 1.28
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -153,7 +130,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788135519.9186313
+      "last_checked": 1788136076.8117518
     }
   }
 }
