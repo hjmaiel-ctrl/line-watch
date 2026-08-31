@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Queensland Lions - Peninsula",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 85.0 a 100.0 (17.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "FC Utrecht - PSV Eindhoven",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "FC Utrecht - PSV Eindhoven",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.35 a 1.22 (10.7%)"
@@ -2998,5 +2986,17 @@
     "match": "Monterrey - Atlético San Luis",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.7 a 3.0 (11.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "San Jose Del Golfo FC - Deportivo Tigres Del Jumay Jalapa",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 2.9 a 3.75 (29.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "San Jose Del Golfo FC - Deportivo Tigres Del Jumay Jalapa",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 1.9 a 1.5 (26.7%)"
   }
 ]
