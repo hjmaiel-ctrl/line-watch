@@ -2,24 +2,6 @@
   {
     "type": "quota_cambiata",
     "match": "San Diego FC - Los Angeles Galaxy",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.95 a 1.67 (16.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "San Diego FC - Los Angeles Galaxy",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.73 a 2.04 (17.9%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "San Diego FC - Los Angeles Galaxy",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 11.5 a 10.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "San Diego FC - Los Angeles Galaxy",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.64 a 1.35 (21.5%)"
   },
@@ -2998,5 +2980,23 @@
     "match": "Millonarios - Internacional de Bogotá",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 12.5 a 11.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Saint Louis City SC - Dallas",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 1.03 a 1.18 (14.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Saint Louis City SC - Dallas",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 13.0 a 5.1 (154.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Independiente Rivadavia - Racing Club",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.45 a 2.7 (10.2%)"
   }
 ]
