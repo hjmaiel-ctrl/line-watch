@@ -8,53 +8,20 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788134143.5453947
-    },
-    "Independiente|Gimnasia y Esgrima de Mendoza": {
-      "home": "Independiente",
-      "away": "Gimnasia y Esgrima de Mendoza",
-      "event_id": "10018383",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
+          "CARDS_OU": {
+            "line": 3.5,
             "odds": [
-              1.32,
-              3.0
+              1.84,
+              1.83
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 5.5,
-                "over": 2.25,
-                "under": 1.55
-              },
-              {
-                "line": 6.5,
-                "over": 4.1,
-                "under": 1.18
+                "line": 3.5,
+                "over": 1.84,
+                "under": 1.83
               }
             ]
-          },
-          "CARDS_OU": null
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -67,7 +34,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788134168.0849726
+      "last_checked": 1788134844.5163794
     },
     "Esporte Clube Bahia|SC Internacional": {
       "home": "Esporte Clube Bahia",
@@ -77,26 +44,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.55,
-              2.25
+              1.57,
+              2.2
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
                 "line": 7.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 2.65,
+                "under": 1.4
               },
               {
                 "line": 8.5,
-                "over": 2.35,
-                "under": 1.5
-              },
-              {
-                "line": 9.5,
-                "over": 3.9,
-                "under": 1.2
+                "over": 5.0,
+                "under": 1.12
               }
             ]
           },
@@ -113,7 +80,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788134192.7441196
+      "last_checked": 1788134869.3383076
+    },
+    "Coquimbo Unido|Huachipato": {
+      "home": "Coquimbo Unido",
+      "away": "Huachipato",
+      "event_id": "10023922",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788134895.6850212
     },
     "Emelec|Leones del Norte": {
       "home": "Emelec",
@@ -136,7 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788134219.2018888
+      "last_checked": 1788134922.0976145
     },
     "Millonarios|Internacional de Bogotá": {
       "home": "Millonarios",
@@ -146,26 +136,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 10.5,
             "odds": [
-              1.4,
-              2.65
+              1.57,
+              2.2
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.4,
-                "under": 2.65
-              },
-              {
-                "line": 9.5,
-                "over": 1.8,
-                "under": 1.87
-              },
-              {
                 "line": 10.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
+                "line": 11.5,
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 12.5,
+                "over": 3.1,
+                "under": 1.3
               }
             ]
           },
@@ -182,7 +172,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788134243.8025475
+      "last_checked": 1788134946.7061892
     }
   }
 }
