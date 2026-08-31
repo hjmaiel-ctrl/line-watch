@@ -1,53 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Napoli - Como",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 2.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Napoli - Como",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.9 a 1.55 (22.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Napoli - Como",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.78 a 2.25 (26.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.32 a 1.22 (8.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.0 a 3.5 (16.7%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 2.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.95 a 1.65 (18.2%)"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Deportivo La Coruña - Valencia",
     "market": "CARDS_OU",
@@ -2998,5 +2950,53 @@
     "match": "Burgos CF - Real Sociedad B",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.1 a 4.5 (9.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Osasuna - Getafe",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Osasuna - Getafe",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.25 a 3.65 (12.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Osasuna - Getafe",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Osasuna - Getafe",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.05 a 1.65 (24.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Osasuna - Getafe",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.65 a 2.05 (24.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lecce - AS Roma",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.5 a 3.65 (23.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Burgos CF - Real Sociedad B",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Burgos CF - Real Sociedad B",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.5 a 3.65 (23.3%)"
   }
 ]
