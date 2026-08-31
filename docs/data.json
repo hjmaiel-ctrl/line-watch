@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788139048.7368546,
+  "generated_at": 1788139653.9100804,
   "matches": [
     {
       "match": "Independiente Rivadavia - Racing Club",
@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.28,
-              3.25
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 6.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.85,
+                "under": 1.82
               },
               {
                 "line": 7.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.7,
+                "under": 1.38
               }
             ]
           },
@@ -46,16 +46,10 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
-          "match": "Independiente Rivadavia - Racing Club",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 5.5"
-        },
-        {
           "type": "quota_cambiata",
           "match": "Independiente Rivadavia - Racing Club",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.0 a 3.25 (8.3%)"
+          "detail": "bet9ja: esito #2 passato da 3.25 a 2.7 (20.4%)"
         }
       ]
     },
@@ -104,20 +98,39 @@
       "alerts": []
     },
     {
-      "match": "Carabobo FC - Zamora FC",
+      "match": "Deportivo Cali - Atlético Bucaramanga",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.52,
+              2.3
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 8.5,
+                "over": 1.87,
+                "under": 1.8
+              },
+              {
+                "line": 9.5,
+                "over": 2.45,
+                "under": 1.47
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            4.2,
-            1.47
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -130,7 +143,7 @@
       "alerts": []
     },
     {
-      "match": "CD Real España - CD Choloma",
+      "match": "Carabobo FC - Zamora FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -139,7 +152,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            7.5,
+            1.14
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -149,8 +166,21 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Carabobo FC - Zamora FC",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 4.2 a 7.5 (78.6%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Carabobo FC - Zamora FC",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 1.47 a 1.14 (28.9%)"
+        }
+      ]
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 3
 }
