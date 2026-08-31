@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Estudiantes de La Plata|Newell's Old Boys": {
-      "home": "Estudiantes de La Plata",
-      "away": "Newell's Old Boys",
-      "event_id": "10029331",
+    "Defensa y Justicia|Platense": {
+      "home": "Defensa y Justicia",
+      "away": "Platense",
+      "event_id": "10029334",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,7 +21,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788219931.3631928
+      "last_checked": 1788220543.9318564
+    },
+    "Clube do Remo|Coritiba": {
+      "home": "Clube do Remo",
+      "away": "Coritiba",
+      "event_id": "10029341",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.4,
+              2.65
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 10.5,
+                "over": 1.78,
+                "under": 1.9
+              },
+              {
+                "line": 11.5,
+                "over": 2.35,
+                "under": 1.5
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788220569.0596151
     },
     "Fortaleza EC|Operário Ferroviário": {
       "home": "Fortaleza EC",
@@ -44,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788219957.9357195
+      "last_checked": 1788220595.7450552
     },
     "Unión La Calera|La Serena": {
       "home": "Unión La Calera",
@@ -67,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788219985.5311706
+      "last_checked": 1788220622.484552
     },
     "Deportivo Pasto|Deportivo Pereira": {
       "home": "Deportivo Pasto",
@@ -76,7 +122,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.45,
+              2.5
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 10.5,
+                "over": 1.85,
+                "under": 1.82
+              },
+              {
+                "line": 11.5,
+                "over": 2.5,
+                "under": 1.45
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -90,30 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788220012.5362442
-    },
-    "Club Comunicaciones|Deportivo Merlo": {
-      "home": "Club Comunicaciones",
-      "away": "Deportivo Merlo",
-      "event_id": "10029332",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788220039.180022
+      "last_checked": 1788220647.342664
     }
   }
 }
