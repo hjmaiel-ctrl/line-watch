@@ -10,34 +10,34 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.17,
-              5.0
+              1.18,
+              4.8
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.17,
-                "under": 5.0
+                "over": 1.18,
+                "under": 4.8
               },
               {
                 "line": 9.5,
-                "over": 1.46,
-                "under": 2.71
+                "over": 1.56,
+                "under": 2.43
               },
               {
                 "line": 10.5,
-                "over": 2.01,
-                "under": 1.8
+                "over": 2.33,
+                "under": 1.6
               },
               {
                 "line": 11.5,
-                "over": 3.15,
-                "under": 1.36
+                "over": 4.1,
+                "under": 1.24
               },
               {
                 "line": 12.5,
-                "over": 5.45,
-                "under": 1.15
+                "over": 8.25,
+                "under": 1.08
               }
             ]
           },
@@ -54,7 +54,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788150941.478335
+      "last_checked": 1788151533.1241283
     },
     "Z.Nottingham Forest|Z.Chelsea": {
       "home": "Z.Nottingham Forest",
@@ -64,36 +64,31 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 12.5,
             "odds": [
-              1.1,
-              7.2
+              1.07,
+              9.25
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.1,
-                "under": 7.2
-              },
-              {
                 "line": 12.5,
-                "over": 1.33,
-                "under": 3.35
+                "over": 1.07,
+                "under": 9.25
               },
               {
                 "line": 13.5,
-                "over": 1.81,
-                "under": 1.99
+                "over": 1.29,
+                "under": 3.55
               },
               {
                 "line": 14.5,
-                "over": 2.77,
-                "under": 1.44
+                "over": 1.83,
+                "under": 1.96
               },
               {
                 "line": 15.5,
-                "over": 4.85,
-                "under": 1.18
+                "over": 3.0,
+                "under": 1.39
               }
             ]
           },
@@ -110,7 +105,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788150966.2923512
+      "last_checked": 1788151558.3117387
     },
     "Z.Everton|Z.Brentford": {
       "home": "Z.Everton",
@@ -120,36 +115,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 6.5,
             "odds": [
-              1.13,
-              6.15
+              1.1,
+              7.35
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.13,
-                "under": 6.15
-              },
-              {
                 "line": 6.5,
-                "over": 1.4,
-                "under": 2.95
+                "over": 1.1,
+                "under": 7.35
               },
               {
                 "line": 7.5,
-                "over": 1.95,
-                "under": 1.84
+                "over": 1.39,
+                "under": 2.98
               },
               {
                 "line": 8.5,
-                "over": 3.15,
-                "under": 1.36
+                "over": 2.07,
+                "under": 1.75
               },
               {
                 "line": 9.5,
-                "over": 5.7,
-                "under": 1.14
+                "over": 3.7,
+                "under": 1.28
+              },
+              {
+                "line": 10.5,
+                "over": 7.65,
+                "under": 1.1
               }
             ]
           },
@@ -166,7 +161,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788150990.9959316
+      "last_checked": 1788151583.5326247
     },
     "Z.Arsenal|Z.Bournemouth": {
       "home": "Z.Arsenal",
@@ -176,31 +171,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 12.5,
+            "line": 11.5,
             "odds": [
-              1.23,
-              4.15
+              1.04,
+              12.0
             ],
             "_all_lines": [
               {
+                "line": 11.5,
+                "over": 1.04,
+                "under": 12.0
+              },
+              {
                 "line": 12.5,
-                "over": 1.23,
-                "under": 4.15
+                "over": 1.22,
+                "under": 4.3
               },
               {
                 "line": 13.5,
-                "over": 1.59,
-                "under": 2.34
+                "over": 1.65,
+                "under": 2.23
               },
               {
                 "line": 14.5,
-                "over": 2.3,
-                "under": 1.62
+                "over": 2.57,
+                "under": 1.51
               },
               {
                 "line": 15.5,
-                "over": 3.8,
-                "under": 1.27
+                "over": 4.7,
+                "under": 1.19
               }
             ]
           },
@@ -217,7 +217,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788151015.8415537
+      "last_checked": 1788151608.866536
     },
     "Z.Coventry City|Z.Newcastle Utd": {
       "home": "Z.Coventry City",
@@ -227,36 +227,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.13,
-              6.2
+              1.1,
+              7.25
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.1,
+                "under": 7.25
+              },
+              {
                 "line": 7.5,
-                "over": 1.13,
-                "under": 6.2
+                "over": 1.4,
+                "under": 2.95
               },
               {
                 "line": 8.5,
-                "over": 1.4,
-                "under": 2.97
+                "over": 2.09,
+                "under": 1.73
               },
               {
                 "line": 9.5,
-                "over": 1.95,
-                "under": 1.85
+                "over": 3.75,
+                "under": 1.27
               },
               {
                 "line": 10.5,
-                "over": 3.15,
-                "under": 1.36
-              },
-              {
-                "line": 11.5,
-                "over": 5.7,
-                "under": 1.14
+                "over": 7.85,
+                "under": 1.09
               }
             ]
           },
@@ -273,7 +273,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788151040.689072
+      "last_checked": 1788151634.1214204
     }
   }
 }
