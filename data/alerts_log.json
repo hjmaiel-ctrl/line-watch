@@ -1,11 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Grêmio FBPA - Chapecoense",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 11.5"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Grêmio FBPA - Chapecoense",
     "market": "CORNERS_OU",
@@ -2998,5 +2992,11 @@
     "match": "CD Choloma Reserves - Marathon Reserves",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 5.1 a 5.9 (15.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Defensa y Justicia - Platense",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
   }
 ]

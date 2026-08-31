@@ -10,19 +10,19 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.57,
-              2.2
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 7.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 8.5,
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788214535.685463
+      "last_checked": 1788215135.7641895
     },
     "Defensa y Justicia|Platense": {
       "home": "Defensa y Justicia",
@@ -54,26 +54,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.57,
-              2.2
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
                 "line": 7.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.92,
+                "under": 1.75
               },
               {
                 "line": 8.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 9.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 2.65,
+                "under": 1.4
               }
             ]
           },
@@ -90,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788214560.4845476
+      "last_checked": 1788215161.0871341
+    },
+    "Unión La Calera|La Serena": {
+      "home": "Unión La Calera",
+      "away": "La Serena",
+      "event_id": "10029336",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788215188.0166626
     },
     "Genesis FC Reserves|Club Deportivo Platense Reserves": {
       "home": "Genesis FC Reserves",
@@ -113,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788214587.1356156
+      "last_checked": 1788215215.2307456
     },
     "Olimpia Reserves|Motagua Reserves": {
       "home": "Olimpia Reserves",
@@ -136,34 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788214613.7657917
-    },
-    "CD Choloma Reserves|Marathon Reserves": {
-      "home": "CD Choloma Reserves",
-      "away": "Marathon Reserves",
-      "event_id": "10027929",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.18,
-            5.9
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788214645.611163
+      "last_checked": 1788215242.4911697
     }
   }
 }
