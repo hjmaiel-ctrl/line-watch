@@ -1,72 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Chelsea - Brighton & Hove Albion",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.07 a 1.35 (26.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Chelsea - Brighton & Hove Albion",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 6.5 a 2.85 (128.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Chelsea - Brighton & Hove Albion",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.42 a 2.15 (51.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Chelsea - Brighton & Hove Albion",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.6 a 1.6 (62.5%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Leeds United - Brentford",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 11.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Leeds United - Brentford",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.07 a 1.47 (37.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Leeds United - Brentford",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 6.5 a 2.5 (160.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Leeds United - Brentford",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 2.5 a 3.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Leeds United - Brentford",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.4 a 1.85 (32.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Leeds United - Brentford",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.65 a 1.82 (45.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Freiburg - Werder Bremen",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Freiburg - Werder Bremen",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.47 a 1.33 (10.5%)"
@@ -2998,5 +2932,71 @@
     "match": "Z.Hull City - Z.Coventry City",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 6.6 a 9.15 (38.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Liverpool - Z.Crystal Palace",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 11.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Liverpool - Z.Crystal Palace",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.35 a 7.45 (17.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Leeds - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Leeds - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.05 a 6.05 (19.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Tottenham - Z.Nottingham Forest",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Tottenham - Z.Nottingham Forest",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 11.5 a 21.0 (82.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Arsenal - Z.Fulham",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Arsenal - Z.Fulham",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.65 a 6.5 (15.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Hull City - Z.Coventry City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Hull City - Z.Coventry City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.07 a 1.26 (17.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Hull City - Z.Coventry City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 9.15 a 3.9 (134.6%)"
   }
 ]
