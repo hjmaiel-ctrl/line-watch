@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              1.38,
-              2.7
+              1.3,
+              3.1
             ],
             "_all_lines": [
               {
+                "line": 4.5,
+                "over": 1.3,
+                "under": 3.1
+              },
+              {
                 "line": 5.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.73,
+                "under": 1.95
               },
               {
                 "line": 6.5,
-                "over": 1.83,
-                "under": 1.83
-              },
-              {
-                "line": 7.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 2.6,
+                "under": 1.42
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788140118.4308472
+      "last_checked": 1788140741.8681428
     },
     "Coquimbo Unido|Huachipato": {
       "home": "Coquimbo Unido",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788140145.0530732
+      "last_checked": 1788140768.6078944
     },
     "Cienciano del Cuzco|Cusco FC": {
       "home": "Cienciano del Cuzco",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788140171.2181113
+      "last_checked": 1788140795.8149874
     },
     "Deportivo Cali|Atlético Bucaramanga": {
       "home": "Deportivo Cali",
@@ -100,26 +100,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.47,
-              2.45
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
                 "line": 7.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.82,
+                "under": 1.85
               },
               {
                 "line": 8.5,
-                "over": 1.83,
-                "under": 1.83
-              },
-              {
-                "line": 9.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           },
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788140195.6716163
+      "last_checked": 1788140820.833201
     },
     "Real Monarchs SLC|Tacoma Defiance": {
       "home": "Real Monarchs SLC",
@@ -159,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788140221.741212
+      "last_checked": 1788140847.9139466
     }
   }
 }
