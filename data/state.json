@@ -8,24 +8,24 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.6,
-              2.15
+              1.57,
+              2.2
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
                 "line": 7.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 8.5,
-                "over": 1.98,
-                "under": 1.67
-              },
-              {
-                "line": 9.5,
                 "over": 2.7,
                 "under": 1.38
               }
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788213940.1291416
+      "last_checked": 1788214535.685463
     },
     "Defensa y Justicia|Platense": {
       "home": "Defensa y Justicia",
@@ -56,19 +56,19 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.62,
-              2.1
+              1.57,
+              2.2
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 8.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 9.5,
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788213965.0586483
+      "last_checked": 1788214560.4845476
     },
     "Genesis FC Reserves|Club Deportivo Platense Reserves": {
       "home": "Genesis FC Reserves",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788213991.6703916
+      "last_checked": 1788214587.1356156
     },
     "Olimpia Reserves|Motagua Reserves": {
       "home": "Olimpia Reserves",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788214018.4084775
+      "last_checked": 1788214613.7657917
     },
     "CD Choloma Reserves|Marathon Reserves": {
       "home": "CD Choloma Reserves",
@@ -151,8 +151,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.26,
-            5.1
+            1.18,
+            5.9
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -163,7 +163,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788214050.101524
+      "last_checked": 1788214645.611163
     }
   }
 }

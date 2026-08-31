@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788214050.1447349,
+  "generated_at": 1788214645.6602938,
   "matches": [
     {
       "match": "Estudiantes de La Plata - Newell's Old Boys",
@@ -8,24 +8,24 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.6,
-              2.15
+              1.57,
+              2.2
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
                 "line": 7.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 8.5,
-                "over": 1.98,
-                "under": 1.67
-              },
-              {
-                "line": 9.5,
                 "over": 2.7,
                 "under": 1.38
               }
@@ -44,7 +44,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Estudiantes de La Plata - Newell's Old Boys",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 7.5 a 6.5"
+        }
+      ]
     },
     {
       "match": "Defensa y Justicia - Platense",
@@ -55,19 +62,19 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.62,
-              2.1
+              1.57,
+              2.2
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 8.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 9.5,
@@ -147,8 +154,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.26,
-            5.1
+            1.18,
+            5.9
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -159,8 +166,15 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "CD Choloma Reserves - Marathon Reserves",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 5.1 a 5.9 (15.7%)"
+        }
+      ]
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
