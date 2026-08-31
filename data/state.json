@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              1.25,
-              3.45
+              1.2,
+              3.9
             ],
             "_all_lines": [
               {
+                "line": 4.5,
+                "over": 1.2,
+                "under": 3.9
+              },
+              {
                 "line": 5.5,
-                "over": 1.25,
-                "under": 3.45
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 6.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 7.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 8.5,
                 "over": 2.85,
                 "under": 1.35
               },
               {
-                "line": 9.5,
-                "over": 4.1,
-                "under": 1.18
+                "line": 8.5,
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.65,
-              2.05
+              1.98,
+              1.7
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.98,
+                "under": 1.7
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788196540.9959092
+      "last_checked": 1788197150.5203674
     },
     "Burgos CF|Real Sociedad B": {
       "home": "Burgos CF",
@@ -79,34 +79,34 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.22,
-              3.65
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.18,
+                "under": 4.1
               },
               {
                 "line": 8.5,
-                "over": 1.42,
-                "under": 2.55
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 9.5,
-                "over": 1.8,
-                "under": 1.87
+                "over": 1.75,
+                "under": 1.92
               },
               {
                 "line": 10.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.3,
+                "under": 1.52
               },
               {
                 "line": 11.5,
-                "over": 3.5,
-                "under": 1.22
+                "over": 3.25,
+                "under": 1.28
               }
             ]
           },
@@ -123,7 +123,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788196565.754062
+      "last_checked": 1788197175.4512825
     },
     "Levadiakos|Panathinaikos": {
       "home": "Levadiakos",
@@ -146,7 +146,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788196592.3273296
+      "last_checked": 1788197202.1796744
     },
     "Djurgårdens IF|Mjällby AIF": {
       "home": "Djurgårdens IF",
@@ -169,7 +169,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788196618.9852948
+      "last_checked": 1788197229.1908581
     },
     "IK Sirius|Malmö FF": {
       "home": "IK Sirius",
@@ -192,7 +192,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788196645.4938908
+      "last_checked": 1788197256.0893404
     }
   }
 }

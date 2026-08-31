@@ -2,36 +2,6 @@
   {
     "type": "linea_cambiata",
     "match": "Napoli - Como",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 3.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Napoli - Como",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.25 a 1.9 (18.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Napoli - Como",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.55 a 1.78 (14.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.18 a 1.32 (11.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.1 a 3.0 (36.7%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Napoli - Como",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 8.5 a 7.5"
   },
@@ -2998,5 +2968,35 @@
     "match": "Lecce - AS Roma",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Lecce - AS Roma",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lecce - AS Roma",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.45 a 3.9 (13.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lecce - AS Roma",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.65 a 1.98 (20.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lecce - AS Roma",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.05 a 1.7 (20.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Burgos CF - Real Sociedad B",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 4.1 (12.3%)"
   }
 ]
