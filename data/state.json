@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788168927.2360992
+      "last_checked": 1788169535.333365
     },
     "Indonesia|Malaysia": {
       "home": "Indonesia",
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788168954.2001426
+      "last_checked": 1788169561.9578416
     },
-    "Measurers Club|Wari AC": {
-      "home": "Measurers Club",
-      "away": "Wari AC",
-      "event_id": "10023942",
+    "United SC|Suruchi Sangha": {
+      "home": "United SC",
+      "away": "Suruchi Sangha",
+      "event_id": "10023941",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,7 +67,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788168981.0105758
+      "last_checked": 1788169588.6674306
+    },
+    "Kalighat SL|Mohammedan SC Reserves": {
+      "home": "Kalighat SL",
+      "away": "Mohammedan SC Reserves",
+      "event_id": "10023943",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788169615.4548247
     },
     "Okinawa|Azul Claro Numazu": {
       "home": "Okinawa",
@@ -90,30 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788169007.8927379
-    },
-    "FK Mladost Lucani U19|Crvena Zvezda U19": {
-      "home": "FK Mladost Lucani U19",
-      "away": "Crvena Zvezda U19",
-      "event_id": "10023934",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788169034.6635487
+      "last_checked": 1788169642.2325804
     }
   }
 }
