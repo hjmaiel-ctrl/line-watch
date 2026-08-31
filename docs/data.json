@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788218826.7604105,
+  "generated_at": 1788219436.9128428,
   "matches": [
     {
       "match": "Estudiantes de La Plata - Newell's Old Boys",
@@ -8,24 +8,24 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.25,
-              3.45
+              1.12,
+              5.0
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.12,
+                "under": 5.0
+              },
+              {
                 "line": 6.5,
-                "over": 1.25,
-                "under": 3.45
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 7.5,
-                "over": 1.8,
-                "under": 1.87
-              },
-              {
-                "line": 8.5,
                 "over": 3.0,
                 "under": 1.32
               }
@@ -46,16 +46,22 @@
       },
       "alerts": [
         {
-          "type": "quota_cambiata",
+          "type": "linea_cambiata",
           "match": "Estudiantes de La Plata - Newell's Old Boys",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.35 a 1.25 (8.0%)"
+          "detail": "bet9ja: linea passata da 6.5 a 5.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Estudiantes de La Plata - Newell's Old Boys",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.85 a 3.45 (21.1%)"
+          "detail": "bet9ja: esito #1 passato da 1.25 a 1.12 (11.6%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Estudiantes de La Plata - Newell's Old Boys",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.45 a 5.0 (44.9%)"
         }
       ]
     },
@@ -68,14 +74,14 @@
           "CORNERS_OU": {
             "line": 13.5,
             "odds": [
-              1.5,
-              2.35
+              1.4,
+              2.65
             ],
             "_all_lines": [
               {
                 "line": 13.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 14.5,
@@ -84,8 +90,8 @@
               },
               {
                 "line": 15.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
@@ -104,22 +110,10 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
-          "match": "Defensa y Justicia - Platense",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 13.5"
-        },
-        {
           "type": "quota_cambiata",
           "match": "Defensa y Justicia - Platense",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.25 a 1.5 (20.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Defensa y Justicia - Platense",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.45 a 2.35 (46.8%)"
+          "detail": "bet9ja: esito #2 passato da 2.35 a 2.65 (12.8%)"
         }
       ]
     },
@@ -132,24 +126,24 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.4,
-              2.65
+              1.62,
+              2.1
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 9.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 10.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 2.7,
+                "under": 1.38
               }
             ]
           },
@@ -166,7 +160,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Clube do Remo - Coritiba",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.4 a 1.62 (15.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Clube do Remo - Coritiba",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.65 a 2.1 (26.2%)"
+        }
+      ]
     },
     {
       "match": "Fortaleza EC - Operário Ferroviário",
@@ -213,5 +220,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 5
+  "alert_count_this_run": 6
 }
