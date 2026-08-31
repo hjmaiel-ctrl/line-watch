@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788188133.7887073
+      "last_checked": 1788188746.0898106
     },
     "Cambrian United F.C|Penybont FC": {
       "home": "Cambrian United F.C",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788188160.8556385
+      "last_checked": 1788188772.6842802
     },
     "Ammanford AFC|Cardiff Metropolitan": {
       "home": "Ammanford AFC",
@@ -67,7 +67,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788188187.7448375
+      "last_checked": 1788188799.267253
+    },
+    "Briton Ferry|Barry Town Utd": {
+      "home": "Briton Ferry",
+      "away": "Barry Town Utd",
+      "event_id": "10027679",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            100.0,
+            12.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788188831.1467133
     },
     "Caernarfon Town|The New Saints": {
       "home": "Caernarfon Town",
@@ -90,30 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788188214.976547
-    },
-    "Asyut Petroleum|National Bank": {
-      "home": "Asyut Petroleum",
-      "away": "National Bank",
-      "event_id": "10027746",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788188241.898754
+      "last_checked": 1788188857.6695032
     }
   }
 }

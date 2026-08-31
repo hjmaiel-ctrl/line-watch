@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788188241.9617527,
+  "generated_at": 1788188857.718393,
   "matches": [
     {
       "match": "Haverfordwest County - Trefelin",
@@ -68,7 +68,7 @@
       "alerts": []
     },
     {
-      "match": "Caernarfon Town - The New Saints",
+      "match": "Briton Ferry - Barry Town Utd",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -77,7 +77,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            100.0,
+            12.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,7 +94,7 @@
       "alerts": []
     },
     {
-      "match": "Asyut Petroleum - National Bank",
+      "match": "Caernarfon Town - The New Saints",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
