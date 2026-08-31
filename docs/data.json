@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788191836.8675075,
+  "generated_at": 1788192449.1947808,
   "matches": [
     {
       "match": "FSC Bukovyna Chernivtsi - Dynamo Kiev",
@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.56,
-              2.18
+              1.52,
+              2.26
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.56,
-                "under": 2.18
+                "over": 1.52,
+                "under": 2.26
               },
               {
                 "line": 9.5,
-                "over": 2.06,
-                "under": 1.63
+                "over": 1.98,
+                "under": 1.68
               },
               {
                 "line": 10.5,
-                "over": 2.86,
-                "under": 1.33
+                "over": 2.72,
+                "under": 1.36
               }
             ]
           },
@@ -44,23 +44,10 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "FSC Bukovyna Chernivtsi - Dynamo Kiev",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.38 a 1.56 (13.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "FSC Bukovyna Chernivtsi - Dynamo Kiev",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.64 a 2.18 (21.1%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Asyut Petroleum - National Bank",
+      "match": "Gainsborough Trinity - Cleethorpes Town",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -82,7 +69,7 @@
       "alerts": []
     },
     {
-      "match": "Braintree Town - Farnborough",
+      "match": "Ilves - HJK Helsinki",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -104,7 +91,7 @@
       "alerts": []
     },
     {
-      "match": "Maidenhead United - AFC Totton",
+      "match": "AC Oulu - SJK",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -126,7 +113,7 @@
       "alerts": []
     },
     {
-      "match": "Salisbury FC - Billericay Town",
+      "match": "IFK Mariehamn - FF Jaro",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -148,5 +135,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
