@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Caernarfon Town|The New Saints": {
-      "home": "Caernarfon Town",
-      "away": "The New Saints",
-      "event_id": "10027725",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788191159.8780503
-    },
     "FSC Bukovyna Chernivtsi|Dynamo Kiev": {
       "home": "FSC Bukovyna Chernivtsi",
       "away": "Dynamo Kiev",
@@ -33,24 +10,24 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.38,
-              2.64
+              1.56,
+              2.18
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.38,
-                "under": 2.64
+                "over": 1.56,
+                "under": 2.18
               },
               {
                 "line": 9.5,
-                "over": 1.75,
-                "under": 1.9
+                "over": 2.06,
+                "under": 1.63
               },
               {
                 "line": 10.5,
-                "over": 2.32,
-                "under": 1.49
+                "over": 2.86,
+                "under": 1.33
               }
             ]
           },
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788191185.083771
+      "last_checked": 1788191729.392819
     },
     "Asyut Petroleum|National Bank": {
       "home": "Asyut Petroleum",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788191212.0592377
+      "last_checked": 1788191756.4314468
     },
     "Braintree Town|Farnborough": {
       "home": "Braintree Town",
@@ -113,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788191238.9810355
+      "last_checked": 1788191783.086049
     },
     "Maidenhead United|AFC Totton": {
       "home": "Maidenhead United",
@@ -136,7 +113,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788191265.8570867
+      "last_checked": 1788191810.0724196
+    },
+    "Salisbury FC|Billericay Town": {
+      "home": "Salisbury FC",
+      "away": "Billericay Town",
+      "event_id": "10027692",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788191836.8096871
     }
   }
 }

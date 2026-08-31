@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Eyüpspor - Alanyaspor",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 9.0 a 4.5 (100.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Deportivo La Coruña - Valencia",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.45 a 3.9 (13.0%)"
@@ -2998,5 +2986,17 @@
     "match": "FSC Bukovyna Chernivtsi - Dynamo Kiev",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.26 a 2.56 (13.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "FSC Bukovyna Chernivtsi - Dynamo Kiev",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.38 a 1.56 (13.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "FSC Bukovyna Chernivtsi - Dynamo Kiev",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.64 a 2.18 (21.1%)"
   }
 ]
