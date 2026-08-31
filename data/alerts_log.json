@@ -3,66 +3,6 @@
     "type": "quota_cambiata",
     "match": "Grêmio FBPA - Chapecoense",
     "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.62 a 1.38 (17.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Grêmio FBPA - Chapecoense",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.1 a 2.7 (28.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Mirassol FC - Palmeiras",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 6.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Grêmio FBPA - Chapecoense",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 9.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Mirassol FC - Palmeiras",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 8.5"
-  },
-  {
-    "type": "quota_differente",
-    "match": "Columbus Crew - New England Revolution",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja=2.26 vs sportybet=2.4 (esito #1, differenza 6.2%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "Columbus Crew - New England Revolution",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja=1.52 vs sportybet=2.25 (esito #2, differenza 48.0%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "Columbus Crew - New England Revolution",
-    "market": "CARDS_OU",
-    "detail": "bet9ja=2.26 vs sportybet=2.4 (esito #1, differenza 6.2%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "Columbus Crew - New England Revolution",
-    "market": "CARDS_OU",
-    "detail": "bet9ja=1.52 vs sportybet=2.35 (esito #2, differenza 54.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Grêmio FBPA - Chapecoense",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.42 a 1.6 (12.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Grêmio FBPA - Chapecoense",
-    "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.6 a 2.15 (20.9%)"
   },
   {
@@ -2998,5 +2938,65 @@
     "match": "Estudiantes de La Plata - Newell's Old Boys",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.7 a 2.5 (8.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Estudiantes de La Plata - Newell's Old Boys",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.5 a 2.85 (14.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Defensa y Justicia - Platense",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Defensa y Justicia - Platense",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.38 a 1.25 (10.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Defensa y Justicia - Platense",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.7 a 3.45 (27.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Clube do Remo - Coritiba",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Clube do Remo - Coritiba",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.65 a 1.4 (17.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Clube do Remo - Coritiba",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.05 a 2.65 (29.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Deportivo Pasto - Deportivo Pereira",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 11.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Deportivo Pasto - Deportivo Pereira",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.42 a 1.62 (14.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Deportivo Pasto - Deportivo Pereira",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.6 a 2.1 (23.8%)"
   }
 ]

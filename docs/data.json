@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788217635.172358,
+  "generated_at": 1788218233.8787084,
   "matches": [
     {
       "match": "Estudiantes de La Plata - Newell's Old Boys",
@@ -10,19 +10,19 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.45,
-              2.5
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 7.5,
-                "over": 1.95,
-                "under": 1.73
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 8.5,
@@ -49,7 +49,7 @@
           "type": "quota_cambiata",
           "match": "Estudiantes de La Plata - Newell's Old Boys",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.7 a 2.5 (8.0%)"
+          "detail": "bet9ja: esito #2 passato da 2.5 a 2.85 (14.0%)"
         }
       ]
     },
@@ -60,26 +60,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 9.5,
             "odds": [
-              1.38,
-              2.7
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 8.5,
-                "over": 1.8,
-                "under": 1.87
-              },
-              {
                 "line": 9.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 10.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
+                "line": 11.5,
+                "over": 2.3,
+                "under": 1.52
               }
             ]
           },
@@ -96,7 +96,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Defensa y Justicia - Platense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 7.5 a 9.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Defensa y Justicia - Platense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.38 a 1.25 (10.4%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Defensa y Justicia - Platense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.7 a 3.45 (27.8%)"
+        }
+      ]
     },
     {
       "match": "Clube do Remo - Coritiba",
@@ -105,26 +124,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.65,
-              2.05
+              1.4,
+              2.65
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
                 "line": 9.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 10.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 11.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 2.1,
+                "under": 1.62
               }
             ]
           },
@@ -141,7 +160,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Clube do Remo - Coritiba",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Clube do Remo - Coritiba",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.65 a 1.4 (17.9%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Clube do Remo - Coritiba",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.05 a 2.65 (29.3%)"
+        }
+      ]
     },
     {
       "match": "Unión La Calera - La Serena",
@@ -172,26 +210,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 11.5,
             "odds": [
-              1.42,
-              2.6
+              1.62,
+              2.1
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.42,
-                "under": 2.6
+                "line": 11.5,
+                "over": 1.62,
+                "under": 2.1
               },
               {
-                "line": 9.5,
-                "over": 1.7,
-                "under": 1.98
+                "line": 12.5,
+                "over": 1.98,
+                "under": 1.7
               },
               {
-                "line": 10.5,
-                "over": 2.05,
-                "under": 1.65
+                "line": 13.5,
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
@@ -208,8 +246,27 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Deportivo Pasto - Deportivo Pereira",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 11.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Deportivo Pasto - Deportivo Pereira",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.42 a 1.62 (14.1%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Deportivo Pasto - Deportivo Pereira",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.6 a 2.1 (23.8%)"
+        }
+      ]
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 10
 }
