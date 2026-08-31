@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Cerro Porteño Reserves|Club Libertad Asunción Reserves": {
-      "home": "Cerro Porteño Reserves",
-      "away": "Club Libertad Asunción Reserves",
-      "event_id": "10023946",
+    "AFC Bournemouth U21|Middlesbrough U21": {
+      "home": "AFC Bournemouth U21",
+      "away": "Middlesbrough U21",
+      "event_id": "10023953",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788177311.737161
+      "last_checked": 1788177983.9748912
     },
-    "Lebanon U20|South Korea U20": {
-      "home": "Lebanon U20",
-      "away": "South Korea U20",
-      "event_id": "10023952",
+    "Derby County U21|West Bromwich Albion FC U21": {
+      "home": "Derby County U21",
+      "away": "West Bromwich Albion FC U21",
+      "event_id": "10023954",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788177338.5291495
+      "last_checked": 1788178010.8205307
     },
-    "Brodarac U19|FK Usce Novi Beograd U19": {
-      "home": "Brodarac U19",
-      "away": "FK Usce Novi Beograd U19",
-      "event_id": "10023947",
+    "Chelsea U21|West Ham U21": {
+      "home": "Chelsea U21",
+      "away": "West Ham U21",
+      "event_id": "10023956",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788177365.0779696
+      "last_checked": 1788178037.7803435
     },
-    "Syria U20|India U20": {
-      "home": "Syria U20",
-      "away": "India U20",
-      "event_id": "10023948",
+    "Bolton Wanderers FC U21|Coventry City U21": {
+      "home": "Bolton Wanderers FC U21",
+      "away": "Coventry City U21",
+      "event_id": "10023957",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,49 +90,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788177392.0582507
+      "last_checked": 1788178064.759851
     },
-    "Z.Leeds|Z.Tottenham": {
-      "home": "Z.Leeds",
-      "away": "Z.Tottenham",
-      "event_id": "10027629",
+    "Brentford U21|Sunderland U21": {
+      "home": "Brentford U21",
+      "away": "Sunderland U21",
+      "event_id": "10023958",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.27,
-              3.75
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.27,
-                "under": 3.75
-              },
-              {
-                "line": 8.5,
-                "over": 1.56,
-                "under": 2.43
-              },
-              {
-                "line": 9.5,
-                "over": 2.03,
-                "under": 1.78
-              },
-              {
-                "line": 10.5,
-                "over": 2.87,
-                "under": 1.42
-              },
-              {
-                "line": 11.5,
-                "over": 4.4,
-                "under": 1.21
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -146,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788177416.9168637
+      "last_checked": 1788178091.7200038
     }
   }
 }

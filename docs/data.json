@@ -1,8 +1,8 @@
 {
-  "generated_at": 1788177416.9615352,
+  "generated_at": 1788178091.761899,
   "matches": [
     {
-      "match": "Cerro Porteño Reserves - Club Libertad Asunción Reserves",
+      "match": "AFC Bournemouth U21 - Middlesbrough U21",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Lebanon U20 - South Korea U20",
+      "match": "Derby County U21 - West Bromwich Albion FC U21",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -46,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Brodarac U19 - FK Usce Novi Beograd U19",
+      "match": "Chelsea U21 - West Ham U21",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -68,7 +68,7 @@
       "alerts": []
     },
     {
-      "match": "Syria U20 - India U20",
+      "match": "Bolton Wanderers FC U21 - Coventry City U21",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -90,45 +90,12 @@
       "alerts": []
     },
     {
-      "match": "Z.Leeds - Z.Tottenham",
+      "match": "Brentford U21 - Sunderland U21",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.27,
-              3.75
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.27,
-                "under": 3.75
-              },
-              {
-                "line": 8.5,
-                "over": 1.56,
-                "under": 2.43
-              },
-              {
-                "line": 9.5,
-                "over": 2.03,
-                "under": 1.78
-              },
-              {
-                "line": 10.5,
-                "over": 2.87,
-                "under": 1.42
-              },
-              {
-                "line": 11.5,
-                "over": 4.4,
-                "under": 1.21
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
