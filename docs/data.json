@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788193061.8279896,
+  "generated_at": 1788193644.6967523,
   "matches": [
     {
       "match": "FSC Bukovyna Chernivtsi - Dynamo Kiev",
@@ -7,7 +7,25 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.45,
+              2.38
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.45,
+                "under": 2.38
+              },
+              {
+                "line": 11.5,
+                "over": 2.04,
+                "under": 1.62
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {

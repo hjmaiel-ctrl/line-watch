@@ -7,7 +7,25 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.45,
+              2.38
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.45,
+                "under": 2.38
+              },
+              {
+                "line": 11.5,
+                "over": 2.04,
+                "under": 1.62
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -21,7 +39,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788192954.3253877
+      "last_checked": 1788193534.5855522
     },
     "Colwyn Bay|Llandudno Town": {
       "home": "Colwyn Bay",
@@ -44,7 +62,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788192980.8692687
+      "last_checked": 1788193563.2412941
     },
     "Ilves|HJK Helsinki": {
       "home": "Ilves",
@@ -67,7 +85,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788193007.534981
+      "last_checked": 1788193590.238588
     },
     "AC Oulu|SJK": {
       "home": "AC Oulu",
@@ -90,7 +108,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788193035.1192195
+      "last_checked": 1788193617.3053849
     },
     "IFK Mariehamn|FF Jaro": {
       "home": "IFK Mariehamn",
@@ -113,7 +131,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788193061.7860606
+      "last_checked": 1788193644.648429
     }
   }
 }
