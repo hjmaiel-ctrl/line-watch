@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788203303.9795268,
+  "generated_at": 1788203887.643008,
   "matches": [
     {
       "match": "Aston Villa - Arsenal",
@@ -10,29 +10,29 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.35,
-              2.85
+              1.3,
+              3.1
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.3,
+                "under": 3.1
               },
               {
                 "line": 8.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.95,
+                "under": 1.73
               },
               {
                 "line": 10.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.5,
+                "under": 1.45
               },
               {
                 "line": 11.5,
@@ -44,82 +44,14 @@
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.82,
-              1.85
+              1.92,
+              1.75
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.82,
-                "under": 1.85
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Osasuna - Getafe",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.03,
-              8.0
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.03,
-                "under": 8.0
-              },
-              {
-                "line": 5.5,
-                "over": 1.4,
-                "under": 2.65
-              },
-              {
-                "line": 6.5,
-                "over": 2.2,
-                "under": 1.57
-              },
-              {
-                "line": 7.5,
-                "over": 3.9,
-                "under": 1.2
-              },
-              {
-                "line": 8.5,
-                "over": 7.25,
-                "under": 1.05
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 8.5,
-            "odds": [
-              2.15,
-              1.6
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 1.92,
+                "under": 1.75
               }
             ]
           }
@@ -137,22 +69,106 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
+          "match": "Aston Villa - Arsenal",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.85 a 3.1 (8.8%)"
+        }
+      ]
+    },
+    {
+      "match": "Osasuna - Getafe",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.2,
+              3.75
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.2,
+                "under": 3.75
+              },
+              {
+                "line": 5.5,
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 6.5,
+                "over": 4.25,
+                "under": 1.17
+              },
+              {
+                "line": 7.5,
+                "over": 9.0,
+                "under": 1.02
+              },
+              {
+                "line": 8.5,
+                "over": 11.0,
+                "under": null
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.16,
+            5.3
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              2.1
+            ]
+          },
+          "CARDS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.95
+            ]
+          }
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_differente",
           "match": "Osasuna - Getafe",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 4.5"
+          "detail": "bet9ja=1.2 vs sportybet=2.4 (esito #1, differenza 100.0%)"
+        },
+        {
+          "type": "quota_differente",
+          "match": "Osasuna - Getafe",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja=3.75 vs sportybet=2.1 (esito #2, differenza 78.6%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Osasuna - Getafe",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.15 a 1.03 (11.7%)"
+          "detail": "bet9ja: esito #1 passato da 1.03 a 1.2 (16.5%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Osasuna - Getafe",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.5 a 8.0 (77.8%)"
+          "detail": "bet9ja: esito #2 passato da 8.0 a 3.75 (113.3%)"
         }
       ]
     },
@@ -163,34 +179,34 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.3,
-              3.1
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
                 "line": 6.5,
-                "over": 1.3,
-                "under": 3.1
+                "over": 1.52,
+                "under": 2.3
               },
               {
                 "line": 7.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 8.5,
-                "over": 2.1,
-                "under": 1.62
+                "over": 2.7,
+                "under": 1.38
               },
               {
                 "line": 9.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 10.5,
                 "over": 4.1,
                 "under": 1.18
               }
@@ -199,14 +215,14 @@
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.85,
-              1.82
+              2.1,
+              1.62
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 2.1,
+                "under": 1.62
               }
             ]
           }
@@ -227,7 +243,25 @@
           "type": "linea_cambiata",
           "match": "Atalanta - Bologna",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 6.5"
+          "detail": "bet9ja: linea passata da 6.5 a 5.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Atalanta - Bologna",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.1 a 3.45 (11.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Atalanta - Bologna",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.85 a 2.1 (13.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Atalanta - Bologna",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.82 a 1.62 (12.3%)"
         }
       ]
     },
@@ -237,40 +271,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.15,
-              4.5
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.15,
-                "under": 4.5
-              },
-              {
-                "line": 4.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 5.5,
-                "over": 1.75,
-                "under": 1.92
-              },
-              {
-                "line": 6.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 7.5,
-                "over": 3.45,
-                "under": 1.25
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -284,14 +285,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Amed Sportif Faaliyetler - Trabzonspor",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 3.5"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Besiktas JK - Çorum FK",
@@ -302,19 +296,19 @@
           "CORNERS_OU": {
             "line": 13.5,
             "odds": [
-              1.3,
-              3.1
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 13.5,
-                "over": 1.3,
-                "under": 3.1
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 14.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 15.5,
@@ -323,13 +317,13 @@
               },
               {
                 "line": 16.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 17.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
@@ -348,25 +342,13 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
-          "match": "Besiktas JK - Çorum FK",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 13.5"
-        },
-        {
           "type": "quota_cambiata",
           "match": "Besiktas JK - Çorum FK",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.17 a 1.3 (11.1%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Besiktas JK - Çorum FK",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.25 a 3.1 (37.1%)"
+          "detail": "bet9ja: esito #2 passato da 3.1 a 3.45 (11.3%)"
         }
       ]
     }
   ],
-  "alert_count_this_run": 8
+  "alert_count_this_run": 10
 }
