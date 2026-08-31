@@ -21,13 +21,13 @@
               },
               {
                 "line": 6.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 1.83,
+                "under": 1.83
               },
               {
                 "line": 7.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 2.65,
+                "under": 1.4
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788139543.1047432
+      "last_checked": 1788140118.4308472
     },
     "Coquimbo Unido|Huachipato": {
       "home": "Coquimbo Unido",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788139569.9016783
+      "last_checked": 1788140145.0530732
     },
     "Cienciano del Cuzco|Cusco FC": {
       "home": "Cienciano del Cuzco",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788139596.6725626
+      "last_checked": 1788140171.2181113
     },
     "Deportivo Cali|Atlético Bucaramanga": {
       "home": "Deportivo Cali",
@@ -102,24 +102,24 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.52,
-              2.3
+              1.47,
+              2.45
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 8.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 1.83,
+                "under": 1.83
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.35,
+                "under": 1.5
               }
             ]
           },
@@ -136,12 +136,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788139621.8853128
+      "last_checked": 1788140195.6716163
     },
-    "Carabobo FC|Zamora FC": {
-      "home": "Carabobo FC",
-      "away": "Zamora FC",
-      "event_id": "10023833",
+    "Real Monarchs SLC|Tacoma Defiance": {
+      "home": "Real Monarchs SLC",
+      "away": "Tacoma Defiance",
+      "event_id": "10018376",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -149,11 +149,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            7.5,
-            1.14
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -163,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788139653.862357
+      "last_checked": 1788140221.741212
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788139653.9100804,
+  "generated_at": 1788140221.77667,
   "matches": [
     {
       "match": "Independiente Rivadavia - Racing Club",
@@ -21,13 +21,13 @@
               },
               {
                 "line": 6.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 1.83,
+                "under": 1.83
               },
               {
                 "line": 7.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 2.65,
+                "under": 1.4
               }
             ]
           },
@@ -44,14 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Independiente Rivadavia - Racing Club",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.25 a 2.7 (20.4%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Coquimbo Unido - Huachipato",
@@ -106,24 +99,24 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.52,
-              2.3
+              1.47,
+              2.45
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 8.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 1.83,
+                "under": 1.83
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.35,
+                "under": 1.5
               }
             ]
           },
@@ -143,7 +136,7 @@
       "alerts": []
     },
     {
-      "match": "Carabobo FC - Zamora FC",
+      "match": "Real Monarchs SLC - Tacoma Defiance",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -152,11 +145,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            7.5,
-            1.14
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -166,21 +155,8 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Carabobo FC - Zamora FC",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 4.2 a 7.5 (78.6%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Carabobo FC - Zamora FC",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 1.47 a 1.14 (28.9%)"
-        }
-      ]
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 0
 }
