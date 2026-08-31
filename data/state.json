@@ -14,7 +14,7 @@
           "1X2": [
             2.4,
             100.0,
-            11.0
+            10.5
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788166528.396647
+      "last_checked": 1788167141.4394593
+    },
+    "Indonesia|Malaysia": {
+      "home": "Indonesia",
+      "away": "Malaysia",
+      "event_id": "10023937",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788167168.3846517
     },
     "FK Mladost Lucani U19|Crvena Zvezda U19": {
       "home": "FK Mladost Lucani U19",
@@ -48,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788166554.7282255
+      "last_checked": 1788167195.2770362
     },
     "Iraq U20|Turkmenistan U20": {
       "home": "Iraq U20",
@@ -71,49 +94,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788166581.185453
+      "last_checked": 1788167222.0614045
     },
-    "Z.Leeds|Z.Aston Villa": {
-      "home": "Z.Leeds",
-      "away": "Z.Aston Villa",
-      "event_id": "10026849",
+    "Iran U20|Palestine U20": {
+      "home": "Iran U20",
+      "away": "Palestine U20",
+      "event_id": "10023938",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.26,
-              3.9
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.26,
-                "under": 3.9
-              },
-              {
-                "line": 9.5,
-                "over": 1.55,
-                "under": 2.44
-              },
-              {
-                "line": 10.5,
-                "over": 2.07,
-                "under": 1.75
-              },
-              {
-                "line": 11.5,
-                "over": 3.0,
-                "under": 1.38
-              },
-              {
-                "line": 12.5,
-                "over": 4.8,
-                "under": 1.18
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -127,63 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788166605.8360934
-    },
-    "Z.Newcastle Utd|Z.Man City": {
-      "home": "Z.Newcastle Utd",
-      "away": "Z.Man City",
-      "event_id": "10026850",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.29,
-              3.6
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.29,
-                "under": 3.6
-              },
-              {
-                "line": 9.5,
-                "over": 1.6,
-                "under": 2.34
-              },
-              {
-                "line": 10.5,
-                "over": 2.1,
-                "under": 1.73
-              },
-              {
-                "line": 11.5,
-                "over": 3.05,
-                "under": 1.38
-              },
-              {
-                "line": 12.5,
-                "over": 4.7,
-                "under": 1.19
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788166630.4416108
+      "last_checked": 1788167248.8555567
     }
   }
 }
