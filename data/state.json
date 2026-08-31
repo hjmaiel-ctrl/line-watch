@@ -14,7 +14,7 @@
           "1X2": [
             2.4,
             100.0,
-            10.5
+            9.5
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788167141.4394593
+      "last_checked": 1788167753.747414
     },
     "Indonesia|Malaysia": {
       "home": "Indonesia",
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788167168.3846517
+      "last_checked": 1788167780.6116257
     },
     "FK Mladost Lucani U19|Crvena Zvezda U19": {
       "home": "FK Mladost Lucani U19",
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788167195.2770362
+      "last_checked": 1788167807.9222984
     },
     "Iraq U20|Turkmenistan U20": {
       "home": "Iraq U20",
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788167222.0614045
+      "last_checked": 1788167834.728008
     },
     "Iran U20|Palestine U20": {
       "home": "Iran U20",
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788167248.8555567
+      "last_checked": 1788167861.7121406
     }
   }
 }

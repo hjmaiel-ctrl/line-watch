@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788167248.8985367,
+  "generated_at": 1788167861.7634573,
   "matches": [
     {
       "match": "Nongmensong - Smit SC",
@@ -14,7 +14,7 @@
           "1X2": [
             2.4,
             100.0,
-            10.5
+            9.5
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Nongmensong - Smit SC",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 10.5 a 9.5 (10.5%)"
+        }
+      ]
     },
     {
       "match": "Indonesia - Malaysia",
@@ -116,5 +123,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }
