@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.38,
-              2.7
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 7.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 1.95,
+                "under": 1.73
               },
               {
                 "line": 8.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 2.85,
+                "under": 1.35
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788216936.458022
+      "last_checked": 1788217533.282729
     },
     "Defensa y Justicia|Platense": {
       "home": "Defensa y Justicia",
@@ -90,16 +90,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788216960.7481296
+      "last_checked": 1788217558.5893211
     },
-    "Fortaleza EC|Operário Ferroviário": {
-      "home": "Fortaleza EC",
-      "away": "Operário Ferroviário",
-      "event_id": "10029340",
+    "Clube do Remo|Coritiba": {
+      "home": "Clube do Remo",
+      "away": "Coritiba",
+      "event_id": "10029341",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.65,
+              2.05
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 10.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 11.5,
+                "over": 2.5,
+                "under": 1.45
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -113,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788216986.8200407
+      "last_checked": 1788217583.5620031
     },
     "Unión La Calera|La Serena": {
       "home": "Unión La Calera",
@@ -136,16 +159,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788217012.965833
+      "last_checked": 1788217610.2636573
     },
-    "Olimpia Reserves|Motagua Reserves": {
-      "home": "Olimpia Reserves",
-      "away": "Motagua Reserves",
-      "event_id": "10027928",
+    "Deportivo Pasto|Deportivo Pereira": {
+      "home": "Deportivo Pasto",
+      "away": "Deportivo Pereira",
+      "event_id": "10029343",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.42,
+              2.6
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.42,
+                "under": 2.6
+              },
+              {
+                "line": 9.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 10.5,
+                "over": 2.05,
+                "under": 1.65
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -159,7 +205,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788217038.914234
+      "last_checked": 1788217635.1208656
     }
   }
 }
