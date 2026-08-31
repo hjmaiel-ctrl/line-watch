@@ -8,23 +8,14 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 0.5,
-            "odds": [
-              2.25,
-              1.55
-            ],
-            "_all_lines": [
-              {
-                "line": 0.5,
-                "over": 2.25,
-                "under": 1.55
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            17.0,
+            150.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -34,53 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788211003.1256752
-    },
-    "RC Celta Fortuna|CD Castellon": {
-      "home": "RC Celta Fortuna",
-      "away": "CD Castellon",
-      "event_id": "10027911",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788211030.7687938
-    },
-    "HNK Gorica|HNK Rijeka": {
-      "home": "HNK Gorica",
-      "away": "HNK Rijeka",
-      "event_id": "10027896",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788211057.8684227
+      "last_checked": 1788211544.168891
     },
     "Cesar Vallejo Reserves|Juan Aurich": {
       "home": "Cesar Vallejo Reserves",
@@ -103,12 +48,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788211084.7856987
+      "last_checked": 1788211570.9271243
     },
-    "Fram/Ulfarnir U19|Njarðvík/Grindavík/Víðir U19": {
-      "home": "Fram/Ulfarnir U19",
-      "away": "Njarðvík/Grindavík/Víðir U19",
-      "event_id": "10027924",
+    "Club 12 de Octubre de Itauguá|Club Sportivo Limpeño": {
+      "home": "Club 12 de Octubre de Itauguá",
+      "away": "Club Sportivo Limpeño",
+      "event_id": "10027926",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -126,7 +71,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788211112.0904853
+      "last_checked": 1788211597.81666
+    },
+    "Genesis FC Reserves|Club Deportivo Platense Reserves": {
+      "home": "Genesis FC Reserves",
+      "away": "Club Deportivo Platense Reserves",
+      "event_id": "10027927",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788211625.9141905
+    },
+    "Olimpia Reserves|Motagua Reserves": {
+      "home": "Olimpia Reserves",
+      "away": "Motagua Reserves",
+      "event_id": "10027928",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788211652.6227043
     }
   }
 }
