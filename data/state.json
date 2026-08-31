@@ -7,38 +7,11 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.6,
-              2.15
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.6,
-                "under": 2.15
-              },
-              {
-                "line": 4.5,
-                "over": 3.65,
-                "under": 1.22
-              },
-              {
-                "line": 5.5,
-                "over": 9.0,
-                "under": 1.02
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            40.0,
-            5.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -48,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788145551.482746
+      "last_checked": 1788146266.6614726
     },
     "Real Monarchs SLC|Tacoma Defiance": {
       "home": "Real Monarchs SLC",
@@ -71,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788145578.0934381
+      "last_checked": 1788146293.6281676
     },
     "Monterrey|Atlético San Luis": {
       "home": "Monterrey",
@@ -117,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788145603.0162997
+      "last_checked": 1788146318.81293
     },
     "San Jose Del Golfo FC|Deportivo Tigres Del Jumay Jalapa": {
       "home": "San Jose Del Golfo FC",
@@ -140,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788145629.7009473
+      "last_checked": 1788146346.1071887
     },
     "San Jose Earthquakes II|Los Angeles FC 2": {
       "home": "San Jose Earthquakes II",
@@ -163,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788145656.3698807
+      "last_checked": 1788146372.855941
     }
   }
 }
