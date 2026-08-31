@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 4.5,
             "odds": [
-              1.2,
-              3.9
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.2,
-                "under": 3.9
+                "over": 1.18,
+                "under": 4.1
               },
               {
                 "line": 5.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 6.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 7.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 8.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
           "CARDS_OU": {
             "line": 5.5,
             "odds": [
-              1.73,
-              1.95
+              2.15,
+              1.6
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.73,
-                "under": 1.95
+                "over": 2.15,
+                "under": 1.6
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788198914.9559078
+      "last_checked": 1788199546.53265
     },
     "Lecce|AS Roma": {
       "home": "Lecce",
@@ -79,34 +79,34 @@
           "CORNERS_OU": {
             "line": 3.5,
             "odds": [
-              1.15,
-              4.5
+              1.04,
+              7.5
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.15,
-                "under": 4.5
+                "over": 1.04,
+                "under": 7.5
               },
               {
                 "line": 4.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 5.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 6.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 3.45,
+                "under": 1.25
               },
               {
                 "line": 7.5,
-                "over": 5.25,
-                "under": 1.11
+                "over": 5.75,
+                "under": 1.09
               }
             ]
           },
@@ -123,7 +123,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788198939.9028714
+      "last_checked": 1788199571.3700628
     },
     "Burgos CF|Real Sociedad B": {
       "home": "Burgos CF",
@@ -135,34 +135,34 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.28,
-              3.25
+              1.22,
+              3.5
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.22,
+                "under": 3.5
               },
               {
                 "line": 9.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 10.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.15,
+                "under": 1.6
               },
               {
                 "line": 11.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 3.1,
+                "under": 1.3
               },
               {
                 "line": 12.5,
-                "over": 5.25,
-                "under": 1.11
+                "over": 4.5,
+                "under": 1.15
               }
             ]
           },
@@ -179,12 +179,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788198965.191297
+      "last_checked": 1788199596.1130798
     },
-    "Levadiakos|Panathinaikos": {
-      "home": "Levadiakos",
-      "away": "Panathinaikos",
-      "event_id": "10027805",
+    "Jong PSV Eindhoven|Jong Ajax": {
+      "home": "Jong PSV Eindhoven",
+      "away": "Jong Ajax",
+      "event_id": "10027860",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -202,12 +202,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788198992.1933503
+      "last_checked": 1788199622.890988
     },
-    "Djurgårdens IF|Mjällby AIF": {
-      "home": "Djurgårdens IF",
-      "away": "Mjällby AIF",
-      "event_id": "10027824",
+    "Jong AZ Alkmaar|Jong FC Utrecht": {
+      "home": "Jong AZ Alkmaar",
+      "away": "Jong FC Utrecht",
+      "event_id": "10027861",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -225,7 +225,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788199019.0154755
+      "last_checked": 1788199649.4521434
     }
   }
 }
