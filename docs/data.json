@@ -1,224 +1,37 @@
 {
-  "generated_at": 1788158826.9244475,
+  "generated_at": 1788159429.8403857,
   "matches": [
     {
-      "match": "Z.Liverpool - Z.Crystal Palace",
+      "match": "Z.Atlético Madrid - Z.Deportivo La Coruna",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 8.5,
             "odds": [
-              1.55,
-              2.44
+              1.22,
+              4.3
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.55,
-                "under": 2.44
+                "line": 8.5,
+                "over": 1.22,
+                "under": 4.3
               },
               {
-                "line": 12.5,
-                "over": 4.3,
-                "under": 1.22
+                "line": 9.5,
+                "over": 2.22,
+                "under": 1.66
               },
               {
-                "line": 13.5,
-                "over": 19.0,
-                "under": 1.01
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Liverpool - Z.Crystal Palace",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 11.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Liverpool - Z.Crystal Palace",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.07 a 1.55 (44.9%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Liverpool - Z.Crystal Palace",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 9.35 a 2.44 (283.2%)"
-        }
-      ]
-    },
-    {
-      "match": "Z.Leeds - Z.Man United",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.63,
-              2.27
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.63,
-                "under": 2.27
-              },
-              {
-                "line": 6.5,
-                "over": 4.75,
-                "under": 1.18
-              },
-              {
-                "line": 7.5,
-                "over": 23.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Leeds - Z.Man United",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 5.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Leeds - Z.Man United",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.11 a 1.63 (46.8%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Leeds - Z.Man United",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 7.0 a 2.27 (208.4%)"
-        }
-      ]
-    },
-    {
-      "match": "Z.Tottenham - Z.Nottingham Forest",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.85,
-              1.95
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.85,
-                "under": 1.95
-              },
-              {
-                "line": 12.5,
-                "over": 6.55,
-                "under": 1.12
-              },
-              {
-                "line": 13.5,
-                "over": 40.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Tottenham - Z.Nottingham Forest",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 11.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Tottenham - Z.Nottingham Forest",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.12 a 1.85 (65.2%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Tottenham - Z.Nottingham Forest",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 6.45 a 1.95 (230.8%)"
-        }
-      ]
-    },
-    {
-      "match": "Z.Arsenal - Z.Fulham",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.72,
-              2.11
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.72,
-                "under": 2.11
-              },
-              {
-                "line": 13.5,
-                "over": 5.55,
+                "line": 10.5,
+                "over": 5.75,
                 "under": 1.15
               },
               {
-                "line": 14.5,
-                "over": 30.5,
+                "line": 11.5,
+                "over": 20.5,
                 "under": null
               }
             ]
@@ -236,53 +49,39 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Arsenal - Z.Fulham",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 12.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Arsenal - Z.Fulham",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.09 a 1.72 (57.8%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Arsenal - Z.Fulham",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 8.05 a 2.11 (281.5%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Z.Hull City - Z.Coventry City",
+      "match": "Z.Levante - Z.Espanyol",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 7.5,
             "odds": [
-              1.93,
-              1.86
+              1.27,
+              3.75
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.93,
-                "under": 1.86
-              },
-              {
-                "line": 6.5,
-                "over": 7.4,
-                "under": 1.1
-              },
-              {
                 "line": 7.5,
-                "over": 49.0,
+                "over": 1.27,
+                "under": 3.75
+              },
+              {
+                "line": 8.5,
+                "over": 2.49,
+                "under": 1.54
+              },
+              {
+                "line": 9.5,
+                "over": 7.0,
+                "under": 1.11
+              },
+              {
+                "line": 10.5,
+                "over": 27.0,
                 "under": null
               }
             ]
@@ -300,27 +99,153 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Hull City - Z.Coventry City",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 5.5"
+      "alerts": []
+    },
+    {
+      "match": "Z.Barcelona - Z.Villarreal",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.21,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.21,
+                "under": 4.5
+              },
+              {
+                "line": 10.5,
+                "over": 2.15,
+                "under": 1.7
+              },
+              {
+                "line": 11.5,
+                "over": 5.5,
+                "under": 1.15
+              },
+              {
+                "line": 12.5,
+                "over": 19.5,
+                "under": null
+              }
+            ]
+          },
+          "CARDS_OU": null
         },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Hull City - Z.Coventry City",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.17 a 1.93 (65.0%)"
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Hull City - Z.Coventry City",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 5.0 a 1.86 (168.8%)"
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         }
-      ]
+      },
+      "alerts": []
+    },
+    {
+      "match": "Z.Rayo Vallecano - Z.Alaves",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 13.5,
+            "odds": [
+              1.32,
+              3.35
+            ],
+            "_all_lines": [
+              {
+                "line": 13.5,
+                "over": 1.32,
+                "under": 3.35
+              },
+              {
+                "line": 14.5,
+                "over": 2.76,
+                "under": 1.45
+              },
+              {
+                "line": 15.5,
+                "over": 8.5,
+                "under": 1.08
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Z.Elche - Z.Real Sociedad",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.36,
+              3.15
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.36,
+                "under": 3.15
+              },
+              {
+                "line": 8.5,
+                "over": 2.98,
+                "under": 1.39
+              },
+              {
+                "line": 9.5,
+                "over": 9.7,
+                "under": 1.06
+              },
+              {
+                "line": 10.5,
+                "over": 45.5,
+                "under": null
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 15
+  "alert_count_this_run": 0
 }
