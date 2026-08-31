@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788182243.5382032,
+  "generated_at": 1788182868.187751,
   "matches": [
     {
       "match": "AFC Bournemouth U21 - Middlesbrough U21",
@@ -33,7 +33,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            32.0,
+            13.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },

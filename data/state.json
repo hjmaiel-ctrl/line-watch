@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788182137.1497629
+      "last_checked": 1788182755.7198653
     },
     "Derby County U21|West Bromwich Albion FC U21": {
       "home": "Derby County U21",
@@ -34,7 +34,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            32.0,
+            13.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788182163.7707763
+      "last_checked": 1788182787.5725012
     },
     "Chelsea U21|West Ham U21": {
       "home": "Chelsea U21",
@@ -67,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788182190.2970097
+      "last_checked": 1788182814.500029
     },
     "Bolton Wanderers FC U21|Coventry City U21": {
       "home": "Bolton Wanderers FC U21",
@@ -90,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788182216.9989748
+      "last_checked": 1788182841.4981704
     },
     "Brentford U21|Sunderland U21": {
       "home": "Brentford U21",
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788182243.5001466
+      "last_checked": 1788182868.1416032
     }
   }
 }
