@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788200251.9828224,
+  "generated_at": 1788200860.571152,
   "matches": [
     {
       "match": "Osasuna - Getafe",
@@ -10,51 +10,38 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.11,
-              5.25
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.11,
-                "under": 5.25
+                "over": 1.18,
+                "under": 4.1
               },
               {
                 "line": 6.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 7.5,
-                "over": 1.73,
-                "under": 1.95
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 8.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 9.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.8,
-              1.87
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.8,
-                "under": 1.87
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -69,34 +56,10 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
-          "match": "Osasuna - Getafe",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 5.5"
-        },
-        {
           "type": "quota_cambiata",
           "match": "Osasuna - Getafe",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.1 a 5.25 (28.0%)"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Osasuna - Getafe",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 4.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Osasuna - Getafe",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.15 a 1.8 (19.4%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Osasuna - Getafe",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.6 a 1.87 (16.9%)"
+          "detail": "bet9ja: esito #2 passato da 5.25 a 4.1 (28.0%)"
         }
       ]
     },
@@ -109,32 +72,22 @@
           "CORNERS_OU": {
             "line": 3.5,
             "odds": [
-              1.2,
-              3.75
+              1.98,
+              1.67
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.2,
-                "under": 3.75
+                "over": 1.98,
+                "under": 1.67
               },
               {
                 "line": 4.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 5.5,
+                "under": 1.1
               },
               {
                 "line": 5.5,
-                "over": 4.1,
-                "under": 1.18
-              },
-              {
-                "line": 6.5,
-                "over": 8.0,
-                "under": 1.03
-              },
-              {
-                "line": 7.5,
                 "over": 11.0,
                 "under": null
               }
@@ -143,14 +96,14 @@
           "CARDS_OU": {
             "line": 1.5,
             "odds": [
-              2.1,
-              1.62
+              4.1,
+              1.18
             ],
             "_all_lines": [
               {
                 "line": 1.5,
-                "over": 2.1,
-                "under": 1.62
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           }
@@ -159,22 +112,10 @@
           "1X2": [
             2.4,
             17.0,
-            17.0
+            19.0
           ],
-          "CORNERS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              1.28
-            ]
-          },
-          "CARDS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              2.15
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "bet365": {
           "1X2": null,
@@ -184,40 +125,34 @@
       },
       "alerts": [
         {
-          "type": "quota_differente",
+          "type": "quota_cambiata",
           "match": "Lecce - AS Roma",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja=1.2 vs sportybet=2.4 (esito #1, differenza 100.0%)"
-        },
-        {
-          "type": "quota_differente",
-          "match": "Lecce - AS Roma",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja=3.75 vs sportybet=1.28 (esito #2, differenza 193.0%)"
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 17.0 a 19.0 (11.8%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Lecce - AS Roma",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.04 a 1.2 (15.4%)"
+          "detail": "bet9ja: esito #1 passato da 1.2 a 1.98 (65.0%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Lecce - AS Roma",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 7.5 a 3.75 (100.0%)"
+          "detail": "bet9ja: esito #2 passato da 3.75 a 1.67 (124.6%)"
         },
         {
-          "type": "quota_differente",
+          "type": "quota_cambiata",
           "match": "Lecce - AS Roma",
           "market": "CARDS_OU",
-          "detail": "bet9ja=2.1 vs sportybet=2.4 (esito #1, differenza 14.3%)"
+          "detail": "bet9ja: esito #1 passato da 2.1 a 4.1 (95.2%)"
         },
         {
-          "type": "quota_differente",
+          "type": "quota_cambiata",
           "match": "Lecce - AS Roma",
           "market": "CARDS_OU",
-          "detail": "bet9ja=1.62 vs sportybet=2.15 (esito #2, differenza 32.7%)"
+          "detail": "bet9ja: esito #2 passato da 1.62 a 1.18 (37.3%)"
         }
       ]
     },
@@ -230,24 +165,24 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.28,
-              3.25
+              1.17,
+              4.25
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.17,
+                "under": 4.25
               },
               {
                 "line": 8.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.52,
+                "under": 2.3
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.3,
+                "under": 1.52
               },
               {
                 "line": 10.5,
@@ -256,8 +191,8 @@
               },
               {
                 "line": 11.5,
-                "over": 6.5,
-                "under": 1.07
+                "over": 7.0,
+                "under": 1.05
               }
             ]
           },
@@ -276,10 +211,16 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Burgos CF - Real Sociedad B",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 7.5"
+          "detail": "bet9ja: esito #1 passato da 1.28 a 1.17 (9.4%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Burgos CF - Real Sociedad B",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.25 a 4.25 (30.8%)"
         }
       ]
     },
@@ -328,5 +269,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 12
+  "alert_count_this_run": 8
 }
