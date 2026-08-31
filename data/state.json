@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              1.3,
-              3.1
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
+                "line": 3.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
                 "line": 4.5,
-                "over": 1.3,
-                "under": 3.1
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 5.5,
-                "over": 1.73,
-                "under": 1.95
-              },
-              {
-                "line": 6.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.65,
+                "under": 1.4
               }
             ]
           },
@@ -44,53 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788140741.8681428
-    },
-    "Coquimbo Unido|Huachipato": {
-      "home": "Coquimbo Unido",
-      "away": "Huachipato",
-      "event_id": "10023922",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788140768.6078944
-    },
-    "Cienciano del Cuzco|Cusco FC": {
-      "home": "Cienciano del Cuzco",
-      "away": "Cusco FC",
-      "event_id": "10023924",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788140795.8149874
+      "last_checked": 1788141324.1144922
     },
     "Deportivo Cali|Atlético Bucaramanga": {
       "home": "Deportivo Cali",
@@ -100,26 +54,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.45,
-              2.5
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
                 "line": 7.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 8.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.65,
+                "under": 2.0
+              },
+              {
+                "line": 9.5,
+                "over": 2.25,
+                "under": 1.55
               }
             ]
           },
@@ -136,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788140820.833201
+      "last_checked": 1788141349.011412
     },
     "Real Monarchs SLC|Tacoma Defiance": {
       "home": "Real Monarchs SLC",
@@ -159,7 +113,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788140847.9139466
+      "last_checked": 1788141375.2210672
+    },
+    "PR Surf|Guaynabo Gol SC": {
+      "home": "PR Surf",
+      "away": "Guaynabo Gol SC",
+      "event_id": "10023921",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788141401.5750275
+    },
+    "Xelajú MC|Deportivo Mixco": {
+      "home": "Xelajú MC",
+      "away": "Deportivo Mixco",
+      "event_id": "10023925",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788141427.859123
     }
   }
 }
