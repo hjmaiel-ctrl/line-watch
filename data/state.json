@@ -1,186 +1,43 @@
 {
   "matches": {
-    "Z.Atlético Madrid|Z.Deportivo La Coruna": {
-      "home": "Z.Atlético Madrid",
-      "away": "Z.Deportivo La Coruna",
-      "event_id": "10025922",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.22,
-              4.3
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.22,
-                "under": 4.3
-              },
-              {
-                "line": 9.5,
-                "over": 2.22,
-                "under": 1.66
-              },
-              {
-                "line": 10.5,
-                "over": 5.75,
-                "under": 1.15
-              },
-              {
-                "line": 11.5,
-                "over": 20.5,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788159329.5515814
-    },
-    "Z.Levante|Z.Espanyol": {
-      "home": "Z.Levante",
-      "away": "Z.Espanyol",
-      "event_id": "10025923",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.27,
-              3.75
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.27,
-                "under": 3.75
-              },
-              {
-                "line": 8.5,
-                "over": 2.49,
-                "under": 1.54
-              },
-              {
-                "line": 9.5,
-                "over": 7.0,
-                "under": 1.11
-              },
-              {
-                "line": 10.5,
-                "over": 27.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788159354.4815383
-    },
-    "Z.Barcelona|Z.Villarreal": {
-      "home": "Z.Barcelona",
-      "away": "Z.Villarreal",
-      "event_id": "10025924",
+    "Z.Man City|Z.Tottenham": {
+      "home": "Z.Man City",
+      "away": "Z.Tottenham",
+      "event_id": "10026201",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.21,
-              4.5
+              1.33,
+              3.3
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.21,
-                "under": 4.5
+                "over": 1.33,
+                "under": 3.3
               },
               {
                 "line": 10.5,
-                "over": 2.15,
-                "under": 1.7
+                "over": 1.62,
+                "under": 2.29
               },
               {
                 "line": 11.5,
-                "over": 5.5,
-                "under": 1.15
+                "over": 2.07,
+                "under": 1.75
               },
               {
                 "line": 12.5,
-                "over": 19.5,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788159379.4292865
-    },
-    "Z.Rayo Vallecano|Z.Alaves": {
-      "home": "Z.Rayo Vallecano",
-      "away": "Z.Alaves",
-      "event_id": "10025925",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 13.5,
-            "odds": [
-              1.32,
-              3.35
-            ],
-            "_all_lines": [
+                "over": 2.86,
+                "under": 1.42
+              },
               {
                 "line": 13.5,
-                "over": 1.32,
-                "under": 3.35
-              },
-              {
-                "line": 14.5,
-                "over": 2.76,
-                "under": 1.45
-              },
-              {
-                "line": 15.5,
-                "over": 8.5,
-                "under": 1.08
+                "over": 4.2,
+                "under": 1.23
               }
             ]
           },
@@ -197,41 +54,46 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788159404.5506876
+      "last_checked": 1788159948.6834345
     },
-    "Z.Elche|Z.Real Sociedad": {
-      "home": "Z.Elche",
-      "away": "Z.Real Sociedad",
-      "event_id": "10025926",
+    "Z.Aston Villa|Z.Brighton": {
+      "home": "Z.Aston Villa",
+      "away": "Z.Brighton",
+      "event_id": "10026202",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.36,
-              3.15
+              1.27,
+              3.8
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.36,
-                "under": 3.15
-              },
-              {
                 "line": 8.5,
-                "over": 2.98,
-                "under": 1.39
+                "over": 1.27,
+                "under": 3.8
               },
               {
                 "line": 9.5,
-                "over": 9.7,
-                "under": 1.06
+                "over": 1.52,
+                "under": 2.52
               },
               {
                 "line": 10.5,
-                "over": 45.5,
-                "under": null
+                "over": 1.93,
+                "under": 1.86
+              },
+              {
+                "line": 11.5,
+                "over": 2.65,
+                "under": 1.48
+              },
+              {
+                "line": 12.5,
+                "over": 3.9,
+                "under": 1.26
               }
             ]
           },
@@ -248,7 +110,175 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788159429.7975078
+      "last_checked": 1788159979.1814692
+    },
+    "Z.Brentford|Z.Chelsea": {
+      "home": "Z.Brentford",
+      "away": "Z.Chelsea",
+      "event_id": "10026203",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.3,
+              3.5
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.3,
+                "under": 3.5
+              },
+              {
+                "line": 12.5,
+                "over": 1.59,
+                "under": 2.36
+              },
+              {
+                "line": 13.5,
+                "over": 2.05,
+                "under": 1.77
+              },
+              {
+                "line": 14.5,
+                "over": 2.85,
+                "under": 1.42
+              },
+              {
+                "line": 15.5,
+                "over": 4.25,
+                "under": 1.22
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788160008.6596723
+    },
+    "Z.Everton|Z.Leeds": {
+      "home": "Z.Everton",
+      "away": "Z.Leeds",
+      "event_id": "10026204",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.24,
+              4.0
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.24,
+                "under": 4.0
+              },
+              {
+                "line": 7.5,
+                "over": 1.5,
+                "under": 2.57
+              },
+              {
+                "line": 8.5,
+                "over": 1.93,
+                "under": 1.86
+              },
+              {
+                "line": 9.5,
+                "over": 2.69,
+                "under": 1.47
+              },
+              {
+                "line": 10.5,
+                "over": 4.05,
+                "under": 1.24
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788160038.495271
+    },
+    "Z.Nottingham Forest|Z.Newcastle Utd": {
+      "home": "Z.Nottingham Forest",
+      "away": "Z.Newcastle Utd",
+      "event_id": "10026205",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.18,
+              4.8
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.18,
+                "under": 4.8
+              },
+              {
+                "line": 9.5,
+                "over": 1.39,
+                "under": 2.98
+              },
+              {
+                "line": 10.5,
+                "over": 1.75,
+                "under": 2.07
+              },
+              {
+                "line": 11.5,
+                "over": 2.33,
+                "under": 1.6
+              },
+              {
+                "line": 12.5,
+                "over": 3.4,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788160068.572968
     }
   }
 }
