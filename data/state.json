@@ -1,5 +1,97 @@
 {
   "matches": {
+    "Estudiantes de La Plata|Newell's Old Boys": {
+      "home": "Estudiantes de La Plata",
+      "away": "Newell's Old Boys",
+      "event_id": "10029331",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.6,
+              2.15
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.6,
+                "under": 2.15
+              },
+              {
+                "line": 8.5,
+                "over": 1.98,
+                "under": 1.67
+              },
+              {
+                "line": 9.5,
+                "over": 2.7,
+                "under": 1.38
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788213940.1291416
+    },
+    "Defensa y Justicia|Platense": {
+      "home": "Defensa y Justicia",
+      "away": "Platense",
+      "event_id": "10029334",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.62,
+              2.1
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
+                "line": 8.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 9.5,
+                "over": 2.7,
+                "under": 1.38
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788213965.0586483
+    },
     "Genesis FC Reserves|Club Deportivo Platense Reserves": {
       "home": "Genesis FC Reserves",
       "away": "Club Deportivo Platense Reserves",
@@ -21,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788213433.2947786
+      "last_checked": 1788213991.6703916
     },
     "Olimpia Reserves|Motagua Reserves": {
       "home": "Olimpia Reserves",
@@ -44,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788213460.846437
+      "last_checked": 1788214018.4084775
     },
     "CD Choloma Reserves|Marathon Reserves": {
       "home": "CD Choloma Reserves",
@@ -59,8 +151,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.3,
-            5.0
+            1.26,
+            5.1
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -71,86 +163,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788213492.859627
-    },
-    "Encarnacion|Club Doctor Benjamín Aceval": {
-      "home": "Encarnacion",
-      "away": "Club Doctor Benjamín Aceval",
-      "event_id": "10027930",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788213519.5761197
-    },
-    "Z.Man City|Z.Brighton": {
-      "home": "Z.Man City",
-      "away": "Z.Brighton",
-      "event_id": "10031461",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.17,
-              4.95
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.17,
-                "under": 4.95
-              },
-              {
-                "line": 11.5,
-                "over": 1.46,
-                "under": 2.7
-              },
-              {
-                "line": 12.5,
-                "over": 2.02,
-                "under": 1.79
-              },
-              {
-                "line": 13.5,
-                "over": 3.15,
-                "under": 1.36
-              },
-              {
-                "line": 14.5,
-                "over": 5.45,
-                "under": 1.15
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788213544.6106353
+      "last_checked": 1788214050.101524
     }
   }
 }
