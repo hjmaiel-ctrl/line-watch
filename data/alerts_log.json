@@ -1,11 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Napoli - Como",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 7.5"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Napoli - Como",
     "market": "CORNERS_OU",
@@ -2998,5 +2992,11 @@
     "match": "Z.Aston Villa - Z.Brighton",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.8 a 1.09 (248.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Leeds - Z.Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
   }
 ]
