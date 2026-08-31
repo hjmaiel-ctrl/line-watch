@@ -1,83 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 2.5 a 3.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.07 a 1.18 (10.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 6.5 a 4.0 (62.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.05 a 1.65 (24.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.65 a 2.05 (24.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.0 a 5.5 (37.5%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.65 a 2.3 (39.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.05 a 1.52 (34.9%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 3.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.3 a 1.98 (16.2%)"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Celta de Vigo - Athletic Bilbao",
     "market": "CARDS_OU",
@@ -2998,5 +2920,83 @@
     "match": "Aston Villa - Arsenal",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.7 a 2.45 (44.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Aston Villa - Arsenal",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Aston Villa - Arsenal",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.1 a 1.42 (29.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Aston Villa - Arsenal",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.5 a 2.55 (115.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "FC Barcelona - Rayo Vallecano",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 14.5 a 13.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "FC Barcelona - Rayo Vallecano",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.85 a 3.25 (14.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "FC Barcelona - Rayo Vallecano",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.73 a 1.9 (9.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "FC Barcelona - Rayo Vallecano",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.95 a 1.78 (9.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Benfica - Estoril-Praia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Benfica - Estoril-Praia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.12 a 1.02 (9.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Benfica - Estoril-Praia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.0 a 8.5 (70.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Sporting de Braga - Vitoria de Guimaraes",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Sporting de Braga - Vitoria de Guimaraes",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.18 a 1.03 (14.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Sporting de Braga - Vitoria de Guimaraes",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.1 a 8.0 (95.1%)"
   }
 ]
