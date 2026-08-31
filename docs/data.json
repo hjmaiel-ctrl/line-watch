@@ -1,45 +1,6 @@
 {
-  "generated_at": 1788138464.4363356,
+  "generated_at": 1788139048.7368546,
   "matches": [
-    {
-      "match": "Saint Louis City SC - Dallas",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.07,
-            7.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Saint Louis City SC - Dallas",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 1.18 a 1.07 (10.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Saint Louis City SC - Dallas",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 5.1 a 7.5 (47.1%)"
-        }
-      ]
-    },
     {
       "match": "Independiente Rivadavia - Racing Club",
       "bet9ja_stats": null,
@@ -47,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.32,
-              3.0
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
                 "line": 6.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 7.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 8.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 2.3,
+                "under": 1.52
               }
             ]
           },
@@ -88,13 +49,13 @@
           "type": "linea_cambiata",
           "match": "Independiente Rivadavia - Racing Club",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 6.5"
+          "detail": "bet9ja: linea passata da 6.5 a 5.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Independiente Rivadavia - Racing Club",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.7 a 3.0 (11.1%)"
+          "detail": "bet9ja: esito #2 passato da 3.0 a 3.25 (8.3%)"
         }
       ]
     },
@@ -121,7 +82,7 @@
       "alerts": []
     },
     {
-      "match": "Millonarios - Internacional de Bogotá",
+      "match": "Cienciano del Cuzco - Cusco FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -152,6 +113,32 @@
           "CARDS_OU": null
         },
         "sportybet": {
+          "1X2": [
+            2.4,
+            4.2,
+            1.47
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "CD Real España - CD Choloma",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -165,5 +152,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 4
+  "alert_count_this_run": 2
 }

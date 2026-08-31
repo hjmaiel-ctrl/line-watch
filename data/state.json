@@ -1,32 +1,5 @@
 {
   "matches": {
-    "Saint Louis City SC|Dallas": {
-      "home": "Saint Louis City SC",
-      "away": "Dallas",
-      "event_id": "10023835",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.07,
-            7.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788138357.415569
-    },
     "Independiente Rivadavia|Racing Club": {
       "home": "Independiente Rivadavia",
       "away": "Racing Club",
@@ -35,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.32,
-              3.0
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
                 "line": 6.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 7.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 8.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 2.3,
+                "under": 1.52
               }
             ]
           },
@@ -71,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788138382.7733219
+      "last_checked": 1788138935.3154655
     },
     "Coquimbo Unido|Huachipato": {
       "home": "Coquimbo Unido",
@@ -94,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788138409.89571
+      "last_checked": 1788138962.1105342
     },
-    "Millonarios|Internacional de Bogotá": {
-      "home": "Millonarios",
-      "away": "Internacional de Bogotá",
-      "event_id": "10023840",
+    "Cienciano del Cuzco|Cusco FC": {
+      "home": "Cienciano del Cuzco",
+      "away": "Cusco FC",
+      "event_id": "10023924",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788138437.0476472
+      "last_checked": 1788138988.7862773
     },
     "Carabobo FC|Zamora FC": {
       "home": "Carabobo FC",
@@ -130,6 +103,33 @@
           "CARDS_OU": null
         },
         "sportybet": {
+          "1X2": [
+            2.4,
+            4.2,
+            1.47
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788139022.0738842
+    },
+    "CD Real España|CD Choloma": {
+      "home": "CD Real España",
+      "away": "CD Choloma",
+      "event_id": "10023837",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -140,7 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788138464.396576
+      "last_checked": 1788139048.6872733
     }
   }
 }

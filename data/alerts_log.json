@@ -1,17 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Portland Timbers - Austin FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.1 a 1.72 (22.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Portland Timbers - Austin FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.63 a 1.97 (20.9%)"
-  },
-  {
     "type": "quota_differente",
     "match": "Portland Timbers - Austin FC",
     "market": "CORNERS_OU",
@@ -2998,5 +2986,17 @@
     "match": "Independiente Rivadavia - Racing Club",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.7 a 3.0 (11.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Independiente Rivadavia - Racing Club",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Independiente Rivadavia - Racing Club",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.0 a 3.25 (8.3%)"
   }
 ]
