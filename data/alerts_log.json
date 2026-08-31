@@ -3,12 +3,6 @@
     "type": "quota_cambiata",
     "match": "Eyüpspor - Alanyaspor",
     "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.15 a 1.02 (12.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Eyüpspor - Alanyaspor",
-    "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.5 a 9.0 (100.0%)"
   },
   {
@@ -2998,5 +2992,11 @@
     "match": "Okinawa - Azul Claro Numazu",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 3.55 a 4.95 (39.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "FSC Bukovyna Chernivtsi - Dynamo Kiev",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 7.5"
   }
 ]

@@ -1,30 +1,8 @@
 {
-  "generated_at": 1788189451.4839427,
+  "generated_at": 1788190057.0014956,
   "matches": [
     {
-      "match": "Haverfordwest County - Trefelin",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Ammanford AFC - Cardiff Metropolitan",
+      "match": "Cambrian United F.C - Penybont FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -55,11 +33,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            11.5
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -100,24 +74,24 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.55,
-              2.2
+              1.52,
+              2.26
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.52,
+                "under": 2.26
+              },
+              {
                 "line": 8.5,
-                "over": 1.55,
-                "under": 2.2
+                "over": 1.89,
+                "under": 1.75
               },
               {
                 "line": 9.5,
-                "over": 1.91,
-                "under": 1.73
-              },
-              {
-                "line": 10.5,
                 "over": 2.46,
                 "under": 1.44
               }
@@ -136,8 +110,37 @@
           "CARDS_OU": null
         }
       },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "FSC Bukovyna Chernivtsi - Dynamo Kiev",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 7.5"
+        }
+      ]
+    },
+    {
+      "match": "Asyut Petroleum - National Bank",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }
