@@ -1,51 +1,5 @@
 {
   "matches": {
-    "Cambrian United F.C|Penybont FC": {
-      "home": "Cambrian United F.C",
-      "away": "Penybont FC",
-      "event_id": "10027676",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788189951.7866626
-    },
-    "Briton Ferry|Barry Town Utd": {
-      "home": "Briton Ferry",
-      "away": "Barry Town Utd",
-      "event_id": "10027679",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788189978.4332197
-    },
     "Caernarfon Town|The New Saints": {
       "home": "Caernarfon Town",
       "away": "The New Saints",
@@ -67,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788190005.0980206
+      "last_checked": 1788190532.4855475
     },
     "FSC Bukovyna Chernivtsi|Dynamo Kiev": {
       "home": "FSC Bukovyna Chernivtsi",
@@ -77,26 +31,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.52,
-              2.26
+              1.41,
+              2.56
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.52,
-                "under": 2.26
-              },
-              {
                 "line": 8.5,
-                "over": 1.89,
-                "under": 1.75
+                "over": 1.41,
+                "under": 2.56
               },
               {
                 "line": 9.5,
-                "over": 2.46,
-                "under": 1.44
+                "over": 1.75,
+                "under": 1.89
+              },
+              {
+                "line": 10.5,
+                "over": 2.28,
+                "under": 1.51
               }
             ]
           },
@@ -113,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788190030.2094655
+      "last_checked": 1788190557.3388457
     },
     "Asyut Petroleum|National Bank": {
       "home": "Asyut Petroleum",
@@ -136,7 +90,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788190056.9561887
+      "last_checked": 1788190584.202247
+    },
+    "Braintree Town|Farnborough": {
+      "home": "Braintree Town",
+      "away": "Farnborough",
+      "event_id": "10027688",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788190611.1754694
+    },
+    "Maidenhead United|AFC Totton": {
+      "home": "Maidenhead United",
+      "away": "AFC Totton",
+      "event_id": "10027689",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788190638.0258887
     }
   }
 }
