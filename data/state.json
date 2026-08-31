@@ -21,30 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788188746.0898106
-    },
-    "Cambrian United F.C|Penybont FC": {
-      "home": "Cambrian United F.C",
-      "away": "Penybont FC",
-      "event_id": "10027676",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788188772.6842802
+      "last_checked": 1788189340.1542406
     },
     "Ammanford AFC|Cardiff Metropolitan": {
       "home": "Ammanford AFC",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788188799.267253
+      "last_checked": 1788189367.121096
     },
     "Briton Ferry|Barry Town Utd": {
       "home": "Briton Ferry",
@@ -83,7 +60,7 @@
           "1X2": [
             2.4,
             100.0,
-            12.0
+            11.5
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -94,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788188831.1467133
+      "last_checked": 1788189399.2997239
     },
     "Caernarfon Town|The New Saints": {
       "home": "Caernarfon Town",
@@ -117,7 +94,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788188857.6695032
+      "last_checked": 1788189426.3275065
+    },
+    "FSC Bukovyna Chernivtsi|Dynamo Kiev": {
+      "home": "FSC Bukovyna Chernivtsi",
+      "away": "Dynamo Kiev",
+      "event_id": "10027765",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.55,
+              2.2
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.55,
+                "under": 2.2
+              },
+              {
+                "line": 9.5,
+                "over": 1.91,
+                "under": 1.73
+              },
+              {
+                "line": 10.5,
+                "over": 2.46,
+                "under": 1.44
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788189451.4362204
     }
   }
 }

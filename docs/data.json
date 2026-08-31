@@ -1,30 +1,8 @@
 {
-  "generated_at": 1788188857.718393,
+  "generated_at": 1788189451.4839427,
   "matches": [
     {
       "match": "Haverfordwest County - Trefelin",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Cambrian United F.C - Penybont FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -80,7 +58,7 @@
           "1X2": [
             2.4,
             100.0,
-            12.0
+            11.5
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -100,6 +78,51 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "FSC Bukovyna Chernivtsi - Dynamo Kiev",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.55,
+              2.2
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.55,
+                "under": 2.2
+              },
+              {
+                "line": 9.5,
+                "over": 1.91,
+                "under": 1.73
+              },
+              {
+                "line": 10.5,
+                "over": 2.46,
+                "under": 1.44
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
