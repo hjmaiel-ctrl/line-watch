@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              1.22,
-              3.65
+              1.1,
+              5.5
             ],
             "_all_lines": [
               {
+                "line": 4.5,
+                "over": 1.1,
+                "under": 5.5
+              },
+              {
                 "line": 5.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 6.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 2.7,
+                "under": 1.38
               },
               {
                 "line": 7.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 5.25,
+                "under": 1.11
               },
               {
                 "line": 8.5,
-                "over": 4.1,
-                "under": 1.18
-              },
-              {
-                "line": 9.5,
-                "over": 7.25,
-                "under": 1.05
+                "over": 9.0,
+                "under": 1.02
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 1.5,
             "odds": [
-              1.98,
-              1.7
+              1.47,
+              2.45
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.98,
-                "under": 1.7
+                "line": 1.5,
+                "over": 1.47,
+                "under": 2.45
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788207930.347123
+      "last_checked": 1788208555.0922155
     },
     "FC Barcelona|Rayo Vallecano": {
       "home": "FC Barcelona",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788207953.5019186
+      "last_checked": 1788208578.2561846
     },
     "Atalanta|Bologna": {
       "home": "Atalanta",
@@ -145,52 +145,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.45,
-              2.5
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
-                "line": 4.5,
-                "over": 3.1,
-                "under": 1.3
-              },
-              {
-                "line": 5.5,
-                "over": 7.5,
-                "under": 1.04
-              },
-              {
-                "line": 6.5,
-                "over": 11.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 1.5,
-            "odds": [
-              2.25,
-              1.55
-            ],
-            "_all_lines": [
-              {
-                "line": 1.5,
-                "over": 2.25,
-                "under": 1.55
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            34.0,
+            38.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -200,7 +163,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788207977.0817313
+      "last_checked": 1788208610.1930401
     },
     "Benfica|Estoril-Praia": {
       "home": "Benfica",
@@ -223,23 +186,23 @@
               },
               {
                 "line": 6.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 7.5,
-                "over": 1.73,
-                "under": 1.95
+                "over": 1.92,
+                "under": 1.75
               },
               {
                 "line": 8.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 9.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 4.5,
+                "under": 1.15
               }
             ]
           },
@@ -256,7 +219,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788208002.264156
+      "last_checked": 1788208635.21986
     },
     "Sporting de Braga|Vitoria de Guimaraes": {
       "home": "Sporting de Braga",
@@ -265,7 +228,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.18,
+              4.1
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.18,
+                "under": 4.1
+              },
+              {
+                "line": 4.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
+                "line": 5.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 6.5,
+                "over": 4.1,
+                "under": 1.18
+              },
+              {
+                "line": 7.5,
+                "over": 6.75,
+                "under": 1.06
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -279,7 +275,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788208029.0921056
+      "last_checked": 1788208660.4022682
     }
   }
 }
