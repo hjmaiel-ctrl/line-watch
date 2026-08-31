@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Aston Villa|Arsenal": {
-      "home": "Aston Villa",
-      "away": "Arsenal",
-      "event_id": "10011850",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788209719.2802575
-    },
     "FC Barcelona|Rayo Vallecano": {
       "home": "FC Barcelona",
       "away": "Rayo Vallecano",
@@ -33,38 +10,51 @@
           "CORNERS_OU": {
             "line": 13.5,
             "odds": [
-              1.28,
-              3.25
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 13.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 14.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.73,
+                "under": 1.95
               },
               {
                 "line": 15.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 2.7,
+                "under": 1.38
               },
               {
                 "line": 16.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 4.5,
+                "under": 1.15
               },
               {
                 "line": 17.5,
-                "over": 5.5,
-                "under": 1.1
+                "over": 7.5,
+                "under": 1.04
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 0.5,
+            "odds": [
+              1.42,
+              2.6
+            ],
+            "_all_lines": [
+              {
+                "line": 0.5,
+                "over": 1.42,
+                "under": 2.6
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -77,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788209744.526668
+      "last_checked": 1788210338.9980187
     },
     "Benfica|Estoril-Praia": {
       "home": "Benfica",
@@ -86,40 +76,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.18,
-              4.0
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.18,
-                "under": 4.0
-              },
-              {
-                "line": 7.5,
-                "over": 1.95,
-                "under": 1.73
-              },
-              {
-                "line": 8.5,
-                "over": 3.9,
-                "under": 1.2
-              },
-              {
-                "line": 9.5,
-                "over": 7.5,
-                "under": 1.04
-              },
-              {
-                "line": 10.5,
-                "over": 11.0,
-                "under": null
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -133,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788209769.5619974
+      "last_checked": 1788210365.5637555
     },
     "Sporting de Braga|Vitoria de Guimaraes": {
       "home": "Sporting de Braga",
@@ -156,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788209796.5105183
+      "last_checked": 1788210392.050308
     },
     "RC Celta Fortuna|CD Castellon": {
       "home": "RC Celta Fortuna",
@@ -165,40 +122,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.02,
-              9.0
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.02,
-                "under": 9.0
-              },
-              {
-                "line": 6.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 7.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 8.5,
-                "over": 3.45,
-                "under": 1.22
-              },
-              {
-                "line": 9.5,
-                "over": 6.5,
-                "under": 1.07
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -212,7 +136,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788209822.1318307
+      "last_checked": 1788210418.6614892
+    },
+    "HNK Gorica|HNK Rijeka": {
+      "home": "HNK Gorica",
+      "away": "HNK Rijeka",
+      "event_id": "10027896",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788210445.1804519
     }
   }
 }
