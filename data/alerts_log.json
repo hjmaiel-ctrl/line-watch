@@ -1,29 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Famalicão - Gil Vicente",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.35 a 1.15 (17.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Famalicão - Gil Vicente",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.85 a 4.5 (57.9%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.1 a 3.45 (11.3%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Celta de Vigo - Athletic Bilbao",
     "market": "CARDS_OU",
@@ -2998,5 +2974,29 @@
     "match": "Sporting de Braga - Vitoria de Guimaraes",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.25 a 3.1 (37.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atalanta - Bologna",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.75 a 6.5 (36.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atalanta - Bologna",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.65 a 1.83 (10.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atalanta - Bologna",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.05 a 1.83 (12.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Sporting de Braga - Vitoria de Guimaraes",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 4.5"
   }
 ]
