@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788176142.8481297
+      "last_checked": 1788176752.8820658
     },
     "Lebanon U20|South Korea U20": {
       "home": "Lebanon U20",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788176169.8252835
+      "last_checked": 1788176779.4970243
     },
     "Brodarac U19|FK Usce Novi Beograd U19": {
       "home": "Brodarac U19",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788176196.9359858
+      "last_checked": 1788176806.0847733
     },
     "Syria U20|India U20": {
       "home": "Syria U20",
@@ -90,16 +90,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788176223.8487828
+      "last_checked": 1788176832.9065554
     },
-    "Z.Nottingham Forest|Z.Ipswich Town": {
-      "home": "Z.Nottingham Forest",
-      "away": "Z.Ipswich Town",
-      "event_id": "10027253",
+    "Z.Leeds|Z.Tottenham": {
+      "home": "Z.Leeds",
+      "away": "Z.Tottenham",
+      "event_id": "10027629",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.29,
+              3.6
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.29,
+                "under": 3.6
+              },
+              {
+                "line": 8.5,
+                "over": 1.57,
+                "under": 2.41
+              },
+              {
+                "line": 9.5,
+                "over": 2.01,
+                "under": 1.8
+              },
+              {
+                "line": 10.5,
+                "over": 2.78,
+                "under": 1.44
+              },
+              {
+                "line": 11.5,
+                "over": 4.15,
+                "under": 1.23
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -113,7 +146,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788176250.6364977
+      "last_checked": 1788176857.7921166
     }
   }
 }
