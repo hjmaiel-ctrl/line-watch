@@ -1,11 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "San Diego FC - Los Angeles Galaxy",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 7.5"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Santos Laguna - Tigres de la UANL",
     "market": "1X2",
@@ -2998,5 +2992,11 @@
     "match": "PR Surf - Guaynabo Gol SC",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 1.88 a 3.85 (104.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Deportivo Cali - Atlético Bucaramanga",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.85 a 2.6 (9.6%)"
   }
 ]

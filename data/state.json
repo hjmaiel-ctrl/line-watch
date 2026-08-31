@@ -1,51 +1,5 @@
 {
   "matches": {
-    "Independiente Rivadavia|Racing Club": {
-      "home": "Independiente Rivadavia",
-      "away": "Racing Club",
-      "event_id": "10023920",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.5,
-              2.35
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.5,
-                "under": 2.35
-              },
-              {
-                "line": 7.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 8.5,
-                "over": 5.25,
-                "under": 1.11
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788142547.5173936
-    },
     "Deportivo Cali|Atlético Bucaramanga": {
       "home": "Deportivo Cali",
       "away": "Atlético Bucaramanga",
@@ -56,24 +10,24 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.35,
-              2.85
+              1.42,
+              2.6
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 7.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 1.9,
+                "under": 1.78
               },
               {
                 "line": 8.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 2.7,
+                "under": 1.38
               }
             ]
           },
@@ -90,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788142572.514422
+      "last_checked": 1788143138.6142895
     },
     "Real Monarchs SLC|Tacoma Defiance": {
       "home": "Real Monarchs SLC",
@@ -113,34 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788142599.2412548
-    },
-    "PR Surf|Guaynabo Gol SC": {
-      "home": "PR Surf",
-      "away": "Guaynabo Gol SC",
-      "event_id": "10023921",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            10.0,
-            3.85
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788142631.1461122
+      "last_checked": 1788143165.6259546
     },
     "Xelajú MC|Deportivo Mixco": {
       "home": "Xelajú MC",
@@ -153,6 +80,56 @@
           "CARDS_OU": null
         },
         "sportybet": {
+          "1X2": [
+            2.4,
+            11.0,
+            100.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788143197.989406
+    },
+    "Monterrey|Atlético San Luis": {
+      "home": "Monterrey",
+      "away": "Atlético San Luis",
+      "event_id": "10023927",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.52,
+              2.2
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.52,
+                "under": 2.2
+              },
+              {
+                "line": 8.5,
+                "over": 1.82,
+                "under": 1.77
+              },
+              {
+                "line": 9.5,
+                "over": 2.45,
+                "under": 1.42
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -163,7 +140,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788142657.7863429
+      "last_checked": 1788143223.0697508
+    },
+    "Unan Managua|Managua": {
+      "home": "Unan Managua",
+      "away": "Managua",
+      "event_id": "10023929",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            80.0,
+            10.5
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788143255.5104468
     }
   }
 }
