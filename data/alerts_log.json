@@ -1,41 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Feyenoord - ADO Den Haag",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 9.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "1. FC Magdeburg - Holstein Kiel",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 6.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Feyenoord - ADO Den Haag",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "1. FC Magdeburg - Holstein Kiel",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 5.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Feyenoord - ADO Den Haag",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Feyenoord - ADO Den Haag",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.38 a 1.22 (13.1%)"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Feyenoord - ADO Den Haag",
     "market": "CORNERS_OU",
@@ -2998,5 +2962,41 @@
     "match": "Z.Everton - Z.Brentford",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.25 a 4.65 (9.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "San Jose Earthquakes II - Los Angeles FC 2",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 10.5 a 4.35 (141.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "San Jose Earthquakes II - Los Angeles FC 2",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 100.0 a 7.5 (1233.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Man City - Z.Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Nottingham Forest - Z.Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Nottingham Forest - Z.Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.5 a 6.15 (11.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Everton - Z.Brentford",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 6.5"
   }
 ]
