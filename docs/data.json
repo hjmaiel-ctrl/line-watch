@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788190638.0805583,
+  "generated_at": 1788191265.9082167,
   "matches": [
     {
       "match": "Caernarfon Town - The New Saints",
@@ -32,24 +32,24 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.41,
-              2.56
+              1.38,
+              2.64
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.41,
-                "under": 2.56
+                "over": 1.38,
+                "under": 2.64
               },
               {
                 "line": 9.5,
                 "over": 1.75,
-                "under": 1.89
+                "under": 1.9
               },
               {
                 "line": 10.5,
-                "over": 2.28,
-                "under": 1.51
+                "over": 2.32,
+                "under": 1.49
               }
             ]
           },
@@ -66,20 +66,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "FSC Bukovyna Chernivtsi - Dynamo Kiev",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 8.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "FSC Bukovyna Chernivtsi - Dynamo Kiev",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.26 a 2.56 (13.3%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Asyut Petroleum - National Bank",
@@ -148,5 +135,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }

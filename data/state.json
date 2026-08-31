@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788190532.4855475
+      "last_checked": 1788191159.8780503
     },
     "FSC Bukovyna Chernivtsi|Dynamo Kiev": {
       "home": "FSC Bukovyna Chernivtsi",
@@ -33,24 +33,24 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.41,
-              2.56
+              1.38,
+              2.64
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.41,
-                "under": 2.56
+                "over": 1.38,
+                "under": 2.64
               },
               {
                 "line": 9.5,
                 "over": 1.75,
-                "under": 1.89
+                "under": 1.9
               },
               {
                 "line": 10.5,
-                "over": 2.28,
-                "under": 1.51
+                "over": 2.32,
+                "under": 1.49
               }
             ]
           },
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788190557.3388457
+      "last_checked": 1788191185.083771
     },
     "Asyut Petroleum|National Bank": {
       "home": "Asyut Petroleum",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788190584.202247
+      "last_checked": 1788191212.0592377
     },
     "Braintree Town|Farnborough": {
       "home": "Braintree Town",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788190611.1754694
+      "last_checked": 1788191238.9810355
     },
     "Maidenhead United|AFC Totton": {
       "home": "Maidenhead United",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788190638.0258887
+      "last_checked": 1788191265.8570867
     }
   }
 }
