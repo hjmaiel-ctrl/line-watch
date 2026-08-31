@@ -2,24 +2,6 @@
   {
     "type": "linea_cambiata",
     "match": "Napoli - Como",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Napoli - Como",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.12 a 1.02 (9.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Napoli - Como",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.0 a 8.5 (70.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Napoli - Como",
     "market": "CARDS_OU",
     "detail": "bet9ja: linea passata da 3.5 a 2.5"
   },
@@ -2998,5 +2980,23 @@
     "match": "Burgos CF - Real Sociedad B",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.65 a 4.1 (12.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lecce - AS Roma",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.9 a 4.5 (15.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Burgos CF - Real Sociedad B",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Burgos CF - Real Sociedad B",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.1 a 4.5 (9.8%)"
   }
 ]
