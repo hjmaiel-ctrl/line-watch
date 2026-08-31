@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788201492.137416,
+  "generated_at": 1788202039.4718819,
   "matches": [
     {
       "match": "Osasuna - Getafe",
@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.15,
-              4.5
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.15,
-                "under": 4.5
+                "over": 1.22,
+                "under": 3.65
               },
               {
                 "line": 6.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 7.5,
-                "over": 1.9,
-                "under": 1.78
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 8.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 3.45,
+                "under": 1.25
               },
               {
                 "line": 9.5,
-                "over": 4.25,
-                "under": 1.17
+                "over": 5.25,
+                "under": 1.11
               }
             ]
           },
           "CARDS_OU": {
             "line": 5.5,
             "odds": [
-              1.85,
-              1.82
+              1.95,
+              1.73
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 1.95,
+                "under": 1.73
               }
             ]
           }
@@ -72,7 +72,7 @@
           "type": "quota_cambiata",
           "match": "Osasuna - Getafe",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.1 a 4.5 (9.8%)"
+          "detail": "bet9ja: esito #2 passato da 4.5 a 3.65 (23.3%)"
         }
       ]
     },
@@ -83,36 +83,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 5.5,
             "odds": [
-              1.38,
-              2.7
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
-                "line": 7.5,
+                "line": 5.5,
+                "over": 1.18,
+                "under": 4.1
+              },
+              {
+                "line": 6.5,
                 "over": 1.38,
                 "under": 2.7
               },
               {
+                "line": 7.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
                 "line": 8.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 2.15,
+                "under": 1.57
               },
               {
                 "line": 9.5,
-                "over": 2.15,
-                "under": 1.6
-              },
-              {
-                "line": 10.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 11.5,
-                "over": 4.0,
-                "under": 1.18
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -129,7 +129,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Amed Sportif Faaliyetler - Trabzonspor",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 7.5 a 5.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Amed Sportif Faaliyetler - Trabzonspor",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.38 a 1.18 (16.9%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Amed Sportif Faaliyetler - Trabzonspor",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.7 a 4.1 (51.9%)"
+        }
+      ]
     },
     {
       "match": "Besiktas JK - Çorum FK",
@@ -140,34 +159,34 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.38,
-              2.7
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
                 "line": 9.5,
+                "over": 1.18,
+                "under": 4.1
+              },
+              {
+                "line": 10.5,
                 "over": 1.38,
                 "under": 2.7
               },
               {
-                "line": 10.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
                 "line": 11.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 1.73,
+                "under": 1.95
               },
               {
                 "line": 12.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 13.5,
-                "over": 3.9,
-                "under": 1.2
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -184,7 +203,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Besiktas JK - Çorum FK",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.38 a 1.18 (16.9%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Besiktas JK - Çorum FK",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.7 a 4.1 (51.9%)"
+        }
+      ]
     },
     {
       "match": "Burgos CF - Real Sociedad B",
@@ -195,34 +227,29 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.07,
-              6.5
+              1.4,
+              2.65
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.07,
-                "under": 6.5
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 8.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 2.85,
+                "under": 1.35
               },
               {
                 "line": 9.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 6.0,
+                "under": 1.08
               },
               {
                 "line": 10.5,
-                "over": 4.25,
-                "under": 1.17
-              },
-              {
-                "line": 11.5,
-                "over": 9.0,
-                "under": 1.02
+                "over": 10.0,
+                "under": 1.01
               }
             ]
           },
@@ -231,23 +258,11 @@
         "sportybet": {
           "1X2": [
             2.4,
-            4.4,
-            1.47
+            6.25,
+            1.25
           ],
-          "CORNERS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              1.57
-            ]
-          },
-          "CARDS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              1.95
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "bet365": {
           "1X2": null,
@@ -257,28 +272,28 @@
       },
       "alerts": [
         {
-          "type": "quota_differente",
+          "type": "quota_cambiata",
           "match": "Burgos CF - Real Sociedad B",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja=1.07 vs sportybet=2.4 (esito #1, differenza 124.3%)"
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 4.4 a 6.25 (42.0%)"
         },
         {
-          "type": "quota_differente",
+          "type": "quota_cambiata",
           "match": "Burgos CF - Real Sociedad B",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja=6.5 vs sportybet=1.57 (esito #2, differenza 314.0%)"
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 1.47 a 1.25 (17.6%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Burgos CF - Real Sociedad B",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.17 a 1.07 (9.3%)"
+          "detail": "bet9ja: esito #1 passato da 1.07 a 1.4 (30.8%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Burgos CF - Real Sociedad B",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.25 a 6.5 (52.9%)"
+          "detail": "bet9ja: esito #2 passato da 6.5 a 2.65 (145.3%)"
         }
       ]
     },
@@ -305,5 +320,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 5
+  "alert_count_this_run": 10
 }
