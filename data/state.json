@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788185163.5624566
+      "last_checked": 1788185774.893188
     },
     "Cambrian United F.C|Penybont FC": {
       "home": "Cambrian United F.C",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788185190.7636333
+      "last_checked": 1788185802.0153384
     },
     "Ammanford AFC|Cardiff Metropolitan": {
       "home": "Ammanford AFC",
@@ -67,30 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788185217.7538655
-    },
-    "Caernarfon Town|The New Saints": {
-      "home": "Caernarfon Town",
-      "away": "The New Saints",
-      "event_id": "10027725",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788185245.1442523
+      "last_checked": 1788185828.7289824
     },
     "Asyut Petroleum|National Bank": {
       "home": "Asyut Petroleum",
@@ -113,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788185272.1391408
+      "last_checked": 1788185855.4927936
+    },
+    "Tottenham Hotspur U21|Birmingham City U21": {
+      "home": "Tottenham Hotspur U21",
+      "away": "Birmingham City U21",
+      "event_id": "10027664",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788185882.6390848
     }
   }
 }
