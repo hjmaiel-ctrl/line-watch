@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788174460.7003522,
+  "generated_at": 1788175067.639959,
   "matches": [
     {
       "match": "United SC - Suruchi Sangha",
@@ -57,8 +57,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            17.0,
-            3.55
+            55.0,
+            4.95
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -74,7 +74,13 @@
           "type": "quota_cambiata",
           "match": "Okinawa - Azul Claro Numazu",
           "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 11.0 a 17.0 (54.5%)"
+          "detail": "sportybet: esito #2 passato da 17.0 a 55.0 (223.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Okinawa - Azul Claro Numazu",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 3.55 a 4.95 (39.4%)"
         }
       ]
     },
@@ -123,5 +129,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 2
 }

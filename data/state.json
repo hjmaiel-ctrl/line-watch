@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788174347.9039662
+      "last_checked": 1788174955.883598
     },
     "Kalighat SL|Mohammedan SC Reserves": {
       "home": "Kalighat SL",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788174374.7254617
+      "last_checked": 1788174982.5548756
     },
     "Okinawa|Azul Claro Numazu": {
       "home": "Okinawa",
@@ -59,8 +59,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            17.0,
-            3.55
+            55.0,
+            4.95
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788174406.7450325
+      "last_checked": 1788175014.3360515
     },
     "Nangkiew Irat SC|Mylliem": {
       "home": "Nangkiew Irat SC",
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788174433.9071567
+      "last_checked": 1788175041.0236194
     },
     "Cerro Porteño Reserves|Club Libertad Asunción Reserves": {
       "home": "Cerro Porteño Reserves",
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788174460.645695
+      "last_checked": 1788175067.59804
     }
   }
 }

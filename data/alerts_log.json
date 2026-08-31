@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Napoli - Como",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.7 a 1.57 (8.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Eyüpspor - Alanyaspor",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 2.5 a 3.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Eyüpspor - Alanyaspor",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.15 a 1.02 (12.7%)"
@@ -2998,5 +2986,17 @@
     "match": "Okinawa - Azul Claro Numazu",
     "market": "1X2",
     "detail": "sportybet: esito #2 passato da 11.0 a 17.0 (54.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Okinawa - Azul Claro Numazu",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 17.0 a 55.0 (223.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Okinawa - Azul Claro Numazu",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 3.55 a 4.95 (39.4%)"
   }
 ]
