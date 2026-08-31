@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.47,
-              2.45
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
                 "line": 7.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.83,
+                "under": 1.83
               },
               {
                 "line": 8.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
-                "line": 9.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 2.65,
+                "under": 1.4
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788215729.3097334
+      "last_checked": 1788216371.7233236
     },
     "Defensa y Justicia|Platense": {
       "home": "Defensa y Justicia",
@@ -56,24 +56,24 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.38,
-              2.7
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 8.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.8,
+                "under": 1.87
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.6,
+                "under": 1.42
               }
             ]
           },
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788215754.3262112
+      "last_checked": 1788216396.7335114
     },
     "Fortaleza EC|Operário Ferroviário": {
       "home": "Fortaleza EC",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788215781.2073364
+      "last_checked": 1788216424.205224
     },
     "Unión La Calera|La Serena": {
       "home": "Unión La Calera",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788215807.8638706
+      "last_checked": 1788216451.3820093
     },
     "Genesis FC Reserves|Club Deportivo Platense Reserves": {
       "home": "Genesis FC Reserves",
@@ -159,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788215834.5408387
+      "last_checked": 1788216478.379149
     }
   }
 }
