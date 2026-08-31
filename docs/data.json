@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788175067.639959,
+  "generated_at": 1788175642.7022321,
   "matches": [
     {
       "match": "United SC - Suruchi Sangha",
@@ -33,7 +33,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            80.0,
+            6.5
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -47,45 +51,6 @@
     },
     {
       "match": "Okinawa - Azul Claro Numazu",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            55.0,
-            4.95
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Okinawa - Azul Claro Numazu",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 17.0 a 55.0 (223.5%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Okinawa - Azul Claro Numazu",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 3.55 a 4.95 (39.4%)"
-        }
-      ]
-    },
-    {
-      "match": "Nangkiew Irat SC - Mylliem",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -127,7 +92,29 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Lebanon U20 - South Korea U20",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }

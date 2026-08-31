@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788174955.883598
+      "last_checked": 1788175531.2026854
     },
     "Kalighat SL|Mohammedan SC Reserves": {
       "home": "Kalighat SL",
@@ -34,7 +34,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            80.0,
+            6.5
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788174982.5548756
+      "last_checked": 1788175562.9854
     },
     "Okinawa|Azul Claro Numazu": {
       "home": "Okinawa",
@@ -57,33 +61,6 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            55.0,
-            4.95
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788175014.3360515
-    },
-    "Nangkiew Irat SC|Mylliem": {
-      "home": "Nangkiew Irat SC",
-      "away": "Mylliem",
-      "event_id": "10023945",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -94,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788175041.0236194
+      "last_checked": 1788175589.537124
     },
     "Cerro Porteño Reserves|Club Libertad Asunción Reserves": {
       "home": "Cerro Porteño Reserves",
@@ -117,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788175067.59804
+      "last_checked": 1788175616.140675
+    },
+    "Lebanon U20|South Korea U20": {
+      "home": "Lebanon U20",
+      "away": "South Korea U20",
+      "event_id": "10023952",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788175642.6487715
     }
   }
 }
