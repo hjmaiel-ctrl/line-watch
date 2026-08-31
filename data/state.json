@@ -10,104 +10,54 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.18,
-              4.1
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.18,
-                "under": 4.1
+                "over": 1.15,
+                "under": 4.5
               },
               {
                 "line": 6.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 7.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 1.9,
+                "under": 1.78
               },
               {
                 "line": 8.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 2.7,
+                "under": 1.38
               },
               {
                 "line": 9.5,
-                "over": 4.75,
-                "under": 1.13
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788200753.20709
-    },
-    "Lecce|AS Roma": {
-      "home": "Lecce",
-      "away": "AS Roma",
-      "event_id": "10015267",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.98,
-              1.67
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.98,
-                "under": 1.67
-              },
-              {
-                "line": 4.5,
-                "over": 5.5,
-                "under": 1.1
-              },
-              {
-                "line": 5.5,
-                "over": 11.0,
-                "under": null
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
           "CARDS_OU": {
-            "line": 1.5,
+            "line": 5.5,
             "odds": [
-              4.1,
-              1.18
+              1.85,
+              1.82
             ],
             "_all_lines": [
               {
-                "line": 1.5,
-                "over": 4.1,
-                "under": 1.18
+                "line": 5.5,
+                "over": 1.85,
+                "under": 1.82
               }
             ]
           }
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            17.0,
-            19.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -117,7 +67,119 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788200781.6396265
+      "last_checked": 1788201327.0804656
+    },
+    "Amed Sportif Faaliyetler|Trabzonspor": {
+      "home": "Amed Sportif Faaliyetler",
+      "away": "Trabzonspor",
+      "event_id": "10027868",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.38,
+              2.7
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 8.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 9.5,
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 10.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 11.5,
+                "over": 4.0,
+                "under": 1.18
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788201351.962572
+    },
+    "Besiktas JK|Çorum FK": {
+      "home": "Besiktas JK",
+      "away": "Çorum FK",
+      "event_id": "10027869",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.38,
+              2.7
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 10.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 11.5,
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 12.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 13.5,
+                "over": 3.9,
+                "under": 1.2
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788201376.8286843
     },
     "Burgos CF|Real Sociedad B": {
       "home": "Burgos CF",
@@ -129,43 +191,59 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.17,
-              4.25
+              1.07,
+              6.5
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.17,
-                "under": 4.25
+                "over": 1.07,
+                "under": 6.5
               },
               {
                 "line": 8.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 9.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 10.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 4.25,
+                "under": 1.17
               },
               {
                 "line": 11.5,
-                "over": 7.0,
-                "under": 1.05
+                "over": 9.0,
+                "under": 1.02
               }
             ]
           },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "1X2": [
+            2.4,
+            4.4,
+            1.47
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.57
+            ]
+          },
+          "CARDS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.95
+            ]
+          }
         },
         "bet365": {
           "1X2": null,
@@ -173,7 +251,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788200806.5791485
+      "last_checked": 1788201454.4128516
     },
     "Jong PSV Eindhoven|Jong Ajax": {
       "home": "Jong PSV Eindhoven",
@@ -196,30 +274,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788200833.5273166
-    },
-    "Jong AZ Alkmaar|Jong FC Utrecht": {
-      "home": "Jong AZ Alkmaar",
-      "away": "Jong FC Utrecht",
-      "event_id": "10027861",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788200860.4901288
+      "last_checked": 1788201492.086329
     }
   }
 }
