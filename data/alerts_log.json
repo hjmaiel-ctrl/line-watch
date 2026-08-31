@@ -2,60 +2,6 @@
   {
     "type": "quota_cambiata",
     "match": "Freiburg - Werder Bremen",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.47 a 1.33 (10.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Freiburg - Werder Bremen",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.5 a 2.96 (18.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Freiburg - Werder Bremen",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 2.5 a 1.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Freiburg - Werder Bremen",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.24 a 1.51 (48.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Freiburg - Werder Bremen",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.56 a 2.34 (50.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Freiburg - Werder Bremen",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Freiburg - Werder Bremen",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.33 a 1.19 (11.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Freiburg - Werder Bremen",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.96 a 4.0 (35.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Freiburg - Werder Bremen",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.51 a 1.87 (23.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Freiburg - Werder Bremen",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 2.34 a 1.77 (32.2%)"
   },
@@ -2998,5 +2944,59 @@
     "match": "Z.Hull City - Z.Coventry City",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 9.15 a 3.9 (134.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Liverpool - Z.Crystal Palace",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 11.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Liverpool - Z.Crystal Palace",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 7.45 a 9.35 (25.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Leeds - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Leeds - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.05 a 7.0 (15.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Tottenham - Z.Nottingham Forest",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Tottenham - Z.Nottingham Forest",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 21.0 a 6.45 (225.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Arsenal - Z.Fulham",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Arsenal - Z.Fulham",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.5 a 8.05 (23.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Hull City - Z.Coventry City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.9 a 5.0 (28.2%)"
   }
 ]
