@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788168343.1893044
+      "last_checked": 1788168927.2360992
     },
     "Indonesia|Malaysia": {
       "home": "Indonesia",
@@ -44,7 +44,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788168370.347302
+      "last_checked": 1788168954.2001426
+    },
+    "Measurers Club|Wari AC": {
+      "home": "Measurers Club",
+      "away": "Wari AC",
+      "event_id": "10023942",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788168981.0105758
+    },
+    "Okinawa|Azul Claro Numazu": {
+      "home": "Okinawa",
+      "away": "Azul Claro Numazu",
+      "event_id": "10023944",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788169007.8927379
     },
     "FK Mladost Lucani U19|Crvena Zvezda U19": {
       "home": "FK Mladost Lucani U19",
@@ -67,53 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788168397.7196317
-    },
-    "Iraq U20|Turkmenistan U20": {
-      "home": "Iraq U20",
-      "away": "Turkmenistan U20",
-      "event_id": "10023936",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788168425.5353312
-    },
-    "Iran U20|Palestine U20": {
-      "home": "Iran U20",
-      "away": "Palestine U20",
-      "event_id": "10023938",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788168452.888531
+      "last_checked": 1788169034.6635487
     }
   }
 }
