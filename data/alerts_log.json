@@ -1,84 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Lazio - Genoa",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.15 a 1.6 (34.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Lazio - Genoa",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.6 a 2.15 (34.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Cagliari - Internazionale",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Cagliari - Internazionale",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.04 a 1.28 (23.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Cagliari - Internazionale",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 7.5 a 3.25 (130.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Cagliari - Internazionale",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.5 a 2.05 (36.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Cagliari - Internazionale",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.35 a 1.65 (42.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "AS Monaco - Olympique Marseille",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "AS Monaco - Olympique Marseille",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.03 a 1.2 (16.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "AS Monaco - Olympique Marseille",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 8.0 a 3.75 (113.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.28 a 1.12 (14.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Celta de Vigo - Athletic Bilbao",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.25 a 5.0 (53.8%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Celta de Vigo - Athletic Bilbao",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #1 passato da 1.65 a 1.98 (20.0%)"
@@ -2998,5 +2920,83 @@
     "match": "Atalanta - Bologna",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.5 a 2.35 (56.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Aston Villa - Arsenal",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Aston Villa - Arsenal",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Aston Villa - Arsenal",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.35 a 1.98 (18.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Aston Villa - Arsenal",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.5 a 1.7 (13.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "FC Barcelona - Rayo Vallecano",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.6 a 1.73 (8.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "FC Barcelona - Rayo Vallecano",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.15 a 1.95 (10.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atalanta - Bologna",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.08 a 1.45 (34.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atalanta - Bologna",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.0 a 2.5 (140.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atalanta - Bologna",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.5 a 2.25 (50.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Atalanta - Bologna",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.35 a 1.55 (51.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Benfica - Estoril-Praia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Benfica - Estoril-Praia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.22 a 1.12 (8.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Benfica - Estoril-Praia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 5.0 (37.0%)"
   }
 ]
