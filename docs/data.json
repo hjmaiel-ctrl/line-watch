@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788212418.172911,
+  "generated_at": 1788212842.2329936,
   "matches": [
     {
       "match": "Cesar Vallejo Reserves - Juan Aurich",
@@ -33,7 +33,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.09,
+            6.25
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },

@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788212296.596667
+      "last_checked": 1788212730.2523775
     },
     "Fram/Ulfarnir U19|Njarðvík/Grindavík/Víðir U19": {
       "home": "Fram/Ulfarnir U19",
@@ -34,7 +34,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.09,
+            6.25
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788212324.450189
+      "last_checked": 1788212761.996075
     },
     "Club 12 de Octubre de Itauguá|Club Sportivo Limpeño": {
       "home": "Club 12 de Octubre de Itauguá",
@@ -67,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788212352.0482228
+      "last_checked": 1788212788.4856253
     },
     "Genesis FC Reserves|Club Deportivo Platense Reserves": {
       "home": "Genesis FC Reserves",
@@ -90,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788212385.137256
+      "last_checked": 1788212815.4330788
     },
     "Olimpia Reserves|Motagua Reserves": {
       "home": "Olimpia Reserves",
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788212418.1406858
+      "last_checked": 1788212842.1968744
     }
   }
 }
