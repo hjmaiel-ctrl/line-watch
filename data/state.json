@@ -1,51 +1,5 @@
 {
   "matches": {
-    "Deportivo Cali|Atlético Bucaramanga": {
-      "home": "Deportivo Cali",
-      "away": "Atlético Bucaramanga",
-      "event_id": "10023926",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788146750.3185856
-    },
-    "Real Monarchs SLC|Tacoma Defiance": {
-      "home": "Real Monarchs SLC",
-      "away": "Tacoma Defiance",
-      "event_id": "10018376",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788146776.7932556
-    },
     "Monterrey|Atlético San Luis": {
       "home": "Monterrey",
       "away": "Atlético San Luis",
@@ -54,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 11.5,
             "odds": [
-              1.35,
-              2.7
+              1.28,
+              3.0
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.35,
-                "under": 2.7
-              },
-              {
                 "line": 11.5,
-                "over": 1.72,
-                "under": 1.88
+                "over": 1.28,
+                "under": 3.0
               },
               {
                 "line": 12.5,
-                "over": 2.35,
-                "under": 1.45
+                "over": 1.63,
+                "under": 2.0
+              },
+              {
+                "line": 13.5,
+                "over": 2.25,
+                "under": 1.5
               }
             ]
           },
@@ -90,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788146801.6460483
+      "last_checked": 1788147341.5165317
     },
     "San Jose Del Golfo FC|Deportivo Tigres Del Jumay Jalapa": {
       "home": "San Jose Del Golfo FC",
@@ -103,7 +57,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            2.9,
+            1.9
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -113,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788146828.5831478
+      "last_checked": 1788147375.0772362
     },
     "San Jose Earthquakes II|Los Angeles FC 2": {
       "home": "San Jose Earthquakes II",
@@ -136,7 +94,94 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788146855.1100512
+      "last_checked": 1788147402.430143
+    },
+    "Z.Man City|Z.Everton": {
+      "home": "Z.Man City",
+      "away": "Z.Everton",
+      "event_id": "10025222",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.74,
+              2.08
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.74,
+                "under": 2.08
+              },
+              {
+                "line": 9.5,
+                "over": 5.75,
+                "under": 1.15
+              },
+              {
+                "line": 10.5,
+                "over": 32.5,
+                "under": null
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788147427.6058333
+    },
+    "Z.Brighton|Z.Crystal Palace": {
+      "home": "Z.Brighton",
+      "away": "Z.Crystal Palace",
+      "event_id": "10025223",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 14.5,
+            "odds": [
+              2.04,
+              1.78
+            ],
+            "_all_lines": [
+              {
+                "line": 14.5,
+                "over": 2.04,
+                "under": 1.78
+              },
+              {
+                "line": 15.5,
+                "over": 8.65,
+                "under": 1.08
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788147453.047034
     }
   }
 }
