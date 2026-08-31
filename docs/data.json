@@ -1,8 +1,8 @@
 {
-  "generated_at": 1788173836.7537246,
+  "generated_at": 1788174460.7003522,
   "matches": [
     {
-      "match": "Indonesia - Malaysia",
+      "match": "United SC - Suruchi Sangha",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -57,8 +57,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            11.0,
-            3.45
+            17.0,
+            3.55
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -69,7 +69,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Okinawa - Azul Claro Numazu",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 11.0 a 17.0 (54.5%)"
+        }
+      ]
     },
     {
       "match": "Nangkiew Irat SC - Mylliem",
@@ -94,7 +101,7 @@
       "alerts": []
     },
     {
-      "match": "Lebanon U20 - South Korea U20",
+      "match": "Cerro Porteño Reserves - Club Libertad Asunción Reserves",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -116,5 +123,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }
