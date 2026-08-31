@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 6.5,
             "odds": [
-              1.57,
-              2.2
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
                 "line": 6.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 7.5,
-                "over": 4.75,
-                "under": 1.13
+                "over": 2.7,
+                "under": 1.38
+              },
+              {
+                "line": 8.5,
+                "over": 5.25,
+                "under": 1.11
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788141926.3878832
+      "last_checked": 1788142547.5173936
     },
     "Deportivo Cali|Atlético Bucaramanga": {
       "home": "Deportivo Cali",
@@ -54,26 +54,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.6,
-              2.15
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
                 "line": 7.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 1.78,
+                "under": 1.9
               },
               {
                 "line": 8.5,
-                "over": 2.15,
-                "under": 1.57
-              },
-              {
-                "line": 9.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788141951.642645
+      "last_checked": 1788142572.514422
     },
     "Real Monarchs SLC|Tacoma Defiance": {
       "home": "Real Monarchs SLC",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788141978.170453
+      "last_checked": 1788142599.2412548
     },
     "PR Surf|Guaynabo Gol SC": {
       "home": "PR Surf",
@@ -129,7 +129,7 @@
           "1X2": [
             2.4,
             10.0,
-            1.88
+            3.85
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -140,7 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788142010.0921245
+      "last_checked": 1788142631.1461122
     },
     "Xelajú MC|Deportivo Mixco": {
       "home": "Xelajú MC",
@@ -163,7 +163,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788142036.6979344
+      "last_checked": 1788142657.7863429
     }
   }
 }
