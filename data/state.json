@@ -1,5 +1,28 @@
 {
   "matches": {
+    "Levadiakos|Panathinaikos": {
+      "home": "Levadiakos",
+      "away": "Panathinaikos",
+      "event_id": "10027805",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788194155.2839572
+    },
     "FSC Bukovyna Chernivtsi|Dynamo Kiev": {
       "home": "FSC Bukovyna Chernivtsi",
       "away": "Dynamo Kiev",
@@ -8,21 +31,21 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 11.5,
             "odds": [
-              1.45,
-              2.38
+              1.34,
+              2.76
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.45,
-                "under": 2.38
+                "line": 11.5,
+                "over": 1.34,
+                "under": 2.76
               },
               {
-                "line": 11.5,
-                "over": 2.04,
-                "under": 1.62
+                "line": 12.5,
+                "over": 1.94,
+                "under": 1.68
               }
             ]
           },
@@ -39,7 +62,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788193534.5855522
+      "last_checked": 1788194180.2224004
     },
     "Colwyn Bay|Llandudno Town": {
       "home": "Colwyn Bay",
@@ -62,7 +85,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788193563.2412941
+      "last_checked": 1788194206.8516524
+    },
+    "Hajduk Split|NK Lokomotiva": {
+      "home": "Hajduk Split",
+      "away": "NK Lokomotiva",
+      "event_id": "10027803",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788194233.5811698
     },
     "Ilves|HJK Helsinki": {
       "home": "Ilves",
@@ -85,53 +131,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788193590.238588
-    },
-    "AC Oulu|SJK": {
-      "home": "AC Oulu",
-      "away": "SJK",
-      "event_id": "10027780",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788193617.3053849
-    },
-    "IFK Mariehamn|FF Jaro": {
-      "home": "IFK Mariehamn",
-      "away": "FF Jaro",
-      "event_id": "10027781",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788193644.648429
+      "last_checked": 1788194260.2597382
     }
   }
 }
