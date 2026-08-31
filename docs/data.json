@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788192449.1947808,
+  "generated_at": 1788193061.8279896,
   "matches": [
     {
       "match": "FSC Bukovyna Chernivtsi - Dynamo Kiev",
@@ -7,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.52,
-              2.26
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.52,
-                "under": 2.26
-              },
-              {
-                "line": 9.5,
-                "over": 1.98,
-                "under": 1.68
-              },
-              {
-                "line": 10.5,
-                "over": 2.72,
-                "under": 1.36
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -47,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Gainsborough Trinity - Cleethorpes Town",
+      "match": "Colwyn Bay - Llandudno Town",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

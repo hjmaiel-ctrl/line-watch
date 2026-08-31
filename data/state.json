@@ -7,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.52,
-              2.26
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.52,
-                "under": 2.26
-              },
-              {
-                "line": 9.5,
-                "over": 1.98,
-                "under": 1.68
-              },
-              {
-                "line": 10.5,
-                "over": 2.72,
-                "under": 1.36
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788192341.1878178
+      "last_checked": 1788192954.3253877
     },
-    "Gainsborough Trinity|Cleethorpes Town": {
-      "home": "Gainsborough Trinity",
-      "away": "Cleethorpes Town",
-      "event_id": "10027728",
+    "Colwyn Bay|Llandudno Town": {
+      "home": "Colwyn Bay",
+      "away": "Llandudno Town",
+      "event_id": "10027798",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788192368.037454
+      "last_checked": 1788192980.8692687
     },
     "Ilves|HJK Helsinki": {
       "home": "Ilves",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788192394.9632819
+      "last_checked": 1788193007.534981
     },
     "AC Oulu|SJK": {
       "home": "AC Oulu",
@@ -113,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788192422.0717475
+      "last_checked": 1788193035.1192195
     },
     "IFK Mariehamn|FF Jaro": {
       "home": "IFK Mariehamn",
@@ -136,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788192449.1420817
+      "last_checked": 1788193061.7860606
     }
   }
 }
