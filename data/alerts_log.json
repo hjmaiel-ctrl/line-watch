@@ -1,78 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.12 a 1.22 (8.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.0 a 3.65 (37.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.8 a 1.95 (8.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.87 a 1.73 (8.1%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 2.5 a 1.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.95 a 1.73 (12.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.73 a 1.95 (12.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "AS Monaco - Olympique Marseille",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.8 a 1.95 (8.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "AS Monaco - Olympique Marseille",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.87 a 1.73 (8.1%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 1.5 a 2.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.73 a 2.45 (41.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo La Coruña - Valencia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.95 a 1.47 (32.7%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Lazio - Genoa",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.7 a 3.0 (11.1%)"
@@ -2998,5 +2926,77 @@
     "match": "Lecce - AS Roma",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.5 a 7.5 (66.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Osasuna - Getafe",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Osasuna - Getafe",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.1 a 5.25 (28.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Osasuna - Getafe",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Osasuna - Getafe",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.15 a 1.8 (19.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Osasuna - Getafe",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.6 a 1.87 (16.9%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Lecce - AS Roma",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=1.2 vs sportybet=2.4 (esito #1, differenza 100.0%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Lecce - AS Roma",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=3.75 vs sportybet=1.28 (esito #2, differenza 193.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lecce - AS Roma",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.04 a 1.2 (15.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lecce - AS Roma",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 7.5 a 3.75 (100.0%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Lecce - AS Roma",
+    "market": "CARDS_OU",
+    "detail": "bet9ja=2.1 vs sportybet=2.4 (esito #1, differenza 14.3%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Lecce - AS Roma",
+    "market": "CARDS_OU",
+    "detail": "bet9ja=1.62 vs sportybet=2.15 (esito #2, differenza 32.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Burgos CF - Real Sociedad B",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 7.5"
   }
 ]
