@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788215242.5396862,
+  "generated_at": 1788215834.5820494,
   "matches": [
     {
       "match": "Estudiantes de La Plata - Newell's Old Boys",
@@ -8,24 +8,24 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.5,
-              2.35
+              1.47,
+              2.45
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.5,
-                "under": 2.35
-              },
-              {
                 "line": 7.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 8.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 9.5,
                 "over": 2.7,
                 "under": 1.38
               }
@@ -44,7 +44,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Estudiantes de La Plata - Newell's Old Boys",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 6.5 a 7.5"
+        }
+      ]
     },
     {
       "match": "Defensa y Justicia - Platense",
@@ -53,26 +60,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.5,
-              2.35
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.5,
-                "under": 2.35
-              },
-              {
                 "line": 7.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 8.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 9.5,
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           },
@@ -94,9 +101,43 @@
           "type": "linea_cambiata",
           "match": "Defensa y Justicia - Platense",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 6.5"
+          "detail": "bet9ja: linea passata da 6.5 a 7.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Defensa y Justicia - Platense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.5 a 1.38 (8.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Defensa y Justicia - Platense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.35 a 2.7 (14.9%)"
         }
       ]
+    },
+    {
+      "match": "Fortaleza EC - Operário Ferroviário",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     },
     {
       "match": "Unión La Calera - La Serena",
@@ -141,29 +182,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Olimpia Reserves - Motagua Reserves",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 4
 }
