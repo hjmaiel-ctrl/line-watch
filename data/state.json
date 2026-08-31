@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788146266.6614726
+      "last_checked": 1788146750.3185856
     },
     "Real Monarchs SLC|Tacoma Defiance": {
       "home": "Real Monarchs SLC",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788146293.6281676
+      "last_checked": 1788146776.7932556
     },
     "Monterrey|Atlético San Luis": {
       "home": "Monterrey",
@@ -54,26 +54,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 10.5,
             "odds": [
-              1.45,
-              2.35
+              1.35,
+              2.7
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.45,
-                "under": 2.35
-              },
-              {
-                "line": 9.5,
-                "over": 1.92,
-                "under": 1.7
-              },
-              {
                 "line": 10.5,
-                "over": 2.7,
-                "under": 1.35
+                "over": 1.35,
+                "under": 2.7
+              },
+              {
+                "line": 11.5,
+                "over": 1.72,
+                "under": 1.88
+              },
+              {
+                "line": 12.5,
+                "over": 2.35,
+                "under": 1.45
               }
             ]
           },
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788146318.81293
+      "last_checked": 1788146801.6460483
     },
     "San Jose Del Golfo FC|Deportivo Tigres Del Jumay Jalapa": {
       "home": "San Jose Del Golfo FC",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788146346.1071887
+      "last_checked": 1788146828.5831478
     },
     "San Jose Earthquakes II|Los Angeles FC 2": {
       "home": "San Jose Earthquakes II",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788146372.855941
+      "last_checked": 1788146855.1100512
     }
   }
 }

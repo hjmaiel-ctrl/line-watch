@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788146372.9008348,
+  "generated_at": 1788146855.1601014,
   "matches": [
     {
       "match": "Deportivo Cali - Atlético Bucaramanga",
@@ -52,26 +52,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 10.5,
             "odds": [
-              1.45,
-              2.35
+              1.35,
+              2.7
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.45,
-                "under": 2.35
-              },
-              {
-                "line": 9.5,
-                "over": 1.92,
-                "under": 1.7
-              },
-              {
                 "line": 10.5,
-                "over": 2.7,
-                "under": 1.35
+                "over": 1.35,
+                "under": 2.7
+              },
+              {
+                "line": 11.5,
+                "over": 1.72,
+                "under": 1.88
+              },
+              {
+                "line": 12.5,
+                "over": 2.35,
+                "under": 1.45
               }
             ]
           },
@@ -88,7 +88,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Monterrey - Atlético San Luis",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 10.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Monterrey - Atlético San Luis",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.35 a 2.7 (14.9%)"
+        }
+      ]
     },
     {
       "match": "San Jose Del Golfo FC - Deportivo Tigres Del Jumay Jalapa",
@@ -135,5 +148,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
