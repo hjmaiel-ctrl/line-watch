@@ -21,13 +21,13 @@
               },
               {
                 "line": 7.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 1.85,
+                "under": 1.82
               },
               {
                 "line": 8.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 2.7,
+                "under": 1.38
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788216371.7233236
+      "last_checked": 1788216936.458022
     },
     "Defensa y Justicia|Platense": {
       "home": "Defensa y Justicia",
@@ -56,14 +56,14 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.35,
-              2.85
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 8.5,
@@ -72,8 +72,8 @@
               },
               {
                 "line": 9.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788216396.7335114
+      "last_checked": 1788216960.7481296
     },
     "Fortaleza EC|Operário Ferroviário": {
       "home": "Fortaleza EC",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788216424.205224
+      "last_checked": 1788216986.8200407
     },
     "Unión La Calera|La Serena": {
       "home": "Unión La Calera",
@@ -136,12 +136,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788216451.3820093
+      "last_checked": 1788217012.965833
     },
-    "Genesis FC Reserves|Club Deportivo Platense Reserves": {
-      "home": "Genesis FC Reserves",
-      "away": "Club Deportivo Platense Reserves",
-      "event_id": "10027927",
+    "Olimpia Reserves|Motagua Reserves": {
+      "home": "Olimpia Reserves",
+      "away": "Motagua Reserves",
+      "event_id": "10027928",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -159,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788216478.379149
+      "last_checked": 1788217038.914234
     }
   }
 }

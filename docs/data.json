@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788216478.4243162,
+  "generated_at": 1788217038.9581637,
   "matches": [
     {
       "match": "Estudiantes de La Plata - Newell's Old Boys",
@@ -21,13 +21,13 @@
               },
               {
                 "line": 7.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 1.85,
+                "under": 1.82
               },
               {
                 "line": 8.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 2.7,
+                "under": 1.38
               }
             ]
           },
@@ -44,20 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Estudiantes de La Plata - Newell's Old Boys",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 6.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Estudiantes de La Plata - Newell's Old Boys",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.45 a 2.7 (10.2%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Defensa y Justicia - Platense",
@@ -68,14 +55,14 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.35,
-              2.85
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 8.5,
@@ -84,8 +71,8 @@
               },
               {
                 "line": 9.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
@@ -149,7 +136,7 @@
       "alerts": []
     },
     {
-      "match": "Genesis FC Reserves - Club Deportivo Platense Reserves",
+      "match": "Olimpia Reserves - Motagua Reserves",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -171,5 +158,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
