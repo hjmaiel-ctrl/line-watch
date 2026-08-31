@@ -7,51 +7,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 13.5,
-            "odds": [
-              1.25,
-              3.45
-            ],
-            "_all_lines": [
-              {
-                "line": 13.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 14.5,
-                "over": 1.73,
-                "under": 1.95
-              },
-              {
-                "line": 15.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 16.5,
-                "over": 4.5,
-                "under": 1.15
-              },
-              {
-                "line": 17.5,
-                "over": 7.5,
-                "under": 1.04
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
             "line": 0.5,
             "odds": [
-              1.42,
-              2.6
+              2.25,
+              1.55
             ],
             "_all_lines": [
               {
                 "line": 0.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 2.25,
+                "under": 1.55
               }
             ]
           }
@@ -67,53 +34,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788210338.9980187
-    },
-    "Benfica|Estoril-Praia": {
-      "home": "Benfica",
-      "away": "Estoril-Praia",
-      "event_id": "10027897",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788210365.5637555
-    },
-    "Sporting de Braga|Vitoria de Guimaraes": {
-      "home": "Sporting de Braga",
-      "away": "Vitoria de Guimaraes",
-      "event_id": "10027898",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788210392.050308
+      "last_checked": 1788211003.1256752
     },
     "RC Celta Fortuna|CD Castellon": {
       "home": "RC Celta Fortuna",
@@ -136,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788210418.6614892
+      "last_checked": 1788211030.7687938
     },
     "HNK Gorica|HNK Rijeka": {
       "home": "HNK Gorica",
@@ -159,7 +80,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788210445.1804519
+      "last_checked": 1788211057.8684227
+    },
+    "Cesar Vallejo Reserves|Juan Aurich": {
+      "home": "Cesar Vallejo Reserves",
+      "away": "Juan Aurich",
+      "event_id": "10027912",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788211084.7856987
+    },
+    "Fram/Ulfarnir U19|Njarðvík/Grindavík/Víðir U19": {
+      "home": "Fram/Ulfarnir U19",
+      "away": "Njarðvík/Grindavík/Víðir U19",
+      "event_id": "10027924",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788211112.0904853
     }
   }
 }

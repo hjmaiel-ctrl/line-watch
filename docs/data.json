@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788210445.226127,
+  "generated_at": 1788211112.1434155,
   "matches": [
     {
       "match": "FC Barcelona - Rayo Vallecano",
@@ -7,51 +7,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 13.5,
-            "odds": [
-              1.25,
-              3.45
-            ],
-            "_all_lines": [
-              {
-                "line": 13.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 14.5,
-                "over": 1.73,
-                "under": 1.95
-              },
-              {
-                "line": 15.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 16.5,
-                "over": 4.5,
-                "under": 1.15
-              },
-              {
-                "line": 17.5,
-                "over": 7.5,
-                "under": 1.04
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
             "line": 0.5,
             "odds": [
-              1.42,
-              2.6
+              2.25,
+              1.55
             ],
             "_all_lines": [
               {
                 "line": 0.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 2.25,
+                "under": 1.55
               }
             ]
           }
@@ -67,51 +34,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
-    },
-    {
-      "match": "Benfica - Estoril-Praia",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "FC Barcelona - Rayo Vallecano",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.42 a 2.25 (58.5%)"
         },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "FC Barcelona - Rayo Vallecano",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.6 a 1.55 (67.7%)"
         }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Sporting de Braga - Vitoria de Guimaraes",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
+      ]
     },
     {
       "match": "RC Celta Fortuna - CD Castellon",
@@ -156,7 +92,51 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Cesar Vallejo Reserves - Juan Aurich",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Fram/Ulfarnir U19 - Njarðvík/Grindavík/Víðir U19",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
