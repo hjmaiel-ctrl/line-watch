@@ -21,34 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788257827.4297037
-    },
-    "Takeo Province|Phnom Penh Galaxy": {
-      "home": "Takeo Province",
-      "away": "Phnom Penh Galaxy",
-      "event_id": "10029378",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.11,
-            5.3
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788257859.4628081
+      "last_checked": 1788258865.1344872
     },
     "MLS FC|Chanmari FC": {
       "home": "MLS FC",
@@ -61,7 +34,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            19.0,
+            10.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -71,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788257886.2170393
+      "last_checked": 1788258897.4694428
     },
     "Bukovyna Chernivtsi U21|Dinamo-D Kiev U21": {
       "home": "Bukovyna Chernivtsi U21",
@@ -94,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788257912.9592116
+      "last_checked": 1788258924.7284617
     },
     "Meghalaya Police|Shillong Lajong FC Reserves": {
       "home": "Meghalaya Police",
@@ -117,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788257939.7169583
+      "last_checked": 1788258951.4643946
+    },
+    "Northerners FC|Sikkim Police": {
+      "home": "Northerners FC",
+      "away": "Sikkim Police",
+      "event_id": "10030775",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788258978.3825045
     }
   }
 }
