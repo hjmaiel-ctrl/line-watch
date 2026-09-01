@@ -1,95 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Z.Leeds - Z.Man United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.11 a 1.63 (46.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Leeds - Z.Man United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 7.0 a 2.27 (208.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Tottenham - Z.Nottingham Forest",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 11.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Tottenham - Z.Nottingham Forest",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.12 a 1.85 (65.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Tottenham - Z.Nottingham Forest",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 6.45 a 1.95 (230.8%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Arsenal - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 12.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Arsenal - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.09 a 1.72 (57.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Arsenal - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 8.05 a 2.11 (281.5%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Hull City - Z.Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 5.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Hull City - Z.Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.17 a 1.93 (65.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Hull City - Z.Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.0 a 1.86 (168.8%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Man City - Z.Tottenham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Man City - Z.Tottenham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.33 a 1.17 (13.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Man City - Z.Tottenham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.3 a 4.95 (50.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Aston Villa - Z.Brighton",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 10.5"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Z.Everton - Z.Leeds",
     "market": "CORNERS_OU",
@@ -2998,5 +2908,95 @@
     "match": "Lincoln City - Blackburn Rovers",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.65 a 2.1 (27.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Torino - Monza",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.8 a 2.05 (13.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Torino - Monza",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.87 a 1.65 (13.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Stoke City - Norwich City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Stoke City - Norwich City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.1 a 2.85 (8.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Stoke City - Norwich City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Stoke City - Norwich City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.92 a 1.6 (20.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Stoke City - Norwich City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.75 a 2.15 (22.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Birmingham City - Southampton",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Birmingham City - Southampton",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.15 a 1.75 (22.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Birmingham City - Southampton",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.6 a 1.92 (20.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Lincoln City - Blackburn Rovers",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lincoln City - Blackburn Rovers",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.32 a 1.18 (11.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lincoln City - Blackburn Rovers",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.0 a 4.1 (36.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lincoln City - Blackburn Rovers",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.62 a 1.98 (22.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lincoln City - Blackburn Rovers",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.1 a 1.7 (23.5%)"
   }
 ]
