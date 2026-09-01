@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788256769.161061
+      "last_checked": 1788257827.4297037
     },
     "Takeo Province|Phnom Penh Galaxy": {
       "home": "Takeo Province",
@@ -36,8 +36,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.2,
-            4.7
+            1.11,
+            5.3
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788256801.374378
+      "last_checked": 1788257859.4628081
     },
     "MLS FC|Chanmari FC": {
       "home": "MLS FC",
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788256828.7735517
+      "last_checked": 1788257886.2170393
     },
     "Bukovyna Chernivtsi U21|Dinamo-D Kiev U21": {
       "home": "Bukovyna Chernivtsi U21",
@@ -94,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788256855.7363946
+      "last_checked": 1788257912.9592116
     },
-    "Northerners FC|Sikkim Police": {
-      "home": "Northerners FC",
-      "away": "Sikkim Police",
-      "event_id": "10030775",
+    "Meghalaya Police|Shillong Lajong FC Reserves": {
+      "home": "Meghalaya Police",
+      "away": "Shillong Lajong FC Reserves",
+      "event_id": "10029388",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788256882.62305
+      "last_checked": 1788257939.7169583
     }
   }
 }
