@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 16.5,
+            "line": 17.5,
             "odds": [
-              1.18,
-              4.1
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
-                "line": 16.5,
-                "over": 1.18,
-                "under": 4.1
-              },
-              {
                 "line": 17.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 1.22,
+                "under": 3.65
               },
               {
                 "line": 18.5,
-                "over": 1.8,
-                "under": 1.87
+                "over": 1.52,
+                "under": 2.3
               },
               {
                 "line": 19.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 20.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 21.5,
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 3.5,
             "odds": [
-              2.05,
-              1.65
+              1.55,
+              2.25
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 2.05,
-                "under": 1.65
+                "line": 3.5,
+                "over": 1.55,
+                "under": 2.25
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788281985.8404162
+      "last_checked": 1788282987.4092488
     },
     "FK Austria Wien Women|SK Brann Women": {
       "home": "FK Austria Wien Women",
@@ -90,30 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788282012.7530148
-    },
-    "NFC Volos|Kalamata": {
-      "home": "NFC Volos",
-      "away": "Kalamata",
-      "event_id": "10034141",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788282039.2517104
+      "last_checked": 1788283014.2170174
     },
     "IF Lyseng|AC Horsens": {
       "home": "IF Lyseng",
@@ -136,7 +113,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788282066.0710714
+      "last_checked": 1788283040.9857237
+    },
+    "Helsingborgs IF|Örebro SK": {
+      "home": "Helsingborgs IF",
+      "away": "Örebro SK",
+      "event_id": "10034193",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788283067.8166416
     },
     "Odra Opole|Wisla Krakow": {
       "home": "Odra Opole",
@@ -151,8 +151,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.15,
-            5.3
+            1.09,
+            5.9
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -163,7 +163,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788282098.1656942
+      "last_checked": 1788283099.5724113
     }
   }
 }
