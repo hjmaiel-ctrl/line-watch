@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788273805.7398648,
+  "generated_at": 1788274876.810836,
   "matches": [
     {
       "match": "FK Akron Tolyatti - Lokomotiv Moscow",
@@ -7,7 +7,20 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 12.5,
+            "odds": [
+              2.4,
+              1.42
+            ],
+            "_all_lines": [
+              {
+                "line": 12.5,
+                "over": 2.4,
+                "under": 1.42
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
