@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788297071.9943645,
+  "generated_at": 1788297961.7604787,
   "matches": [
     {
       "match": "Envigado FC - Unión Magdalena",
@@ -68,7 +68,106 @@
       "alerts": []
     },
     {
-      "match": "CD Real Espana Reserves - Atletico Indepediente Reserves",
+      "match": "Atletico Grau - FBC Melgar",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.5,
+              2.26
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.5,
+                "under": 2.26
+              },
+              {
+                "line": 5.5,
+                "over": 2.16,
+                "under": 1.55
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            5.3,
+            2.1
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.5
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Atletico Grau - FBC Melgar",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 4.35 a 5.3 (21.8%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Atletico Grau - FBC Melgar",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 2.45 a 2.1 (16.7%)"
+        },
+        {
+          "type": "quota_differente",
+          "match": "Atletico Grau - FBC Melgar",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja=1.5 vs sportybet=2.4 (esito #1, differenza 60.0%)"
+        },
+        {
+          "type": "quota_differente",
+          "match": "Atletico Grau - FBC Melgar",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja=2.26 vs sportybet=1.5 (esito #2, differenza 50.7%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Atletico Grau - FBC Melgar",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 5.5 a 4.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Atletico Grau - FBC Melgar",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.38 a 1.5 (8.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Atletico Grau - FBC Melgar",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.66 a 2.26 (17.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Atletico Grau - FBC Melgar",
+          "market": "CORNERS_OU",
+          "detail": "sportybet: esito #2 passato da 1.37 a 1.5 (9.5%)"
+        }
+      ]
+    },
+    {
+      "match": "Adet Aruba - AD Forfut",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -88,75 +187,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Atletico Grau - FBC Melgar",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.38,
-              2.66
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.38,
-                "under": 2.66
-              },
-              {
-                "line": 6.5,
-                "over": 1.8,
-                "under": 1.83
-              },
-              {
-                "line": 7.5,
-                "over": 2.52,
-                "under": 1.43
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            4.35,
-            2.45
-          ],
-          "CORNERS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              1.37
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_differente",
-          "match": "Atletico Grau - FBC Melgar",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja=1.38 vs sportybet=2.4 (esito #1, differenza 73.9%)"
-        },
-        {
-          "type": "quota_differente",
-          "match": "Atletico Grau - FBC Melgar",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja=2.66 vs sportybet=1.37 (esito #2, differenza 94.2%)"
-        }
-      ]
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 8
 }
