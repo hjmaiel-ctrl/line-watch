@@ -21,57 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788304827.8157153
-    },
-    "Club 2 de Mayo|Club Sportivo Luqueño": {
-      "home": "Club 2 de Mayo",
-      "away": "Club Sportivo Luqueño",
-      "event_id": "10034290",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788304854.3361104
-    },
-    "Delfin SC|Club Deportivo Técnico Universitario": {
-      "home": "Delfin SC",
-      "away": "Club Deportivo Técnico Universitario",
-      "event_id": "10034291",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.02,
-            12.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788304886.1214933
+      "last_checked": 1788305378.1001859
     },
     "Barranquilla FC|Boca Juniors de Cali": {
       "home": "Barranquilla FC",
@@ -94,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788304912.6929853
+      "last_checked": 1788305405.4588563
     },
     "Colchagua|Brujas de Salamanca": {
       "home": "Colchagua",
@@ -117,7 +67,57 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788304939.1624875
+      "last_checked": 1788305432.6971238
+    },
+    "FC Supra du Quebec|Forge": {
+      "home": "FC Supra du Quebec",
+      "away": "Forge",
+      "event_id": "10036444",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.45,
+            3.45
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788305464.8843355
+    },
+    "União Frederiquense|Veranópolis": {
+      "home": "União Frederiquense",
+      "away": "Veranópolis",
+      "event_id": "10036446",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788305492.051725
     }
   }
 }
