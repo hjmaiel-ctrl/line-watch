@@ -1,11 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Z.Arsenal - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.75 a 5.2 (10.6%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Z.Hull City - Z.Coventry City",
     "market": "CORNERS_OU",
@@ -2998,5 +2992,11 @@
     "match": "Takeo Province - Phnom Penh Galaxy",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 4.7 a 5.3 (12.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "MLS FC - Chanmari FC",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 19.0 a 10.0 (90.0%)"
   }
 ]

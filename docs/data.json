@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788258978.4326787,
+  "generated_at": 1788259872.792767,
   "matches": [
     {
       "match": "Perak FA - Kuala Lumpur City FC",
@@ -35,7 +35,7 @@
         "sportybet": {
           "1X2": [
             2.4,
-            19.0,
+            10.0,
             10.0
           ],
           "CORNERS_OU": null,
@@ -47,7 +47,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "MLS FC - Chanmari FC",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 19.0 a 10.0 (90.0%)"
+        }
+      ]
     },
     {
       "match": "Bukovyna Chernivtsi U21 - Dinamo-D Kiev U21",
@@ -116,5 +123,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }
