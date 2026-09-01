@@ -1,78 +1,5 @@
 {
   "matches": {
-    "Perak FA|Kuala Lumpur City FC": {
-      "home": "Perak FA",
-      "away": "Kuala Lumpur City FC",
-      "event_id": "10029382",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788259760.9266562
-    },
-    "MLS FC|Chanmari FC": {
-      "home": "MLS FC",
-      "away": "Chanmari FC",
-      "event_id": "10029383",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            10.0,
-            10.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788259792.8411245
-    },
-    "Bukovyna Chernivtsi U21|Dinamo-D Kiev U21": {
-      "home": "Bukovyna Chernivtsi U21",
-      "away": "Dinamo-D Kiev U21",
-      "event_id": "10029384",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788259819.344151
-    },
     "Meghalaya Police|Shillong Lajong FC Reserves": {
       "home": "Meghalaya Police",
       "away": "Shillong Lajong FC Reserves",
@@ -94,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788259846.287759
+      "last_checked": 1788260344.9679515
     },
     "Northerners FC|Sikkim Police": {
       "home": "Northerners FC",
@@ -117,7 +44,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788259872.7438083
+      "last_checked": 1788260371.8128567
+    },
+    "Farense U23|Famalicão U23": {
+      "home": "Farense U23",
+      "away": "Famalicão U23",
+      "event_id": "10029385",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788260398.6588402
+    },
+    "SK Sigma Olomouc U19|AC Sparta Praha U19": {
+      "home": "SK Sigma Olomouc U19",
+      "away": "AC Sparta Praha U19",
+      "event_id": "10029387",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788260425.697355
+    },
+    "Moreirense FC U23|Portimonense": {
+      "home": "Moreirense FC U23",
+      "away": "Portimonense",
+      "event_id": "10034515",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788260452.5374012
     }
   }
 }
