@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.03,
+            9.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -21,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788229437.197163
+      "last_checked": 1788230381.6225445
     },
     "Deportes Tolima|Cúcuta Deportivo": {
       "home": "Deportes Tolima",
@@ -31,26 +35,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.45,
-              2.5
+              1.12,
+              5.0
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.12,
+                "under": 5.0
+              },
+              {
                 "line": 9.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 10.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 11.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -67,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788229461.8551376
+      "last_checked": 1788230406.8007524
     },
     "UMECIT|Veraguas FC": {
       "home": "UMECIT",
@@ -90,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788229488.2559717
+      "last_checked": 1788230433.804181
     },
     "Pitbulls|Municipal Santa Ana": {
       "home": "Pitbulls",
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788229514.9307504
+      "last_checked": 1788230460.7171028
     },
     "Z.Hull City|Z.Aston Villa": {
       "home": "Z.Hull City",
@@ -123,36 +127,31 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 12.5,
             "odds": [
-              1.15,
-              5.8
+              1.24,
+              4.1
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.15,
-                "under": 5.8
-              },
-              {
-                "line": 11.5,
-                "over": 1.34,
-                "under": 3.25
-              },
-              {
                 "line": 12.5,
-                "over": 1.72,
-                "under": 2.11
+                "over": 1.24,
+                "under": 4.1
               },
               {
                 "line": 13.5,
-                "over": 2.4,
-                "under": 1.57
+                "over": 1.6,
+                "under": 2.32
               },
               {
                 "line": 14.5,
-                "over": 3.7,
-                "under": 1.28
+                "over": 2.31,
+                "under": 1.61
+              },
+              {
+                "line": 15.5,
+                "over": 3.8,
+                "under": 1.27
               }
             ]
           },
@@ -169,7 +168,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788229540.2912629
+      "last_checked": 1788230485.9347131
     }
   }
 }

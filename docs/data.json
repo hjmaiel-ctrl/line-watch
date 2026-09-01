@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788229540.3322704,
+  "generated_at": 1788230485.983348,
   "matches": [
     {
       "match": "Universidad Católica - O'Higgins",
@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.03,
+            9.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -30,26 +34,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.45,
-              2.5
+              1.12,
+              5.0
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.12,
+                "under": 5.0
+              },
+              {
                 "line": 9.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 10.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 11.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -68,10 +72,22 @@
       },
       "alerts": [
         {
+          "type": "linea_cambiata",
+          "match": "Deportes Tolima - Cúcuta Deportivo",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+        },
+        {
           "type": "quota_cambiata",
           "match": "Deportes Tolima - Cúcuta Deportivo",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.85 a 2.5 (14.0%)"
+          "detail": "bet9ja: esito #1 passato da 1.45 a 1.12 (29.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Deportes Tolima - Cúcuta Deportivo",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.5 a 5.0 (100.0%)"
         }
       ]
     },
@@ -126,36 +142,31 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 12.5,
             "odds": [
-              1.15,
-              5.8
+              1.24,
+              4.1
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.15,
-                "under": 5.8
-              },
-              {
-                "line": 11.5,
-                "over": 1.34,
-                "under": 3.25
-              },
-              {
                 "line": 12.5,
-                "over": 1.72,
-                "under": 2.11
+                "over": 1.24,
+                "under": 4.1
               },
               {
                 "line": 13.5,
-                "over": 2.4,
-                "under": 1.57
+                "over": 1.6,
+                "under": 2.32
               },
               {
                 "line": 14.5,
-                "over": 3.7,
-                "under": 1.28
+                "over": 2.31,
+                "under": 1.61
+              },
+              {
+                "line": 15.5,
+                "over": 3.8,
+                "under": 1.27
               }
             ]
           },
@@ -172,8 +183,21 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Z.Hull City - Z.Aston Villa",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 10.5 a 12.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Hull City - Z.Aston Villa",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 5.8 a 4.1 (41.5%)"
+        }
+      ]
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 5
 }
