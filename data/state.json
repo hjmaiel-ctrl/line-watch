@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788302847.1450143
+      "last_checked": 1788303397.9046667
     },
     "Club 2 de Mayo|Club Sportivo Luqueño": {
       "home": "Club 2 de Mayo",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788302873.962896
+      "last_checked": 1788303423.9819295
     },
     "Delfin SC|Club Deportivo Técnico Universitario": {
       "home": "Delfin SC",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788302900.9293602
+      "last_checked": 1788303450.0266862
     },
     "Barranquilla FC|Boca Juniors de Cali": {
       "home": "Barranquilla FC",
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788302927.8190653
+      "last_checked": 1788303476.1487024
     },
-    "Montevideo Wanderers|CA Cerro": {
-      "home": "Montevideo Wanderers",
-      "away": "CA Cerro",
-      "event_id": "10034286",
+    "Colchagua|Brujas de Salamanca": {
+      "home": "Colchagua",
+      "away": "Brujas de Salamanca",
+      "event_id": "10036443",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788302954.5770998
+      "last_checked": 1788303502.1690948
     }
   }
 }
