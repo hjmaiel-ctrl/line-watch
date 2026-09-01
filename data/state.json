@@ -1,5 +1,64 @@
 {
   "matches": {
+    "Parma|Cremonese": {
+      "home": "Parma",
+      "away": "Cremonese",
+      "event_id": "10030842",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.83,
+              1.83
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.83,
+                "under": 1.83
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788278939.1261675
+    },
+    "FK Austria Wien Women|SK Brann Women": {
+      "home": "FK Austria Wien Women",
+      "away": "SK Brann Women",
+      "event_id": "10034149",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788278965.9029028
+    },
     "NFC Volos|Kalamata": {
       "home": "NFC Volos",
       "away": "Kalamata",
@@ -21,7 +80,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788276167.6521623
+      "last_checked": 1788278992.469647
+    },
+    "IF Lyseng|AC Horsens": {
+      "home": "IF Lyseng",
+      "away": "AC Horsens",
+      "event_id": "10034156",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788279019.223898
     },
     "Fakel Voronezh|Krasnodar": {
       "home": "Fakel Voronezh",
@@ -30,7 +112,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.62,
+              2.06
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.62,
+                "under": 2.06
+              },
+              {
+                "line": 10.5,
+                "over": 2.18,
+                "under": 1.56
+              },
+              {
+                "line": 11.5,
+                "over": 3.1,
+                "under": 1.29
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,76 +149,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788276194.1819618
-    },
-    "Chemik Bydgoszcz|GKS Piast Gliwice": {
-      "home": "Chemik Bydgoszcz",
-      "away": "GKS Piast Gliwice",
-      "event_id": "10034097",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788276220.7625206
-    },
-    "Zks Kluczevia Stargard|Pogon Siedlce": {
-      "home": "Zks Kluczevia Stargard",
-      "away": "Pogon Siedlce",
-      "event_id": "10034098",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788276247.3979554
-    },
-    "Wisla Plock II|Puszcza Niepolomice": {
-      "home": "Wisla Plock II",
-      "away": "Puszcza Niepolomice",
-      "event_id": "10034099",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788276273.8829956
+      "last_checked": 1788279044.0841289
     }
   }
 }
