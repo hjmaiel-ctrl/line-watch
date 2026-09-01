@@ -21,41 +21,46 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788244790.099524
+      "last_checked": 1788245605.8182013
     },
-    "Z.Racing Santander|Z.Real Sociedad": {
-      "home": "Z.Racing Santander",
-      "away": "Z.Real Sociedad",
-      "event_id": "10032952",
+    "Z.Leeds|Z.Arsenal": {
+      "home": "Z.Leeds",
+      "away": "Z.Arsenal",
+      "event_id": "10033189",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 7.5,
             "odds": [
-              1.25,
-              4.0
+              1.27,
+              3.8
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.27,
+                "under": 3.8
+              },
+              {
+                "line": 8.5,
+                "over": 1.53,
+                "under": 2.51
+              },
+              {
                 "line": 9.5,
-                "over": 1.25,
-                "under": 4.0
+                "over": 1.94,
+                "under": 1.86
               },
               {
                 "line": 10.5,
-                "over": 2.36,
-                "under": 1.59
+                "over": 2.66,
+                "under": 1.48
               },
               {
                 "line": 11.5,
-                "over": 6.4,
-                "under": 1.13
-              },
-              {
-                "line": 12.5,
-                "over": 24.0,
-                "under": null
+                "over": 3.9,
+                "under": 1.25
               }
             ]
           },
@@ -72,41 +77,46 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788244814.9766116
+      "last_checked": 1788245630.726304
     },
-    "Z.Valencia|Z.Athletic Bilbao": {
-      "home": "Z.Valencia",
-      "away": "Z.Athletic Bilbao",
-      "event_id": "10032953",
+    "Z.Brighton|Z.Fulham": {
+      "home": "Z.Brighton",
+      "away": "Z.Fulham",
+      "event_id": "10033190",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 2.5,
+            "line": 10.5,
             "odds": [
-              1.23,
-              4.2
+              1.21,
+              4.4
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.23,
-                "under": 4.2
+                "line": 10.5,
+                "over": 1.21,
+                "under": 4.4
               },
               {
-                "line": 3.5,
-                "over": 2.26,
-                "under": 1.63
+                "line": 11.5,
+                "over": 1.44,
+                "under": 2.77
               },
               {
-                "line": 4.5,
-                "over": 5.95,
-                "under": 1.14
+                "line": 12.5,
+                "over": 1.84,
+                "under": 1.96
               },
               {
-                "line": 5.5,
-                "over": 21.5,
-                "under": null
+                "line": 13.5,
+                "over": 2.5,
+                "under": 1.53
+              },
+              {
+                "line": 14.5,
+                "over": 3.7,
+                "under": 1.28
               }
             ]
           },
@@ -123,41 +133,46 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788244839.9037738
+      "last_checked": 1788245655.467249
     },
-    "Z.Celta Vigo|Z.Alaves": {
-      "home": "Z.Celta Vigo",
-      "away": "Z.Alaves",
-      "event_id": "10032954",
+    "Z.Bournemouth|Z.Liverpool": {
+      "home": "Z.Bournemouth",
+      "away": "Z.Liverpool",
+      "event_id": "10033191",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 10.5,
             "odds": [
               1.25,
               3.9
             ],
             "_all_lines": [
               {
-                "line": 11.5,
+                "line": 10.5,
                 "over": 1.25,
                 "under": 3.9
               },
               {
+                "line": 11.5,
+                "over": 1.5,
+                "under": 2.58
+              },
+              {
                 "line": 12.5,
-                "over": 2.39,
-                "under": 1.57
+                "over": 1.9,
+                "under": 1.89
               },
               {
                 "line": 13.5,
-                "over": 6.55,
-                "under": 1.12
+                "over": 2.59,
+                "under": 1.5
               },
               {
                 "line": 14.5,
-                "over": 24.5,
-                "under": null
+                "over": 3.8,
+                "under": 1.27
               }
             ]
           },
@@ -174,36 +189,46 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788244864.7683969
+      "last_checked": 1788245680.4140842
     },
-    "Z.Real Madrid|Z.Atlético Madrid": {
-      "home": "Z.Real Madrid",
-      "away": "Z.Atlético Madrid",
-      "event_id": "10032955",
+    "Z.Newcastle Utd|Z.Hull City": {
+      "home": "Z.Newcastle Utd",
+      "away": "Z.Hull City",
+      "event_id": "10033192",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 13.5,
+            "line": 6.5,
             "odds": [
-              1.2,
-              4.65
+              1.1,
+              7.4
             ],
             "_all_lines": [
               {
-                "line": 13.5,
-                "over": 1.2,
-                "under": 4.65
+                "line": 6.5,
+                "over": 1.1,
+                "under": 7.4
               },
               {
-                "line": 14.5,
-                "over": 2.11,
-                "under": 1.73
+                "line": 7.5,
+                "over": 1.23,
+                "under": 4.15
               },
               {
-                "line": 15.5,
-                "over": 5.3,
-                "under": 1.16
+                "line": 8.5,
+                "over": 1.48,
+                "under": 2.63
+              },
+              {
+                "line": 9.5,
+                "over": 1.9,
+                "under": 1.9
+              },
+              {
+                "line": 10.5,
+                "over": 2.63,
+                "under": 1.48
               }
             ]
           },
@@ -220,7 +245,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788244889.4987648
+      "last_checked": 1788245705.4205346
     }
   }
 }
