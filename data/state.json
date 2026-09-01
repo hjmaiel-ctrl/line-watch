@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788299278.4277208
+      "last_checked": 1788299861.155077
     },
-    "Envigado FC|Unión Magdalena": {
-      "home": "Envigado FC",
-      "away": "Unión Magdalena",
-      "event_id": "10034284",
+    "Delfin SC|Club Deportivo Técnico Universitario": {
+      "home": "Delfin SC",
+      "away": "Club Deportivo Técnico Universitario",
+      "event_id": "10034291",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788299305.1435447
+      "last_checked": 1788299888.1224282
     },
     "Montevideo Wanderers|CA Cerro": {
       "home": "Montevideo Wanderers",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788299332.3464916
+      "last_checked": 1788299915.1336927
     },
     "Lobos UPNFM Reserves|Estrella Roja Reserves": {
       "home": "Lobos UPNFM Reserves",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788299359.5460496
+      "last_checked": 1788299942.1980083
     },
     "Atletico Grau|FBC Melgar": {
       "home": "Atletico Grau",
@@ -99,35 +99,12 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              2.08,
-              1.57
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 2.08,
-                "under": 1.57
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.2,
-            4.5
-          ],
-          "CORNERS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              2.1
-            ]
-          },
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "bet365": {
@@ -136,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788299389.6796246
+      "last_checked": 1788299968.886054
     }
   }
 }
