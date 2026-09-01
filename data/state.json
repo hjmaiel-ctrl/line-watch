@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788298717.9805214
+      "last_checked": 1788299278.4277208
     },
     "Envigado FC|Unión Magdalena": {
       "home": "Envigado FC",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788298745.0274675
+      "last_checked": 1788299305.1435447
     },
     "Montevideo Wanderers|CA Cerro": {
       "home": "Montevideo Wanderers",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788298771.7955291
+      "last_checked": 1788299332.3464916
     },
     "Lobos UPNFM Reserves|Estrella Roja Reserves": {
       "home": "Lobos UPNFM Reserves",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788298807.9277263
+      "last_checked": 1788299359.5460496
     },
     "Atletico Grau|FBC Melgar": {
       "home": "Atletico Grau",
@@ -100,21 +100,16 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 5.5,
             "odds": [
-              1.59,
-              2.08
+              2.08,
+              1.57
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.59,
-                "under": 2.08
-              },
-              {
                 "line": 5.5,
-                "over": 2.62,
-                "under": 1.38
+                "over": 2.08,
+                "under": 1.57
               }
             ]
           },
@@ -123,14 +118,14 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.32,
-            3.65
+            1.2,
+            4.5
           ],
           "CORNERS_OU": {
             "line": null,
             "odds": [
               2.4,
-              1.6
+              2.1
             ]
           },
           "CARDS_OU": null
@@ -141,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788298856.5239468
+      "last_checked": 1788299389.6796246
     }
   }
 }
