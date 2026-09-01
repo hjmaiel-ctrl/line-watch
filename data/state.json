@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Dinthar FC|Saikhamakawn FC": {
-      "home": "Dinthar FC",
-      "away": "Saikhamakawn FC",
-      "event_id": "10029377",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788249116.5026538
-    },
     "Sohiong SC|Sohryngkham SC": {
       "home": "Sohiong SC",
       "away": "Sohryngkham SC",
@@ -36,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            6.25,
-            4.7
+            7.0,
+            4.5
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -48,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788249148.3170254
+      "last_checked": 1788250252.5786512
     },
     "Lawsohtun SC|Umrynjah SC": {
       "home": "Lawsohtun SC",
@@ -71,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788249174.9969282
+      "last_checked": 1788250279.5621998
     },
     "Z.Leeds|Z.Arsenal": {
       "home": "Z.Leeds",
@@ -81,36 +58,16 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 6.5,
             "odds": [
-              1.05,
-              11.5
+              7.55,
+              1.1
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.05,
-                "under": 11.5
-              },
-              {
-                "line": 5.5,
-                "over": 1.36,
-                "under": 3.15
-              },
-              {
                 "line": 6.5,
-                "over": 2.23,
-                "under": 1.65
-              },
-              {
-                "line": 7.5,
-                "over": 4.7,
-                "under": 1.19
-              },
-              {
-                "line": 8.5,
-                "over": 12.0,
-                "under": 1.04
+                "over": 7.55,
+                "under": 1.1
               }
             ]
           },
@@ -127,7 +84,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788249199.7872078
+      "last_checked": 1788250304.7253294
     },
     "Z.Brighton|Z.Fulham": {
       "home": "Z.Brighton",
@@ -137,36 +94,16 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 13.5,
             "odds": [
-              1.07,
-              9.25
+              8.2,
+              1.08
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.07,
-                "under": 9.25
-              },
-              {
-                "line": 12.5,
-                "over": 1.46,
-                "under": 2.72
-              },
-              {
                 "line": 13.5,
-                "over": 2.56,
-                "under": 1.51
-              },
-              {
-                "line": 14.5,
-                "over": 5.75,
-                "under": 1.15
-              },
-              {
-                "line": 15.5,
-                "over": 16.5,
-                "under": 1.02
+                "over": 8.2,
+                "under": 1.08
               }
             ]
           },
@@ -183,7 +120,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788249224.686414
+      "last_checked": 1788250329.7646437
+    },
+    "Z.Bournemouth|Z.Liverpool": {
+      "home": "Z.Bournemouth",
+      "away": "Z.Liverpool",
+      "event_id": "10033191",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788250356.623424
     }
   }
 }
