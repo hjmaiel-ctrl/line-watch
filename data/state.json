@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788304135.00545
+      "last_checked": 1788304827.8157153
     },
     "Club 2 de Mayo|Club Sportivo Luqueño": {
       "home": "Club 2 de Mayo",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788304161.5502973
+      "last_checked": 1788304854.3361104
     },
     "Delfin SC|Club Deportivo Técnico Universitario": {
       "home": "Delfin SC",
@@ -57,7 +57,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.02,
+            12.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -67,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788304188.1518595
+      "last_checked": 1788304886.1214933
     },
     "Barranquilla FC|Boca Juniors de Cali": {
       "home": "Barranquilla FC",
@@ -90,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788304214.8232925
+      "last_checked": 1788304912.6929853
     },
     "Colchagua|Brujas de Salamanca": {
       "home": "Colchagua",
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788304241.5885987
+      "last_checked": 1788304939.1624875
     }
   }
 }

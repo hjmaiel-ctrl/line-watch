@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788304241.637921,
+  "generated_at": 1788304939.1967874,
   "matches": [
     {
       "match": "Londrina - EC Juventude",
@@ -55,7 +55,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.02,
+            12.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
