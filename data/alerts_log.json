@@ -1,35 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Independiente - Gimnasia y Esgrima de Mendoza",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.28 a 1.42 (10.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Independiente - Gimnasia y Esgrima de Mendoza",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.25 a 2.6 (25.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Esporte Clube Bahia - SC Internacional",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 6.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Esporte Clube Bahia - SC Internacional",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.47 a 1.28 (14.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Esporte Clube Bahia - SC Internacional",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.45 a 3.25 (32.7%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Saint Louis City SC - Dallas",
     "market": "CARDS_OU",
@@ -2998,5 +2968,35 @@
     "match": "Academia Puerto Cabello - Anzoategui FC",
     "market": "1X2",
     "detail": "sportybet: esito #2 passato da 10.5 a 9.25 (13.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Tigre - Barracas Central",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.57 a 1.4 (12.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Tigre - Barracas Central",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.2 a 2.65 (20.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Deportes Tolima - Cúcuta Deportivo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Deportes Tolima - Cúcuta Deportivo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.65 a 1.35 (22.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Deportes Tolima - Cúcuta Deportivo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.05 a 2.85 (39.0%)"
   }
 ]
