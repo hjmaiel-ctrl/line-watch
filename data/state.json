@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788286286.6035786
+      "last_checked": 1788287653.2081494
     },
     "Sportlust '46|Blauw Geel 38": {
       "home": "Sportlust '46",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788286313.2637517
+      "last_checked": 1788287680.10249
     },
     "ADO '20|Excelsior Maassluis": {
       "home": "ADO '20",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788286340.1032894
+      "last_checked": 1788287706.913969
     },
     "RZ Pellets WAC|LASK Linz": {
       "home": "RZ Pellets WAC",
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788286367.2348206
+      "last_checked": 1788287733.861449
     },
-    "Stade Lausanne-Ouchy|Etoile-Carouge FC": {
-      "home": "Stade Lausanne-Ouchy",
-      "away": "Etoile-Carouge FC",
-      "event_id": "10034209",
+    "FC Zürich|BSC Young Boys": {
+      "home": "FC Zürich",
+      "away": "BSC Young Boys",
+      "event_id": "10034246",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788286394.0401566
+      "last_checked": 1788287760.661392
     }
   }
 }
