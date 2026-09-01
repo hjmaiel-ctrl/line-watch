@@ -21,7 +21,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788305996.9561448
+      "last_checked": 1788306586.046011
+    },
+    "Barranquilla FC|Boca Juniors de Cali": {
+      "home": "Barranquilla FC",
+      "away": "Boca Juniors de Cali",
+      "event_id": "10036445",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788306612.4938753
     },
     "Colchagua|Brujas de Salamanca": {
       "home": "Colchagua",
@@ -44,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788306024.3769786
+      "last_checked": 1788306638.8392236
     },
     "FC Supra du Quebec|Forge": {
       "home": "FC Supra du Quebec",
@@ -59,8 +82,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.35,
-            3.65
+            1.2,
+            4.15
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -71,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788306055.8213837
+      "last_checked": 1788306670.6892138
     },
     "União Frederiquense|Veranópolis": {
       "home": "União Frederiquense",
@@ -94,30 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788306082.3086715
-    },
-    "Gremio Esportivo Bage|Passo Fundo RS": {
-      "home": "Gremio Esportivo Bage",
-      "away": "Passo Fundo RS",
-      "event_id": "10036447",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788306108.742628
+      "last_checked": 1788306697.4561527
     }
   }
 }

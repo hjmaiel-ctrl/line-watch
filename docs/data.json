@@ -1,8 +1,30 @@
 {
-  "generated_at": 1788306108.775889,
+  "generated_at": 1788306697.528367,
   "matches": [
     {
       "match": "Londrina - EC Juventude",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Barranquilla FC - Boca Juniors de Cali",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -57,8 +79,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.35,
-            3.65
+            1.2,
+            4.15
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -69,7 +91,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "FC Supra du Quebec - Forge",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 1.35 a 1.2 (12.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "FC Supra du Quebec - Forge",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 3.65 a 4.15 (13.7%)"
+        }
+      ]
     },
     {
       "match": "União Frederiquense - Veranópolis",
@@ -92,29 +127,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Gremio Esportivo Bage - Passo Fundo RS",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }

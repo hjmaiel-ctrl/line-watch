@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Burgos CF - Real Sociedad B",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.1 a 4.5 (9.8%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Osasuna - Getafe",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 5.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Osasuna - Getafe",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.25 a 3.65 (12.3%)"
@@ -2998,5 +2986,17 @@
     "match": "Adet Aruba - AD Forfut",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 1.6 a 5.2 (225.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "FC Supra du Quebec - Forge",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 1.35 a 1.2 (12.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "FC Supra du Quebec - Forge",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 3.65 a 4.15 (13.7%)"
   }
 ]
