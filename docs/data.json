@@ -1,50 +1,6 @@
 {
-  "generated_at": 1788228628.9442668,
+  "generated_at": 1788229540.3322704,
   "matches": [
-    {
-      "match": "Tigre - Barracas Central",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Instituto de Córdoba - San Lorenzo",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Universidad Católica - O'Higgins",
       "bet9ja_stats": null,
@@ -76,24 +32,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.35,
-              2.85
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 10.5,
-                "over": 1.8,
-                "under": 1.87
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 11.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 3.25,
+                "under": 1.28
               }
             ]
           },
@@ -115,7 +71,7 @@
           "type": "quota_cambiata",
           "match": "Deportes Tolima - Cúcuta Deportivo",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.25 a 2.85 (14.0%)"
+          "detail": "bet9ja: esito #2 passato da 2.85 a 2.5 (14.0%)"
         }
       ]
     },
@@ -126,6 +82,83 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Pitbulls - Municipal Santa Ana",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Z.Hull City - Z.Aston Villa",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.15,
+              5.8
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.15,
+                "under": 5.8
+              },
+              {
+                "line": 11.5,
+                "over": 1.34,
+                "under": 3.25
+              },
+              {
+                "line": 12.5,
+                "over": 1.72,
+                "under": 2.11
+              },
+              {
+                "line": 13.5,
+                "over": 2.4,
+                "under": 1.57
+              },
+              {
+                "line": 14.5,
+                "over": 3.7,
+                "under": 1.28
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
