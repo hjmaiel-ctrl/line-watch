@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788253984.9512186
+      "last_checked": 1788255112.886424
     },
     "MLS FC|Chanmari FC": {
       "home": "MLS FC",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788254011.4578907
+      "last_checked": 1788255139.740716
     },
     "Bukovyna Chernivtsi U21|Dinamo-D Kiev U21": {
       "home": "Bukovyna Chernivtsi U21",
@@ -67,7 +67,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788254038.2932787
+      "last_checked": 1788255166.4135447
+    },
+    "Northerners FC|Sikkim Police": {
+      "home": "Northerners FC",
+      "away": "Sikkim Police",
+      "event_id": "10030775",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788255193.2761607
     },
     "Z.Everton|Z.Man City": {
       "home": "Z.Everton",
@@ -77,92 +100,31 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.04,
-              12.5
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.04,
-                "under": 12.5
-              },
-              {
-                "line": 5.5,
-                "over": 1.2,
-                "under": 4.55
-              },
-              {
-                "line": 6.5,
-                "over": 1.6,
-                "under": 2.33
-              },
-              {
-                "line": 7.5,
-                "over": 2.44,
-                "under": 1.55
-              },
-              {
-                "line": 8.5,
-                "over": 4.35,
-                "under": 1.22
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788254063.2122202
-    },
-    "Z.Man United|Z.Brentford": {
-      "home": "Z.Man United",
-      "away": "Z.Brentford",
-      "event_id": "10033535",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.04,
-              11.5
+              1.14,
+              5.9
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.04,
-                "under": 11.5
+                "over": 1.14,
+                "under": 5.9
               },
               {
                 "line": 8.5,
-                "over": 1.22,
-                "under": 4.25
+                "over": 1.8,
+                "under": 2.01
               },
               {
                 "line": 9.5,
-                "over": 1.65,
-                "under": 2.22
+                "over": 3.85,
+                "under": 1.26
               },
               {
                 "line": 10.5,
-                "over": 2.57,
-                "under": 1.5
-              },
-              {
-                "line": 11.5,
-                "over": 4.7,
-                "under": 1.19
+                "over": 11.0,
+                "under": 1.05
               }
             ]
           },
@@ -179,7 +141,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788254087.9866045
+      "last_checked": 1788255219.2266488
     }
   }
 }

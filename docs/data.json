@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788254088.0310507,
+  "generated_at": 1788255219.2778063,
   "matches": [
     {
       "match": "Takeo Province - Phnom Penh Galaxy",
@@ -68,45 +68,12 @@
       "alerts": []
     },
     {
-      "match": "Z.Everton - Z.Man City",
+      "match": "Northerners FC - Sikkim Police",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.04,
-              12.5
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.04,
-                "under": 12.5
-              },
-              {
-                "line": 5.5,
-                "over": 1.2,
-                "under": 4.55
-              },
-              {
-                "line": 6.5,
-                "over": 1.6,
-                "under": 2.33
-              },
-              {
-                "line": 7.5,
-                "over": 2.44,
-                "under": 1.55
-              },
-              {
-                "line": 8.5,
-                "over": 4.35,
-                "under": 1.22
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -120,23 +87,10 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Everton - Z.Man City",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 4.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Everton - Z.Man City",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 6.65 a 12.5 (88.0%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Z.Man United - Z.Brentford",
+      "match": "Z.Everton - Z.Man City",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -144,34 +98,29 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.04,
-              11.5
+              1.14,
+              5.9
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.04,
-                "under": 11.5
+                "over": 1.14,
+                "under": 5.9
               },
               {
                 "line": 8.5,
-                "over": 1.22,
-                "under": 4.25
+                "over": 1.8,
+                "under": 2.01
               },
               {
                 "line": 9.5,
-                "over": 1.65,
-                "under": 2.22
+                "over": 3.85,
+                "under": 1.26
               },
               {
                 "line": 10.5,
-                "over": 2.57,
-                "under": 1.5
-              },
-              {
-                "line": 11.5,
-                "over": 4.7,
-                "under": 1.19
+                "over": 11.0,
+                "under": 1.05
               }
             ]
           },
@@ -191,24 +140,24 @@
       "alerts": [
         {
           "type": "linea_cambiata",
-          "match": "Z.Man United - Z.Brentford",
+          "match": "Z.Everton - Z.Man City",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 7.5"
+          "detail": "bet9ja: linea passata da 4.5 a 7.5"
         },
         {
           "type": "quota_cambiata",
-          "match": "Z.Man United - Z.Brentford",
+          "match": "Z.Everton - Z.Man City",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.14 a 1.04 (9.6%)"
+          "detail": "bet9ja: esito #1 passato da 1.04 a 1.14 (9.6%)"
         },
         {
           "type": "quota_cambiata",
-          "match": "Z.Man United - Z.Brentford",
+          "match": "Z.Everton - Z.Man City",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 5.65 a 11.5 (103.5%)"
+          "detail": "bet9ja: esito #2 passato da 12.5 a 5.9 (111.9%)"
         }
       ]
     }
   ],
-  "alert_count_this_run": 5
+  "alert_count_this_run": 3
 }
