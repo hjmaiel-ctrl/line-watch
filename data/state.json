@@ -1,9 +1,9 @@
 {
   "matches": {
-    "SC Genemuiden|FC Lisse": {
-      "home": "SC Genemuiden",
-      "away": "FC Lisse",
-      "event_id": "10034233",
+    "HEBC Hamburg|Borussia Dortmund": {
+      "home": "HEBC Hamburg",
+      "away": "Borussia Dortmund",
+      "event_id": "10030873",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,17 +21,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788287653.2081494
+      "last_checked": 1788288591.5460665
     },
-    "Sportlust '46|Blauw Geel 38": {
-      "home": "Sportlust '46",
-      "away": "Blauw Geel 38",
-      "event_id": "10034234",
+    "Lincoln City|Blackburn Rovers": {
+      "home": "Lincoln City",
+      "away": "Blackburn Rovers",
+      "event_id": "10021721",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.3,
+              3.1
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.3,
+                "under": 3.1
+              },
+              {
+                "line": 8.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 9.5,
+                "over": 1.83,
+                "under": 1.83
+              },
+              {
+                "line": 10.5,
+                "over": 2.3,
+                "under": 1.52
+              },
+              {
+                "line": 11.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.92,
+              1.75
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.92,
+                "under": 1.75
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -44,17 +90,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788287680.10249
+      "last_checked": 1788288615.0411527
     },
-    "ADO '20|Excelsior Maassluis": {
-      "home": "ADO '20",
-      "away": "Excelsior Maassluis",
-      "event_id": "10034235",
+    "Portsmouth|Derby County": {
+      "home": "Portsmouth",
+      "away": "Derby County",
+      "event_id": "10021722",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.42,
+              2.6
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.42,
+                "under": 2.6
+              },
+              {
+                "line": 10.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 11.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 12.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 13.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.73,
+              1.95
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.73,
+                "under": 1.95
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -67,16 +159,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788287706.913969
+      "last_checked": 1788288638.4177215
     },
-    "RZ Pellets WAC|LASK Linz": {
-      "home": "RZ Pellets WAC",
-      "away": "LASK Linz",
-      "event_id": "10034207",
+    "Preston North End|Bristol City": {
+      "home": "Preston North End",
+      "away": "Bristol City",
+      "event_id": "10021723",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 8.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 9.5,
+                "over": 1.8,
+                "under": 1.87
+              },
+              {
+                "line": 10.5,
+                "over": 2.25,
+                "under": 1.55
+              },
+              {
+                "line": 11.5,
+                "over": 2.9,
+                "under": 1.32
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -90,16 +215,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788287733.861449
+      "last_checked": 1788288663.5206804
     },
-    "FC Zürich|BSC Young Boys": {
-      "home": "FC Zürich",
-      "away": "BSC Young Boys",
-      "event_id": "10034246",
+    "Sheffield United|Bolton Wanderers": {
+      "home": "Sheffield United",
+      "away": "Bolton Wanderers",
+      "event_id": "10021724",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.4,
+              2.65
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 9.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 10.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 11.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 12.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -113,7 +271,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788287760.661392
+      "last_checked": 1788288688.6547866
     }
   }
 }
