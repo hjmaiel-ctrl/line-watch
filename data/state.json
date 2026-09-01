@@ -21,46 +21,59 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788295355.0783048
+      "last_checked": 1788296162.6515956
     },
-    "Stoke City|Norwich City": {
-      "home": "Stoke City",
-      "away": "Norwich City",
-      "event_id": "10018404",
+    "Envigado FC|Unión Magdalena": {
+      "home": "Envigado FC",
+      "away": "Unión Magdalena",
+      "event_id": "10034284",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788296189.3896978
+    },
+    "Atletico Grau|FBC Melgar": {
+      "home": "Atletico Grau",
+      "away": "FBC Melgar",
+      "event_id": "10034292",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.5,
-              2.35
+              1.37,
+              2.68
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.37,
+                "under": 2.68
+              },
+              {
                 "line": 6.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.79,
+                "under": 1.85
               },
               {
                 "line": 7.5,
-                "over": 2.35,
-                "under": 1.5
-              },
-              {
-                "line": 8.5,
-                "over": 4.25,
-                "under": 1.17
-              },
-              {
-                "line": 9.5,
-                "over": 7.5,
-                "under": 1.04
-              },
-              {
-                "line": 10.5,
-                "over": 10.0,
-                "under": 1.01
+                "over": 2.48,
+                "under": 1.43
               }
             ]
           },
@@ -77,85 +90,72 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788295380.2314112
+      "last_checked": 1788296214.7469037
     },
-    "Birmingham City|Southampton": {
-      "home": "Birmingham City",
-      "away": "Southampton",
-      "event_id": "10021720",
+    "Adet Aruba|AD Forfut": {
+      "home": "Adet Aruba",
+      "away": "AD Forfut",
+      "event_id": "10034293",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788296241.533718
+    },
+    "Z.Brighton|Z.Aston Villa": {
+      "home": "Z.Brighton",
+      "away": "Z.Aston Villa",
+      "event_id": "10036828",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.28,
-              3.25
+              1.29,
+              3.6
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.29,
+                "under": 3.6
               },
               {
                 "line": 9.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 1.55,
+                "under": 2.45
               },
               {
                 "line": 10.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 1.95,
+                "under": 1.84
               },
               {
                 "line": 11.5,
-                "over": 11.0,
-                "under": null
+                "over": 2.64,
+                "under": 1.48
               },
               {
                 "line": 12.5,
-                "over": 11.0,
-                "under": null
+                "over": 3.8,
+                "under": 1.27
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.52,
-              2.3
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.52,
-                "under": 2.3
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788295403.4425502
-    },
-    "Wycombe Wanderers|Sheffield Wednesday": {
-      "home": "Wycombe Wanderers",
-      "away": "Sheffield Wednesday",
-      "event_id": "10034267",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -169,30 +169,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788295430.1383042
-    },
-    "Leicester City|Plymouth Argyle": {
-      "home": "Leicester City",
-      "away": "Plymouth Argyle",
-      "event_id": "10034268",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788295456.7861655
+      "last_checked": 1788296266.280747
     }
   }
 }
