@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788226162.0245337,
+  "generated_at": 1788226956.8207564,
   "matches": [
     {
       "match": "Tigre - Barracas Central",
@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.4,
-              2.65
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
                 "line": 7.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 8.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 9.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
@@ -46,16 +46,10 @@
       },
       "alerts": [
         {
-          "type": "quota_cambiata",
+          "type": "linea_cambiata",
           "match": "Tigre - Barracas Central",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.57 a 1.4 (12.1%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Tigre - Barracas Central",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.2 a 2.65 (20.5%)"
+          "detail": "bet9ja: linea passata da 7.5 a 6.5"
         }
       ]
     },
@@ -65,7 +59,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.38,
+              2.7
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 8.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 9.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -109,30 +126,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 9.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 10.5,
-                "over": 2.2,
-                "under": 1.57
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -146,26 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Deportes Tolima - Cúcuta Deportivo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 8.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Deportes Tolima - Cúcuta Deportivo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.65 a 1.35 (22.2%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Deportes Tolima - Cúcuta Deportivo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.05 a 2.85 (39.0%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Cobreloa - San Marcos De Arica",
@@ -190,5 +165,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 5
+  "alert_count_this_run": 1
 }
