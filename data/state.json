@@ -8,24 +8,93 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 12.5,
             "odds": [
-              1.57,
-              2.2
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
                 "line": 12.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 13.5,
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 14.5,
+                "over": 4.1,
+                "under": 1.18
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788223282.0361948
+    },
+    "Tigre|Barracas Central": {
+      "home": "Tigre",
+      "away": "Barracas Central",
+      "event_id": "10029369",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788223308.9042153
+    },
+    "Instituto de Córdoba|San Lorenzo": {
+      "home": "Instituto de Córdoba",
+      "away": "San Lorenzo",
+      "event_id": "10029370",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.52,
+              2.3
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 9.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 10.5,
                 "over": 2.7,
                 "under": 1.38
               }
@@ -44,40 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788221688.0638838
-    },
-    "Fortaleza EC|Operário Ferroviário": {
-      "home": "Fortaleza EC",
-      "away": "Operário Ferroviário",
-      "event_id": "10029340",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            3.5,
-            1.51
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              2.75
-            ]
-          }
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788221720.0023367
+      "last_checked": 1788223334.019445
     },
     "Deportivo Pasto|Deportivo Pereira": {
       "home": "Deportivo Pasto",
@@ -89,24 +125,24 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.5,
-              2.35
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 10.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 4.5,
+                "under": 1.15
               }
             ]
           },
@@ -123,39 +159,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788221744.9403946
+      "last_checked": 1788223359.136791
     },
-    "Universidad Central de Venezuela FC|Rayo Zuliano": {
-      "home": "Universidad Central de Venezuela FC",
-      "away": "Rayo Zuliano",
-      "event_id": "10029338",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            9.25,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788221776.8926952
-    },
-    "Grêmio Prudente|Paulista FC": {
-      "home": "Grêmio Prudente",
-      "away": "Paulista FC",
-      "event_id": "10029339",
+    "Comercial RP|EC Sao Bernardo": {
+      "home": "Comercial RP",
+      "away": "EC Sao Bernardo",
+      "event_id": "10029342",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -173,7 +182,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788221803.4522812
+      "last_checked": 1788223386.0032406
     }
   }
 }
