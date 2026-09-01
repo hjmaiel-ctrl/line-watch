@@ -1,23 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Z.Tottenham - Z.Nottingham Forest",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 11.5 a 21.0 (82.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Arsenal - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Arsenal - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.65 a 6.5 (15.0%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Z.Hull City - Z.Coventry City",
     "market": "CORNERS_OU",
@@ -2998,5 +2980,23 @@
     "match": "Odra Opole - Wisla Krakow",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 5.3 a 5.9 (11.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Parma - Cremonese",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 17.5 a 18.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Parma - Cremonese",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.55 a 2.3 (48.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Parma - Cremonese",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.25 a 1.52 (48.0%)"
   }
 ]

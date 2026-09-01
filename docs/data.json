@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788283099.6221466,
+  "generated_at": 1788283876.192151,
   "matches": [
     {
       "match": "Parma - Cremonese",
@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 17.5,
+            "line": 18.5,
             "odds": [
-              1.22,
-              3.65
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
-                "line": 17.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
                 "line": 18.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 19.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 20.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 2.3,
+                "under": 1.52
               },
               {
                 "line": 21.5,
-                "over": 4.25,
-                "under": 1.17
+                "over": 3.45,
+                "under": 1.25
+              },
+              {
+                "line": 22.5,
+                "over": 5.25,
+                "under": 1.11
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.55,
-              2.25
+              2.3,
+              1.52
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 2.3,
+                "under": 1.52
               }
             ]
           }
@@ -72,31 +72,19 @@
           "type": "linea_cambiata",
           "match": "Parma - Cremonese",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 16.5 a 17.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Parma - Cremonese",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.1 a 3.65 (12.3%)"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Parma - Cremonese",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 2.5 a 3.5"
+          "detail": "bet9ja: linea passata da 17.5 a 18.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Parma - Cremonese",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.05 a 1.55 (32.3%)"
+          "detail": "bet9ja: esito #1 passato da 1.55 a 2.3 (48.4%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Parma - Cremonese",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.65 a 2.25 (36.4%)"
+          "detail": "bet9ja: esito #2 passato da 2.25 a 1.52 (48.0%)"
         }
       ]
     },
@@ -167,7 +155,7 @@
       "alerts": []
     },
     {
-      "match": "Odra Opole - Wisla Krakow",
+      "match": "MKS Kluczbork - KS Lechia Gdansk",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -176,11 +164,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.09,
-            5.9
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -190,15 +174,8 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Odra Opole - Wisla Krakow",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 5.3 a 5.9 (11.3%)"
-        }
-      ]
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 6
+  "alert_count_this_run": 3
 }
