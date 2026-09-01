@@ -1,8 +1,8 @@
 {
-  "generated_at": 1788296266.3190932,
+  "generated_at": 1788297071.9943645,
   "matches": [
     {
-      "match": "Torino - Monza",
+      "match": "Envigado FC - Unión Magdalena",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,7 +24,51 @@
       "alerts": []
     },
     {
-      "match": "Envigado FC - Unión Magdalena",
+      "match": "Montevideo Wanderers - CA Cerro",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Lobos UPNFM Reserves - Estrella Roja Reserves",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "CD Real Espana Reserves - Atletico Indepediente Reserves",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -54,23 +98,23 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.37,
-              2.68
+              1.38,
+              2.66
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.37,
-                "under": 2.68
+                "over": 1.38,
+                "under": 2.66
               },
               {
                 "line": 6.5,
-                "over": 1.79,
-                "under": 1.85
+                "over": 1.8,
+                "under": 1.83
               },
               {
                 "line": 7.5,
-                "over": 2.48,
+                "over": 2.52,
                 "under": 1.43
               }
             ]
@@ -78,95 +122,41 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Adet Aruba - AD Forfut",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Z.Brighton - Z.Aston Villa",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            4.35,
+            2.45
+          ],
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": null,
             "odds": [
-              1.29,
-              3.6
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.29,
-                "under": 3.6
-              },
-              {
-                "line": 9.5,
-                "over": 1.55,
-                "under": 2.45
-              },
-              {
-                "line": 10.5,
-                "over": 1.95,
-                "under": 1.84
-              },
-              {
-                "line": 11.5,
-                "over": 2.64,
-                "under": 1.48
-              },
-              {
-                "line": 12.5,
-                "over": 3.8,
-                "under": 1.27
-              }
+              2.4,
+              1.37
             ]
           },
           "CARDS_OU": null
         },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
         "bet365": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_differente",
+          "match": "Atletico Grau - FBC Melgar",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja=1.38 vs sportybet=2.4 (esito #1, differenza 73.9%)"
+        },
+        {
+          "type": "quota_differente",
+          "match": "Atletico Grau - FBC Melgar",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja=2.66 vs sportybet=1.37 (esito #2, differenza 94.2%)"
+        }
+      ]
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }

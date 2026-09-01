@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Torino|Monza": {
-      "home": "Torino",
-      "away": "Monza",
-      "event_id": "10030841",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788296162.6515956
-    },
     "Envigado FC|Unión Magdalena": {
       "home": "Envigado FC",
       "away": "Unión Magdalena",
@@ -44,7 +21,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788296189.3896978
+      "last_checked": 1788296962.147459
+    },
+    "Montevideo Wanderers|CA Cerro": {
+      "home": "Montevideo Wanderers",
+      "away": "CA Cerro",
+      "event_id": "10034286",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788296988.6494915
+    },
+    "Lobos UPNFM Reserves|Estrella Roja Reserves": {
+      "home": "Lobos UPNFM Reserves",
+      "away": "Estrella Roja Reserves",
+      "event_id": "10034288",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788297015.1246982
+    },
+    "CD Real Espana Reserves|Atletico Indepediente Reserves": {
+      "home": "CD Real Espana Reserves",
+      "away": "Atletico Indepediente Reserves",
+      "event_id": "10034289",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788297041.859925
     },
     "Atletico Grau|FBC Melgar": {
       "home": "Atletico Grau",
@@ -56,23 +102,23 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.37,
-              2.68
+              1.38,
+              2.66
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.37,
-                "under": 2.68
+                "over": 1.38,
+                "under": 2.66
               },
               {
                 "line": 6.5,
-                "over": 1.79,
-                "under": 1.85
+                "over": 1.8,
+                "under": 1.83
               },
               {
                 "line": 7.5,
-                "over": 2.48,
+                "over": 2.52,
                 "under": 1.43
               }
             ]
@@ -80,96 +126,27 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788296214.7469037
-    },
-    "Adet Aruba|AD Forfut": {
-      "home": "Adet Aruba",
-      "away": "AD Forfut",
-      "event_id": "10034293",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788296241.533718
-    },
-    "Z.Brighton|Z.Aston Villa": {
-      "home": "Z.Brighton",
-      "away": "Z.Aston Villa",
-      "event_id": "10036828",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            4.35,
+            2.45
+          ],
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": null,
             "odds": [
-              1.29,
-              3.6
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.29,
-                "under": 3.6
-              },
-              {
-                "line": 9.5,
-                "over": 1.55,
-                "under": 2.45
-              },
-              {
-                "line": 10.5,
-                "over": 1.95,
-                "under": 1.84
-              },
-              {
-                "line": 11.5,
-                "over": 2.64,
-                "under": 1.48
-              },
-              {
-                "line": 12.5,
-                "over": 3.8,
-                "under": 1.27
-              }
+              2.4,
+              1.37
             ]
           },
           "CARDS_OU": null
         },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
         "bet365": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788296266.280747
+      "last_checked": 1788297071.9466605
     }
   }
 }
