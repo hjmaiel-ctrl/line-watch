@@ -1,5 +1,28 @@
 {
   "matches": {
+    "Club 2 de Mayo|Club Sportivo Luqueño": {
+      "home": "Club 2 de Mayo",
+      "away": "Club Sportivo Luqueño",
+      "event_id": "10034290",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788298717.9805214
+    },
     "Envigado FC|Unión Magdalena": {
       "home": "Envigado FC",
       "away": "Unión Magdalena",
@@ -21,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788297850.4722924
+      "last_checked": 1788298745.0274675
     },
     "Montevideo Wanderers|CA Cerro": {
       "home": "Montevideo Wanderers",
@@ -44,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788297877.6939905
+      "last_checked": 1788298771.7955291
     },
     "Lobos UPNFM Reserves|Estrella Roja Reserves": {
       "home": "Lobos UPNFM Reserves",
@@ -67,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788297904.45975
+      "last_checked": 1788298807.9277263
     },
     "Atletico Grau|FBC Melgar": {
       "home": "Atletico Grau",
@@ -79,19 +102,19 @@
           "CORNERS_OU": {
             "line": 4.5,
             "odds": [
-              1.5,
-              2.26
+              1.59,
+              2.08
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.5,
-                "under": 2.26
+                "over": 1.59,
+                "under": 2.08
               },
               {
                 "line": 5.5,
-                "over": 2.16,
-                "under": 1.55
+                "over": 2.62,
+                "under": 1.38
               }
             ]
           },
@@ -100,14 +123,14 @@
         "sportybet": {
           "1X2": [
             2.4,
-            5.3,
-            2.1
+            1.32,
+            3.65
           ],
           "CORNERS_OU": {
             "line": null,
             "odds": [
               2.4,
-              1.5
+              1.6
             ]
           },
           "CARDS_OU": null
@@ -118,30 +141,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788297934.8186178
-    },
-    "Adet Aruba|AD Forfut": {
-      "home": "Adet Aruba",
-      "away": "AD Forfut",
-      "event_id": "10034293",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788297961.7111256
+      "last_checked": 1788298856.5239468
     }
   }
 }
