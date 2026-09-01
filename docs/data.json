@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788269278.2122433,
+  "generated_at": 1788270129.546923,
   "matches": [
     {
       "match": "FK Akron Tolyatti - Lokomotiv Moscow",
@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 9.5,
             "odds": [
-              1.48,
-              2.36
+              1.6,
+              2.1
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.48,
-                "under": 2.36
-              },
-              {
-                "line": 8.5,
-                "over": 1.8,
-                "under": 1.83
-              },
-              {
                 "line": 9.5,
-                "over": 2.3,
-                "under": 1.51
+                "over": 1.6,
+                "under": 2.1
+              },
+              {
+                "line": 10.5,
+                "over": 2.02,
+                "under": 1.65
+              },
+              {
+                "line": 11.5,
+                "over": 2.68,
+                "under": 1.37
               }
             ]
           },
@@ -44,7 +44,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "FK Akron Tolyatti - Lokomotiv Moscow",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 7.5 a 9.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "FK Akron Tolyatti - Lokomotiv Moscow",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.48 a 1.6 (8.1%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "FK Akron Tolyatti - Lokomotiv Moscow",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.36 a 2.1 (12.4%)"
+        }
+      ]
     },
     {
       "match": "Korona II Kielce - Radomiak Radom",
@@ -122,7 +141,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            3.5,
+            1.67
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -135,5 +158,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 3
 }
