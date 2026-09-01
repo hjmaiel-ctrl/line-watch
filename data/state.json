@@ -1,5 +1,28 @@
 {
   "matches": {
+    "Londrina|EC Juventude": {
+      "home": "Londrina",
+      "away": "EC Juventude",
+      "event_id": "10036448",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788302279.4843764
+    },
     "Club 2 de Mayo|Club Sportivo Luqueño": {
       "home": "Club 2 de Mayo",
       "away": "Club Sportivo Luqueño",
@@ -21,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788301441.8021739
+      "last_checked": 1788302306.530072
     },
     "Delfin SC|Club Deportivo Técnico Universitario": {
       "home": "Delfin SC",
@@ -44,7 +67,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788301468.481499
+      "last_checked": 1788302333.9160802
+    },
+    "Barranquilla FC|Boca Juniors de Cali": {
+      "home": "Barranquilla FC",
+      "away": "Boca Juniors de Cali",
+      "event_id": "10036445",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788302361.0182064
     },
     "Montevideo Wanderers|CA Cerro": {
       "home": "Montevideo Wanderers",
@@ -67,57 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788301495.1897504
-    },
-    "Adet Aruba|AD Forfut": {
-      "home": "Adet Aruba",
-      "away": "AD Forfut",
-      "event_id": "10034293",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            4.6,
-            5.2
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788301526.977498
-    },
-    "Colchagua|Brujas de Salamanca": {
-      "home": "Colchagua",
-      "away": "Brujas de Salamanca",
-      "event_id": "10036443",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788301553.6818485
+      "last_checked": 1788302393.1509278
     }
   }
 }
