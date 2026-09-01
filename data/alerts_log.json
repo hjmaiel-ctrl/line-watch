@@ -1,77 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Deportivo Cali - Atlético Bucaramanga",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 6.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo Cali - Atlético Bucaramanga",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.6 a 1.35 (18.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo Cali - Atlético Bucaramanga",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.15 a 2.85 (32.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "PR Surf - Guaynabo Gol SC",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 1.88 a 3.85 (104.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo Cali - Atlético Bucaramanga",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.85 a 2.6 (9.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Deportivo Cali - Atlético Bucaramanga",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 5.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Monterrey - Atlético San Luis",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 6.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Monterrey - Atlético San Luis",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.2 a 2.45 (11.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Deportivo Cali - Atlético Bucaramanga",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo Cali - Atlético Bucaramanga",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.7 a 3.25 (20.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Xelajú MC - Deportivo Mixco",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 10.5 a 9.5 (10.5%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Deportivo Cali - Atlético Bucaramanga",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 3.5"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Deportivo Cali - Atlético Bucaramanga",
     "market": "CORNERS_OU",
@@ -2998,5 +2926,77 @@
     "match": "Z.Man City - Z.Fulham",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.4 a 5.85 (33.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Man United - Z.Sunderland",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.25 a 11.0 (76.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Bournemouth - Z.Leeds",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Bournemouth - Z.Leeds",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.19 a 1.08 (10.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Bournemouth - Z.Leeds",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.7 a 8.3 (76.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Everton - Z.Coventry City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Everton - Z.Coventry City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 8.9 a 6.8 (30.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Nottingham Forest - Z.Crystal Palace",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Nottingham Forest - Z.Crystal Palace",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.2 a 1.09 (10.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Nottingham Forest - Z.Crystal Palace",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.55 a 7.8 (71.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Man City - Z.Fulham",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Man City - Z.Fulham",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.14 a 1.05 (8.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Man City - Z.Fulham",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.85 a 10.5 (79.5%)"
   }
 ]
