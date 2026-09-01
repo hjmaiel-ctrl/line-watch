@@ -1,26 +1,13 @@
 {
   "matches": {
-    "FK Akron Tolyatti|Lokomotiv Moscow": {
-      "home": "FK Akron Tolyatti",
-      "away": "Lokomotiv Moscow",
-      "event_id": "10034092",
+    "NFC Volos|Kalamata": {
+      "home": "NFC Volos",
+      "away": "Kalamata",
+      "event_id": "10034141",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              2.4,
-              1.42
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 2.4,
-                "under": 1.42
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -34,7 +21,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788274768.1008565
+      "last_checked": 1788276167.6521623
+    },
+    "Fakel Voronezh|Krasnodar": {
+      "home": "Fakel Voronezh",
+      "away": "Krasnodar",
+      "event_id": "10034138",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788276194.1819618
     },
     "Chemik Bydgoszcz|GKS Piast Gliwice": {
       "home": "Chemik Bydgoszcz",
@@ -57,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788274795.3786914
+      "last_checked": 1788276220.7625206
     },
     "Zks Kluczevia Stargard|Pogon Siedlce": {
       "home": "Zks Kluczevia Stargard",
@@ -80,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788274822.5626788
+      "last_checked": 1788276247.3979554
     },
     "Wisla Plock II|Puszcza Niepolomice": {
       "home": "Wisla Plock II",
@@ -103,30 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788274849.6178699
-    },
-    "Siarka Tarnobrzeg|Zaglebie Lubin": {
-      "home": "Siarka Tarnobrzeg",
-      "away": "Zaglebie Lubin",
-      "event_id": "10034100",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788274876.775028
+      "last_checked": 1788276273.8829956
     }
   }
 }
