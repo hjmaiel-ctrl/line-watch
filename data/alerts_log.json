@@ -1,29 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Z.Hull City - Z.Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Hull City - Z.Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.07 a 1.26 (17.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Hull City - Z.Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 9.15 a 3.9 (134.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Liverpool - Z.Crystal Palace",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 11.5 a 10.5"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Z.Liverpool - Z.Crystal Palace",
     "market": "CORNERS_OU",
@@ -2998,5 +2974,29 @@
     "match": "Parma - Cremonese",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 2.25 a 1.52 (48.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Parma - Cremonese",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.45 a 3.0 (15.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Parma - Cremonese",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Parma - Cremonese",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.3 a 2.05 (12.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Parma - Cremonese",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.52 a 1.65 (8.6%)"
   }
 ]
