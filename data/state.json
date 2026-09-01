@@ -7,52 +7,6 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.37,
-              2.68
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.37,
-                "under": 2.68
-              },
-              {
-                "line": 12.5,
-                "over": 1.79,
-                "under": 1.85
-              },
-              {
-                "line": 13.5,
-                "over": 2.48,
-                "under": 1.43
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788272787.683763
-    },
-    "Korona II Kielce|Radomiak Radom": {
-      "home": "Korona II Kielce",
-      "away": "Radomiak Radom",
-      "event_id": "10029403",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -67,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788272814.84788
+      "last_checked": 1788273697.4597948
     },
     "Chemik Bydgoszcz|GKS Piast Gliwice": {
       "home": "Chemik Bydgoszcz",
@@ -90,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788272841.9000614
+      "last_checked": 1788273724.6589766
     },
     "Zks Kluczevia Stargard|Pogon Siedlce": {
       "home": "Zks Kluczevia Stargard",
@@ -113,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788272868.803103
+      "last_checked": 1788273751.6351247
     },
     "Wisla Plock II|Puszcza Niepolomice": {
       "home": "Wisla Plock II",
@@ -136,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788272895.8279736
+      "last_checked": 1788273778.4752991
+    },
+    "Siarka Tarnobrzeg|Zaglebie Lubin": {
+      "home": "Siarka Tarnobrzeg",
+      "away": "Zaglebie Lubin",
+      "event_id": "10034100",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788273805.6831417
     }
   }
 }

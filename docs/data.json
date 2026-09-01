@@ -1,66 +1,8 @@
 {
-  "generated_at": 1788272895.888973,
+  "generated_at": 1788273805.7398648,
   "matches": [
     {
       "match": "FK Akron Tolyatti - Lokomotiv Moscow",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.37,
-              2.68
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.37,
-                "under": 2.68
-              },
-              {
-                "line": 12.5,
-                "over": 1.79,
-                "under": 1.85
-              },
-              {
-                "line": 13.5,
-                "over": 2.48,
-                "under": 1.43
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "FK Akron Tolyatti - Lokomotiv Moscow",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.61 a 1.37 (17.5%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "FK Akron Tolyatti - Lokomotiv Moscow",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.1 a 2.68 (27.6%)"
-        }
-      ]
-    },
-    {
-      "match": "Korona II Kielce - Radomiak Radom",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -146,7 +88,29 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Siarka Tarnobrzeg - Zaglebie Lubin",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
