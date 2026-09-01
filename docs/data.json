@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788246700.7573237,
+  "generated_at": 1788247654.8588226,
   "matches": [
     {
       "match": "Dinthar FC - Saikhamakawn FC",
@@ -35,8 +35,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            3.5,
-            4.55
+            11.0,
+            6.75
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -47,7 +47,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Sohiong SC - Sohryngkham SC",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 3.5 a 11.0 (214.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Sohiong SC - Sohryngkham SC",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 4.55 a 6.75 (48.4%)"
+        }
+      ]
     },
     {
       "match": "Z.Leeds - Z.Arsenal",
@@ -56,36 +69,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.24,
-              4.05
+              1.16,
+              5.3
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.24,
-                "under": 4.05
-              },
-              {
                 "line": 7.5,
-                "over": 1.52,
-                "under": 2.52
+                "over": 1.16,
+                "under": 5.3
               },
               {
                 "line": 8.5,
-                "over": 2.01,
-                "under": 1.79
+                "over": 1.42,
+                "under": 2.85
               },
               {
                 "line": 9.5,
-                "over": 2.93,
-                "under": 1.41
+                "over": 1.93,
+                "under": 1.87
               },
               {
                 "line": 10.5,
-                "over": 4.65,
-                "under": 1.2
+                "over": 2.95,
+                "under": 1.4
+              },
+              {
+                "line": 11.5,
+                "over": 5.0,
+                "under": 1.17
               }
             ]
           },
@@ -107,7 +120,13 @@
           "type": "linea_cambiata",
           "match": "Z.Leeds - Z.Arsenal",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 6.5"
+          "detail": "bet9ja: linea passata da 6.5 a 7.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Leeds - Z.Arsenal",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.05 a 5.3 (30.9%)"
         }
       ]
     },
@@ -118,31 +137,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 12.5,
+            "line": 11.5,
             "odds": [
-              1.15,
-              5.4
+              1.07,
+              9.25
             ],
             "_all_lines": [
               {
+                "line": 11.5,
+                "over": 1.07,
+                "under": 9.25
+              },
+              {
                 "line": 12.5,
-                "over": 1.15,
-                "under": 5.4
+                "over": 1.24,
+                "under": 4.05
               },
               {
                 "line": 13.5,
-                "over": 1.38,
-                "under": 3.05
+                "over": 1.61,
+                "under": 2.31
               },
               {
                 "line": 14.5,
-                "over": 1.79,
-                "under": 2.01
+                "over": 2.33,
+                "under": 1.6
               },
               {
                 "line": 15.5,
-                "over": 2.53,
-                "under": 1.52
+                "over": 3.85,
+                "under": 1.26
               }
             ]
           },
@@ -164,13 +188,13 @@
           "type": "linea_cambiata",
           "match": "Z.Brighton - Z.Fulham",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 12.5"
+          "detail": "bet9ja: linea passata da 12.5 a 11.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Brighton - Z.Fulham",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.4 a 5.4 (22.7%)"
+          "detail": "bet9ja: esito #2 passato da 5.4 a 9.25 (71.3%)"
         }
       ]
     },
@@ -181,31 +205,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 12.5,
+            "line": 10.5,
             "odds": [
-              1.21,
-              4.4
+              1.15,
+              5.75
             ],
             "_all_lines": [
               {
+                "line": 10.5,
+                "over": 1.15,
+                "under": 5.75
+              },
+              {
+                "line": 11.5,
+                "over": 1.39,
+                "under": 3.0
+              },
+              {
                 "line": 12.5,
-                "over": 1.21,
-                "under": 4.4
+                "over": 1.87,
+                "under": 1.93
               },
               {
                 "line": 13.5,
-                "over": 1.47,
-                "under": 2.67
+                "over": 2.78,
+                "under": 1.44
               },
               {
                 "line": 14.5,
-                "over": 1.91,
-                "under": 1.88
-              },
-              {
-                "line": 15.5,
-                "over": 2.74,
-                "under": 1.45
+                "over": 4.65,
+                "under": 1.19
               }
             ]
           },
@@ -227,16 +256,16 @@
           "type": "linea_cambiata",
           "match": "Z.Bournemouth - Z.Liverpool",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 12.5"
+          "detail": "bet9ja: linea passata da 12.5 a 10.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Bournemouth - Z.Liverpool",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.9 a 4.4 (12.8%)"
+          "detail": "bet9ja: esito #2 passato da 4.4 a 5.75 (30.7%)"
         }
       ]
     }
   ],
-  "alert_count_this_run": 5
+  "alert_count_this_run": 8
 }
