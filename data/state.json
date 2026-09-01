@@ -7,8 +7,54 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 16.5,
+            "odds": [
+              1.18,
+              4.1
+            ],
+            "_all_lines": [
+              {
+                "line": 16.5,
+                "over": 1.18,
+                "under": 4.1
+              },
+              {
+                "line": 17.5,
+                "over": 1.42,
+                "under": 2.6
+              },
+              {
+                "line": 18.5,
+                "over": 1.8,
+                "under": 1.87
+              },
+              {
+                "line": 19.5,
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 20.5,
+                "over": 3.25,
+                "under": 1.28
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              2.05,
+              1.65
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 2.05,
+                "under": 1.65
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -21,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788280933.9667013
+      "last_checked": 1788281985.8404162
     },
     "FK Austria Wien Women|SK Brann Women": {
       "home": "FK Austria Wien Women",
@@ -44,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788280960.4383094
+      "last_checked": 1788282012.7530148
     },
     "NFC Volos|Kalamata": {
       "home": "NFC Volos",
@@ -67,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788280986.9916787
+      "last_checked": 1788282039.2517104
     },
     "IF Lyseng|AC Horsens": {
       "home": "IF Lyseng",
@@ -90,36 +136,23 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788281013.462935
+      "last_checked": 1788282066.0710714
     },
-    "Fakel Voronezh|Krasnodar": {
-      "home": "Fakel Voronezh",
-      "away": "Krasnodar",
-      "event_id": "10034138",
+    "Odra Opole|Wisla Krakow": {
+      "home": "Odra Opole",
+      "away": "Wisla Krakow",
+      "event_id": "10034143",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.78,
-              1.79
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.78,
-                "under": 1.79
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
           "1X2": [
             2.4,
-            5.9,
-            1.4
+            1.15,
+            5.3
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -130,7 +163,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788281043.2591693
+      "last_checked": 1788282098.1656942
     }
   }
 }
