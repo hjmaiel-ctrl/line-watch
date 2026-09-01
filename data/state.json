@@ -1,32 +1,5 @@
 {
   "matches": {
-    "Universidad Católica|O'Higgins": {
-      "home": "Universidad Católica",
-      "away": "O'Higgins",
-      "event_id": "10029372",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.03,
-            9.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788230381.6225445
-    },
     "Deportes Tolima|Cúcuta Deportivo": {
       "home": "Deportes Tolima",
       "away": "Cúcuta Deportivo",
@@ -34,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.12,
-              5.0
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.12,
-                "under": 5.0
-              },
-              {
-                "line": 9.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 10.5,
-                "over": 3.0,
-                "under": 1.32
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -71,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788230406.8007524
+      "last_checked": 1788231037.1709256
     },
     "UMECIT|Veraguas FC": {
       "home": "UMECIT",
@@ -94,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788230433.804181
+      "last_checked": 1788231063.7836177
     },
     "Pitbulls|Municipal Santa Ana": {
       "home": "Pitbulls",
@@ -107,7 +57,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            9.5,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -117,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788230460.7171028
+      "last_checked": 1788231095.6081073
     },
     "Z.Hull City|Z.Aston Villa": {
       "home": "Z.Hull City",
@@ -127,31 +81,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 12.5,
+            "line": 10.5,
             "odds": [
-              1.24,
-              4.1
+              1.04,
+              11.5
             ],
             "_all_lines": [
               {
+                "line": 10.5,
+                "over": 1.04,
+                "under": 11.5
+              },
+              {
+                "line": 11.5,
+                "over": 1.22,
+                "under": 4.25
+              },
+              {
                 "line": 12.5,
-                "over": 1.24,
-                "under": 4.1
+                "over": 1.65,
+                "under": 2.23
               },
               {
                 "line": 13.5,
-                "over": 1.6,
-                "under": 2.32
+                "over": 2.56,
+                "under": 1.51
               },
               {
                 "line": 14.5,
-                "over": 2.31,
-                "under": 1.61
-              },
-              {
-                "line": 15.5,
-                "over": 3.8,
-                "under": 1.27
+                "over": 4.65,
+                "under": 1.2
               }
             ]
           },
@@ -168,7 +127,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788230485.9347131
+      "last_checked": 1788231120.7799485
+    },
+    "Z.Arsenal|Z.Man City": {
+      "home": "Z.Arsenal",
+      "away": "Z.Man City",
+      "event_id": "10032343",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.09,
+              7.9
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.09,
+                "under": 7.9
+              },
+              {
+                "line": 8.5,
+                "over": 1.29,
+                "under": 3.55
+              },
+              {
+                "line": 9.5,
+                "over": 1.74,
+                "under": 2.08
+              },
+              {
+                "line": 10.5,
+                "over": 2.64,
+                "under": 1.48
+              },
+              {
+                "line": 11.5,
+                "over": 4.6,
+                "under": 1.2
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788231145.657881
     }
   }
 }
