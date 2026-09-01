@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788299861.155077
+      "last_checked": 1788300676.0513864
     },
     "Delfin SC|Club Deportivo Técnico Universitario": {
       "home": "Delfin SC",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788299888.1224282
+      "last_checked": 1788300702.924991
     },
     "Montevideo Wanderers|CA Cerro": {
       "home": "Montevideo Wanderers",
@@ -67,12 +67,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788299915.1336927
+      "last_checked": 1788300729.7123907
     },
-    "Lobos UPNFM Reserves|Estrella Roja Reserves": {
-      "home": "Lobos UPNFM Reserves",
-      "away": "Estrella Roja Reserves",
-      "event_id": "10034288",
+    "Adet Aruba|AD Forfut": {
+      "home": "Adet Aruba",
+      "away": "AD Forfut",
+      "event_id": "10034293",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            3.2,
+            1.6
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788300761.9987917
+    },
+    "Colchagua|Brujas de Salamanca": {
+      "home": "Colchagua",
+      "away": "Brujas de Salamanca",
+      "event_id": "10036443",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,30 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788299942.1980083
-    },
-    "Atletico Grau|FBC Melgar": {
-      "home": "Atletico Grau",
-      "away": "FBC Melgar",
-      "event_id": "10034292",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788299968.886054
+      "last_checked": 1788300788.813632
     }
   }
 }
