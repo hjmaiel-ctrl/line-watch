@@ -1,36 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "Z.Everton - Z.Leeds",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 7.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Aston Villa - Z.Brighton",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 11.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Brentford - Z.Chelsea",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 11.5 a 10.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Brentford - Z.Chelsea",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.32 a 1.13 (16.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Brentford - Z.Chelsea",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.4 a 6.35 (86.8%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Z.Nottingham Forest - Z.Newcastle Utd",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 8.5 a 9.5"
@@ -2998,5 +2968,35 @@
     "match": "Lincoln City - Blackburn Rovers",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 2.1 a 1.7 (23.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Stoke City - Norwich City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.6 a 1.8 (12.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Stoke City - Norwich City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.15 a 1.87 (15.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Birmingham City - Southampton",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.75 a 2.2 (25.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Birmingham City - Southampton",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.92 a 1.57 (22.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lincoln City - Blackburn Rovers",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.1 a 3.65 (12.3%)"
   }
 ]
