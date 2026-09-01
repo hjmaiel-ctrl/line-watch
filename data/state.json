@@ -7,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.6,
-              2.1
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.6,
-                "under": 2.1
-              },
-              {
-                "line": 10.5,
-                "over": 2.02,
-                "under": 1.65
-              },
-              {
-                "line": 11.5,
-                "over": 2.68,
-                "under": 1.37
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788270017.5209432
+      "last_checked": 1788270727.8409307
     },
     "Korona II Kielce|Radomiak Radom": {
       "home": "Korona II Kielce",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788270044.203972
+      "last_checked": 1788270754.4970412
     },
     "Hull City U21|Swansea City U21": {
       "home": "Hull City U21",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788270070.7658682
+      "last_checked": 1788270780.9932408
     },
     "Charlton Athletic U21|Wigan Athletic U21": {
       "home": "Charlton Athletic U21",
@@ -113,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788270097.728105
+      "last_checked": 1788270807.5470529
     },
     "Bristol City U21|Sheffield United U21": {
       "home": "Bristol City U21",
@@ -126,11 +103,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            3.5,
-            1.67
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -140,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788270129.502448
+      "last_checked": 1788270839.2164853
     }
   }
 }
