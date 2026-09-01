@@ -8,21 +8,67 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.2,
+              3.75
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.2,
+                "under": 3.75
+              },
+              {
+                "line": 6.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 7.5,
+                "over": 4.1,
+                "under": 1.18
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788227492.1769125
+    },
+    "Instituto de Córdoba|San Lorenzo": {
+      "home": "Instituto de Córdoba",
+      "away": "San Lorenzo",
+      "event_id": "10029370",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.38,
-              2.7
+              1.22,
+              3.5
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.22,
+                "under": 3.5
               },
               {
                 "line": 7.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 8.5,
@@ -44,53 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788226850.2043536
-    },
-    "Instituto de Córdoba|San Lorenzo": {
-      "home": "Instituto de Córdoba",
-      "away": "San Lorenzo",
-      "event_id": "10029370",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.38,
-              2.7
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 8.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 9.5,
-                "over": 3.45,
-                "under": 1.25
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788226875.5641198
+      "last_checked": 1788227516.8249056
     },
     "Universidad Católica|O'Higgins": {
       "home": "Universidad Católica",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788226902.693419
+      "last_checked": 1788227543.1854541
     },
     "Deportes Tolima|Cúcuta Deportivo": {
       "home": "Deportes Tolima",
@@ -122,7 +122,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 10.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 11.5,
+                "over": 2.3,
+                "under": 1.52
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -136,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788226929.7055948
+      "last_checked": 1788227567.9236407
     },
     "Cobreloa|San Marcos De Arica": {
       "home": "Cobreloa",
@@ -159,7 +182,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788226956.7763479
+      "last_checked": 1788227594.3450754
     }
   }
 }
