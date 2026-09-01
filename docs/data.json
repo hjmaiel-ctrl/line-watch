@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788237117.090531,
+  "generated_at": 1788237957.019092,
   "matches": [
     {
       "match": "Z.Man United - Z.Sunderland",
@@ -8,36 +8,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.05,
-              11.0
+              1.06,
+              9.55
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.05,
-                "under": 11.0
-              },
-              {
                 "line": 8.5,
-                "over": 1.25,
-                "under": 4.0
+                "over": 1.06,
+                "under": 9.55
               },
               {
                 "line": 9.5,
-                "over": 1.71,
-                "under": 2.13
+                "over": 1.44,
+                "under": 2.79
               },
               {
                 "line": 10.5,
-                "over": 2.71,
-                "under": 1.46
+                "over": 2.5,
+                "under": 1.53
               },
               {
                 "line": 11.5,
-                "over": 5.0,
-                "under": 1.17
+                "over": 5.6,
+                "under": 1.14
+              },
+              {
+                "line": 12.5,
+                "over": 16.0,
+                "under": 1.02
               }
             ]
           },
@@ -56,10 +56,16 @@
       },
       "alerts": [
         {
+          "type": "linea_cambiata",
+          "match": "Z.Man United - Z.Sunderland",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 7.5 a 8.5"
+        },
+        {
           "type": "quota_cambiata",
           "match": "Z.Man United - Z.Sunderland",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 6.25 a 11.0 (76.0%)"
+          "detail": "bet9ja: esito #2 passato da 11.0 a 9.55 (15.2%)"
         }
       ]
     },
@@ -70,177 +76,30 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.08,
-              8.3
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.08,
-                "under": 8.3
-              },
-              {
-                "line": 10.5,
-                "over": 1.34,
-                "under": 3.25
-              },
-              {
-                "line": 11.5,
-                "over": 1.93,
-                "under": 1.86
-              },
-              {
-                "line": 12.5,
-                "over": 3.3,
-                "under": 1.33
-              },
-              {
-                "line": 13.5,
-                "over": 6.6,
-                "under": 1.12
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Bournemouth - Z.Leeds",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 9.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Bournemouth - Z.Leeds",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.19 a 1.08 (10.2%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Bournemouth - Z.Leeds",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.7 a 8.3 (76.6%)"
-        }
-      ]
-    },
-    {
-      "match": "Z.Everton - Z.Coventry City",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.11,
-              6.8
+              1.09,
+              7.95
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.11,
-                "under": 6.8
+                "over": 1.09,
+                "under": 7.95
               },
               {
                 "line": 9.5,
-                "over": 1.43,
-                "under": 2.82
+                "over": 1.55,
+                "under": 2.45
               },
               {
                 "line": 10.5,
-                "over": 2.17,
-                "under": 1.68
+                "over": 2.88,
+                "under": 1.42
               },
               {
                 "line": 11.5,
-                "over": 3.95,
-                "under": 1.25
-              },
-              {
-                "line": 12.5,
-                "over": 8.4,
-                "under": 1.08
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Everton - Z.Coventry City",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 8.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Everton - Z.Coventry City",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 8.9 a 6.8 (30.9%)"
-        }
-      ]
-    },
-    {
-      "match": "Z.Nottingham Forest - Z.Crystal Palace",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.09,
-              7.8
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.09,
-                "under": 7.8
-              },
-              {
-                "line": 7.5,
-                "over": 1.37,
-                "under": 3.1
-              },
-              {
-                "line": 8.5,
-                "over": 2.0,
-                "under": 1.8
-              },
-              {
-                "line": 9.5,
-                "over": 3.5,
-                "under": 1.3
-              },
-              {
-                "line": 10.5,
-                "over": 7.15,
+                "over": 6.95,
                 "under": 1.11
               }
             ]
@@ -261,21 +120,122 @@
       "alerts": [
         {
           "type": "linea_cambiata",
+          "match": "Z.Bournemouth - Z.Leeds",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+        }
+      ]
+    },
+    {
+      "match": "Z.Everton - Z.Coventry City",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.1,
+              7.3
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.1,
+                "under": 7.3
+              },
+              {
+                "line": 9.5,
+                "over": 1.6,
+                "under": 2.32
+              },
+              {
+                "line": 10.5,
+                "over": 3.05,
+                "under": 1.37
+              },
+              {
+                "line": 11.5,
+                "over": 7.65,
+                "under": 1.09
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Z.Nottingham Forest - Z.Crystal Palace",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.11,
+              7.2
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.11,
+                "under": 7.2
+              },
+              {
+                "line": 8.5,
+                "over": 1.62,
+                "under": 2.29
+              },
+              {
+                "line": 9.5,
+                "over": 3.15,
+                "under": 1.36
+              },
+              {
+                "line": 10.5,
+                "over": 7.95,
+                "under": 1.09
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
           "match": "Z.Nottingham Forest - Z.Crystal Palace",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 6.5"
+          "detail": "bet9ja: linea passata da 6.5 a 7.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Nottingham Forest - Z.Crystal Palace",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.2 a 1.09 (10.1%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Nottingham Forest - Z.Crystal Palace",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.55 a 7.8 (71.4%)"
+          "detail": "bet9ja: esito #2 passato da 7.8 a 7.2 (8.3%)"
         }
       ]
     },
@@ -286,36 +246,31 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.05,
-              10.5
+              1.07,
+              8.95
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.05,
-                "under": 10.5
-              },
-              {
                 "line": 7.5,
-                "over": 1.25,
-                "under": 3.9
+                "over": 1.07,
+                "under": 8.95
               },
               {
                 "line": 8.5,
-                "over": 1.73,
-                "under": 2.09
+                "over": 1.48,
+                "under": 2.64
               },
               {
                 "line": 9.5,
-                "over": 2.77,
-                "under": 1.44
+                "over": 2.65,
+                "under": 1.48
               },
               {
                 "line": 10.5,
-                "over": 5.2,
-                "under": 1.16
+                "over": 6.15,
+                "under": 1.13
               }
             ]
           },
@@ -337,22 +292,16 @@
           "type": "linea_cambiata",
           "match": "Z.Man City - Z.Fulham",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 6.5"
+          "detail": "bet9ja: linea passata da 6.5 a 7.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Man City - Z.Fulham",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.14 a 1.05 (8.6%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Man City - Z.Fulham",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 5.85 a 10.5 (79.5%)"
+          "detail": "bet9ja: esito #2 passato da 10.5 a 8.95 (17.3%)"
         }
       ]
     }
   ],
-  "alert_count_this_run": 12
+  "alert_count_this_run": 7
 }
