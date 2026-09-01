@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788252363.7038403,
+  "generated_at": 1788253161.35575,
   "matches": [
     {
       "match": "Takeo Province - Phnom Penh Galaxy",
@@ -22,45 +22,6 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Sohiong SC - Sohryngkham SC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            9.75
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Sohiong SC - Sohryngkham SC",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 11.0 a 100.0 (809.1%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Sohiong SC - Sohryngkham SC",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 4.7 a 9.75 (107.4%)"
-        }
-      ]
     },
     {
       "match": "Lawsohtun SC - Umrynjah SC",
@@ -91,36 +52,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.22,
-              4.3
+              1.12,
+              6.65
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.12,
+                "under": 6.65
+              },
+              {
                 "line": 7.5,
-                "over": 1.22,
-                "under": 4.3
+                "over": 1.32,
+                "under": 3.4
               },
               {
                 "line": 8.5,
-                "over": 1.49,
-                "under": 2.62
+                "over": 1.72,
+                "under": 2.11
               },
               {
                 "line": 9.5,
-                "over": 1.95,
-                "under": 1.85
+                "over": 2.48,
+                "under": 1.54
               },
               {
                 "line": 10.5,
-                "over": 2.79,
-                "under": 1.44
-              },
-              {
-                "line": 11.5,
-                "over": 4.4,
-                "under": 1.21
+                "over": 4.0,
+                "under": 1.25
               }
             ]
           },
@@ -139,10 +100,22 @@
       },
       "alerts": [
         {
+          "type": "linea_cambiata",
+          "match": "Z.Everton - Z.Man City",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 7.5 a 6.5"
+        },
+        {
           "type": "quota_cambiata",
           "match": "Z.Everton - Z.Man City",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.55 a 4.3 (21.1%)"
+          "detail": "bet9ja: esito #1 passato da 1.22 a 1.12 (8.9%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Everton - Z.Man City",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.3 a 6.65 (54.7%)"
         }
       ]
     },
@@ -153,36 +126,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 8.5,
             "odds": [
-              1.28,
-              3.7
+              1.14,
+              5.65
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.14,
+                "under": 5.65
+              },
+              {
+                "line": 9.5,
+                "over": 1.39,
+                "under": 2.99
+              },
+              {
                 "line": 10.5,
-                "over": 1.28,
-                "under": 3.7
+                "over": 1.88,
+                "under": 1.92
               },
               {
                 "line": 11.5,
-                "over": 1.6,
-                "under": 2.34
+                "over": 2.8,
+                "under": 1.44
               },
               {
                 "line": 12.5,
-                "over": 2.15,
-                "under": 1.7
-              },
-              {
-                "line": 13.5,
-                "over": 3.2,
-                "under": 1.35
-              },
-              {
-                "line": 14.5,
-                "over": 5.15,
-                "under": 1.16
+                "over": 4.7,
+                "under": 1.19
               }
             ]
           },
@@ -201,13 +174,80 @@
       },
       "alerts": [
         {
+          "type": "linea_cambiata",
+          "match": "Z.Man United - Z.Brentford",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 10.5 a 8.5"
+        },
+        {
           "type": "quota_cambiata",
           "match": "Z.Man United - Z.Brentford",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.25 a 3.7 (13.8%)"
+          "detail": "bet9ja: esito #1 passato da 1.28 a 1.14 (12.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Man United - Z.Brentford",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.7 a 5.65 (52.7%)"
         }
       ]
+    },
+    {
+      "match": "Z.Nottingham Forest - Z.Aston Villa",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.18,
+              4.85
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.18,
+                "under": 4.85
+              },
+              {
+                "line": 8.5,
+                "over": 1.48,
+                "under": 2.65
+              },
+              {
+                "line": 9.5,
+                "over": 2.04,
+                "under": 1.77
+              },
+              {
+                "line": 10.5,
+                "over": 3.2,
+                "under": 1.35
+              },
+              {
+                "line": 11.5,
+                "over": 5.55,
+                "under": 1.15
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 4
+  "alert_count_this_run": 6
 }
