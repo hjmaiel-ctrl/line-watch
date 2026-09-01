@@ -1,6 +1,51 @@
 {
-  "generated_at": 1788268308.8814607,
+  "generated_at": 1788269278.2122433,
   "matches": [
+    {
+      "match": "FK Akron Tolyatti - Lokomotiv Moscow",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.48,
+              2.36
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.48,
+                "under": 2.36
+              },
+              {
+                "line": 8.5,
+                "over": 1.8,
+                "under": 1.83
+              },
+              {
+                "line": 9.5,
+                "over": 2.3,
+                "under": 1.51
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Korona II Kielce - Radomiak Radom",
       "bet9ja_stats": null,
@@ -69,28 +114,6 @@
     },
     {
       "match": "Bristol City U21 - Sheffield United U21",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Huddersfield Town U21 - Queens Park Rangers U21",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

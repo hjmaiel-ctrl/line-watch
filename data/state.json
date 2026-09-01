@@ -1,5 +1,51 @@
 {
   "matches": {
+    "FK Akron Tolyatti|Lokomotiv Moscow": {
+      "home": "FK Akron Tolyatti",
+      "away": "Lokomotiv Moscow",
+      "event_id": "10034092",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.48,
+              2.36
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.48,
+                "under": 2.36
+              },
+              {
+                "line": 8.5,
+                "over": 1.8,
+                "under": 1.83
+              },
+              {
+                "line": 9.5,
+                "over": 2.3,
+                "under": 1.51
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788269171.058195
+    },
     "Korona II Kielce|Radomiak Radom": {
       "home": "Korona II Kielce",
       "away": "Radomiak Radom",
@@ -21,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788268201.4452055
+      "last_checked": 1788269197.851315
     },
     "Hull City U21|Swansea City U21": {
       "home": "Hull City U21",
@@ -44,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788268228.2304392
+      "last_checked": 1788269224.6439917
     },
     "Charlton Athletic U21|Wigan Athletic U21": {
       "home": "Charlton Athletic U21",
@@ -67,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788268255.0659127
+      "last_checked": 1788269251.4456503
     },
     "Bristol City U21|Sheffield United U21": {
       "home": "Bristol City U21",
@@ -90,30 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788268282.0538998
-    },
-    "Huddersfield Town U21|Queens Park Rangers U21": {
-      "home": "Huddersfield Town U21",
-      "away": "Queens Park Rangers U21",
-      "event_id": "10029399",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788268308.8388648
+      "last_checked": 1788269278.1634598
     }
   }
 }
