@@ -1,5 +1,28 @@
 {
   "matches": {
+    "Takeo Province|Phnom Penh Galaxy": {
+      "home": "Takeo Province",
+      "away": "Phnom Penh Galaxy",
+      "event_id": "10029378",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788252255.4608307
+    },
     "Sohiong SC|Sohryngkham SC": {
       "home": "Sohiong SC",
       "away": "Sohryngkham SC",
@@ -13,8 +36,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            11.0,
-            4.7
+            100.0,
+            9.75
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788251334.7109694
+      "last_checked": 1788252287.458109
     },
     "Lawsohtun SC|Umrynjah SC": {
       "home": "Lawsohtun SC",
@@ -48,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788251361.7809067
+      "last_checked": 1788252314.1131408
     },
     "Z.Everton|Z.Man City": {
       "home": "Z.Everton",
@@ -60,34 +83,34 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.29,
-              3.55
+              1.22,
+              4.3
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.29,
-                "under": 3.55
+                "over": 1.22,
+                "under": 4.3
               },
               {
                 "line": 8.5,
-                "over": 1.57,
-                "under": 2.39
+                "over": 1.49,
+                "under": 2.62
               },
               {
                 "line": 9.5,
-                "over": 2.02,
-                "under": 1.78
+                "over": 1.95,
+                "under": 1.85
               },
               {
                 "line": 10.5,
-                "over": 2.82,
-                "under": 1.43
+                "over": 2.79,
+                "under": 1.44
               },
               {
                 "line": 11.5,
-                "over": 4.2,
-                "under": 1.23
+                "over": 4.4,
+                "under": 1.21
               }
             ]
           },
@@ -104,7 +127,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788251386.6270547
+      "last_checked": 1788252338.9165072
     },
     "Z.Man United|Z.Brentford": {
       "home": "Z.Man United",
@@ -116,34 +139,34 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.34,
-              3.25
+              1.28,
+              3.7
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.34,
-                "under": 3.25
+                "over": 1.28,
+                "under": 3.7
               },
               {
                 "line": 11.5,
-                "over": 1.65,
-                "under": 2.23
+                "over": 1.6,
+                "under": 2.34
               },
               {
                 "line": 12.5,
-                "over": 2.16,
-                "under": 1.69
+                "over": 2.15,
+                "under": 1.7
               },
               {
                 "line": 13.5,
-                "over": 3.05,
-                "under": 1.38
+                "over": 3.2,
+                "under": 1.35
               },
               {
                 "line": 14.5,
-                "over": 4.7,
-                "under": 1.19
+                "over": 5.15,
+                "under": 1.16
               }
             ]
           },
@@ -160,63 +183,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788251411.5470343
-    },
-    "Z.Nottingham Forest|Z.Aston Villa": {
-      "home": "Z.Nottingham Forest",
-      "away": "Z.Aston Villa",
-      "event_id": "10033536",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.21,
-              4.45
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.21,
-                "under": 4.45
-              },
-              {
-                "line": 8.5,
-                "over": 1.44,
-                "under": 2.79
-              },
-              {
-                "line": 9.5,
-                "over": 1.83,
-                "under": 1.96
-              },
-              {
-                "line": 10.5,
-                "over": 2.49,
-                "under": 1.54
-              },
-              {
-                "line": 11.5,
-                "over": 3.65,
-                "under": 1.28
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788251436.3025618
+      "last_checked": 1788252363.659729
     }
   }
 }
