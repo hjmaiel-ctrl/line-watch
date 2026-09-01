@@ -8,20 +8,7 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.83,
-              1.83
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.83,
-                "under": 1.83
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -34,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788278939.1261675
+      "last_checked": 1788280933.9667013
     },
     "FK Austria Wien Women|SK Brann Women": {
       "home": "FK Austria Wien Women",
@@ -57,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788278965.9029028
+      "last_checked": 1788280960.4383094
     },
     "NFC Volos|Kalamata": {
       "home": "NFC Volos",
@@ -80,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788278992.469647
+      "last_checked": 1788280986.9916787
     },
     "IF Lyseng|AC Horsens": {
       "home": "IF Lyseng",
@@ -103,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788279019.223898
+      "last_checked": 1788281013.462935
     },
     "Fakel Voronezh|Krasnodar": {
       "home": "Fakel Voronezh",
@@ -115,31 +102,25 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.62,
-              2.06
+              1.78,
+              1.79
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.62,
-                "under": 2.06
-              },
-              {
-                "line": 10.5,
-                "over": 2.18,
-                "under": 1.56
-              },
-              {
-                "line": 11.5,
-                "over": 3.1,
-                "under": 1.29
+                "over": 1.78,
+                "under": 1.79
               }
             ]
           },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            5.9,
+            1.4
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -149,7 +130,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788279044.0841289
+      "last_checked": 1788281043.2591693
     }
   }
 }
