@@ -1,36 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "Z.Arsenal - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Arsenal - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.31 a 1.15 (13.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Arsenal - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.45 a 5.75 (66.7%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Hull City - Z.Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Hull City - Z.Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.2 a 5.75 (10.6%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Z.Liverpool - Z.Crystal Palace",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 5.5 a 7.5"
@@ -2998,5 +2968,35 @@
     "match": "Z.Man United - Z.Brentford",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.7 a 5.65 (52.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Everton - Z.Man City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Everton - Z.Man City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.65 a 12.5 (88.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Man United - Z.Brentford",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Man United - Z.Brentford",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.14 a 1.04 (9.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Man United - Z.Brentford",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.65 a 11.5 (103.5%)"
   }
 ]
