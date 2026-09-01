@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788300676.0513864
+      "last_checked": 1788301441.8021739
     },
     "Delfin SC|Club Deportivo Técnico Universitario": {
       "home": "Delfin SC",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788300702.924991
+      "last_checked": 1788301468.481499
     },
     "Montevideo Wanderers|CA Cerro": {
       "home": "Montevideo Wanderers",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788300729.7123907
+      "last_checked": 1788301495.1897504
     },
     "Adet Aruba|AD Forfut": {
       "home": "Adet Aruba",
@@ -82,8 +82,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            3.2,
-            1.6
+            4.6,
+            5.2
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788300761.9987917
+      "last_checked": 1788301526.977498
     },
     "Colchagua|Brujas de Salamanca": {
       "home": "Colchagua",
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788300788.813632
+      "last_checked": 1788301553.6818485
     }
   }
 }

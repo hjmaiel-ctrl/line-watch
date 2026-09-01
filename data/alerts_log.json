@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Lecce - AS Roma",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.9 a 4.5 (15.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Burgos CF - Real Sociedad B",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 6.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Burgos CF - Real Sociedad B",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.1 a 4.5 (9.8%)"
@@ -2998,5 +2986,17 @@
     "match": "Atletico Grau - FBC Melgar",
     "market": "CORNERS_OU",
     "detail": "sportybet: esito #2 passato da 1.6 a 2.1 (31.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Adet Aruba - AD Forfut",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 3.2 a 4.6 (43.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Adet Aruba - AD Forfut",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 1.6 a 5.2 (225.0%)"
   }
 ]

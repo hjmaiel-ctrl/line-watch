@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788300788.8514757,
+  "generated_at": 1788301553.7301676,
   "matches": [
     {
       "match": "Club 2 de Mayo - Club Sportivo Luqueño",
@@ -79,8 +79,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            3.2,
-            1.6
+            4.6,
+            5.2
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -91,7 +91,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Adet Aruba - AD Forfut",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 3.2 a 4.6 (43.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Adet Aruba - AD Forfut",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 1.6 a 5.2 (225.0%)"
+        }
+      ]
     },
     {
       "match": "Colchagua - Brujas de Salamanca",
@@ -116,5 +129,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
