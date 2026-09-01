@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788223386.0554006,
+  "generated_at": 1788224508.7112095,
   "matches": [
     {
       "match": "Clube do Remo - Coritiba",
@@ -7,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.5,
-              2.35
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.5,
-                "under": 2.35
-              },
-              {
-                "line": 13.5,
-                "over": 2.35,
-                "under": 1.5
-              },
-              {
-                "line": 14.5,
-                "over": 4.1,
-                "under": 1.18
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,14 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Clube do Remo - Coritiba",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 11.5 a 12.5"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Tigre - Barracas Central",
@@ -59,7 +29,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.47,
+              2.45
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 7.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 8.5,
+                "over": 3.1,
+                "under": 1.3
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -81,30 +74,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.52,
-              2.3
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.52,
-                "under": 2.3
-              },
-              {
-                "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 10.5,
-                "over": 2.7,
-                "under": 1.38
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -121,35 +91,12 @@
       "alerts": []
     },
     {
-      "match": "Deportivo Pasto - Deportivo Pereira",
+      "match": "Universidad Católica - O'Higgins",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 9.5,
-                "over": 2.35,
-                "under": 1.5
-              },
-              {
-                "line": 10.5,
-                "over": 4.5,
-                "under": 1.15
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -163,23 +110,10 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Deportivo Pasto - Deportivo Pereira",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.5 a 1.32 (13.6%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Deportivo Pasto - Deportivo Pereira",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.35 a 3.0 (27.7%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Comercial RP - EC Sao Bernardo",
+      "match": "Academia Puerto Cabello - Anzoategui FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -188,7 +122,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            10.5,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -201,5 +139,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 0
 }
