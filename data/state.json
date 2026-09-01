@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788263005.6007621
+      "last_checked": 1788263780.819188
     },
     "Lanzhou Longyuan Athletic|Beijing Guoan": {
       "home": "Lanzhou Longyuan Athletic",
@@ -33,24 +33,24 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.62,
-              2.08
+              1.38,
+              2.66
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.62,
-                "under": 2.08
+                "over": 1.38,
+                "under": 2.66
               },
               {
                 "line": 9.5,
-                "over": 2.0,
-                "under": 1.67
+                "over": 1.67,
+                "under": 1.99
               },
               {
                 "line": 10.5,
-                "over": 2.54,
-                "under": 1.41
+                "over": 2.1,
+                "under": 1.6
               }
             ]
           },
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788263030.4392173
+      "last_checked": 1788263805.8604624
     },
     "Meghalaya Police|Shillong Lajong FC Reserves": {
       "home": "Meghalaya Police",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788263056.9289641
+      "last_checked": 1788263832.6634357
     },
     "FC Metalist 1925 Kharkiv Women|KFF Mitrovica Women": {
       "home": "FC Metalist 1925 Kharkiv Women",
@@ -113,12 +113,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788263083.593174
+      "last_checked": 1788263859.5500894
     },
-    "Shandong Taishan|Shanghai Port": {
-      "home": "Shandong Taishan",
-      "away": "Shanghai Port",
-      "event_id": "10029394",
+    "Dalian Yingbo|Shanghai Shenhua": {
+      "home": "Dalian Yingbo",
+      "away": "Shanghai Shenhua",
+      "event_id": "10029393",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788263110.1584742
+      "last_checked": 1788263886.2044024
     }
   }
 }

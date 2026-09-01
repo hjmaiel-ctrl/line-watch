@@ -1,18 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "Z.Hull City - Z.Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 3.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Hull City - Z.Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.75 a 6.6 (14.8%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Z.Liverpool - Z.Crystal Palace",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 7.5 a 8.5"
@@ -2998,5 +2986,17 @@
     "match": "MLS FC - Chanmari FC",
     "market": "1X2",
     "detail": "sportybet: esito #2 passato da 19.0 a 10.0 (90.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lanzhou Longyuan Athletic - Beijing Guoan",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.62 a 1.38 (17.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Lanzhou Longyuan Athletic - Beijing Guoan",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.08 a 2.66 (27.9%)"
   }
 ]
