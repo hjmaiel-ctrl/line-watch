@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788227594.4079373,
+  "generated_at": 1788228628.9442668,
   "matches": [
     {
       "match": "Tigre - Barracas Central",
@@ -7,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.2,
-              3.75
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.2,
-                "under": 3.75
-              },
-              {
-                "line": 6.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 7.5,
-                "over": 4.1,
-                "under": 1.18
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,26 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Tigre - Barracas Central",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 5.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Tigre - Barracas Central",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.38 a 1.2 (15.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Tigre - Barracas Central",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.7 a 3.75 (38.9%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Instituto de Córdoba - San Lorenzo",
@@ -71,30 +29,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.22,
-              3.5
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.22,
-                "under": 3.5
-              },
-              {
-                "line": 7.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 8.5,
-                "over": 3.9,
-                "under": 1.2
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -108,26 +43,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Instituto de Córdoba - San Lorenzo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 6.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Instituto de Córdoba - San Lorenzo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.38 a 1.22 (13.1%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Instituto de Córdoba - San Lorenzo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.7 a 3.5 (29.6%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Universidad Católica - O'Higgins",
@@ -160,24 +76,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.28,
-              3.25
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 10.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.8,
+                "under": 1.87
               },
               {
                 "line": 11.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.6,
+                "under": 1.42
               }
             ]
           },
@@ -194,10 +110,17 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Deportes Tolima - Cúcuta Deportivo",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.25 a 2.85 (14.0%)"
+        }
+      ]
     },
     {
-      "match": "Cobreloa - San Marcos De Arica",
+      "match": "UMECIT - Veraguas FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -219,5 +142,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 6
+  "alert_count_this_run": 1
 }
