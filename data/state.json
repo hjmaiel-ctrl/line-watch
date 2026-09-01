@@ -7,7 +7,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.61,
+              2.1
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.61,
+                "under": 2.1
+              },
+              {
+                "line": 12.5,
+                "over": 2.14,
+                "under": 1.58
+              },
+              {
+                "line": 13.5,
+                "over": 3.0,
+                "under": 1.3
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -21,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788270727.8409307
+      "last_checked": 1788271815.6074312
     },
     "Korona II Kielce|Radomiak Radom": {
       "home": "Korona II Kielce",
@@ -44,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788270754.4970412
+      "last_checked": 1788271841.6492364
     },
-    "Hull City U21|Swansea City U21": {
-      "home": "Hull City U21",
-      "away": "Swansea City U21",
-      "event_id": "10029396",
+    "Chemik Bydgoszcz|GKS Piast Gliwice": {
+      "home": "Chemik Bydgoszcz",
+      "away": "GKS Piast Gliwice",
+      "event_id": "10034097",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788270780.9932408
+      "last_checked": 1788271867.6943572
     },
-    "Charlton Athletic U21|Wigan Athletic U21": {
-      "home": "Charlton Athletic U21",
-      "away": "Wigan Athletic U21",
-      "event_id": "10029397",
+    "Zks Kluczevia Stargard|Pogon Siedlce": {
+      "home": "Zks Kluczevia Stargard",
+      "away": "Pogon Siedlce",
+      "event_id": "10034098",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +113,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788270807.5470529
+      "last_checked": 1788271893.740419
     },
-    "Bristol City U21|Sheffield United U21": {
-      "home": "Bristol City U21",
-      "away": "Sheffield United U21",
-      "event_id": "10029398",
+    "Wisla Plock II|Puszcza Niepolomice": {
+      "home": "Wisla Plock II",
+      "away": "Puszcza Niepolomice",
+      "event_id": "10034099",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788270839.2164853
+      "last_checked": 1788271919.7698016
     }
   }
 }
