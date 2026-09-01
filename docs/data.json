@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788256298.982869,
+  "generated_at": 1788256882.6631787,
   "matches": [
     {
       "match": "Perak FA - Kuala Lumpur City FC",
@@ -35,8 +35,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.04,
-            9.5
+            1.2,
+            4.7
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -47,7 +47,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Takeo Province - Phnom Penh Galaxy",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 1.04 a 1.2 (15.4%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Takeo Province - Phnom Penh Galaxy",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 9.5 a 4.7 (102.1%)"
+        }
+      ]
     },
     {
       "match": "MLS FC - Chanmari FC",
@@ -116,5 +129,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
