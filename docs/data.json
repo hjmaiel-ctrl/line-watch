@@ -1,6 +1,73 @@
 {
-  "generated_at": 1788262293.766407,
+  "generated_at": 1788263110.2050047,
   "matches": [
+    {
+      "match": "MS Netanya Kolet Cohen - Ihud Bnei Baqa",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Lanzhou Longyuan Athletic - Beijing Guoan",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.62,
+              2.08
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.62,
+                "under": 2.08
+              },
+              {
+                "line": 9.5,
+                "over": 2.0,
+                "under": 1.67
+              },
+              {
+                "line": 10.5,
+                "over": 2.54,
+                "under": 1.41
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Meghalaya Police - Shillong Lajong FC Reserves",
       "bet9ja_stats": null,
@@ -46,51 +113,7 @@
       "alerts": []
     },
     {
-      "match": "Farense U23 - Famalicão U23",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "SK Sigma Olomouc U19 - AC Sparta Praha U19",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Moreirense FC U23 - Portimonense",
+      "match": "Shandong Taishan - Shanghai Port",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
