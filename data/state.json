@@ -1,5 +1,28 @@
 {
   "matches": {
+    "Coquimbo Unido|Universidad de Concepción": {
+      "home": "Coquimbo Unido",
+      "away": "Universidad de Concepción",
+      "event_id": "10043836",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788387279.8568497
+    },
     "Club Olimpia|Club Guaraní": {
       "home": "Club Olimpia",
       "away": "Club Guaraní",
@@ -21,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788386332.4750924
+      "last_checked": 1788387306.9591527
     },
     "Deportivo Cuenca|Guayaquil City FC": {
       "home": "Deportivo Cuenca",
@@ -44,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788386359.282077
+      "last_checked": 1788387333.7826555
     },
     "San Martin Margarita Belen|CD Policiales": {
       "home": "San Martin Margarita Belen",
@@ -67,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788386391.8838866
+      "last_checked": 1788387365.972123
     },
     "HYH Sebaco FC|Walter Ferretti": {
       "home": "HYH Sebaco FC",
@@ -90,30 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788386419.1566956
-    },
-    "Monjas FC|CD Sansare": {
-      "home": "Monjas FC",
-      "away": "CD Sansare",
-      "event_id": "10040294",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788386446.1431255
+      "last_checked": 1788387393.2829616
     }
   }
 }

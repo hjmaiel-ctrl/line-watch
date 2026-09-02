@@ -1,6 +1,28 @@
 {
-  "generated_at": 1788386446.1837878,
+  "generated_at": 1788387393.3309596,
   "matches": [
+    {
+      "match": "Coquimbo Unido - Universidad de Concepción",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Club Olimpia - Club Guaraní",
       "bet9ja_stats": null,
@@ -69,28 +91,6 @@
     },
     {
       "match": "HYH Sebaco FC - Walter Ferretti",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Monjas FC - CD Sansare",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
