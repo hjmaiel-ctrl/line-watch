@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 12.5,
             "odds": [
-              1.42,
-              2.6
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
-                "line": 11.5,
-                "over": 1.95,
-                "under": 1.73
-              },
-              {
                 "line": 12.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 13.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 14.5,
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788392233.8563874
+      "last_checked": 1788392820.786145
     },
     "Coquimbo Unido|Universidad de Concepción": {
       "home": "Coquimbo Unido",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788392260.4301407
+      "last_checked": 1788392847.7893803
     },
     "Deportes Quindío|Llaneros FC Villavicencio": {
       "home": "Deportes Quindío",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788392294.2502928
+      "last_checked": 1788392874.9134796
     },
     "Club Atlético Talleres Reserves|Instituto de Cordoba Reserves": {
       "home": "Club Atlético Talleres Reserves",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788392320.7588875
+      "last_checked": 1788392902.3086157
     },
     "SV Broki|Delfines Del Este": {
       "home": "SV Broki",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788392347.323019
+      "last_checked": 1788392929.1439621
     }
   }
 }
