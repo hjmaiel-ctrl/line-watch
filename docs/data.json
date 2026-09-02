@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788325199.0190415,
+  "generated_at": 1788325988.9735997,
   "matches": [
     {
       "match": "Marist FC - Malaita Kingz",
@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            7.0,
-            5.0
+            14.5,
+            7.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -30,13 +30,13 @@
           "type": "quota_cambiata",
           "match": "Marist FC - Malaita Kingz",
           "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 3.33 a 7.0 (110.2%)"
+          "detail": "sportybet: esito #2 passato da 7.0 a 14.5 (107.1%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Marist FC - Malaita Kingz",
           "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 3.9 a 5.0 (28.2%)"
+          "detail": "sportybet: esito #3 passato da 5.0 a 7.0 (40.0%)"
         }
       ]
     },
@@ -47,200 +47,35 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.3,
-              3.5
+              1.2,
+              4.5
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.2,
+                "under": 4.5
+              },
+              {
                 "line": 9.5,
-                "over": 1.3,
-                "under": 3.5
+                "over": 1.43,
+                "under": 2.81
               },
               {
                 "line": 10.5,
-                "over": 1.57,
-                "under": 2.4
+                "over": 1.82,
+                "under": 1.97
               },
               {
                 "line": 11.5,
-                "over": 1.99,
-                "under": 1.81
+                "over": 2.48,
+                "under": 1.54
               },
               {
                 "line": 12.5,
-                "over": 2.71,
-                "under": 1.46
-              },
-              {
-                "line": 13.5,
-                "over": 3.95,
-                "under": 1.25
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Z.Man City - Z.Crystal Palace",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.29,
-              3.6
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.29,
-                "under": 3.6
-              },
-              {
-                "line": 10.5,
-                "over": 1.55,
-                "under": 2.44
-              },
-              {
-                "line": 11.5,
-                "over": 1.96,
-                "under": 1.84
-              },
-              {
-                "line": 12.5,
-                "over": 2.66,
-                "under": 1.48
-              },
-              {
-                "line": 13.5,
-                "over": 3.85,
-                "under": 1.26
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Z.Newcastle Utd - Z.Bournemouth",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.23,
-              4.15
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.23,
-                "under": 4.15
-              },
-              {
-                "line": 10.5,
-                "over": 1.46,
-                "under": 2.72
-              },
-              {
-                "line": 11.5,
-                "over": 1.84,
-                "under": 1.96
-              },
-              {
-                "line": 12.5,
-                "over": 2.45,
-                "under": 1.55
-              },
-              {
-                "line": 13.5,
-                "over": 3.55,
-                "under": 1.3
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Z.Man United - Z.Everton",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.25,
-              4.0
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.25,
-                "under": 4.0
-              },
-              {
-                "line": 10.5,
-                "over": 1.49,
-                "under": 2.62
-              },
-              {
-                "line": 11.5,
-                "over": 1.89,
-                "under": 1.9
-              },
-              {
-                "line": 12.5,
-                "over": 2.54,
-                "under": 1.51
-              },
-              {
-                "line": 13.5,
-                "over": 3.7,
+                "over": 3.65,
                 "under": 1.28
               }
             ]
@@ -258,8 +93,237 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Z.Sunderland - Z.Arsenal",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Sunderland - Z.Arsenal",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.3 a 1.2 (8.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Sunderland - Z.Arsenal",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.5 a 4.5 (28.6%)"
+        }
+      ]
+    },
+    {
+      "match": "Z.Man City - Z.Crystal Palace",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.2,
+              4.6
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.2,
+                "under": 4.6
+              },
+              {
+                "line": 9.5,
+                "over": 1.42,
+                "under": 2.86
+              },
+              {
+                "line": 10.5,
+                "over": 1.8,
+                "under": 2.0
+              },
+              {
+                "line": 11.5,
+                "over": 2.43,
+                "under": 1.56
+              },
+              {
+                "line": 12.5,
+                "over": 3.6,
+                "under": 1.29
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Z.Man City - Z.Crystal Palace",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Man City - Z.Crystal Palace",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.6 a 4.6 (27.8%)"
+        }
+      ]
+    },
+    {
+      "match": "Z.Newcastle Utd - Z.Bournemouth",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.14,
+              5.65
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.14,
+                "under": 5.65
+              },
+              {
+                "line": 8.5,
+                "over": 1.33,
+                "under": 3.3
+              },
+              {
+                "line": 9.5,
+                "over": 1.67,
+                "under": 2.19
+              },
+              {
+                "line": 10.5,
+                "over": 2.24,
+                "under": 1.64
+              },
+              {
+                "line": 11.5,
+                "over": 3.3,
+                "under": 1.34
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Z.Newcastle Utd - Z.Bournemouth",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 7.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Newcastle Utd - Z.Bournemouth",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.15 a 5.65 (36.1%)"
+        }
+      ]
+    },
+    {
+      "match": "Z.Man United - Z.Everton",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.14,
+              5.7
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.14,
+                "under": 5.7
+              },
+              {
+                "line": 9.5,
+                "over": 1.33,
+                "under": 3.3
+              },
+              {
+                "line": 10.5,
+                "over": 1.67,
+                "under": 2.2
+              },
+              {
+                "line": 11.5,
+                "over": 2.23,
+                "under": 1.65
+              },
+              {
+                "line": 12.5,
+                "over": 3.25,
+                "under": 1.34
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Z.Man United - Z.Everton",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Man United - Z.Everton",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.25 a 1.14 (9.6%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Man United - Z.Everton",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.0 a 5.7 (42.5%)"
+        }
+      ]
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 12
 }
