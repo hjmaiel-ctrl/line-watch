@@ -1,28 +1,6 @@
 {
-  "generated_at": 1788363545.3261602,
+  "generated_at": 1788364559.2569394,
   "matches": [
-    {
-      "match": "Nestos Chrysoupoli - AEK Athens",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Marko - Kifisia FC",
       "bet9ja_stats": null,
@@ -52,26 +30,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.58,
-              2.14
+              1.59,
+              2.12
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.59,
+                "under": 2.12
+              },
+              {
                 "line": 9.5,
-                "over": 1.58,
-                "under": 2.14
+                "over": 2.02,
+                "under": 1.66
               },
               {
                 "line": 10.5,
-                "over": 1.93,
-                "under": 1.72
-              },
-              {
-                "line": 11.5,
-                "over": 2.46,
-                "under": 1.45
+                "over": 2.66,
+                "under": 1.38
               }
             ]
           },
@@ -88,10 +66,17 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Zenit St. Petersburg - FC Dynamo-Makhachkala",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+        }
+      ]
     },
     {
-      "match": "KS Gornik Polkowice - Polonia Warszawa",
+      "match": "Gornik Zabrze II - Olimpia Grudziadz",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -113,7 +98,29 @@
       "alerts": []
     },
     {
-      "match": "AKS Beskid Andrychow - Slask II Wroclaw",
+      "match": "Znicz Pruszków - Cracovia Kraków",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "El Gounah - Al-Mokawloon al-Arab",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -135,5 +142,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }

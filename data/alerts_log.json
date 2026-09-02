@@ -1,11 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Deportivo Pasto - Deportivo Pereira",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 11.5"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Deportivo Pasto - Deportivo Pereira",
     "market": "CORNERS_OU",
@@ -2998,5 +2992,11 @@
     "match": "Sassuolo - Frosinone",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 2.35 a 1.47 (59.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Zenit St. Petersburg - FC Dynamo-Makhachkala",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 8.5"
   }
 ]
