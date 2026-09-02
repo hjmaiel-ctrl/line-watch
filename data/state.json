@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788306586.046011
+      "last_checked": 1788307128.4304092
     },
     "Barranquilla FC|Boca Juniors de Cali": {
       "home": "Barranquilla FC",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788306612.4938753
+      "last_checked": 1788307155.2795308
     },
     "Colchagua|Brujas de Salamanca": {
       "home": "Colchagua",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788306638.8392236
+      "last_checked": 1788307181.7730274
     },
     "FC Supra du Quebec|Forge": {
       "home": "FC Supra du Quebec",
@@ -80,11 +80,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.2,
-            4.15
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -94,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788306670.6892138
+      "last_checked": 1788307213.734305
     },
     "União Frederiquense|Veranópolis": {
       "home": "União Frederiquense",
@@ -117,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788306697.4561527
+      "last_checked": 1788307240.3211043
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788306697.528367,
+  "generated_at": 1788307240.3630605,
   "matches": [
     {
       "match": "Londrina - EC Juventude",
@@ -77,11 +77,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.2,
-            4.15
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -91,20 +87,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "FC Supra du Quebec - Forge",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 1.35 a 1.2 (12.5%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "FC Supra du Quebec - Forge",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 3.65 a 4.15 (13.7%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "União Frederiquense - Veranópolis",
@@ -129,5 +112,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
