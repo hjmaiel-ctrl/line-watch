@@ -21,119 +21,36 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788310643.9068298
+      "last_checked": 1788311435.0518632
     },
-    "Club 2 de Mayo Reserves|Club Sportivo Luqueño Reserves": {
-      "home": "Club 2 de Mayo Reserves",
-      "away": "Club Sportivo Luqueño Reserves",
-      "event_id": "10036451",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788310670.4661882
-    },
-    "Montevideo City Torque|Danubio": {
-      "home": "Montevideo City Torque",
-      "away": "Danubio",
-      "event_id": "10036452",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788310697.0165823
-    },
-    "Defence Force FC|Club Sando": {
-      "home": "Defence Force FC",
-      "away": "Club Sando",
-      "event_id": "10036454",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            8.5,
-            6.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788310729.2913358
-    },
-    "Z.Crystal Palace|Z.Arsenal": {
-      "home": "Z.Crystal Palace",
-      "away": "Z.Arsenal",
-      "event_id": "10037850",
+    "Fortaleza FC|Once Caldas": {
+      "home": "Fortaleza FC",
+      "away": "Once Caldas",
+      "event_id": "10036458",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.09,
-              8.15
+              1.52,
+              2.3
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.09,
-                "under": 8.15
-              },
-              {
                 "line": 9.5,
-                "over": 1.28,
-                "under": 3.65
+                "over": 1.52,
+                "under": 2.3
               },
               {
                 "line": 10.5,
-                "over": 1.71,
-                "under": 2.12
+                "over": 1.9,
+                "under": 1.78
               },
               {
                 "line": 11.5,
-                "over": 2.57,
-                "under": 1.51
-              },
-              {
-                "line": 12.5,
-                "over": 4.4,
-                "under": 1.21
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
@@ -150,7 +67,113 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788310754.125331
+      "last_checked": 1788311459.8570116
+    },
+    "Club 2 de Mayo Reserves|Club Sportivo Luqueño Reserves": {
+      "home": "Club 2 de Mayo Reserves",
+      "away": "Club Sportivo Luqueño Reserves",
+      "event_id": "10036451",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            15.0,
+            4.5
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788311491.746661
+    },
+    "Marte Soyapango|CD Once Municipal": {
+      "home": "Marte Soyapango",
+      "away": "CD Once Municipal",
+      "event_id": "10036459",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788311518.5014334
+    },
+    "Z.Crystal Palace|Z.Arsenal": {
+      "home": "Z.Crystal Palace",
+      "away": "Z.Arsenal",
+      "event_id": "10037850",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.13,
+              6.3
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.13,
+                "under": 6.3
+              },
+              {
+                "line": 9.5,
+                "over": 1.48,
+                "under": 2.65
+              },
+              {
+                "line": 10.5,
+                "over": 2.31,
+                "under": 1.61
+              },
+              {
+                "line": 11.5,
+                "over": 4.4,
+                "under": 1.21
+              },
+              {
+                "line": 12.5,
+                "over": 9.8,
+                "under": 1.06
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788311543.3476148
     }
   }
 }
