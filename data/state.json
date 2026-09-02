@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788343024.904055
+      "last_checked": 1788343946.8372893
     },
     "Vanraure Hachinohe|Tochigi City FC": {
       "home": "Vanraure Hachinohe",
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788343051.9006438
+      "last_checked": 1788343972.766964
     },
-    "Kandal Province|Kampong Speu Province": {
-      "home": "Kandal Province",
-      "away": "Kampong Speu Province",
-      "event_id": "10036466",
+    "Renofa Yamaguchi|Fujieda MYFC": {
+      "home": "Renofa Yamaguchi",
+      "away": "Fujieda MYFC",
+      "event_id": "10036484",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788343078.6929743
+      "last_checked": 1788343998.6993306
     },
-    "FC Gintra Women|SK Sturm Graz Women": {
-      "home": "FC Gintra Women",
-      "away": "SK Sturm Graz Women",
-      "event_id": "10036468",
+    "Gainare Tottori|RB Omiya Ardija": {
+      "home": "Gainare Tottori",
+      "away": "RB Omiya Ardija",
+      "event_id": "10036495",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788343105.594349
+      "last_checked": 1788344024.767629
     },
-    "HNK Rijeka U19|NK Kustošija U19": {
-      "home": "HNK Rijeka U19",
-      "away": "NK Kustošija U19",
-      "event_id": "10036469",
+    "Tegevajaro Miyazaki|Kataller Toyama": {
+      "home": "Tegevajaro Miyazaki",
+      "away": "Kataller Toyama",
+      "event_id": "10036496",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788343134.3830755
+      "last_checked": 1788344050.7189307
     }
   }
 }
