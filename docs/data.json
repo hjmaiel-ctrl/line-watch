@@ -1,6 +1,28 @@
 {
-  "generated_at": 1788388352.043503,
+  "generated_at": 1788389087.8266373,
   "matches": [
+    {
+      "match": "Flamengo - Mirassol FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Coquimbo Unido - Universidad de Concepción",
       "bet9ja_stats": null,
@@ -68,7 +90,7 @@
       "alerts": []
     },
     {
-      "match": "San Martin Margarita Belen - CD Policiales",
+      "match": "Deportes Quindío - Llaneros FC Villavicencio",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -78,32 +100,6 @@
         },
         "sportybet": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "HYH Sebaco FC - Walter Ferretti",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.25,
-            4.35
-          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
