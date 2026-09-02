@@ -21,76 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788383346.4945087
-    },
-    "Árborg|UMF Álftanes": {
-      "home": "Árborg",
-      "away": "UMF Álftanes",
-      "event_id": "10040281",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788383373.340361
-    },
-    "Atlético El Vigía|Atletico Barinas": {
-      "home": "Atlético El Vigía",
-      "away": "Atletico Barinas",
-      "event_id": "10040284",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788383400.5716872
-    },
-    "Real Frontera|Zamora FC Reserves": {
-      "home": "Real Frontera",
-      "away": "Zamora FC Reserves",
-      "event_id": "10040285",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788383427.8603582
+      "last_checked": 1788384175.546333
     },
     "Liverpool Montevideo|CA Boston River": {
       "home": "Liverpool Montevideo",
@@ -113,7 +44,80 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788383455.185378
+      "last_checked": 1788384202.2050855
+    },
+    "Zamora FC|Deportivo Táchira": {
+      "home": "Zamora FC",
+      "away": "Deportivo Táchira",
+      "event_id": "10040287",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            100.0,
+            11.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788384234.0485122
+    },
+    "San Martin Margarita Belen|CD Policiales": {
+      "home": "San Martin Margarita Belen",
+      "away": "CD Policiales",
+      "event_id": "10040288",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788384260.844075
+    },
+    "Yaracuyanos|Urena": {
+      "home": "Yaracuyanos",
+      "away": "Urena",
+      "event_id": "10040289",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788384287.4687047
     }
   }
 }
