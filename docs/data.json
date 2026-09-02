@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788389087.8266373,
+  "generated_at": 1788389846.4644568,
   "matches": [
     {
       "match": "Flamengo - Mirassol FC",
@@ -7,7 +7,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.52,
+              2.3
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 10.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 11.5,
+                "over": 2.6,
+                "under": 1.42
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -55,7 +78,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            8.25,
+            3.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
