@@ -7,34 +7,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.4,
-              2.65
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.4,
-                "under": 2.65
-              },
-              {
-                "line": 7.5,
-                "over": 1.87,
-                "under": 1.8
-              },
-              {
-                "line": 8.5,
-                "over": 2.65,
-                "under": 1.4
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            13.0,
+            1.76
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788314732.5083315
+      "last_checked": 1788316544.45857
     },
     "Marte Soyapango|CD Once Municipal": {
       "home": "Marte Soyapango",
@@ -67,7 +48,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788314759.0577745
+      "last_checked": 1788316571.3839507
+    },
+    "SOSA FC|Central Coast FC": {
+      "home": "SOSA FC",
+      "away": "Central Coast FC",
+      "event_id": "10036460",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788316598.488031
     },
     "Z.Chelsea|Z.Fulham": {
       "home": "Z.Chelsea",
@@ -77,31 +81,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 12.5,
+            "line": 11.5,
             "odds": [
-              1.2,
-              4.55
+              1.03,
+              13.0
             ],
             "_all_lines": [
               {
+                "line": 11.5,
+                "over": 1.03,
+                "under": 13.0
+              },
+              {
                 "line": 12.5,
-                "over": 1.2,
-                "under": 4.55
+                "over": 1.19,
+                "under": 4.65
               },
               {
                 "line": 13.5,
-                "over": 1.45,
-                "under": 2.75
+                "over": 1.58,
+                "under": 2.38
               },
               {
                 "line": 14.5,
-                "over": 1.89,
-                "under": 1.9
+                "over": 2.38,
+                "under": 1.58
               },
               {
                 "line": 15.5,
-                "over": 2.65,
-                "under": 1.48
+                "over": 4.2,
+                "under": 1.23
               }
             ]
           },
@@ -118,7 +127,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788314783.75954
+      "last_checked": 1788316623.6388292
     },
     "Z.Everton|Z.Arsenal": {
       "home": "Z.Everton",
@@ -128,36 +137,31 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 12.5,
             "odds": [
               1.15,
-              5.4
+              5.5
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.15,
-                "under": 5.4
-              },
-              {
-                "line": 11.5,
-                "over": 1.36,
-                "under": 3.15
-              },
-              {
                 "line": 12.5,
-                "over": 1.71,
-                "under": 2.12
+                "over": 1.15,
+                "under": 5.5
               },
               {
                 "line": 13.5,
-                "over": 2.32,
-                "under": 1.6
+                "over": 1.46,
+                "under": 2.71
               },
               {
                 "line": 14.5,
-                "over": 3.45,
-                "under": 1.31
+                "over": 2.11,
+                "under": 1.73
+              },
+              {
+                "line": 15.5,
+                "over": 3.5,
+                "under": 1.3
               }
             ]
           },
@@ -174,63 +178,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788314808.5877545
-    },
-    "Z.Bournemouth|Z.Crystal Palace": {
-      "home": "Z.Bournemouth",
-      "away": "Z.Crystal Palace",
-      "event_id": "10038148",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.22,
-              4.25
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.22,
-                "under": 4.25
-              },
-              {
-                "line": 10.5,
-                "over": 1.49,
-                "under": 2.61
-              },
-              {
-                "line": 11.5,
-                "over": 1.95,
-                "under": 1.84
-              },
-              {
-                "line": 12.5,
-                "over": 2.8,
-                "under": 1.44
-              },
-              {
-                "line": 13.5,
-                "over": 4.4,
-                "under": 1.21
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788314833.4086788
+      "last_checked": 1788316648.708566
     }
   }
 }
