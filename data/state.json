@@ -13,7 +13,7 @@
         "sportybet": {
           "1X2": [
             2.4,
-            2.85,
+            8.4,
             3.3
           ],
           "CORNERS_OU": null,
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788336635.726586
+      "last_checked": 1788337679.4682207
     },
     "Laitkor SC|Langsning SC": {
       "home": "Laitkor SC",
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788336662.3343456
+      "last_checked": 1788337706.2384408
     },
     "Z.Nottingham Forest|Z.Aston Villa": {
       "home": "Z.Nottingham Forest",
@@ -58,36 +58,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 7.5,
             "odds": [
-              1.33,
-              3.35
+              1.3,
+              3.55
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.3,
+                "under": 3.55
+              },
+              {
+                "line": 8.5,
+                "over": 1.63,
+                "under": 2.26
+              },
+              {
                 "line": 9.5,
-                "over": 1.33,
-                "under": 3.35
+                "over": 2.22,
+                "under": 1.66
               },
               {
                 "line": 10.5,
-                "over": 1.63,
-                "under": 2.27
+                "over": 3.35,
+                "under": 1.33
               },
               {
                 "line": 11.5,
-                "over": 2.12,
-                "under": 1.71
-              },
-              {
-                "line": 12.5,
-                "over": 2.99,
-                "under": 1.39
-              },
-              {
-                "line": 13.5,
-                "over": 4.55,
-                "under": 1.2
+                "over": 5.4,
+                "under": 1.15
               }
             ]
           },
@@ -104,7 +104,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788336687.2393258
+      "last_checked": 1788337731.200135
     },
     "Z.Liverpool|Z.Arsenal": {
       "home": "Z.Liverpool",
@@ -114,36 +114,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.22,
-              4.3
+              1.24,
+              4.1
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.24,
+                "under": 4.1
+              },
+              {
                 "line": 8.5,
-                "over": 1.22,
-                "under": 4.3
+                "over": 1.49,
+                "under": 2.6
               },
               {
                 "line": 9.5,
-                "over": 1.43,
-                "under": 2.82
+                "over": 1.92,
+                "under": 1.87
               },
               {
                 "line": 10.5,
-                "over": 1.77,
-                "under": 2.04
+                "over": 2.69,
+                "under": 1.47
               },
               {
                 "line": 11.5,
-                "over": 2.31,
-                "under": 1.61
-              },
-              {
-                "line": 12.5,
-                "over": 3.25,
-                "under": 1.35
+                "over": 4.1,
+                "under": 1.24
               }
             ]
           },
@@ -160,7 +160,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788336711.9761639
+      "last_checked": 1788337756.1549444
     },
     "Z.Chelsea|Z.Leeds": {
       "home": "Z.Chelsea",
@@ -170,36 +170,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.35,
-              3.25
+              1.29,
+              3.6
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.29,
+                "under": 3.6
+              },
+              {
                 "line": 9.5,
-                "over": 1.35,
-                "under": 3.25
+                "over": 1.62,
+                "under": 2.28
               },
               {
                 "line": 10.5,
-                "over": 1.66,
-                "under": 2.21
+                "over": 2.2,
+                "under": 1.67
               },
               {
                 "line": 11.5,
-                "over": 2.18,
-                "under": 1.68
+                "over": 3.3,
+                "under": 1.34
               },
               {
                 "line": 12.5,
-                "over": 3.1,
-                "under": 1.37
-              },
-              {
-                "line": 13.5,
-                "over": 4.7,
-                "under": 1.19
+                "over": 5.3,
+                "under": 1.16
               }
             ]
           },
@@ -216,7 +216,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788336736.9211931
+      "last_checked": 1788337781.1557732
     }
   }
 }
