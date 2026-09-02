@@ -8,42 +8,6 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.5,
-              2.35
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.5,
-                "under": 2.35
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788381911.8930764
-    },
-    "Reading|Mansfield Town": {
-      "home": "Reading",
-      "away": "Mansfield Town",
-      "event_id": "10040276",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -57,30 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788381938.538238
-    },
-    "Falkirk|Rangers": {
-      "home": "Falkirk",
-      "away": "Rangers",
-      "event_id": "10040277",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788381965.4977143
+      "last_checked": 1788382543.1789608
     },
     "PAOK|OFI Crete": {
       "home": "PAOK",
@@ -103,12 +44,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788381992.4927595
+      "last_checked": 1788382570.1160512
     },
-    "Club Sportivo Ameliano|Club Sportivo Trinidense": {
-      "home": "Club Sportivo Ameliano",
-      "away": "Club Sportivo Trinidense",
-      "event_id": "10040271",
+    "Deportivo Macara|Manta FC": {
+      "home": "Deportivo Macara",
+      "away": "Manta FC",
+      "event_id": "10040280",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.05,
+            9.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788382602.2048872
+    },
+    "Team Altamura|Sambenedettese": {
+      "home": "Team Altamura",
+      "away": "Sambenedettese",
+      "event_id": "10040273",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -126,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788382019.3426003
+      "last_checked": 1788382629.206742
+    },
+    "Árborg|UMF Álftanes": {
+      "home": "Árborg",
+      "away": "UMF Álftanes",
+      "event_id": "10040281",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788382656.01602
     }
   }
 }
