@@ -1,29 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Atalanta - Bologna",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.35 a 1.55 (51.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Benfica - Estoril-Praia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 5.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Benfica - Estoril-Praia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.22 a 1.12 (8.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Benfica - Estoril-Praia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.65 a 5.0 (37.0%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Aston Villa - Arsenal",
     "market": "CORNERS_OU",
@@ -2998,5 +2974,29 @@
     "match": "Z.Bournemouth - Z.Sunderland",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 7.05 a 19.5 (176.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Newcastle Utd - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Newcastle Utd - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.4 a 4.7 (36.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Everton - Z.Man City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 13.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Everton - Z.Man City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.15 a 4.6 (33.7%)"
   }
 ]

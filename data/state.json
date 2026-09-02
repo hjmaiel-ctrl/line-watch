@@ -11,11 +11,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.04,
-            8.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -25,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788334218.8433254
+      "last_checked": 1788335061.5496302
     },
     "Bay Olympic|Birkenhead United": {
       "home": "Bay Olympic",
@@ -48,7 +44,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788334245.4480338
+      "last_checked": 1788335088.4574847
+    },
+    "Laitkor SC|Langsning SC": {
+      "home": "Laitkor SC",
+      "away": "Langsning SC",
+      "event_id": "10036464",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788335115.441872
     },
     "Z.Newcastle Utd|Z.Man United": {
       "home": "Z.Newcastle Utd",
@@ -58,36 +77,31 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.13,
-              6.4
+              1.19,
+              4.7
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.13,
-                "under": 6.4
-              },
-              {
                 "line": 9.5,
-                "over": 1.47,
-                "under": 2.68
+                "over": 1.19,
+                "under": 4.7
               },
               {
                 "line": 10.5,
-                "over": 2.29,
-                "under": 1.62
+                "over": 2.08,
+                "under": 1.74
               },
               {
                 "line": 11.5,
-                "over": 4.3,
-                "under": 1.22
+                "over": 5.15,
+                "under": 1.16
               },
               {
                 "line": 12.5,
-                "over": 9.5,
-                "under": 1.07
+                "over": 17.5,
+                "under": 1.02
               }
             ]
           },
@@ -104,7 +118,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788334270.4054832
+      "last_checked": 1788335140.5616856
     },
     "Z.Everton|Z.Man City": {
       "home": "Z.Everton",
@@ -114,36 +128,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 13.5,
             "odds": [
-              1.13,
-              6.15
+              1.2,
+              4.6
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.13,
-                "under": 6.15
-              },
-              {
-                "line": 11.5,
-                "over": 1.49,
-                "under": 2.61
-              },
-              {
-                "line": 12.5,
-                "over": 2.34,
-                "under": 1.59
-              },
-              {
                 "line": 13.5,
-                "over": 4.45,
-                "under": 1.21
+                "over": 1.2,
+                "under": 4.6
               },
               {
                 "line": 14.5,
-                "over": 10.0,
-                "under": 1.06
+                "over": 2.11,
+                "under": 1.72
+              },
+              {
+                "line": 15.5,
+                "over": 5.25,
+                "under": 1.16
               }
             ]
           },
@@ -160,63 +164,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788334295.1043057
-    },
-    "Z.Bournemouth|Z.Sunderland": {
-      "home": "Z.Bournemouth",
-      "away": "Z.Sunderland",
-      "event_id": "10038978",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              null,
-              19.5
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": null,
-                "under": 19.5
-              },
-              {
-                "line": 5.5,
-                "over": 1.19,
-                "under": 4.7
-              },
-              {
-                "line": 6.5,
-                "over": 1.69,
-                "under": 2.16
-              },
-              {
-                "line": 7.5,
-                "over": 2.9,
-                "under": 1.41
-              },
-              {
-                "line": 8.5,
-                "over": 6.05,
-                "under": 1.14
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788334319.8380322
+      "last_checked": 1788335165.5067132
     }
   }
 }
