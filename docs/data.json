@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788375642.9890378,
+  "generated_at": 1788376552.7655072,
   "matches": [
     {
       "match": "Osnabruck - Bayern Munich",
@@ -8,43 +8,30 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 12.5,
+            "line": 10.5,
             "odds": [
-              1.67,
-              2.0
+              1.41,
+              2.54
             ],
             "_all_lines": [
               {
+                "line": 10.5,
+                "over": 1.41,
+                "under": 2.54
+              },
+              {
+                "line": 11.5,
+                "over": 1.72,
+                "under": 1.93
+              },
+              {
                 "line": 12.5,
-                "over": 1.67,
-                "under": 2.0
-              },
-              {
-                "line": 13.5,
-                "over": 2.02,
-                "under": 1.65
-              },
-              {
-                "line": 14.5,
-                "over": 2.52,
-                "under": 1.42
+                "over": 2.18,
+                "under": 1.56
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.65,
-              2.02
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.65,
-                "under": 2.02
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -62,36 +49,24 @@
           "type": "linea_cambiata",
           "match": "Osnabruck - Bayern Munich",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 12.5"
+          "detail": "bet9ja: linea passata da 12.5 a 10.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Osnabruck - Bayern Munich",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.48 a 1.67 (12.8%)"
+          "detail": "bet9ja: esito #1 passato da 1.67 a 1.41 (18.4%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Osnabruck - Bayern Munich",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.36 a 2.0 (18.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Osnabruck - Bayern Munich",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.95 a 1.65 (18.2%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Osnabruck - Bayern Munich",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.7 a 2.02 (18.8%)"
+          "detail": "bet9ja: esito #2 passato da 2.0 a 2.54 (27.0%)"
         }
       ]
     },
     {
-      "match": "Millwall - Wrexham",
+      "match": "Burnley - Middlesbrough",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -99,147 +74,48 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.32,
-              3.0
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 8.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.6,
+                "under": 2.15
               },
               {
                 "line": 9.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 10.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 11.5,
-                "over": 3.0,
-                "under": 1.32
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.55,
-              2.25
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.55,
-                "under": 2.25
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Millwall - Wrexham",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 7.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Millwall - Wrexham",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.25 a 3.0 (8.3%)"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Millwall - Wrexham",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 3.5 a 2.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Millwall - Wrexham",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.1 a 1.55 (35.5%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Millwall - Wrexham",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.62 a 2.25 (38.9%)"
-        }
-      ]
-    },
-    {
-      "match": "Queens Park Rangers - Cardiff City",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 9.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
-                "line": 10.5,
-                "over": 1.92,
-                "under": 1.75
-              },
-              {
-                "line": 11.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 12.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 3.5,
+                "under": 1.22
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.83,
-              1.83
+              1.62,
+              2.1
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 1.62,
+                "under": 2.1
               }
             ]
           }
@@ -258,7 +134,75 @@
       "alerts": []
     },
     {
-      "match": "West Bromwich Albion - Charlton Athletic",
+      "match": "Millwall - Wrexham",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.25,
+              3.45
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.25,
+                "under": 3.45
+              },
+              {
+                "line": 6.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 7.5,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 8.5,
+                "over": 2.15,
+                "under": 1.57
+              },
+              {
+                "line": 9.5,
+                "over": 2.85,
+                "under": 1.35
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Millwall - Wrexham",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 7.5 a 5.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Millwall - Wrexham",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.0 a 3.45 (15.0%)"
+        }
+      ]
+    },
+    {
+      "match": "Queens Park Rangers - Cardiff City",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -277,37 +221,130 @@
               },
               {
                 "line": 9.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 10.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.82,
+                "under": 1.85
               },
               {
                 "line": 11.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 12.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 3.25,
+                "under": 1.28
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              2.2,
-              1.57
+              2.15,
+              1.6
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 2.15,
+                "under": 1.6
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Queens Park Rangers - Cardiff City",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.32 a 1.22 (8.2%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Queens Park Rangers - Cardiff City",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.0 a 3.5 (16.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Queens Park Rangers - Cardiff City",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.83 a 2.15 (17.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Queens Park Rangers - Cardiff City",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.83 a 1.6 (14.4%)"
+        }
+      ]
+    },
+    {
+      "match": "West Bromwich Albion - Charlton Athletic",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 10.5,
+                "over": 1.6,
+                "under": 2.15
+              },
+              {
+                "line": 11.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 12.5,
+                "over": 2.7,
+                "under": 1.38
+              },
+              {
+                "line": 13.5,
+                "over": 3.65,
+                "under": 1.22
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.73,
+              1.95
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.73,
+                "under": 1.95
               }
             ]
           }
@@ -328,50 +365,40 @@
           "type": "linea_cambiata",
           "match": "West Bromwich Albion - Charlton Athletic",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 8.5"
+          "detail": "bet9ja: linea passata da 8.5 a 9.5"
         },
         {
           "type": "quota_cambiata",
           "match": "West Bromwich Albion - Charlton Athletic",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.1 a 3.5 (12.9%)"
+          "detail": "bet9ja: esito #1 passato da 1.22 a 1.32 (8.2%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "West Bromwich Albion - Charlton Athletic",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.5 a 3.0 (16.7%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "West Bromwich Albion - Charlton Athletic",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 3.5 a 2.5"
         },
         {
           "type": "quota_cambiata",
           "match": "West Bromwich Albion - Charlton Athletic",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.98 a 2.2 (11.1%)"
+          "detail": "bet9ja: esito #1 passato da 2.2 a 1.73 (27.2%)"
         },
         {
           "type": "quota_cambiata",
           "match": "West Bromwich Albion - Charlton Athletic",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.7 a 1.57 (8.3%)"
+          "detail": "bet9ja: esito #2 passato da 1.57 a 1.95 (24.2%)"
         }
       ]
-    },
-    {
-      "match": "Barnsley - Blackpool",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 14
+  "alert_count_this_run": 15
 }
