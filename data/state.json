@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.15,
-              4.5
+              1.22,
+              3.5
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.15,
-                "under": 4.5
+                "over": 1.22,
+                "under": 3.5
               },
               {
                 "line": 9.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 10.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 11.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 12.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 4.5,
+                "under": 1.15
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.62,
-              2.1
+              1.8,
+              1.87
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.8,
+                "under": 1.87
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788367319.9142585
+      "last_checked": 1788368230.0370524
     },
     "Paris Saint-Germain Women|Eintracht Frankfurt Women": {
       "home": "Paris Saint-Germain Women",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788367346.9294925
+      "last_checked": 1788368256.9254632
     },
     "Inter Milan Women|VfL Wolfsburg Women": {
       "home": "Inter Milan Women",
@@ -113,7 +113,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788367373.9633656
+      "last_checked": 1788368283.640285
+    },
+    "Servette FC Women|AC Sparta Praha Women": {
+      "home": "Servette FC Women",
+      "away": "AC Sparta Praha Women",
+      "event_id": "10040078",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788368310.3217812
     },
     "FK Austria Wien|WSG Tirol": {
       "home": "FK Austria Wien",
@@ -136,30 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788367401.1205919
-    },
-    "Brodd|Viking FK": {
-      "home": "Brodd",
-      "away": "Viking FK",
-      "event_id": "10040061",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788367428.1384466
+      "last_checked": 1788368337.039333
     }
   }
 }
