@@ -3,24 +3,6 @@
     "type": "quota_cambiata",
     "match": "Clube do Remo - Coritiba",
     "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.65 a 2.1 (26.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Clube do Remo - Coritiba",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 11.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Clube do Remo - Coritiba",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.4 a 1.57 (12.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Clube do Remo - Coritiba",
-    "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.65 a 2.2 (20.5%)"
   },
   {
@@ -2998,5 +2980,23 @@
     "match": "Udinese - Venezia",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 2.1 a 1.87 (12.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Udinese - Venezia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.5 a 4.75 (35.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Udinese - Venezia",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.8 a 2.05 (13.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Udinese - Venezia",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.87 a 1.65 (13.3%)"
   }
 ]

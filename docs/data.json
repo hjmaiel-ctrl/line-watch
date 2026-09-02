@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788368337.0968857,
+  "generated_at": 1788369157.1927953,
   "matches": [
     {
       "match": "Udinese - Venezia",
@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.22,
-              3.5
+              1.13,
+              4.75
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.22,
-                "under": 3.5
+                "over": 1.13,
+                "under": 4.75
               },
               {
                 "line": 9.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 10.5,
-                "over": 2.1,
-                "under": 1.62
+                "over": 1.82,
+                "under": 1.85
               },
               {
                 "line": 11.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 12.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.8,
-              1.87
+              2.05,
+              1.65
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.8,
-                "under": 1.87
+                "over": 2.05,
+                "under": 1.65
               }
             ]
           }
@@ -72,19 +72,19 @@
           "type": "quota_cambiata",
           "match": "Udinese - Venezia",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.5 a 3.5 (28.6%)"
+          "detail": "bet9ja: esito #2 passato da 3.5 a 4.75 (35.7%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Udinese - Venezia",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.62 a 1.8 (11.1%)"
+          "detail": "bet9ja: esito #1 passato da 1.8 a 2.05 (13.9%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Udinese - Venezia",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.1 a 1.87 (12.3%)"
+          "detail": "bet9ja: esito #2 passato da 1.87 a 1.65 (13.3%)"
         }
       ]
     },
@@ -155,7 +155,7 @@
       "alerts": []
     },
     {
-      "match": "FK Austria Wien - WSG Tirol",
+      "match": "HB Køge Women - PSV Eindhoven Women",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
