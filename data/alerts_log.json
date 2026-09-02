@@ -3,12 +3,6 @@
     "type": "quota_cambiata",
     "match": "Z.Crystal Palace - Z.Man City",
     "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.26 a 1.12 (12.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Crystal Palace - Z.Man City",
-    "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.8 a 6.5 (71.1%)"
   },
   {
@@ -2998,5 +2992,11 @@
     "match": "Flamengo - Mirassol FC",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.3 a 2.7 (17.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Flamengo - Mirassol FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 10.5"
   }
 ]
