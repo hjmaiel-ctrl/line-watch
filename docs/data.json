@@ -1,50 +1,6 @@
 {
-  "generated_at": 1788347635.5605676,
+  "generated_at": 1788348715.8823583,
   "matches": [
-    {
-      "match": "Sagamihara - Júbilo Iwata",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Vanraure Hachinohe - Tochigi City FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Renofa Yamaguchi - Fujieda MYFC",
       "bet9ja_stats": null,
@@ -68,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Gainare Tottori - RB Omiya Ardija",
+      "match": "Tegevajaro Miyazaki - Kataller Toyama",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -90,7 +46,51 @@
       "alerts": []
     },
     {
-      "match": "Tegevajaro Miyazaki - Kataller Toyama",
+      "match": "Nara Club - Sagan Tosu",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "FC Ryukyu - Yokohama FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Thespa Gunma - Albirex Niigata Albi",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
