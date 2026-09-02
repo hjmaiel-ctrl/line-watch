@@ -1,3 +1,142 @@
 {
-  "matches": {}
+  "matches": {
+    "Nestos Chrysoupoli|AEK Athens": {
+      "home": "Nestos Chrysoupoli",
+      "away": "AEK Athens",
+      "event_id": "10039946",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788363443.2860649
+    },
+    "Marko|Kifisia FC": {
+      "home": "Marko",
+      "away": "Kifisia FC",
+      "event_id": "10039977",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788363469.177928
+    },
+    "Zenit St. Petersburg|FC Dynamo-Makhachkala": {
+      "home": "Zenit St. Petersburg",
+      "away": "FC Dynamo-Makhachkala",
+      "event_id": "10040029",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.58,
+              2.14
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.58,
+                "under": 2.14
+              },
+              {
+                "line": 10.5,
+                "over": 1.93,
+                "under": 1.72
+              },
+              {
+                "line": 11.5,
+                "over": 2.46,
+                "under": 1.45
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788363493.3623736
+    },
+    "KS Gornik Polkowice|Polonia Warszawa": {
+      "home": "KS Gornik Polkowice",
+      "away": "Polonia Warszawa",
+      "event_id": "10039934",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788363519.3950226
+    },
+    "AKS Beskid Andrychow|Slask II Wroclaw": {
+      "home": "AKS Beskid Andrychow",
+      "away": "Slask II Wroclaw",
+      "event_id": "10039935",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788363545.2903357
+    }
+  }
 }
