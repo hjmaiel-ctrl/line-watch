@@ -1,45 +1,21 @@
 {
   "matches": {
-    "Z.Tottenham|Z.Coventry City": {
-      "home": "Z.Tottenham",
-      "away": "Z.Coventry City",
-      "event_id": "10038433",
+    "Marist FC|Malaita Kingz": {
+      "home": "Marist FC",
+      "away": "Malaita Kingz",
+      "event_id": "10036461",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.17,
-              5.0
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.17,
-                "under": 5.0
-              },
-              {
-                "line": 11.5,
-                "over": 1.96,
-                "under": 1.84
-              },
-              {
-                "line": 12.5,
-                "over": 4.6,
-                "under": 1.2
-              },
-              {
-                "line": 13.5,
-                "over": 14.5,
-                "under": 1.03
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            3.33,
+            3.9
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -49,41 +25,31 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788323606.1523018
+      "last_checked": 1788324516.3805897
     },
-    "Z.Hull City|Z.Liverpool": {
-      "home": "Z.Hull City",
-      "away": "Z.Liverpool",
-      "event_id": "10038434",
+    "Z.Atlético Madrid|Z.Valencia": {
+      "home": "Z.Atlético Madrid",
+      "away": "Z.Valencia",
+      "event_id": "10038481",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 14.5,
             "odds": [
-              1.14,
-              5.65
+              1.15,
+              5.75
             ],
             "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.14,
-                "under": 5.65
-              },
-              {
-                "line": 12.5,
-                "over": 1.84,
-                "under": 1.95
-              },
-              {
-                "line": 13.5,
-                "over": 4.05,
-                "under": 1.24
-              },
               {
                 "line": 14.5,
-                "over": 12.0,
-                "under": 1.04
+                "over": 1.15,
+                "under": 5.75
+              },
+              {
+                "line": 15.5,
+                "over": 1.83,
+                "under": 1.97
               }
             ]
           },
@@ -100,91 +66,40 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788323631.595386
+      "last_checked": 1788324541.4901164
     },
-    "Z.Leeds|Z.Ipswich Town": {
-      "home": "Z.Leeds",
-      "away": "Z.Ipswich Town",
-      "event_id": "10038435",
+    "Z.Elche|Z.Real Sociedad": {
+      "home": "Z.Elche",
+      "away": "Z.Real Sociedad",
+      "event_id": "10038482",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 7.5,
             "odds": [
-              1.24,
-              4.05
+              1.2,
+              4.55
             ],
             "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.24,
-                "under": 4.05
-              },
-              {
-                "line": 12.5,
-                "over": 2.3,
-                "under": 1.61
-              },
-              {
-                "line": 13.5,
-                "over": 6.1,
-                "under": 1.14
-              },
-              {
-                "line": 14.5,
-                "over": 22.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788323657.0135758
-    },
-    "Z.Brentford|Z.Fulham": {
-      "home": "Z.Brentford",
-      "away": "Z.Fulham",
-      "event_id": "10038436",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.21,
-              4.4
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.21,
-                "under": 4.4
-              },
-              {
-                "line": 5.5,
-                "over": 2.17,
-                "under": 1.69
-              },
-              {
-                "line": 6.5,
-                "over": 5.45,
-                "under": 1.15
-              },
               {
                 "line": 7.5,
-                "over": 18.5,
+                "over": 1.2,
+                "under": 4.55
+              },
+              {
+                "line": 8.5,
+                "over": 2.12,
+                "under": 1.71
+              },
+              {
+                "line": 9.5,
+                "over": 5.3,
+                "under": 1.16
+              },
+              {
+                "line": 10.5,
+                "over": 18.0,
                 "under": 1.01
               }
             ]
@@ -202,40 +117,40 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788323682.223924
+      "last_checked": 1788324567.1634681
     },
-    "Z.Nottingham Forest|Z.Chelsea": {
-      "home": "Z.Nottingham Forest",
-      "away": "Z.Chelsea",
-      "event_id": "10038437",
+    "Z.Villarreal|Z.Celta Vigo": {
+      "home": "Z.Villarreal",
+      "away": "Z.Celta Vigo",
+      "event_id": "10038483",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 12.5,
             "odds": [
-              1.19,
-              4.7
+              1.18,
+              4.9
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.19,
-                "under": 4.7
+                "line": 12.5,
+                "over": 1.18,
+                "under": 4.9
               },
               {
-                "line": 6.5,
-                "over": 2.07,
-                "under": 1.75
+                "line": 13.5,
+                "over": 1.99,
+                "under": 1.81
               },
               {
-                "line": 7.5,
-                "over": 5.05,
-                "under": 1.17
+                "line": 14.5,
+                "over": 4.7,
+                "under": 1.19
               },
               {
-                "line": 8.5,
-                "over": 17.0,
+                "line": 15.5,
+                "over": 15.5,
                 "under": 1.02
               }
             ]
@@ -253,7 +168,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788323707.7027528
+      "last_checked": 1788324592.1185021
+    },
+    "Z.Sevilla|Z.Deportivo La Coruna": {
+      "home": "Z.Sevilla",
+      "away": "Z.Deportivo La Coruna",
+      "event_id": "10038484",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 13.5,
+            "odds": [
+              1.25,
+              3.9
+            ],
+            "_all_lines": [
+              {
+                "line": 13.5,
+                "over": 1.25,
+                "under": 3.9
+              },
+              {
+                "line": 14.5,
+                "over": 2.39,
+                "under": 1.57
+              },
+              {
+                "line": 15.5,
+                "over": 6.55,
+                "under": 1.12
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788324617.409552
     }
   }
 }
