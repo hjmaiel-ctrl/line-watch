@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.35,
-              2.85
+              1.42,
+              2.6
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 11.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 1.95,
+                "under": 1.73
               },
               {
                 "line": 12.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.85,
+                "under": 1.35
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788391297.2870166
+      "last_checked": 1788392233.8563874
     },
     "Coquimbo Unido|Universidad de Concepción": {
       "home": "Coquimbo Unido",
@@ -67,57 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788391324.0670245
-    },
-    "Club Olimpia|Club Guaraní": {
-      "home": "Club Olimpia",
-      "away": "Club Guaraní",
-      "event_id": "10040291",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788391350.7857842
-    },
-    "Deportivo Cuenca|Guayaquil City FC": {
-      "home": "Deportivo Cuenca",
-      "away": "Guayaquil City FC",
-      "event_id": "10040292",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.03,
-            11.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788391382.7548876
+      "last_checked": 1788392260.4301407
     },
     "Deportes Quindío|Llaneros FC Villavicencio": {
       "home": "Deportes Quindío",
@@ -140,7 +90,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788391409.5728354
+      "last_checked": 1788392294.2502928
+    },
+    "Club Atlético Talleres Reserves|Instituto de Cordoba Reserves": {
+      "home": "Club Atlético Talleres Reserves",
+      "away": "Instituto de Cordoba Reserves",
+      "event_id": "10043832",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788392320.7588875
+    },
+    "SV Broki|Delfines Del Este": {
+      "home": "SV Broki",
+      "away": "Delfines Del Este",
+      "event_id": "10043833",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788392347.323019
     }
   }
 }

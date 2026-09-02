@@ -1,11 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Z.Crystal Palace - Z.Man City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.8 a 6.5 (71.1%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Z.Man United - Z.Nottingham Forest",
     "market": "CORNERS_OU",
@@ -2998,5 +2992,11 @@
     "match": "Flamengo - Mirassol FC",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 9.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Flamengo - Mirassol FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.85 a 2.6 (9.6%)"
   }
 ]
