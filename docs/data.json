@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788308688.1890464,
+  "generated_at": 1788309941.0414944,
   "matches": [
     {
       "match": "LDU Quito - Mushuc Runa",
@@ -24,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Barranquilla FC - Boca Juniors de Cali",
+      "match": "Club 2 de Mayo Reserves - Club Sportivo Luqueño Reserves",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -46,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "União Frederiquense - Veranópolis",
+      "match": "Montevideo City Torque - Danubio",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -68,7 +68,7 @@
       "alerts": []
     },
     {
-      "match": "Gremio Esportivo Bage - Passo Fundo RS",
+      "match": "Universitario de Vinto - Club Aurora",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -90,7 +90,7 @@
       "alerts": []
     },
     {
-      "match": "EC Rio Verde - Trindade AC",
+      "match": "Defence Force FC - Club Sando",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -99,7 +99,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            65.0,
+            9.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },

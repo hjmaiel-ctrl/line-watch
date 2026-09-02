@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788308582.0266197
+      "last_checked": 1788309827.085402
     },
-    "Barranquilla FC|Boca Juniors de Cali": {
-      "home": "Barranquilla FC",
-      "away": "Boca Juniors de Cali",
-      "event_id": "10036445",
+    "Club 2 de Mayo Reserves|Club Sportivo Luqueño Reserves": {
+      "home": "Club 2 de Mayo Reserves",
+      "away": "Club Sportivo Luqueño Reserves",
+      "event_id": "10036451",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788308608.544875
+      "last_checked": 1788309854.2876956
     },
-    "União Frederiquense|Veranópolis": {
-      "home": "União Frederiquense",
-      "away": "Veranópolis",
-      "event_id": "10036446",
+    "Montevideo City Torque|Danubio": {
+      "home": "Montevideo City Torque",
+      "away": "Danubio",
+      "event_id": "10036452",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788308634.9728003
+      "last_checked": 1788309881.1151757
     },
-    "Gremio Esportivo Bage|Passo Fundo RS": {
-      "home": "Gremio Esportivo Bage",
-      "away": "Passo Fundo RS",
-      "event_id": "10036447",
+    "Universitario de Vinto|Club Aurora": {
+      "home": "Universitario de Vinto",
+      "away": "Club Aurora",
+      "event_id": "10036453",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788308661.7101378
+      "last_checked": 1788309908.4163737
     },
-    "EC Rio Verde|Trindade AC": {
-      "home": "EC Rio Verde",
-      "away": "Trindade AC",
-      "event_id": "10036450",
+    "Defence Force FC|Club Sando": {
+      "home": "Defence Force FC",
+      "away": "Club Sando",
+      "event_id": "10036454",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -103,7 +103,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            65.0,
+            9.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788308688.129656
+      "last_checked": 1788309941.0057406
     }
   }
 }
