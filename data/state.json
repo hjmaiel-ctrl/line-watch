@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788385131.9712243
+      "last_checked": 1788385753.4626179
     },
     "Deportivo Cuenca|Guayaquil City FC": {
       "home": "Deportivo Cuenca",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788385158.80808
+      "last_checked": 1788385780.3087733
     },
     "Liverpool Montevideo|CA Boston River": {
       "home": "Liverpool Montevideo",
@@ -67,7 +67,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788385185.5168505
+      "last_checked": 1788385807.1956713
+    },
+    "Zamora FC|Deportivo Táchira": {
+      "home": "Zamora FC",
+      "away": "Deportivo Táchira",
+      "event_id": "10040287",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            4.2,
+            7.25
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788385839.9371772
     },
     "San Martin Margarita Belen|CD Policiales": {
       "home": "San Martin Margarita Belen",
@@ -90,30 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788385212.2702007
-    },
-    "Yaracuyanos|Urena": {
-      "home": "Yaracuyanos",
-      "away": "Urena",
-      "event_id": "10040289",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788385238.8855748
+      "last_checked": 1788385866.8163884
     }
   }
 }
