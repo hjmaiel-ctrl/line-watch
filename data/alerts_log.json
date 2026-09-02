@@ -1,17 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Aston Villa - Arsenal",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 2.5 a 1.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Aston Villa - Arsenal",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.98 a 1.47 (34.7%)"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Aston Villa - Arsenal",
     "market": "CARDS_OU",
@@ -2998,5 +2986,17 @@
     "match": "Z.Newcastle Utd - Z.Man United",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.7 a 1.1 (327.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Bay Olympic - Birkenhead United",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 3.1 a 2.85 (8.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Bay Olympic - Birkenhead United",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 3.6 a 3.3 (9.1%)"
   }
 ]

@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Mizoram Police FC|Ramthar Veng FC": {
-      "home": "Mizoram Police FC",
-      "away": "Ramthar Veng FC",
-      "event_id": "10036462",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788335755.306064
-    },
     "Bay Olympic|Birkenhead United": {
       "home": "Bay Olympic",
       "away": "Birkenhead United",
@@ -36,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            3.1,
-            3.6
+            2.85,
+            3.3
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -48,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788335787.040933
+      "last_checked": 1788336635.726586
     },
     "Laitkor SC|Langsning SC": {
       "home": "Laitkor SC",
@@ -71,26 +48,46 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788335813.5653698
+      "last_checked": 1788336662.3343456
     },
-    "Z.Newcastle Utd|Z.Man United": {
-      "home": "Z.Newcastle Utd",
-      "away": "Z.Man United",
-      "event_id": "10038976",
+    "Z.Nottingham Forest|Z.Aston Villa": {
+      "home": "Z.Nottingham Forest",
+      "away": "Z.Aston Villa",
+      "event_id": "10039328",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 9.5,
             "odds": [
-              7.45,
-              1.1
+              1.33,
+              3.35
             ],
             "_all_lines": [
               {
+                "line": 9.5,
+                "over": 1.33,
+                "under": 3.35
+              },
+              {
+                "line": 10.5,
+                "over": 1.63,
+                "under": 2.27
+              },
+              {
                 "line": 11.5,
-                "over": 7.45,
-                "under": 1.1
+                "over": 2.12,
+                "under": 1.71
+              },
+              {
+                "line": 12.5,
+                "over": 2.99,
+                "under": 1.39
+              },
+              {
+                "line": 13.5,
+                "over": 4.55,
+                "under": 1.2
               }
             ]
           },
@@ -107,16 +104,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788335838.3052373
+      "last_checked": 1788336687.2393258
     },
-    "Z.Everton|Z.Man City": {
-      "home": "Z.Everton",
-      "away": "Z.Man City",
-      "event_id": "10038977",
+    "Z.Liverpool|Z.Arsenal": {
+      "home": "Z.Liverpool",
+      "away": "Z.Arsenal",
+      "event_id": "10039329",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.22,
+              4.3
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.22,
+                "under": 4.3
+              },
+              {
+                "line": 9.5,
+                "over": 1.43,
+                "under": 2.82
+              },
+              {
+                "line": 10.5,
+                "over": 1.77,
+                "under": 2.04
+              },
+              {
+                "line": 11.5,
+                "over": 2.31,
+                "under": 1.61
+              },
+              {
+                "line": 12.5,
+                "over": 3.25,
+                "under": 1.35
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -130,7 +160,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788335864.7022145
+      "last_checked": 1788336711.9761639
+    },
+    "Z.Chelsea|Z.Leeds": {
+      "home": "Z.Chelsea",
+      "away": "Z.Leeds",
+      "event_id": "10039330",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.35,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.35,
+                "under": 3.25
+              },
+              {
+                "line": 10.5,
+                "over": 1.66,
+                "under": 2.21
+              },
+              {
+                "line": 11.5,
+                "over": 2.18,
+                "under": 1.68
+              },
+              {
+                "line": 12.5,
+                "over": 3.1,
+                "under": 1.37
+              },
+              {
+                "line": 13.5,
+                "over": 4.7,
+                "under": 1.19
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788336736.9211931
     }
   }
 }
