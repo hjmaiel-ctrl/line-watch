@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788309827.085402
+      "last_checked": 1788310643.9068298
     },
     "Club 2 de Mayo Reserves|Club Sportivo Luqueño Reserves": {
       "home": "Club 2 de Mayo Reserves",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788309854.2876956
+      "last_checked": 1788310670.4661882
     },
     "Montevideo City Torque|Danubio": {
       "home": "Montevideo City Torque",
@@ -67,30 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788309881.1151757
-    },
-    "Universitario de Vinto|Club Aurora": {
-      "home": "Universitario de Vinto",
-      "away": "Club Aurora",
-      "event_id": "10036453",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788309908.4163737
+      "last_checked": 1788310697.0165823
     },
     "Defence Force FC|Club Sando": {
       "home": "Defence Force FC",
@@ -105,8 +82,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            65.0,
-            9.0
+            8.5,
+            6.5
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -117,7 +94,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788309941.0057406
+      "last_checked": 1788310729.2913358
+    },
+    "Z.Crystal Palace|Z.Arsenal": {
+      "home": "Z.Crystal Palace",
+      "away": "Z.Arsenal",
+      "event_id": "10037850",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.09,
+              8.15
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.09,
+                "under": 8.15
+              },
+              {
+                "line": 9.5,
+                "over": 1.28,
+                "under": 3.65
+              },
+              {
+                "line": 10.5,
+                "over": 1.71,
+                "under": 2.12
+              },
+              {
+                "line": 11.5,
+                "over": 2.57,
+                "under": 1.51
+              },
+              {
+                "line": 12.5,
+                "over": 4.4,
+                "under": 1.21
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788310754.125331
     }
   }
 }
