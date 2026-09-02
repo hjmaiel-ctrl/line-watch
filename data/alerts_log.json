@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Z.Man City - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 8.95 a 1.85 (383.8%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Crystal Palace - Z.Man City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 5.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Z.Crystal Palace - Z.Man City",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.26 a 1.12 (12.5%)"
@@ -2998,5 +2986,17 @@
     "match": "Burnley - Middlesbrough",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.92 a 2.35 (22.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Flamengo - Mirassol FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.52 a 1.38 (10.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Flamengo - Mirassol FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.3 a 2.7 (17.4%)"
   }
 ]

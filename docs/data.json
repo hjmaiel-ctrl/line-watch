@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788389846.4644568,
+  "generated_at": 1788390655.0436838,
   "matches": [
     {
       "match": "Flamengo - Mirassol FC",
@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.52,
-              2.3
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 10.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 1.78,
+                "under": 1.9
               },
               {
                 "line": 11.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           },
@@ -44,7 +44,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Flamengo - Mirassol FC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.52 a 1.38 (10.1%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Flamengo - Mirassol FC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.3 a 2.7 (17.4%)"
+        }
+      ]
     },
     {
       "match": "Coquimbo Unido - Universidad de Concepción",
@@ -78,11 +91,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            8.25,
-            3.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -139,5 +148,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }

@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.52,
-              2.3
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 10.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 1.78,
+                "under": 1.9
               },
               {
                 "line": 11.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788389733.6263955
+      "last_checked": 1788390542.1105611
     },
     "Coquimbo Unido|Universidad de Concepción": {
       "home": "Coquimbo Unido",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788389760.4113355
+      "last_checked": 1788390568.9184725
     },
     "Club Olimpia|Club Guaraní": {
       "home": "Club Olimpia",
@@ -80,11 +80,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            8.25,
-            3.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -94,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788389792.6260042
+      "last_checked": 1788390600.8719618
     },
     "Deportivo Cuenca|Guayaquil City FC": {
       "home": "Deportivo Cuenca",
@@ -117,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788389819.5787203
+      "last_checked": 1788390628.2117405
     },
     "Deportes Quindío|Llaneros FC Villavicencio": {
       "home": "Deportes Quindío",
@@ -140,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788389846.417757
+      "last_checked": 1788390654.9959233
     }
   }
 }
