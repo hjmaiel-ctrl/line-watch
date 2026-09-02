@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.22,
-              3.5
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.22,
-                "under": 3.5
+                "over": 1.15,
+                "under": 4.5
               },
               {
                 "line": 9.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 10.5,
-                "over": 1.9,
-                "under": 1.78
+                "over": 1.78,
+                "under": 1.9
               },
               {
                 "line": 11.5,
-                "over": 2.55,
-                "under": 1.42
+                "over": 2.45,
+                "under": 1.47
               },
               {
                 "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              1.9,
-              1.78
+              1.62,
+              2.1
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.9,
-                "under": 1.78
+                "line": 3.5,
+                "over": 1.62,
+                "under": 2.1
               }
             ]
           }
@@ -67,7 +67,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788366453.6365852
+      "last_checked": 1788367319.9142585
+    },
+    "Paris Saint-Germain Women|Eintracht Frankfurt Women": {
+      "home": "Paris Saint-Germain Women",
+      "away": "Eintracht Frankfurt Women",
+      "event_id": "10040072",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788367346.9294925
+    },
+    "Inter Milan Women|VfL Wolfsburg Women": {
+      "home": "Inter Milan Women",
+      "away": "VfL Wolfsburg Women",
+      "event_id": "10040075",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788367373.9633656
+    },
+    "FK Austria Wien|WSG Tirol": {
+      "home": "FK Austria Wien",
+      "away": "WSG Tirol",
+      "event_id": "10040076",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788367401.1205919
     },
     "Brodd|Viking FK": {
       "home": "Brodd",
@@ -90,99 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788366480.298522
-    },
-    "Zenit St. Petersburg|FC Dynamo-Makhachkala": {
-      "home": "Zenit St. Petersburg",
-      "away": "FC Dynamo-Makhachkala",
-      "event_id": "10040029",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.39,
-              2.62
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.39,
-                "under": 2.62
-              },
-              {
-                "line": 9.5,
-                "over": 1.82,
-                "under": 1.81
-              },
-              {
-                "line": 10.5,
-                "over": 2.54,
-                "under": 1.41
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788366505.3317258
-    },
-    "Znicz Pruszków|Cracovia Kraków": {
-      "home": "Znicz Pruszków",
-      "away": "Cracovia Kraków",
-      "event_id": "10040021",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788366532.0016723
-    },
-    "Lechia Zielona Gora|Ruch Chorzow": {
-      "home": "Lechia Zielona Gora",
-      "away": "Ruch Chorzow",
-      "event_id": "10040035",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788366558.709576
+      "last_checked": 1788367428.1384466
     }
   }
 }
