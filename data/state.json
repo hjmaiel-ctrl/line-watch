@@ -11,6 +11,33 @@
           "CARDS_OU": null
         },
         "sportybet": {
+          "1X2": [
+            2.4,
+            1.85,
+            1.85
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788352661.240673
+    },
+    "Wiked Luzino|Wisla Plock": {
+      "home": "Wiked Luzino",
+      "away": "Wisla Plock",
+      "event_id": "10036566",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -21,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788351141.0075085
+      "last_checked": 1788352687.9510345
     },
     "Sabah FA|Selangor FA": {
       "home": "Sabah FA",
@@ -44,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788351167.576408
+      "last_checked": 1788352714.535374
     },
     "Melaka FC|Pulau Pinang": {
       "home": "Melaka FC",
@@ -67,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788351194.1907668
+      "last_checked": 1788352741.3635576
     },
     "Yunnan Yukun|Chongqing Tonglianglong": {
       "home": "Yunnan Yukun",
@@ -90,30 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788351220.948881
-    },
-    "Sportivo Ameliano Reserves|Club Sportivo Trinidense Reserves": {
-      "home": "Sportivo Ameliano Reserves",
-      "away": "Club Sportivo Trinidense Reserves",
-      "event_id": "10036539",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788351247.4948163
+      "last_checked": 1788352767.9774868
     }
   }
 }

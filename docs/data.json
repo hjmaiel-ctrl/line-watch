@@ -1,8 +1,34 @@
 {
-  "generated_at": 1788351247.538633,
+  "generated_at": 1788352768.0160315,
   "matches": [
     {
       "match": "FC Gifu - Tokushima Vortis",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.85,
+            1.85
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Wiked Luzino - Wisla Plock",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -69,28 +95,6 @@
     },
     {
       "match": "Yunnan Yukun - Chongqing Tonglianglong",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Sportivo Ameliano Reserves - Club Sportivo Trinidense Reserves",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
