@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Osnabruck|Bayern Munich": {
-      "home": "Osnabruck",
-      "away": "Bayern Munich",
-      "event_id": "10040240",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788381060.5693648
-    },
     "Burnley|Middlesbrough": {
       "home": "Burnley",
       "away": "Middlesbrough",
@@ -30,51 +7,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 7.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 8.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 9.5,
-                "over": 3.9,
-                "under": 1.2
-              },
-              {
-                "line": 10.5,
-                "over": 6.5,
-                "under": 1.07
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.75,
-              1.92
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.5,
+                "under": 2.35
               }
             ]
           }
@@ -90,12 +34,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788381083.563752
+      "last_checked": 1788381911.8930764
     },
-    "Millwall|Wrexham": {
-      "home": "Millwall",
-      "away": "Wrexham",
-      "event_id": "10024372",
+    "Reading|Mansfield Town": {
+      "home": "Reading",
+      "away": "Mansfield Town",
+      "event_id": "10040276",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,12 +57,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788381110.1761239
+      "last_checked": 1788381938.538238
     },
-    "Queens Park Rangers|Cardiff City": {
-      "home": "Queens Park Rangers",
-      "away": "Cardiff City",
-      "event_id": "10024373",
+    "Falkirk|Rangers": {
+      "home": "Falkirk",
+      "away": "Rangers",
+      "event_id": "10040277",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -136,12 +80,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788381137.0349367
+      "last_checked": 1788381965.4977143
     },
-    "West Bromwich Albion|Charlton Athletic": {
-      "home": "West Bromwich Albion",
-      "away": "Charlton Athletic",
-      "event_id": "10024374",
+    "PAOK|OFI Crete": {
+      "home": "PAOK",
+      "away": "OFI Crete",
+      "event_id": "10040283",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -159,7 +103,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788381163.5647519
+      "last_checked": 1788381992.4927595
+    },
+    "Club Sportivo Ameliano|Club Sportivo Trinidense": {
+      "home": "Club Sportivo Ameliano",
+      "away": "Club Sportivo Trinidense",
+      "event_id": "10040271",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788382019.3426003
     }
   }
 }

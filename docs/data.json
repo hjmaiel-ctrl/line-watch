@@ -1,79 +1,24 @@
 {
-  "generated_at": 1788381163.6090922,
+  "generated_at": 1788382019.3878114,
   "matches": [
-    {
-      "match": "Osnabruck - Bayern Munich",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Burnley - Middlesbrough",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 7.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 8.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 9.5,
-                "over": 3.9,
-                "under": 1.2
-              },
-              {
-                "line": 10.5,
-                "over": 6.5,
-                "under": 1.07
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.75,
-              1.92
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.5,
+                "under": 2.35
               }
             ]
           }
@@ -91,15 +36,21 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Burnley - Middlesbrough",
           "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 3.5"
+          "detail": "bet9ja: esito #1 passato da 1.75 a 1.5 (16.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Burnley - Middlesbrough",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.92 a 2.35 (22.4%)"
         }
       ]
     },
     {
-      "match": "Millwall - Wrexham",
+      "match": "Reading - Mansfield Town",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -121,7 +72,7 @@
       "alerts": []
     },
     {
-      "match": "Queens Park Rangers - Cardiff City",
+      "match": "Falkirk - Rangers",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -143,7 +94,29 @@
       "alerts": []
     },
     {
-      "match": "West Bromwich Albion - Charlton Athletic",
+      "match": "PAOK - OFI Crete",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Club Sportivo Ameliano - Club Sportivo Trinidense",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -165,5 +138,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 2
 }
