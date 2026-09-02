@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788312223.5049741
+      "last_checked": 1788313413.5840244
     },
     "Fortaleza FC|Once Caldas": {
       "home": "Fortaleza FC",
@@ -31,24 +31,24 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.62,
-              2.1
+              1.52,
+              2.3
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
                 "line": 8.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.98,
+                "under": 1.67
               },
               {
                 "line": 9.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 10.5,
                 "over": 2.85,
                 "under": 1.35
               }
@@ -67,34 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788312248.1895967
-    },
-    "Club 2 de Mayo Reserves|Club Sportivo Luqueño Reserves": {
-      "home": "Club 2 de Mayo Reserves",
-      "away": "Club Sportivo Luqueño Reserves",
-      "event_id": "10036451",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            5.2,
-            1.56
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788312279.8237588
+      "last_checked": 1788313438.8129005
     },
     "Marte Soyapango|CD Once Municipal": {
       "home": "Marte Soyapango",
@@ -117,41 +90,46 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788312306.452055
+      "last_checked": 1788313466.876739
     },
-    "Z.Crystal Palace|Z.Arsenal": {
-      "home": "Z.Crystal Palace",
-      "away": "Z.Arsenal",
-      "event_id": "10037850",
+    "Z.Chelsea|Z.Fulham": {
+      "home": "Z.Chelsea",
+      "away": "Z.Fulham",
+      "event_id": "10038146",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 11.5,
             "odds": [
-              1.18,
-              4.9
+              1.37,
+              3.1
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.18,
-                "under": 4.9
-              },
-              {
-                "line": 9.5,
-                "over": 2.0,
-                "under": 1.8
-              },
-              {
-                "line": 10.5,
-                "over": 4.8,
-                "under": 1.18
-              },
-              {
                 "line": 11.5,
-                "over": 16.0,
-                "under": 1.02
+                "over": 1.37,
+                "under": 3.1
+              },
+              {
+                "line": 12.5,
+                "over": 1.68,
+                "under": 2.18
+              },
+              {
+                "line": 13.5,
+                "over": 2.17,
+                "under": 1.68
+              },
+              {
+                "line": 14.5,
+                "over": 3.05,
+                "under": 1.38
+              },
+              {
+                "line": 15.5,
+                "over": 4.5,
+                "under": 1.2
               }
             ]
           },
@@ -168,7 +146,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788312331.453562
+      "last_checked": 1788313492.020325
+    },
+    "Z.Everton|Z.Arsenal": {
+      "home": "Z.Everton",
+      "away": "Z.Arsenal",
+      "event_id": "10038147",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.25,
+              3.95
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.25,
+                "under": 3.95
+              },
+              {
+                "line": 11.5,
+                "over": 1.48,
+                "under": 2.65
+              },
+              {
+                "line": 12.5,
+                "over": 1.85,
+                "under": 1.94
+              },
+              {
+                "line": 13.5,
+                "over": 2.43,
+                "under": 1.55
+              },
+              {
+                "line": 14.5,
+                "over": 3.45,
+                "under": 1.31
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788313517.1075275
     }
   }
 }
