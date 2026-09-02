@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788346670.254776
+      "last_checked": 1788347522.788809
     },
     "Vanraure Hachinohe|Tochigi City FC": {
       "home": "Vanraure Hachinohe",
@@ -34,11 +34,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            11.5,
-            3.65
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -48,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788346702.0117488
+      "last_checked": 1788347555.31642
     },
     "Renofa Yamaguchi|Fujieda MYFC": {
       "home": "Renofa Yamaguchi",
@@ -71,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788346728.6916828
+      "last_checked": 1788347582.3621616
     },
     "Gainare Tottori|RB Omiya Ardija": {
       "home": "Gainare Tottori",
@@ -94,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788346755.4753368
+      "last_checked": 1788347608.9061465
     },
     "Tegevajaro Miyazaki|Kataller Toyama": {
       "home": "Tegevajaro Miyazaki",
@@ -117,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788346782.0268323
+      "last_checked": 1788347635.5200512
     }
   }
 }
