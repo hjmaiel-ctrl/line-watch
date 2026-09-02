@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788387393.3309596,
+  "generated_at": 1788388352.043503,
   "matches": [
     {
       "match": "Coquimbo Unido - Universidad de Concepción",
@@ -99,7 +99,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.25,
+            4.35
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },

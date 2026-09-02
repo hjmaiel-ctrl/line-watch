@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788387279.8568497
+      "last_checked": 1788388238.680736
     },
     "Club Olimpia|Club Guaraní": {
       "home": "Club Olimpia",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788387306.9591527
+      "last_checked": 1788388265.4551094
     },
     "Deportivo Cuenca|Guayaquil City FC": {
       "home": "Deportivo Cuenca",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788387333.7826555
+      "last_checked": 1788388292.5918636
     },
     "San Martin Margarita Belen|CD Policiales": {
       "home": "San Martin Margarita Belen",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788387365.972123
+      "last_checked": 1788388319.6274147
     },
     "HYH Sebaco FC|Walter Ferretti": {
       "home": "HYH Sebaco FC",
@@ -103,7 +103,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.25,
+            4.35
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788387393.2829616
+      "last_checked": 1788388352.0086498
     }
   }
 }
