@@ -1,32 +1,5 @@
 {
   "matches": {
-    "FC Gifu|Tokushima Vortis": {
-      "home": "FC Gifu",
-      "away": "Tokushima Vortis",
-      "event_id": "10036511",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.85,
-            1.85
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788352661.240673
-    },
     "Wiked Luzino|Wisla Plock": {
       "home": "Wiked Luzino",
       "away": "Wisla Plock",
@@ -35,7 +8,20 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              2.16,
+              1.57
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 2.16,
+                "under": 1.57
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -48,7 +34,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788352687.9510345
+      "last_checked": 1788353552.2969887
     },
     "Sabah FA|Selangor FA": {
       "home": "Sabah FA",
@@ -71,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788352714.535374
+      "last_checked": 1788353579.1046112
     },
     "Melaka FC|Pulau Pinang": {
       "home": "Melaka FC",
@@ -94,7 +80,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788352741.3635576
+      "last_checked": 1788353605.9075959
     },
     "Yunnan Yukun|Chongqing Tonglianglong": {
       "home": "Yunnan Yukun",
@@ -117,7 +103,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788352767.9774868
+      "last_checked": 1788353632.8463004
+    },
+    "Baia de Pemba|Ferroviario de Lichinga": {
+      "home": "Baia de Pemba",
+      "away": "Ferroviario de Lichinga",
+      "event_id": "10029405",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788353659.782272
     }
   }
 }
