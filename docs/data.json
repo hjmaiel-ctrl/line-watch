@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788311543.3973773,
+  "generated_at": 1788312331.491669,
   "matches": [
     {
       "match": "LDU Quito - Mushuc Runa",
@@ -30,26 +30,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.52,
-              2.3
+              1.62,
+              2.1
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
                 "line": 9.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 10.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
-                "line": 11.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 2.85,
+                "under": 1.35
               }
             ]
           },
@@ -66,7 +66,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Fortaleza FC - Once Caldas",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Fortaleza FC - Once Caldas",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.3 a 2.1 (9.5%)"
+        }
+      ]
     },
     {
       "match": "Club 2 de Mayo Reserves - Club Sportivo Luqueño Reserves",
@@ -80,8 +93,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            15.0,
-            4.5
+            5.2,
+            1.56
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -92,7 +105,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Club 2 de Mayo Reserves - Club Sportivo Luqueño Reserves",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 15.0 a 5.2 (188.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Club 2 de Mayo Reserves - Club Sportivo Luqueño Reserves",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 4.5 a 1.56 (188.5%)"
+        }
+      ]
     },
     {
       "match": "Marte Soyapango - CD Once Municipal",
@@ -125,34 +151,29 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.13,
-              6.3
+              1.18,
+              4.9
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.13,
-                "under": 6.3
+                "over": 1.18,
+                "under": 4.9
               },
               {
                 "line": 9.5,
-                "over": 1.48,
-                "under": 2.65
+                "over": 2.0,
+                "under": 1.8
               },
               {
                 "line": 10.5,
-                "over": 2.31,
-                "under": 1.61
+                "over": 4.8,
+                "under": 1.18
               },
               {
                 "line": 11.5,
-                "over": 4.4,
-                "under": 1.21
-              },
-              {
-                "line": 12.5,
-                "over": 9.8,
-                "under": 1.06
+                "over": 16.0,
+                "under": 1.02
               }
             ]
           },
@@ -174,10 +195,10 @@
           "type": "quota_cambiata",
           "match": "Z.Crystal Palace - Z.Arsenal",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 8.15 a 6.3 (29.4%)"
+          "detail": "bet9ja: esito #2 passato da 6.3 a 4.9 (28.6%)"
         }
       ]
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 5
 }
