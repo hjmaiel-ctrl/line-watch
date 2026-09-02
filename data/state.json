@@ -1,5 +1,61 @@
 {
   "matches": {
+    "Udinese|Venezia": {
+      "home": "Udinese",
+      "away": "Venezia",
+      "event_id": "10034609",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 8.5,
+                "over": 1.42,
+                "under": 2.55
+              },
+              {
+                "line": 9.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 10.5,
+                "over": 2.25,
+                "under": 1.55
+              },
+              {
+                "line": 11.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788365552.0313642
+    },
     "Marko|Kifisia FC": {
       "home": "Marko",
       "away": "Kifisia FC",
@@ -21,7 +77,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788364453.0172026
+      "last_checked": 1788365578.6689827
+    },
+    "Brodd|Viking FK": {
+      "home": "Brodd",
+      "away": "Viking FK",
+      "event_id": "10040061",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788365605.3557217
     },
     "Zenit St. Petersburg|FC Dynamo-Makhachkala": {
       "home": "Zenit St. Petersburg",
@@ -31,26 +110,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.59,
-              2.12
+              1.43,
+              2.5
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.43,
+                "under": 2.5
+              },
+              {
                 "line": 8.5,
-                "over": 1.59,
-                "under": 2.12
+                "over": 1.83,
+                "under": 1.81
               },
               {
                 "line": 9.5,
-                "over": 2.02,
-                "under": 1.66
-              },
-              {
-                "line": 10.5,
-                "over": 2.66,
-                "under": 1.38
+                "over": 2.48,
+                "under": 1.44
               }
             ]
           },
@@ -67,30 +146,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788364478.2254436
-    },
-    "Gornik Zabrze II|Olimpia Grudziadz": {
-      "home": "Gornik Zabrze II",
-      "away": "Olimpia Grudziadz",
-      "event_id": "10039936",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788364505.311166
+      "last_checked": 1788365630.2512686
     },
     "Znicz Pruszków|Cracovia Kraków": {
       "home": "Znicz Pruszków",
@@ -113,30 +169,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788364532.205755
-    },
-    "El Gounah|Al-Mokawloon al-Arab": {
-      "home": "El Gounah",
-      "away": "Al-Mokawloon al-Arab",
-      "event_id": "10039945",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788364559.2148948
+      "last_checked": 1788365656.937702
     }
   }
 }
