@@ -1,30 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "FC Barcelona - Rayo Vallecano",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.85 a 3.25 (14.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "FC Barcelona - Rayo Vallecano",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.73 a 1.9 (9.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "FC Barcelona - Rayo Vallecano",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.95 a 1.78 (9.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Benfica - Estoril-Praia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Benfica - Estoril-Praia",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.12 a 1.02 (9.8%)"
@@ -2998,5 +2974,29 @@
     "match": "Z.Chelsea - Z.Leeds",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.25 a 3.6 (10.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Nottingham Forest - Z.Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Nottingham Forest - Z.Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.3 a 1.16 (12.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Nottingham Forest - Z.Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.55 a 5.2 (46.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Liverpool - Z.Arsenal",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.1 a 4.95 (20.7%)"
   }
 ]
