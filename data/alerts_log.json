@@ -1,24 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Z.Sunderland - Z.Everton",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.0 a 8.65 (116.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Fulham - Z.Brentford",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 5.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Fulham - Z.Brentford",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.27 a 1.08 (17.6%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Z.Fulham - Z.Brentford",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.8 a 8.65 (127.6%)"
@@ -2998,5 +2980,23 @@
     "match": "Flamengo - Mirassol FC",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.6 a 3.45 (32.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Flamengo - Mirassol FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 12.5 a 14.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Flamengo - Mirassol FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.25 a 1.52 (21.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Flamengo - Mirassol FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.45 a 2.3 (50.0%)"
   }
 ]

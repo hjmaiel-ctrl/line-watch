@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 12.5,
+            "line": 14.5,
             "odds": [
-              1.25,
-              3.45
+              1.52,
+              2.3
             ],
             "_all_lines": [
               {
-                "line": 12.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 13.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
                 "line": 14.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 15.5,
+                "over": 2.2,
+                "under": 1.57
+              },
+              {
+                "line": 16.5,
+                "over": 3.45,
+                "under": 1.25
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788392820.786145
+      "last_checked": 1788393389.839413
     },
     "Coquimbo Unido|Universidad de Concepción": {
       "home": "Coquimbo Unido",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788392847.7893803
+      "last_checked": 1788393416.4099727
     },
     "Deportes Quindío|Llaneros FC Villavicencio": {
       "home": "Deportes Quindío",
@@ -90,30 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788392874.9134796
-    },
-    "Club Atlético Talleres Reserves|Instituto de Cordoba Reserves": {
-      "home": "Club Atlético Talleres Reserves",
-      "away": "Instituto de Cordoba Reserves",
-      "event_id": "10043832",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788392902.3086157
+      "last_checked": 1788393443.0091152
     },
     "SV Broki|Delfines Del Este": {
       "home": "SV Broki",
@@ -136,7 +113,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788392929.1439621
+      "last_checked": 1788393469.8508658
+    },
+    "Goiatuba EC|EC Sao Jose RS": {
+      "home": "Goiatuba EC",
+      "away": "EC Sao Jose RS",
+      "event_id": "10043838",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            5.6,
+            6.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788393501.9157047
     }
   }
 }
