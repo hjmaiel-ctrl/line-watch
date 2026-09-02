@@ -1,8 +1,30 @@
 {
-  "generated_at": 1788384287.515125,
+  "generated_at": 1788385238.9289086,
   "matches": [
     {
-      "match": "PAOK - OFI Crete",
+      "match": "Club Olimpia - Club Guaraní",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Deportivo Cuenca - Guayaquil City FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -34,32 +56,6 @@
         },
         "sportybet": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Zamora FC - Deportivo Táchira",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            11.0
-          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },

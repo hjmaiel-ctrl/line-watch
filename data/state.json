@@ -1,9 +1,9 @@
 {
   "matches": {
-    "PAOK|OFI Crete": {
-      "home": "PAOK",
-      "away": "OFI Crete",
-      "event_id": "10040283",
+    "Club Olimpia|Club Guaraní": {
+      "home": "Club Olimpia",
+      "away": "Club Guaraní",
+      "event_id": "10040291",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,7 +21,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788384175.546333
+      "last_checked": 1788385131.9712243
+    },
+    "Deportivo Cuenca|Guayaquil City FC": {
+      "home": "Deportivo Cuenca",
+      "away": "Guayaquil City FC",
+      "event_id": "10040292",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788385158.80808
     },
     "Liverpool Montevideo|CA Boston River": {
       "home": "Liverpool Montevideo",
@@ -44,34 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788384202.2050855
-    },
-    "Zamora FC|Deportivo Táchira": {
-      "home": "Zamora FC",
-      "away": "Deportivo Táchira",
-      "event_id": "10040287",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            11.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788384234.0485122
+      "last_checked": 1788385185.5168505
     },
     "San Martin Margarita Belen|CD Policiales": {
       "home": "San Martin Margarita Belen",
@@ -94,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788384260.844075
+      "last_checked": 1788385212.2702007
     },
     "Yaracuyanos|Urena": {
       "home": "Yaracuyanos",
@@ -117,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788384287.4687047
+      "last_checked": 1788385238.8855748
     }
   }
 }
