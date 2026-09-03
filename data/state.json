@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Laos U20|Indonesia U20": {
-      "home": "Laos U20",
-      "away": "Indonesia U20",
-      "event_id": "10044021",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788445881.0893476
-    },
     "Al-Ahli|Qatar SC": {
       "home": "Al-Ahli",
       "away": "Qatar SC",
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788445907.648773
+      "last_checked": 1788446485.7915962
     },
     "Igdir FK|Manisa Futbol Kulubu": {
       "home": "Igdir FK",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788445934.297919
+      "last_checked": 1788446512.550825
     },
     "FC AGMK|Xorazm Urganch": {
       "home": "FC AGMK",
@@ -90,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788445960.9859912
+      "last_checked": 1788446539.7808294
     },
-    "Iberia 2010|FC Orbi": {
-      "home": "Iberia 2010",
-      "away": "FC Orbi",
-      "event_id": "10047099",
+    "ACS Fotbal Club Bacau|CS Universitatea Craiova": {
+      "home": "ACS Fotbal Club Bacau",
+      "away": "CS Universitatea Craiova",
+      "event_id": "10047130",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788445987.534937
+      "last_checked": 1788446566.6059954
+    },
+    "Khankhedi|Sabail FC": {
+      "home": "Khankhedi",
+      "away": "Sabail FC",
+      "event_id": "10047100",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788446593.3389084
     }
   }
 }
