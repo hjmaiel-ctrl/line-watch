@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788441006.180873
+      "last_checked": 1788442000.4608161
     },
     "Kataka FC|BUL FC": {
       "home": "Kataka FC",
@@ -44,30 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788441033.0331714
-    },
-    "Geylang International II|Lion City Sailors FC II": {
-      "home": "Geylang International II",
-      "away": "Lion City Sailors FC II",
-      "event_id": "10043884",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788441060.029186
+      "last_checked": 1788442027.0755713
     },
     "CD Maxaquene|Ferroviário da Beira": {
       "home": "CD Maxaquene",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788441087.081029
+      "last_checked": 1788442053.8614705
     },
     "FC IberiaTiblisi 1999 II|Dinamo-2 Tbilisi": {
       "home": "FC IberiaTiblisi 1999 II",
@@ -113,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788441113.9790046
+      "last_checked": 1788442080.6242635
+    },
+    "Kolkheti Khobi|Didube 2014": {
+      "home": "Kolkheti Khobi",
+      "away": "Didube 2014",
+      "event_id": "10047097",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788442107.171343
     }
   }
 }
