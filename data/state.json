@@ -1,72 +1,283 @@
 {
   "matches": {
-    "Deportivo Toluca|Club Leon": {
-      "home": "Deportivo Toluca",
-      "away": "Club Leon",
-      "event_id": "10041646",
+    "CF America|CF Monterrey": {
+      "home": "CF America",
+      "away": "CF Monterrey",
+      "event_id": "10041690",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 15.5,
+            "odds": [
+              1.61,
+              2.14
+            ],
+            "_all_lines": [
+              {
+                "line": 15.5,
+                "over": 1.61,
+                "under": 2.14
+              },
+              {
+                "line": 16.5,
+                "over": 2.4,
+                "under": 1.49
+              },
+              {
+                "line": 17.5,
+                "over": 3.8,
+                "under": 1.21
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.53,
+              2.24
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.53,
+                "under": 2.24
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            2.8,
+            1.9
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.25
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788412347.4933927
+    },
+    "Z.Nottingham Forest|Z.Sunderland": {
+      "home": "Z.Nottingham Forest",
+      "away": "Z.Sunderland",
+      "event_id": "10045077",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.13,
+              6.4
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.13,
+                "under": 6.4
+              },
+              {
+                "line": 5.5,
+                "over": 1.33,
+                "under": 3.3
+              },
+              {
+                "line": 6.5,
+                "over": 1.75,
+                "under": 2.07
+              },
+              {
+                "line": 7.5,
+                "over": 2.52,
+                "under": 1.52
+              },
+              {
+                "line": 8.5,
+                "over": 4.05,
+                "under": 1.24
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788412372.9249606
+    },
+    "Z.Fulham|Z.Man City": {
+      "home": "Z.Fulham",
+      "away": "Z.Man City",
+      "event_id": "10045078",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.18,
+              4.8
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.18,
+                "under": 4.8
+              },
+              {
+                "line": 7.5,
+                "over": 1.45,
+                "under": 2.77
+              },
+              {
+                "line": 8.5,
+                "over": 1.91,
+                "under": 1.88
+              },
+              {
+                "line": 9.5,
+                "over": 2.81,
+                "under": 1.43
+              },
+              {
+                "line": 10.5,
+                "over": 4.55,
+                "under": 1.2
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788412398.4029393
+    },
+    "Z.Brentford|Z.Man United": {
+      "home": "Z.Brentford",
+      "away": "Z.Man United",
+      "event_id": "10045079",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.31,
-              3.15
+              1.22,
+              4.35
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.31,
-                "under": 3.15
+                "over": 1.22,
+                "under": 4.35
               },
               {
                 "line": 11.5,
-                "over": 1.66,
-                "under": 2.08
+                "over": 1.51,
+                "under": 2.54
               },
               {
                 "line": 12.5,
-                "over": 2.26,
-                "under": 1.57
+                "over": 2.05,
+                "under": 1.77
+              },
+              {
+                "line": 13.5,
+                "over": 3.1,
+                "under": 1.37
+              },
+              {
+                "line": 14.5,
+                "over": 5.1,
+                "under": 1.17
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 6.5,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788412423.9971488
+    },
+    "Z.Ipswich Town|Z.Chelsea": {
+      "home": "Z.Ipswich Town",
+      "away": "Z.Chelsea",
+      "event_id": "10045080",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
             "odds": [
-              1.89,
-              1.79
+              1.11,
+              6.8
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.89,
-                "under": 1.79
+                "line": 8.5,
+                "over": 1.11,
+                "under": 6.8
+              },
+              {
+                "line": 9.5,
+                "over": 1.31,
+                "under": 3.5
+              },
+              {
+                "line": 10.5,
+                "over": 1.7,
+                "under": 2.15
+              },
+              {
+                "line": 11.5,
+                "over": 2.42,
+                "under": 1.56
+              },
+              {
+                "line": 12.5,
+                "over": 3.85,
+                "under": 1.26
               }
             ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788401699.896139
-    },
-    "Deportes Limache|Ñublense": {
-      "home": "Deportes Limache",
-      "away": "Ñublense",
-      "event_id": "10043863",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -80,76 +291,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788401726.745383
-    },
-    "Santa Fe|Millonarios": {
-      "home": "Santa Fe",
-      "away": "Millonarios",
-      "event_id": "10043869",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788401753.8281617
-    },
-    "Real Estelí|FC San Marcos": {
-      "home": "Real Estelí",
-      "away": "FC San Marcos",
-      "event_id": "10043868",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788401780.8620427
-    },
-    "Academia Quintana|Caguas Sporting FC": {
-      "home": "Academia Quintana",
-      "away": "Caguas Sporting FC",
-      "event_id": "10043864",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788401808.0481615
+      "last_checked": 1788412449.1368606
     }
   }
 }

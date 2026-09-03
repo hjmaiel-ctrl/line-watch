@@ -1,17 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Z.Coventry City - Z.Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.23 a 1.03 (19.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Coventry City - Z.Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.15 a 13.0 (213.3%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Z.Crystal Palace - Z.Man City",
     "market": "CORNERS_OU",
@@ -2998,5 +2986,17 @@
     "match": "Deportivo Toluca - Club Leon",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.36 a 3.15 (33.5%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "CF America - CF Monterrey",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=1.61 vs sportybet=2.4 (esito #1, differenza 49.1%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "CF America - CF Monterrey",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=2.14 vs sportybet=1.25 (esito #2, differenza 71.2%)"
   }
 ]
