@@ -1,5 +1,28 @@
 {
   "matches": {
+    "GKS Tychy|LKS Lódz": {
+      "home": "GKS Tychy",
+      "away": "LKS Lódz",
+      "event_id": "10047153",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788449577.4014096
+    },
     "Al-Ahli|Qatar SC": {
       "home": "Al-Ahli",
       "away": "Qatar SC",
@@ -21,30 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788448399.8972216
-    },
-    "Igdir FK|Manisa Futbol Kulubu": {
-      "home": "Igdir FK",
-      "away": "Manisa Futbol Kulubu",
-      "event_id": "10047124",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788448427.4081423
+      "last_checked": 1788449603.9876752
     },
     "FC AGMK|Xorazm Urganch": {
       "home": "FC AGMK",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788448454.5697956
+      "last_checked": 1788449630.5987997
     },
     "ACS Fotbal Club Bacau|CS Universitatea Craiova": {
       "home": "ACS Fotbal Club Bacau",
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788448481.8611836
+      "last_checked": 1788449657.235929
     },
-    "Haras El Hodood|El-Entag El-Harby": {
-      "home": "Haras El Hodood",
-      "away": "El-Entag El-Harby",
-      "event_id": "10047104",
+    "El Seka Elhadeed|Maleyet Kafr El Zayiat": {
+      "home": "El Seka Elhadeed",
+      "away": "Maleyet Kafr El Zayiat",
+      "event_id": "10047107",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788448508.997083
+      "last_checked": 1788449683.8283932
     }
   }
 }
