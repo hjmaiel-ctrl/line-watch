@@ -1,5 +1,41 @@
 {
   "matches": {
+    "Palermo|Mantova": {
+      "home": "Palermo",
+      "away": "Mantova",
+      "event_id": "10047178",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.7,
+              1.98
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.7,
+                "under": 1.98
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788452058.360168
+    },
     "Al-Fayha FC|Al-Kholood Club": {
       "home": "Al-Fayha FC",
       "away": "Al-Kholood Club",
@@ -21,7 +57,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788451078.9241276
+      "last_checked": 1788452084.902273
+    },
+    "Thisted FC|SønderjyskE": {
+      "home": "Thisted FC",
+      "away": "SønderjyskE",
+      "event_id": "10047194",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788452111.316912
     },
     "GKS Tychy|LKS Lódz": {
       "home": "GKS Tychy",
@@ -44,39 +103,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788451105.8797336
+      "last_checked": 1788452137.857494
     },
-    "Al-Ahli|Qatar SC": {
-      "home": "Al-Ahli",
-      "away": "Qatar SC",
-      "event_id": "10047123",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            5.6,
-            5.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788451137.7539275
-    },
-    "Igdir FK|Manisa Futbol Kulubu": {
-      "home": "Igdir FK",
-      "away": "Manisa Futbol Kulubu",
-      "event_id": "10047124",
+    "Rakow Czestochowa|Górnik Zabrze": {
+      "home": "Rakow Czestochowa",
+      "away": "Górnik Zabrze",
+      "event_id": "10047189",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -94,30 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788451164.7102456
-    },
-    "ACS Fotbal Club Bacau|CS Universitatea Craiova": {
-      "home": "ACS Fotbal Club Bacau",
-      "away": "CS Universitatea Craiova",
-      "event_id": "10047130",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788451191.475286
+      "last_checked": 1788452164.4178414
     }
   }
 }

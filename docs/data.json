@@ -1,8 +1,65 @@
 {
-  "generated_at": 1788451191.5423443,
+  "generated_at": 1788452164.460961,
   "matches": [
     {
+      "match": "Palermo - Mantova",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.7,
+              1.98
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.7,
+                "under": 1.98
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
       "match": "Al-Fayha FC - Al-Kholood Club",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Thisted FC - SønderjyskE",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -46,55 +103,7 @@
       "alerts": []
     },
     {
-      "match": "Al-Ahli - Qatar SC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            5.6,
-            5.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Igdir FK - Manisa Futbol Kulubu",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "ACS Fotbal Club Bacau - CS Universitatea Craiova",
+      "match": "Rakow Czestochowa - Górnik Zabrze",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
