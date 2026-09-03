@@ -1,35 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "FK Akron Tolyatti - Lokomotiv Moscow",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.36 a 2.1 (12.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "FK Akron Tolyatti - Lokomotiv Moscow",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.61 a 1.37 (17.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "FK Akron Tolyatti - Lokomotiv Moscow",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.1 a 2.68 (27.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Fakel Voronezh - Krasnodar",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.62 a 1.78 (9.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Fakel Voronezh - Krasnodar",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.06 a 1.79 (15.1%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Parma - Cremonese",
     "market": "CORNERS_OU",
@@ -2998,5 +2968,35 @@
     "match": "Z.Newcastle Utd - Z.Tottenham",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 15.5 a 2.63 (489.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Brighton - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 8.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Fulham - Z.Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Fulham - Z.Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.37 a 1.17 (17.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Fulham - Z.Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.1 a 5.1 (64.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Crystal Palace - Z.Bournemouth",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 9.5"
   }
 ]
