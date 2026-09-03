@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788440025.5446868
+      "last_checked": 1788441006.180873
     },
-    "Jurong Reserves|Tampines Rovers II": {
-      "home": "Jurong Reserves",
-      "away": "Tampines Rovers II",
-      "event_id": "10043882",
+    "Kataka FC|BUL FC": {
+      "home": "Kataka FC",
+      "away": "BUL FC",
+      "event_id": "10047112",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -34,11 +34,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            3.7,
-            2.35
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -48,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788440057.383925
+      "last_checked": 1788441033.0331714
     },
     "Geylang International II|Lion City Sailors FC II": {
       "home": "Geylang International II",
@@ -71,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788440084.0905778
+      "last_checked": 1788441060.029186
     },
     "CD Maxaquene|Ferroviário da Beira": {
       "home": "CD Maxaquene",
@@ -94,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788440110.7856622
+      "last_checked": 1788441087.081029
     },
     "FC IberiaTiblisi 1999 II|Dinamo-2 Tbilisi": {
       "home": "FC IberiaTiblisi 1999 II",
@@ -117,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788440137.4684153
+      "last_checked": 1788441113.9790046
     }
   }
 }
