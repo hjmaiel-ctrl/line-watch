@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788449577.4014096
+      "last_checked": 1788450508.70335
     },
-    "Al-Ahli|Qatar SC": {
-      "home": "Al-Ahli",
-      "away": "Qatar SC",
-      "event_id": "10047123",
+    "Igdir FK|Manisa Futbol Kulubu": {
+      "home": "Igdir FK",
+      "away": "Manisa Futbol Kulubu",
+      "event_id": "10047124",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -34,7 +34,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            13.0,
+            22.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788449603.9876752
+      "last_checked": 1788450541.419707
     },
     "FC AGMK|Xorazm Urganch": {
       "home": "FC AGMK",
@@ -67,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788449630.5987997
+      "last_checked": 1788450568.9847724
     },
     "ACS Fotbal Club Bacau|CS Universitatea Craiova": {
       "home": "ACS Fotbal Club Bacau",
@@ -90,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788449657.235929
+      "last_checked": 1788450596.380219
     },
-    "El Seka Elhadeed|Maleyet Kafr El Zayiat": {
-      "home": "El Seka Elhadeed",
-      "away": "Maleyet Kafr El Zayiat",
-      "event_id": "10047107",
+    "Vihren Sandanski|FC Etar Veliko Tarnovo": {
+      "home": "Vihren Sandanski",
+      "away": "FC Etar Veliko Tarnovo",
+      "event_id": "10047110",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788449683.8283932
+      "last_checked": 1788450623.8931034
     }
   }
 }

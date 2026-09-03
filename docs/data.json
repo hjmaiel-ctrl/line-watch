@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788449683.8748734,
+  "generated_at": 1788450623.9301047,
   "matches": [
     {
       "match": "GKS Tychy - LKS Lódz",
@@ -24,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Al-Ahli - Qatar SC",
+      "match": "Igdir FK - Manisa Futbol Kulubu",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -33,7 +33,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            13.0,
+            22.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,7 +94,7 @@
       "alerts": []
     },
     {
-      "match": "El Seka Elhadeed - Maleyet Kafr El Zayiat",
+      "match": "Vihren Sandanski - FC Etar Veliko Tarnovo",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
