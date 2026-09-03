@@ -1,54 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "Stoke City - Norwich City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 5.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Stoke City - Norwich City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.0 a 3.45 (15.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Lincoln City - Blackburn Rovers",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Lincoln City - Blackburn Rovers",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.22 a 1.12 (8.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Lincoln City - Blackburn Rovers",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.65 a 5.0 (37.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Torino - Monza",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.83 a 1.98 (8.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Lincoln City - Blackburn Rovers",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Lincoln City - Blackburn Rovers",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.0 a 3.75 (33.3%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Lincoln City - Blackburn Rovers",
     "market": "CARDS_OU",
     "detail": "bet9ja: linea passata da 3.5 a 2.5"
@@ -2998,5 +2950,53 @@
     "match": "Toulouse FC - Lille OSC",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.8 a 1.6 (12.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Real Sociedad - Celta de Vigo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Real Sociedad - Celta de Vigo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.0 a 3.45 (15.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Toulouse FC - Lille OSC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Toulouse FC - Lille OSC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.1 a 4.5 (9.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Toulouse FC - Lille OSC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Toulouse FC - Lille OSC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.15 a 1.85 (16.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Toulouse FC - Lille OSC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.6 a 1.82 (13.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Cagliari - Hellas Verona",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 8.5"
   }
 ]
