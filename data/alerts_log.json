@@ -1,41 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Atletico Grau - FBC Melgar",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Atletico Grau - FBC Melgar",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.38 a 1.5 (8.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Atletico Grau - FBC Melgar",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.66 a 2.26 (17.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Atletico Grau - FBC Melgar",
-    "market": "CORNERS_OU",
-    "detail": "sportybet: esito #2 passato da 1.37 a 1.5 (9.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Atletico Grau - FBC Melgar",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 5.3 a 1.32 (301.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Atletico Grau - FBC Melgar",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 2.1 a 3.65 (73.8%)"
-  },
-  {
     "type": "quota_differente",
     "match": "Atletico Grau - FBC Melgar",
     "market": "CORNERS_OU",
@@ -2998,5 +2962,41 @@
     "match": "Cagliari - Hellas Verona",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Real Sociedad - Celta de Vigo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Real Sociedad - Celta de Vigo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.12 a 1.6 (42.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Real Sociedad - Celta de Vigo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.0 a 2.15 (132.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Real Sociedad - Celta de Vigo",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Real Sociedad - Celta de Vigo",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.45 a 1.95 (25.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Real Sociedad - Celta de Vigo",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.47 a 1.73 (17.7%)"
   }
 ]

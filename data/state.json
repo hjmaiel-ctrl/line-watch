@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 10.5,
             "odds": [
-              1.12,
-              5.0
+              1.6,
+              2.15
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.12,
-                "under": 5.0
-              },
-              {
                 "line": 10.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.6,
+                "under": 2.15
               },
               {
                 "line": 11.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 12.5,
-                "over": 4.75,
-                "under": 1.13
+                "over": 6.0,
+                "under": 1.08
               },
               {
                 "line": 13.5,
-                "over": 8.0,
-                "under": 1.03
+                "over": 10.0,
+                "under": 1.01
+              },
+              {
+                "line": 14.5,
+                "over": 11.0,
+                "under": null
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 5.5,
             "odds": [
-              2.45,
-              1.47
+              1.95,
+              1.73
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 2.45,
-                "under": 1.47
+                "line": 5.5,
+                "over": 1.95,
+                "under": 1.73
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788467956.7316158
+      "last_checked": 1788468548.7751627
     },
     "Cagliari|Hellas Verona": {
       "home": "Cagliari",
@@ -76,40 +76,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.22,
-              3.5
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.22,
-                "under": 3.5
-              },
-              {
-                "line": 7.5,
-                "over": 2.2,
-                "under": 1.57
-              },
-              {
-                "line": 8.5,
-                "over": 4.1,
-                "under": 1.18
-              },
-              {
-                "line": 9.5,
-                "over": 8.0,
-                "under": 1.03
-              },
-              {
-                "line": 10.5,
-                "over": 11.0,
-                "under": null
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -123,7 +90,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788467981.5909264
+      "last_checked": 1788468575.3914945
+    },
+    "Universidad Católica del Ecuador|Aucas": {
+      "home": "Universidad Católica del Ecuador",
+      "away": "Aucas",
+      "event_id": "10047283",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            5.4,
+            1.38
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788468609.0532744
     },
     "JS El Biar|Olympique Akbou": {
       "home": "JS El Biar",
@@ -146,30 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788468008.2278125
-    },
-    "FC Rouen|Valenciennes FC": {
-      "home": "FC Rouen",
-      "away": "Valenciennes FC",
-      "event_id": "10047250",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788468034.868695
+      "last_checked": 1788468636.8098526
     },
     "AC Trento|Calcio Desenzano": {
       "home": "AC Trento",
@@ -192,7 +163,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788468061.7414536
+      "last_checked": 1788468663.4123924
     }
   }
 }
