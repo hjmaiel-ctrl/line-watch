@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788396944.16772
+      "last_checked": 1788397726.9063907
     },
     "Deportes Limache|Ñublense": {
       "home": "Deportes Limache",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788396971.454086
+      "last_checked": 1788397754.2618399
     },
     "Barcelona SC|Independiente del Valle": {
       "home": "Barcelona SC",
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788396998.1857882
+      "last_checked": 1788397781.2082183
     },
-    "Club Atlético Atenas|CA Peñarol": {
-      "home": "Club Atlético Atenas",
-      "away": "CA Peñarol",
-      "event_id": "10043841",
+    "Real Estelí|FC San Marcos": {
+      "home": "Real Estelí",
+      "away": "FC San Marcos",
+      "event_id": "10043868",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788397025.1127274
+      "last_checked": 1788397808.3240285
     },
     "Colegiales|CA Ferrocarril Midland": {
       "home": "Colegiales",
@@ -103,7 +103,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            13.0,
+            4.75
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788397051.947951
+      "last_checked": 1788397840.2944415
     }
   }
 }

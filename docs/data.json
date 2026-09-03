@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788397051.981193,
+  "generated_at": 1788397840.3393333,
   "matches": [
     {
       "match": "Vélez Sársfield - Boca Juniors",
@@ -68,7 +68,7 @@
       "alerts": []
     },
     {
-      "match": "Club Atlético Atenas - CA Peñarol",
+      "match": "Real Estelí - FC San Marcos",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -99,7 +99,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            13.0,
+            4.75
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
