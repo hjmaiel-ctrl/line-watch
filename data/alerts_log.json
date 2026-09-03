@@ -1,36 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "Preston North End - Bristol City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 6.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Sheffield United - Bolton Wanderers",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.4 a 1.2 (16.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Sheffield United - Bolton Wanderers",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.65 a 3.75 (41.5%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Lincoln City - Blackburn Rovers",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Lincoln City - Blackburn Rovers",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.45 a 3.0 (15.0%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Lincoln City - Blackburn Rovers",
     "market": "CARDS_OU",
     "detail": "bet9ja: linea passata da 4.5 a 3.5"
@@ -2998,5 +2968,35 @@
     "match": "Z.Aston Villa - Z.Newcastle Utd",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 9.3 a 5.95 (56.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Brighton - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.65 a 8.6 (29.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Fulham - Z.Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Fulham - Z.Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.0 a 6.95 (15.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Aston Villa - Z.Newcastle Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 11.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Aston Villa - Z.Newcastle Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.95 a 7.5 (26.1%)"
   }
 ]
