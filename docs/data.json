@@ -1,6 +1,96 @@
 {
-  "generated_at": 1788476437.413467,
+  "generated_at": 1788477269.8473477,
   "matches": [
+    {
+      "match": "Grêmio FBPA - SC Internacional",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.47,
+              2.45
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 10.5,
+                "over": 1.78,
+                "under": 1.9
+              },
+              {
+                "line": 11.5,
+                "over": 2.25,
+                "under": 1.55
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Clube Náutico Capibaribe - Botafogo SP",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.4,
+              2.5
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.4,
+                "under": 2.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.65,
+                "under": 1.97
+              },
+              {
+                "line": 10.5,
+                "over": 2.0,
+                "under": 1.63
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Recoleta FC - Cerro Porteño",
       "bet9ja_stats": null,
@@ -13,8 +103,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            44.0,
-            12.0
+            13.0,
+            13.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +115,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Recoleta FC - Cerro Porteño",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 44.0 a 13.0 (238.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Recoleta FC - Cerro Porteño",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 12.0 a 13.0 (8.3%)"
+        }
+      ]
     },
     {
       "match": "Leones del Norte - Orense SC",
@@ -50,51 +153,7 @@
       "alerts": []
     },
     {
-      "match": "Boca Juniors Reserves - Quilmes Reserves",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Club Sol de América - Club General Caballero JLM",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Estudiantes de Mérida - Universidad Central de Venezuela FC",
+      "match": "Internacional de Palmira - Real Cundinamarca",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -116,5 +175,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }

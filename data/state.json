@@ -1,5 +1,97 @@
 {
   "matches": {
+    "Grêmio FBPA|SC Internacional": {
+      "home": "Grêmio FBPA",
+      "away": "SC Internacional",
+      "event_id": "10047559",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.47,
+              2.45
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 10.5,
+                "over": 1.78,
+                "under": 1.9
+              },
+              {
+                "line": 11.5,
+                "over": 2.25,
+                "under": 1.55
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788477159.8516803
+    },
+    "Clube Náutico Capibaribe|Botafogo SP": {
+      "home": "Clube Náutico Capibaribe",
+      "away": "Botafogo SP",
+      "event_id": "10048924",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.4,
+              2.5
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.4,
+                "under": 2.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.65,
+                "under": 1.97
+              },
+              {
+                "line": 10.5,
+                "over": 2.0,
+                "under": 1.63
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788477184.6204224
+    },
     "Recoleta FC|Cerro Porteño": {
       "home": "Recoleta FC",
       "away": "Cerro Porteño",
@@ -13,8 +105,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            44.0,
-            12.0
+            13.0,
+            13.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788476327.6867347
+      "last_checked": 1788477216.403923
     },
     "Leones del Norte|Orense SC": {
       "home": "Leones del Norte",
@@ -48,12 +140,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788476354.9210737
+      "last_checked": 1788477243.2510374
     },
-    "Boca Juniors Reserves|Quilmes Reserves": {
-      "home": "Boca Juniors Reserves",
-      "away": "Quilmes Reserves",
-      "event_id": "10047303",
+    "Internacional de Palmira|Real Cundinamarca": {
+      "home": "Internacional de Palmira",
+      "away": "Real Cundinamarca",
+      "event_id": "10048927",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -71,53 +163,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788476382.3378937
-    },
-    "Club Sol de América|Club General Caballero JLM": {
-      "home": "Club Sol de América",
-      "away": "Club General Caballero JLM",
-      "event_id": "10047304",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788476409.8496394
-    },
-    "Estudiantes de Mérida|Universidad Central de Venezuela FC": {
-      "home": "Estudiantes de Mérida",
-      "away": "Universidad Central de Venezuela FC",
-      "event_id": "10047305",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788476437.3459644
+      "last_checked": 1788477269.8029084
     }
   }
 }

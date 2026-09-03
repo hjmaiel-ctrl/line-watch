@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Z.Crystal Palace - Z.Arsenal",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 6.3 a 4.9 (28.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Fortaleza FC - Once Caldas",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Fortaleza FC - Once Caldas",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.1 a 2.3 (9.5%)"
@@ -2998,5 +2986,17 @@
     "match": "América de Cali - Alianza FC Valledupar",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.85 a 4.25 (49.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Recoleta FC - Cerro Porteño",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 44.0 a 13.0 (238.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Recoleta FC - Cerro Porteño",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 12.0 a 13.0 (8.3%)"
   }
 ]
