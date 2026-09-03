@@ -1,32 +1,5 @@
 {
   "matches": {
-    "JS El Biar|Olympique Akbou": {
-      "home": "JS El Biar",
-      "away": "Olympique Akbou",
-      "event_id": "10047291",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            85.0,
-            5.8
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788472235.527208
-    },
     "América de Cali|Alianza FC Valledupar": {
       "home": "América de Cali",
       "away": "Alianza FC Valledupar",
@@ -37,24 +10,24 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.35,
-              2.85
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 8.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.7,
+                "under": 1.38
               }
             ]
           },
@@ -71,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788472261.0375764
+      "last_checked": 1788472776.0387146
     },
     "Recoleta FC|Cerro Porteño": {
       "home": "Recoleta FC",
@@ -94,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788472287.814002
+      "last_checked": 1788472802.8823287
     },
     "Leones del Norte|Orense SC": {
       "home": "Leones del Norte",
@@ -117,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788472314.4866197
+      "last_checked": 1788472829.4938567
     },
-    "Úlfarnir|Alafoss": {
-      "home": "Úlfarnir",
-      "away": "Alafoss",
-      "event_id": "10047289",
+    "Vinotinto FC|San Antonio Futbol Club": {
+      "home": "Vinotinto FC",
+      "away": "San Antonio Futbol Club",
+      "event_id": "10047295",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -140,7 +113,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788472340.9541004
+      "last_checked": 1788472856.388312
+    },
+    "Dragon|AD Sesa": {
+      "home": "Dragon",
+      "away": "AD Sesa",
+      "event_id": "10047297",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788472883.1819818
     }
   }
 }

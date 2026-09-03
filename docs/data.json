@@ -1,45 +1,6 @@
 {
-  "generated_at": 1788472340.9880676,
+  "generated_at": 1788472883.2157047,
   "matches": [
-    {
-      "match": "JS El Biar - Olympique Akbou",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            85.0,
-            5.8
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "JS El Biar - Olympique Akbou",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 31.0 a 85.0 (174.2%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "JS El Biar - Olympique Akbou",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 5.0 a 5.8 (16.0%)"
-        }
-      ]
-    },
     {
       "match": "América de Cali - Alianza FC Valledupar",
       "bet9ja_stats": null,
@@ -49,24 +10,24 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.35,
-              2.85
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 8.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.7,
+                "under": 1.38
               }
             ]
           },
@@ -83,26 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "América de Cali - Alianza FC Valledupar",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 7.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "América de Cali - Alianza FC Valledupar",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.5 a 1.35 (11.1%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "América de Cali - Alianza FC Valledupar",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.35 a 2.85 (21.3%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Recoleta FC - Cerro Porteño",
@@ -149,7 +91,29 @@
       "alerts": []
     },
     {
-      "match": "Úlfarnir - Alafoss",
+      "match": "Vinotinto FC - San Antonio Futbol Club",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Dragon - AD Sesa",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -171,5 +135,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 5
+  "alert_count_this_run": 0
 }
