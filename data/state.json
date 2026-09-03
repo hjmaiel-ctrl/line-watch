@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788439171.1496346
+      "last_checked": 1788440025.5446868
     },
     "Jurong Reserves|Tampines Rovers II": {
       "home": "Jurong Reserves",
@@ -34,7 +34,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            3.7,
+            2.35
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,30 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788439198.6030128
-    },
-    "Olimpia Asuncion Reserves|Club Guaraní Reserves": {
-      "home": "Olimpia Asuncion Reserves",
-      "away": "Club Guaraní Reserves",
-      "event_id": "10043883",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788439225.7147067
+      "last_checked": 1788440057.383925
     },
     "Geylang International II|Lion City Sailors FC II": {
       "home": "Geylang International II",
@@ -90,12 +71,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788439252.8709695
+      "last_checked": 1788440084.0905778
     },
-    "Club Nacional Asuncion Reserves|Club Libertad Asunción Reserves": {
-      "home": "Club Nacional Asuncion Reserves",
-      "away": "Club Libertad Asunción Reserves",
-      "event_id": "10043885",
+    "CD Maxaquene|Ferroviário da Beira": {
+      "home": "CD Maxaquene",
+      "away": "Ferroviário da Beira",
+      "event_id": "10047095",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788439279.714935
+      "last_checked": 1788440110.7856622
+    },
+    "FC IberiaTiblisi 1999 II|Dinamo-2 Tbilisi": {
+      "home": "FC IberiaTiblisi 1999 II",
+      "away": "Dinamo-2 Tbilisi",
+      "event_id": "10047096",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788440137.4684153
     }
   }
 }

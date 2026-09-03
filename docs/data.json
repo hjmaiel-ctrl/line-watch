@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788439279.7625291,
+  "generated_at": 1788440137.513699,
   "matches": [
     {
       "match": "Avia Swidnik - KS Wieczysta Kraków",
@@ -33,29 +33,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Olimpia Asuncion Reserves - Club Guaraní Reserves",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            3.7,
+            2.35
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,7 +72,29 @@
       "alerts": []
     },
     {
-      "match": "Club Nacional Asuncion Reserves - Club Libertad Asunción Reserves",
+      "match": "CD Maxaquene - Ferroviário da Beira",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "FC IberiaTiblisi 1999 II - Dinamo-2 Tbilisi",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
