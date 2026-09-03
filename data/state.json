@@ -21,7 +21,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788429493.5141113
+      "last_checked": 1788430493.6563208
+    },
+    "Sawmer SC|Nangkiew Irat SC": {
+      "home": "Sawmer SC",
+      "away": "Nangkiew Irat SC",
+      "event_id": "10043886",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788430520.0781848
     },
     "Marconi Stallions U20|Sydney U20": {
       "home": "Marconi Stallions U20",
@@ -44,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788429519.9124875
+      "last_checked": 1788430546.631135
     },
     "Manly Utd U20|Spirit U20": {
       "home": "Manly Utd U20",
@@ -67,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788429546.2836285
+      "last_checked": 1788430573.3768466
     },
     "Kuwait U20|Yemen U20": {
       "home": "Kuwait U20",
@@ -90,30 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788429572.8025875
-    },
-    "Macau U20|Singapore U20": {
-      "home": "Macau U20",
-      "away": "Singapore U20",
-      "event_id": "10043877",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788429599.3204017
+      "last_checked": 1788430599.83583
     }
   }
 }
