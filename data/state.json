@@ -7,54 +7,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.2,
-              3.9
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
-                "line": 7.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
-                "line": 8.5,
-                "over": 1.78,
-                "under": 1.9
-              },
-              {
-                "line": 9.5,
-                "over": 2.35,
-                "under": 1.5
-              },
-              {
-                "line": 10.5,
-                "over": 3.25,
-                "under": 1.28
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.98,
-              1.7
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.98,
-                "under": 1.7
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -67,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788453067.478579
+      "last_checked": 1788454143.6596637
     },
     "Al-Fayha FC|Al-Kholood Club": {
       "home": "Al-Fayha FC",
@@ -90,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788453094.12346
+      "last_checked": 1788454170.5344045
     },
     "Neom SC|Al-Khaleej Saihat": {
       "home": "Neom SC",
@@ -113,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788453120.7096696
+      "last_checked": 1788454197.3634079
     },
     "Thisted FC|SønderjyskE": {
       "home": "Thisted FC",
@@ -136,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788453147.5304549
+      "last_checked": 1788454224.2960994
     },
     "GKS Tychy|LKS Lódz": {
       "home": "GKS Tychy",
@@ -159,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788453174.0712264
+      "last_checked": 1788454251.1270893
     }
   }
 }
