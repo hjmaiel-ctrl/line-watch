@@ -1,66 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "Z.Crystal Palace - Z.Man City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Crystal Palace - Z.Man City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 7.8 a 9.5 (21.8%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Man United - Z.Nottingham Forest",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 11.5 a 12.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Man United - Z.Nottingham Forest",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 6.0 a 7.0 (16.7%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Sunderland - Z.Everton",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 5.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Sunderland - Z.Everton",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.7 a 6.25 (33.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Fulham - Z.Brentford",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.7 a 5.55 (18.1%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Leeds - Z.Arsenal",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 6.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Brighton - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 12.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Brighton - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.4 a 5.4 (22.7%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Z.Bournemouth - Z.Liverpool",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 10.5 a 12.5"
@@ -2998,5 +2938,65 @@
     "match": "CF America - CF Monterrey",
     "market": "CORNERS_OU",
     "detail": "bet9ja=2.14 vs sportybet=1.25 (esito #2, differenza 71.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Nottingham Forest - Z.Sunderland",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Nottingham Forest - Z.Sunderland",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.4 a 8.75 (36.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Fulham - Z.Man City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Fulham - Z.Man City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.18 a 1.05 (12.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Fulham - Z.Man City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.8 a 11.5 (139.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Brentford - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 12.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Brentford - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.22 a 1.07 (14.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Brentford - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.35 a 9.35 (114.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Ipswich Town - Z.Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Ipswich Town - Z.Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.8 a 8.45 (24.3%)"
   }
 ]
