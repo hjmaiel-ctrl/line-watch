@@ -7,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.17,
-              4.25
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.17,
-                "under": 4.25
-              },
-              {
-                "line": 8.5,
-                "over": 1.92,
-                "under": 1.75
-              },
-              {
-                "line": 9.5,
-                "over": 3.65,
-                "under": 1.22
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788475181.0757027
+      "last_checked": 1788475763.456797
     },
     "Recoleta FC|Cerro Porteño": {
       "home": "Recoleta FC",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788475207.9071689
+      "last_checked": 1788475789.2900982
     },
     "Leones del Norte|Orense SC": {
       "home": "Leones del Norte",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788475234.6248357
+      "last_checked": 1788475815.2995362
     },
     "Dragon|AD Sesa": {
       "home": "Dragon",
@@ -113,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788475261.7905433
+      "last_checked": 1788475841.2948039
     },
     "AD Academia Bp|Fuerte Aguilares": {
       "home": "AD Academia Bp",
@@ -136,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788475288.2558377
+      "last_checked": 1788475867.1006103
     }
   }
 }
