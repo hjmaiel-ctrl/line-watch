@@ -10,38 +10,51 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.11,
-              5.25
+              1.17,
+              4.25
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.11,
-                "under": 5.25
+                "over": 1.17,
+                "under": 4.25
               },
               {
                 "line": 6.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 7.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 8.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 9.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.52,
+              2.3
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.52,
+                "under": 2.3
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -54,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788454729.674098
+      "last_checked": 1788455621.4790037
     },
     "Al-Fayha FC|Al-Kholood Club": {
       "home": "Al-Fayha FC",
@@ -77,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788454756.4660876
+      "last_checked": 1788455648.8849576
     },
     "Neom SC|Al-Khaleej Saihat": {
       "home": "Neom SC",
@@ -100,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788454783.336409
+      "last_checked": 1788455676.0781965
     },
     "Thisted FC|SønderjyskE": {
       "home": "Thisted FC",
@@ -123,12 +136,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788454810.307369
+      "last_checked": 1788455703.2580917
     },
-    "GKS Tychy|LKS Lódz": {
-      "home": "GKS Tychy",
-      "away": "LKS Lódz",
-      "event_id": "10047153",
+    "Mjällby AIF|Djurgårdens IF": {
+      "home": "Mjällby AIF",
+      "away": "Djurgårdens IF",
+      "event_id": "10047215",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -146,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788454837.0434008
+      "last_checked": 1788455730.289282
     }
   }
 }
