@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788466254.3224592,
+  "generated_at": 1788467108.7041938,
   "matches": [
     {
       "match": "Real Sociedad - Celta de Vigo",
@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
               1.1,
               5.5
             ],
             "_all_lines": [
               {
-                "line": 8.5,
+                "line": 9.5,
                 "over": 1.1,
                 "under": 5.5
               },
               {
-                "line": 9.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
                 "line": 10.5,
-                "over": 1.73,
-                "under": 1.95
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 11.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.8,
+                "under": 1.87
               },
               {
                 "line": 12.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 2.65,
+                "under": 1.4
+              },
+              {
+                "line": 13.5,
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 5.5,
             "odds": [
-              1.73,
-              1.95
+              2.25,
+              1.55
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.73,
-                "under": 1.95
+                "line": 5.5,
+                "over": 2.25,
+                "under": 1.55
               }
             ]
           }
@@ -72,19 +72,25 @@
           "type": "linea_cambiata",
           "match": "Real Sociedad - Celta de Vigo",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+          "detail": "bet9ja: linea passata da 8.5 a 9.5"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Real Sociedad - Celta de Vigo",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 3.5 a 5.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Real Sociedad - Celta de Vigo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.22 a 1.1 (10.9%)"
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.73 a 2.25 (30.1%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Real Sociedad - Celta de Vigo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.65 a 5.5 (50.7%)"
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.95 a 1.55 (25.8%)"
         }
       ]
     },
@@ -108,37 +114,37 @@
               },
               {
                 "line": 9.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.73,
+                "under": 1.95
               },
               {
                 "line": 10.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 11.5,
-                "over": 3.75,
-                "under": 1.2
+                "over": 5.5,
+                "under": 1.1
               },
               {
                 "line": 12.5,
-                "over": 6.0,
-                "under": 1.08
+                "over": 9.0,
+                "under": 1.02
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.5,
-              2.35
+              2.3,
+              1.52
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 2.3,
+                "under": 1.52
               }
             ]
           }
@@ -158,20 +164,14 @@
         {
           "type": "quota_cambiata",
           "match": "Toulouse FC - Lille OSC",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 5.0 a 4.5 (11.1%)"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Toulouse FC - Lille OSC",
           "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 3.5 a 2.5"
+          "detail": "bet9ja: esito #1 passato da 1.5 a 2.3 (53.3%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Toulouse FC - Lille OSC",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.15 a 2.35 (9.3%)"
+          "detail": "bet9ja: esito #2 passato da 2.35 a 1.52 (54.6%)"
         }
       ]
     },
@@ -181,29 +181,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Anderlecht - Kortrijk",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 8.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
+                "line": 9.5,
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 10.5,
+                "over": 3.65,
+                "under": 1.22
+              },
+              {
+                "line": 11.5,
+                "over": 6.5,
+                "under": 1.07
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -226,6 +237,61 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Hibernian - Hearts",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.17,
+              4.75
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.17,
+                "under": 4.75
+              },
+              {
+                "line": 12.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
+                "line": 13.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 14.5,
+                "over": 3.9,
+                "under": 1.2
+              },
+              {
+                "line": 15.5,
+                "over": 6.5,
+                "under": 1.07
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
