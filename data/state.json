@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788436736.1997705
+      "last_checked": 1788438031.4185512
     },
     "Olimpia Asuncion Reserves|Club Guaraní Reserves": {
       "home": "Olimpia Asuncion Reserves",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788436763.0864835
+      "last_checked": 1788438058.103612
     },
     "Geylang International II|Lion City Sailors FC II": {
       "home": "Geylang International II",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788436789.8524108
+      "last_checked": 1788438085.067208
     },
     "Club Nacional Asuncion Reserves|Club Libertad Asunción Reserves": {
       "home": "Club Nacional Asuncion Reserves",
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788436816.730641
+      "last_checked": 1788438112.0493534
     },
-    "Malaysia U20|Australia U20": {
-      "home": "Malaysia U20",
-      "away": "Australia U20",
-      "event_id": "10043875",
+    "CD Maxaquene|Ferroviário da Beira": {
+      "home": "CD Maxaquene",
+      "away": "Ferroviário da Beira",
+      "event_id": "10047095",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788436843.313648
+      "last_checked": 1788438165.8342328
     }
   }
 }
