@@ -1,139 +1,8 @@
 {
-  "generated_at": 1788457607.9280884,
+  "generated_at": 1788458311.9636009,
   "matches": [
     {
-      "match": "Palermo - Mantova",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.2,
-              3.75
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.2,
-                "under": 3.75
-              },
-              {
-                "line": 5.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 6.5,
-                "over": 4.1,
-                "under": 1.18
-              },
-              {
-                "line": 7.5,
-                "over": 8.0,
-                "under": 1.03
-              },
-              {
-                "line": 8.5,
-                "over": 11.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.38,
-              2.7
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.38,
-                "under": 2.7
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Palermo - Mantova",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 3.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Palermo - Mantova",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.85 a 1.38 (34.1%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Palermo - Mantova",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.82 a 2.7 (48.4%)"
-        }
-      ]
-    },
-    {
-      "match": "Al-Fayha FC - Al-Kholood Club",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
       "match": "Neom SC - Al-Khaleej Saihat",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Thisted FC - SønderjyskE",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -175,7 +44,73 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Hapoel Tel Aviv - Beitar Jerusalem",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Al Ahly - Smouha SC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Al-Sailiya - Al-Arabi Doha",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 0
 }

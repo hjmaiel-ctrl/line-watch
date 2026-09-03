@@ -1,97 +1,5 @@
 {
   "matches": {
-    "Palermo|Mantova": {
-      "home": "Palermo",
-      "away": "Mantova",
-      "event_id": "10047178",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.2,
-              3.75
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.2,
-                "under": 3.75
-              },
-              {
-                "line": 5.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 6.5,
-                "over": 4.1,
-                "under": 1.18
-              },
-              {
-                "line": 7.5,
-                "over": 8.0,
-                "under": 1.03
-              },
-              {
-                "line": 8.5,
-                "over": 11.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.38,
-              2.7
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.38,
-                "under": 2.7
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788457501.467146
-    },
-    "Al-Fayha FC|Al-Kholood Club": {
-      "home": "Al-Fayha FC",
-      "away": "Al-Kholood Club",
-      "event_id": "10047156",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788457528.0099773
-    },
     "Neom SC|Al-Khaleej Saihat": {
       "home": "Neom SC",
       "away": "Al-Khaleej Saihat",
@@ -113,30 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788457554.5693507
-    },
-    "Thisted FC|SønderjyskE": {
-      "home": "Thisted FC",
-      "away": "SønderjyskE",
-      "event_id": "10047194",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788457581.158645
+      "last_checked": 1788458204.3667088
     },
     "Mjällby AIF|Djurgårdens IF": {
       "home": "Mjällby AIF",
@@ -159,7 +44,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788457607.878603
+      "last_checked": 1788458231.3449624
+    },
+    "Hapoel Tel Aviv|Beitar Jerusalem": {
+      "home": "Hapoel Tel Aviv",
+      "away": "Beitar Jerusalem",
+      "event_id": "10047218",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788458258.2066758
+    },
+    "Al Ahly|Smouha SC": {
+      "home": "Al Ahly",
+      "away": "Smouha SC",
+      "event_id": "10047212",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788458285.1787107
+    },
+    "Al-Sailiya|Al-Arabi Doha": {
+      "home": "Al-Sailiya",
+      "away": "Al-Arabi Doha",
+      "event_id": "10047196",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788458311.9111674
     }
   }
 }
