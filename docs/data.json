@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788455730.3279955,
+  "generated_at": 1788456744.042175,
   "matches": [
     {
       "match": "Palermo - Mantova",
@@ -7,51 +7,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.17,
-              4.25
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.17,
-                "under": 4.25
-              },
-              {
-                "line": 6.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 7.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 8.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 9.5,
-                "over": 4.75,
-                "under": 1.13
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 4.5,
             "odds": [
-              1.52,
-              2.3
+              1.85,
+              1.82
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.52,
-                "under": 2.3
+                "line": 4.5,
+                "over": 1.85,
+                "under": 1.82
               }
             ]
           }
@@ -69,10 +36,22 @@
       },
       "alerts": [
         {
+          "type": "linea_cambiata",
+          "match": "Palermo - Mantova",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 2.5 a 4.5"
+        },
+        {
           "type": "quota_cambiata",
           "match": "Palermo - Mantova",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 5.25 a 4.25 (23.5%)"
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.52 a 1.85 (21.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Palermo - Mantova",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.3 a 1.82 (26.4%)"
         }
       ]
     },
@@ -165,5 +144,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 3
 }

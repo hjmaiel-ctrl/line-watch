@@ -7,51 +7,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.17,
-              4.25
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.17,
-                "under": 4.25
-              },
-              {
-                "line": 6.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 7.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 8.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 9.5,
-                "over": 4.75,
-                "under": 1.13
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 4.5,
             "odds": [
-              1.52,
-              2.3
+              1.85,
+              1.82
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.52,
-                "under": 2.3
+                "line": 4.5,
+                "over": 1.85,
+                "under": 1.82
               }
             ]
           }
@@ -67,7 +34,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788455621.4790037
+      "last_checked": 1788456636.3037155
     },
     "Al-Fayha FC|Al-Kholood Club": {
       "home": "Al-Fayha FC",
@@ -90,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788455648.8849576
+      "last_checked": 1788456663.138753
     },
     "Neom SC|Al-Khaleej Saihat": {
       "home": "Neom SC",
@@ -113,7 +80,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788455676.0781965
+      "last_checked": 1788456689.9737124
     },
     "Thisted FC|SønderjyskE": {
       "home": "Thisted FC",
@@ -136,7 +103,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788455703.2580917
+      "last_checked": 1788456717.1665761
     },
     "Mjällby AIF|Djurgårdens IF": {
       "home": "Mjällby AIF",
@@ -159,7 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788455730.289282
+      "last_checked": 1788456744.0024712
     }
   }
 }
