@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.4,
+            3.6
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -21,12 +25,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788443585.2634993
+      "last_checked": 1788444617.7881606
     },
-    "CD Maxaquene|Ferroviário da Beira": {
-      "home": "CD Maxaquene",
-      "away": "Ferroviário da Beira",
-      "event_id": "10047095",
+    "Igdir FK|Manisa Futbol Kulubu": {
+      "home": "Igdir FK",
+      "away": "Manisa Futbol Kulubu",
+      "event_id": "10047124",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,7 +48,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788443612.2159708
+      "last_checked": 1788444644.5039887
+    },
+    "FC AGMK|Xorazm Urganch": {
+      "home": "FC AGMK",
+      "away": "Xorazm Urganch",
+      "event_id": "10047125",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788444671.274291
     },
     "FC IberiaTiblisi 1999 II|Dinamo-2 Tbilisi": {
       "home": "FC IberiaTiblisi 1999 II",
@@ -67,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788443639.066505
+      "last_checked": 1788444697.966086
     },
     "Margveti 2006|Merani Tbilisi": {
       "home": "Margveti 2006",
@@ -90,30 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788443665.9892015
-    },
-    "Iberia 2010|FC Orbi": {
-      "home": "Iberia 2010",
-      "away": "FC Orbi",
-      "event_id": "10047099",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788443692.9743898
+      "last_checked": 1788444724.6436782
     }
   }
 }

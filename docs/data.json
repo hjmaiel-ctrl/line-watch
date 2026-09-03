@@ -1,8 +1,34 @@
 {
-  "generated_at": 1788443693.0183706,
+  "generated_at": 1788444724.6942036,
   "matches": [
     {
       "match": "Avia Swidnik - KS Wieczysta Kraków",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.4,
+            3.6
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Igdir FK - Manisa Futbol Kulubu",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,7 +50,7 @@
       "alerts": []
     },
     {
-      "match": "CD Maxaquene - Ferroviário da Beira",
+      "match": "FC AGMK - Xorazm Urganch",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -69,28 +95,6 @@
     },
     {
       "match": "Margveti 2006 - Merani Tbilisi",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Iberia 2010 - FC Orbi",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
