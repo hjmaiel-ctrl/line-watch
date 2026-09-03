@@ -1,30 +1,8 @@
 {
-  "generated_at": 1788442107.2221622,
+  "generated_at": 1788442952.7091134,
   "matches": [
     {
       "match": "Avia Swidnik - KS Wieczysta Kraków",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Kataka FC - BUL FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -91,6 +69,28 @@
     },
     {
       "match": "Kolkheti Khobi - Didube 2014",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Margveti 2006 - Merani Tbilisi",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

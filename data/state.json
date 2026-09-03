@@ -21,30 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788442000.4608161
-    },
-    "Kataka FC|BUL FC": {
-      "home": "Kataka FC",
-      "away": "BUL FC",
-      "event_id": "10047112",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788442027.0755713
+      "last_checked": 1788442844.0918946
     },
     "CD Maxaquene|Ferroviário da Beira": {
       "home": "CD Maxaquene",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788442053.8614705
+      "last_checked": 1788442871.2149553
     },
     "FC IberiaTiblisi 1999 II|Dinamo-2 Tbilisi": {
       "home": "FC IberiaTiblisi 1999 II",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788442080.6242635
+      "last_checked": 1788442898.1102424
     },
     "Kolkheti Khobi|Didube 2014": {
       "home": "Kolkheti Khobi",
@@ -113,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788442107.171343
+      "last_checked": 1788442925.1750536
+    },
+    "Margveti 2006|Merani Tbilisi": {
+      "home": "Margveti 2006",
+      "away": "Merani Tbilisi",
+      "event_id": "10047098",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788442952.6597388
     }
   }
 }
