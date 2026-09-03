@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            31.0,
+            5.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -21,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788470959.4661047
+      "last_checked": 1788471670.7961385
     },
     "América de Cali|Alianza FC Valledupar": {
       "home": "América de Cali",
@@ -31,25 +35,25 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.52,
-              2.3
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.52,
-                "under": 2.3
+                "line": 8.5,
+                "over": 1.5,
+                "under": 2.35
               },
               {
-                "line": 10.5,
+                "line": 9.5,
                 "over": 1.98,
                 "under": 1.7
               },
               {
-                "line": 11.5,
-                "over": 2.75,
+                "line": 10.5,
+                "over": 2.85,
                 "under": 1.35
               }
             ]
@@ -67,12 +71,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788470984.6081846
+      "last_checked": 1788471695.8580167
     },
-    "Rayo Zuliano|Carabobo FC": {
-      "home": "Rayo Zuliano",
-      "away": "Carabobo FC",
-      "event_id": "10047288",
+    "Recoleta FC|Cerro Porteño": {
+      "home": "Recoleta FC",
+      "away": "Cerro Porteño",
+      "event_id": "10047301",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788471011.796517
+      "last_checked": 1788471722.7797117
     },
     "Úlfarnir|Alafoss": {
       "home": "Úlfarnir",
@@ -103,11 +107,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            25.0,
-            13.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788471043.822912
+      "last_checked": 1788471749.6658032
     },
     "IH Hafnarfjördur|KFR": {
       "home": "IH Hafnarfjördur",
@@ -140,7 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788471070.6216524
+      "last_checked": 1788471776.5134242
     }
   }
 }
