@@ -1,45 +1,6 @@
 {
-  "generated_at": 1788469226.656005,
+  "generated_at": 1788470166.1112592,
   "matches": [
-    {
-      "match": "Universidad Católica del Ecuador - Aucas",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            10.0,
-            1.13
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Universidad Católica del Ecuador - Aucas",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 5.4 a 10.0 (85.2%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Universidad Católica del Ecuador - Aucas",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 1.38 a 1.13 (22.1%)"
-        }
-      ]
-    },
     {
       "match": "JS El Biar - Olympique Akbou",
       "bet9ja_stats": null,
@@ -63,34 +24,35 @@
       "alerts": []
     },
     {
-      "match": "KF Hafnir - Vængir Júpiters",
+      "match": "América de Cali - Alianza FC Valledupar",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Elliði - Hamar Hveragerði",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.4,
+              2.65
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 10.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 11.5,
+                "over": 2.3,
+                "under": 1.52
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -127,7 +89,55 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Rayo Zuliano - Carabobo FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            75.0,
+            6.25
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Úlfarnir - Alafoss",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }

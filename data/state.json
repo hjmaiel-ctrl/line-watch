@@ -1,32 +1,5 @@
 {
   "matches": {
-    "Universidad Católica del Ecuador|Aucas": {
-      "home": "Universidad Católica del Ecuador",
-      "away": "Aucas",
-      "event_id": "10047283",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            10.0,
-            1.13
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788469118.8449986
-    },
     "JS El Biar|Olympique Akbou": {
       "home": "JS El Biar",
       "away": "Olympique Akbou",
@@ -48,16 +21,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788469145.650948
+      "last_checked": 1788470055.0496747
     },
-    "KF Hafnir|Vængir Júpiters": {
-      "home": "KF Hafnir",
-      "away": "Vængir Júpiters",
-      "event_id": "10047285",
+    "América de Cali|Alianza FC Valledupar": {
+      "home": "América de Cali",
+      "away": "Alianza FC Valledupar",
+      "event_id": "10047300",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.4,
+              2.65
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 10.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 11.5,
+                "over": 2.3,
+                "under": 1.52
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -71,30 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788469172.5820167
-    },
-    "Elliði|Hamar Hveragerði": {
-      "home": "Elliði",
-      "away": "Hamar Hveragerði",
-      "event_id": "10047286",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788469199.4884348
+      "last_checked": 1788470080.1498315
     },
     "Deportivo Capiata|3 de Noviembre": {
       "home": "Deportivo Capiata",
@@ -117,7 +90,57 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788469226.5672686
+      "last_checked": 1788470107.0724378
+    },
+    "Rayo Zuliano|Carabobo FC": {
+      "home": "Rayo Zuliano",
+      "away": "Carabobo FC",
+      "event_id": "10047288",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            75.0,
+            6.25
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788470139.0811594
+    },
+    "Úlfarnir|Alafoss": {
+      "home": "Úlfarnir",
+      "away": "Alafoss",
+      "event_id": "10047289",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788470166.0732634
     }
   }
 }
