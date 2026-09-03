@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788442844.0918946
+      "last_checked": 1788443585.2634993
     },
     "CD Maxaquene|Ferroviário da Beira": {
       "home": "CD Maxaquene",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788442871.2149553
+      "last_checked": 1788443612.2159708
     },
     "FC IberiaTiblisi 1999 II|Dinamo-2 Tbilisi": {
       "home": "FC IberiaTiblisi 1999 II",
@@ -67,30 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788442898.1102424
-    },
-    "Kolkheti Khobi|Didube 2014": {
-      "home": "Kolkheti Khobi",
-      "away": "Didube 2014",
-      "event_id": "10047097",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788442925.1750536
+      "last_checked": 1788443639.066505
     },
     "Margveti 2006|Merani Tbilisi": {
       "home": "Margveti 2006",
@@ -113,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788442952.6597388
+      "last_checked": 1788443665.9892015
+    },
+    "Iberia 2010|FC Orbi": {
+      "home": "Iberia 2010",
+      "away": "FC Orbi",
+      "event_id": "10047099",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788443692.9743898
     }
   }
 }
