@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788463718.9403372,
+  "generated_at": 1788464334.1804118,
   "matches": [
     {
       "match": "Real Sociedad - Celta de Vigo",
@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.25,
-              3.45
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.25,
-                "under": 3.45
+                "over": 1.22,
+                "under": 3.65
               },
               {
                 "line": 11.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 12.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 1.9,
+                "under": 1.78
               },
               {
                 "line": 13.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 14.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.78,
-              1.9
+              2.05,
+              1.65
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 2.05,
+                "under": 1.65
               }
             ]
           }
@@ -69,16 +69,16 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Real Sociedad - Celta de Vigo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 10.5"
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.78 a 2.05 (15.2%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Real Sociedad - Celta de Vigo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.0 a 3.45 (15.0%)"
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.9 a 1.65 (15.2%)"
         }
       ]
     },
@@ -89,50 +89,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.15,
-              4.5
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.15,
-                "under": 4.5
-              },
-              {
                 "line": 9.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 10.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 11.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.15,
+                "under": 1.6
               },
               {
                 "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 3.1,
+                "under": 1.3
+              },
+              {
+                "line": 13.5,
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.85,
-              1.82
+              2.15,
+              1.6
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 2.15,
+                "under": 1.6
               }
             ]
           }
@@ -153,31 +153,31 @@
           "type": "linea_cambiata",
           "match": "Toulouse FC - Lille OSC",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 8.5"
+          "detail": "bet9ja: linea passata da 8.5 a 9.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Toulouse FC - Lille OSC",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.1 a 4.5 (9.8%)"
+          "detail": "bet9ja: esito #1 passato da 1.15 a 1.25 (8.7%)"
         },
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Toulouse FC - Lille OSC",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 4.5"
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.5 a 3.45 (30.4%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Toulouse FC - Lille OSC",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.15 a 1.85 (16.2%)"
+          "detail": "bet9ja: esito #1 passato da 1.85 a 2.15 (16.2%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Toulouse FC - Lille OSC",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.6 a 1.82 (13.7%)"
+          "detail": "bet9ja: esito #2 passato da 1.82 a 1.6 (13.7%)"
         }
       ]
     },
@@ -190,19 +190,19 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.32,
-              3.0
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 9.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 10.5,
@@ -211,27 +211,27 @@
               },
               {
                 "line": 11.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 2.85,
+                "under": 1.35
               },
               {
                 "line": 12.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              1.85,
-              1.82
+              1.52,
+              2.3
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.85,
-                "under": 1.82
+                "line": 2.5,
+                "over": 1.52,
+                "under": 2.3
               }
             ]
           }
@@ -249,10 +249,28 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Cagliari - Hellas Verona",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+          "detail": "bet9ja: esito #2 passato da 3.0 a 3.25 (8.3%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Cagliari - Hellas Verona",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 3.5 a 2.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Cagliari - Hellas Verona",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.85 a 1.52 (21.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Cagliari - Hellas Verona",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.82 a 2.3 (26.4%)"
         }
       ]
     },
@@ -301,5 +319,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 8
+  "alert_count_this_run": 11
 }
