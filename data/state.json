@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788470055.0496747
+      "last_checked": 1788470959.4661047
     },
     "América de Cali|Alianza FC Valledupar": {
       "home": "América de Cali",
@@ -33,24 +33,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.4,
-              2.65
+              1.52,
+              2.3
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.52,
+                "under": 2.3
               },
               {
                 "line": 10.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 11.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.75,
+                "under": 1.35
               }
             ]
           },
@@ -67,30 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788470080.1498315
-    },
-    "Deportivo Capiata|3 de Noviembre": {
-      "home": "Deportivo Capiata",
-      "away": "3 de Noviembre",
-      "event_id": "10047287",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788470107.0724378
+      "last_checked": 1788470984.6081846
     },
     "Rayo Zuliano|Carabobo FC": {
       "home": "Rayo Zuliano",
@@ -103,10 +80,33 @@
           "CARDS_OU": null
         },
         "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788471011.796517
+    },
+    "Úlfarnir|Alafoss": {
+      "home": "Úlfarnir",
+      "away": "Alafoss",
+      "event_id": "10047289",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
           "1X2": [
             2.4,
-            75.0,
-            6.25
+            25.0,
+            13.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -117,12 +117,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788470139.0811594
+      "last_checked": 1788471043.822912
     },
-    "Úlfarnir|Alafoss": {
-      "home": "Úlfarnir",
-      "away": "Alafoss",
-      "event_id": "10047289",
+    "IH Hafnarfjördur|KFR": {
+      "home": "IH Hafnarfjördur",
+      "away": "KFR",
+      "event_id": "10047290",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -140,7 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788470166.0732634
+      "last_checked": 1788471070.6216524
     }
   }
 }

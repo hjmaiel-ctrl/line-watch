@@ -2,18 +2,6 @@
   {
     "type": "quota_cambiata",
     "match": "Atletico Grau - FBC Melgar",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.26 a 2.08 (8.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Atletico Grau - FBC Melgar",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 1.32 a 1.2 (10.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Atletico Grau - FBC Melgar",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 3.65 a 4.5 (23.3%)"
   },
@@ -2998,5 +2986,17 @@
     "match": "Universidad Católica del Ecuador - Aucas",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 1.38 a 1.13 (22.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "América de Cali - Alianza FC Valledupar",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.4 a 1.52 (8.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "América de Cali - Alianza FC Valledupar",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.65 a 2.3 (15.2%)"
   }
 ]
