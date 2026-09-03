@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Neom SC|Al-Khaleej Saihat": {
-      "home": "Neom SC",
-      "away": "Al-Khaleej Saihat",
-      "event_id": "10047197",
+    "Anderlecht|Kortrijk": {
+      "home": "Anderlecht",
+      "away": "Kortrijk",
+      "event_id": "10047246",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -11,19 +11,9 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            17.0,
-            17.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              6.25
-            ]
-          }
+          "CARDS_OU": null
         },
         "bet365": {
           "1X2": null,
@@ -31,7 +21,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788459140.3145933
+      "last_checked": 1788460472.5249357
+    },
+    "Al Diriyah|Al-Qadisiyah": {
+      "home": "Al Diriyah",
+      "away": "Al-Qadisiyah",
+      "event_id": "10047237",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788460499.1421094
     },
     "Panathinaikos|Niki Volos FC": {
       "home": "Panathinaikos",
@@ -54,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788459167.5361543
+      "last_checked": 1788460525.8953807
     },
-    "Mjällby AIF|Djurgårdens IF": {
-      "home": "Mjällby AIF",
-      "away": "Djurgårdens IF",
-      "event_id": "10047215",
+    "FC Basel|FC Sion": {
+      "home": "FC Basel",
+      "away": "FC Sion",
+      "event_id": "10047248",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -77,68 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788459194.3552623
+      "last_checked": 1788460552.6252632
     },
-    "FC København|FC Nordsjælland": {
-      "home": "FC København",
-      "away": "FC Nordsjælland",
-      "event_id": "10047238",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 8.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 9.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 10.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 11.5,
-                "over": 3.75,
-                "under": 1.2
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788459219.3241456
-    },
-    "Hapoel Tel Aviv|Beitar Jerusalem": {
-      "home": "Hapoel Tel Aviv",
-      "away": "Beitar Jerusalem",
-      "event_id": "10047218",
+    "FC Lugano|Servette FC": {
+      "home": "FC Lugano",
+      "away": "Servette FC",
+      "event_id": "10047249",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -156,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788459245.8797839
+      "last_checked": 1788460579.331472
     }
   }
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": 1788459245.924773,
+  "generated_at": 1788460579.3841686,
   "matches": [
     {
-      "match": "Neom SC - Al-Khaleej Saihat",
+      "match": "Anderlecht - Kortrijk",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -11,19 +11,31 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            17.0,
-            17.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              6.25
-            ]
-          }
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Al Diriyah - Al-Qadisiyah",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "bet365": {
           "1X2": null,
@@ -56,7 +68,7 @@
       "alerts": []
     },
     {
-      "match": "Mjällby AIF - Djurgårdens IF",
+      "match": "FC Basel - FC Sion",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -78,62 +90,7 @@
       "alerts": []
     },
     {
-      "match": "FC København - FC Nordsjælland",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 8.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 9.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 10.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 11.5,
-                "over": 3.75,
-                "under": 1.2
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Hapoel Tel Aviv - Beitar Jerusalem",
+      "match": "FC Lugano - Servette FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
