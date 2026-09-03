@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788426102.099569,
+  "generated_at": 1788427190.52438,
   "matches": [
     {
       "match": "Howler's FC - Gangtok Himalayan SC",
@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            2.6,
-            3.25
+            15.0,
+            7.3
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,10 +25,45 @@
           "CARDS_OU": null
         }
       },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Howler's FC - Gangtok Himalayan SC",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 2.6 a 15.0 (476.9%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Howler's FC - Gangtok Himalayan SC",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 3.25 a 7.3 (124.6%)"
+        }
+      ]
+    },
+    {
+      "match": "Northern Tigers U20 - Dulwich Hill",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
       "alerts": []
     },
     {
-      "match": "United Arab Emirates U20 - Iraq U20",
+      "match": "Marconi Stallions U20 - Sydney U20",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -50,40 +85,12 @@
       "alerts": []
     },
     {
-      "match": "Z.Brighton - Z.Man United",
+      "match": "Manly Utd U20 - Spirit U20",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.08,
-              8.6
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.08,
-                "under": 8.6
-              },
-              {
-                "line": 9.5,
-                "over": 1.5,
-                "under": 2.58
-              },
-              {
-                "line": 10.5,
-                "over": 2.72,
-                "under": 1.46
-              },
-              {
-                "line": 11.5,
-                "over": 6.4,
-                "under": 1.13
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -97,50 +104,15 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Brighton - Z.Man United",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 6.65 a 8.6 (29.3%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Z.Fulham - Z.Chelsea",
+      "match": "Malaysia U20 - Australia U20",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.11,
-              6.95
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.11,
-                "under": 6.95
-              },
-              {
-                "line": 9.5,
-                "over": 1.65,
-                "under": 2.23
-              },
-              {
-                "line": 10.5,
-                "over": 3.25,
-                "under": 1.34
-              },
-              {
-                "line": 11.5,
-                "over": 8.5,
-                "under": 1.08
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -154,84 +126,8 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Fulham - Z.Chelsea",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 8.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Fulham - Z.Chelsea",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 6.0 a 6.95 (15.8%)"
-        }
-      ]
-    },
-    {
-      "match": "Z.Aston Villa - Z.Newcastle Utd",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.1,
-              7.5
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.1,
-                "under": 7.5
-              },
-              {
-                "line": 11.5,
-                "over": 1.59,
-                "under": 2.34
-              },
-              {
-                "line": 12.5,
-                "over": 3.05,
-                "under": 1.38
-              },
-              {
-                "line": 13.5,
-                "over": 7.7,
-                "under": 1.09
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Aston Villa - Z.Newcastle Utd",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 11.5 a 10.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Aston Villa - Z.Newcastle Utd",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 5.95 a 7.5 (26.1%)"
-        }
-      ]
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 5
+  "alert_count_this_run": 2
 }

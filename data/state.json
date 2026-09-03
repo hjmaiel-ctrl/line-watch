@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            2.6,
-            3.25
+            15.0,
+            7.3
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,12 +25,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788425999.639946
+      "last_checked": 1788427084.8109963
     },
-    "United Arab Emirates U20|Iraq U20": {
-      "home": "United Arab Emirates U20",
-      "away": "Iraq U20",
-      "event_id": "10045706",
+    "Northern Tigers U20|Dulwich Hill": {
+      "home": "Northern Tigers U20",
+      "away": "Dulwich Hill",
+      "event_id": "10043878",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -48,44 +48,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788426026.895957
+      "last_checked": 1788427111.2243824
     },
-    "Z.Brighton|Z.Man United": {
-      "home": "Z.Brighton",
-      "away": "Z.Man United",
-      "event_id": "10045719",
+    "Marconi Stallions U20|Sydney U20": {
+      "home": "Marconi Stallions U20",
+      "away": "Sydney U20",
+      "event_id": "10043873",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.08,
-              8.6
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.08,
-                "under": 8.6
-              },
-              {
-                "line": 9.5,
-                "over": 1.5,
-                "under": 2.58
-              },
-              {
-                "line": 10.5,
-                "over": 2.72,
-                "under": 1.46
-              },
-              {
-                "line": 11.5,
-                "over": 6.4,
-                "under": 1.13
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -99,44 +71,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788426051.8572197
+      "last_checked": 1788427137.5651639
     },
-    "Z.Fulham|Z.Chelsea": {
-      "home": "Z.Fulham",
-      "away": "Z.Chelsea",
-      "event_id": "10045720",
+    "Manly Utd U20|Spirit U20": {
+      "home": "Manly Utd U20",
+      "away": "Spirit U20",
+      "event_id": "10043874",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.11,
-              6.95
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.11,
-                "under": 6.95
-              },
-              {
-                "line": 9.5,
-                "over": 1.65,
-                "under": 2.23
-              },
-              {
-                "line": 10.5,
-                "over": 3.25,
-                "under": 1.34
-              },
-              {
-                "line": 11.5,
-                "over": 8.5,
-                "under": 1.08
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -150,44 +94,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788426076.9108698
+      "last_checked": 1788427164.0420716
     },
-    "Z.Aston Villa|Z.Newcastle Utd": {
-      "home": "Z.Aston Villa",
-      "away": "Z.Newcastle Utd",
-      "event_id": "10045721",
+    "Malaysia U20|Australia U20": {
+      "home": "Malaysia U20",
+      "away": "Australia U20",
+      "event_id": "10043875",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.1,
-              7.5
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.1,
-                "under": 7.5
-              },
-              {
-                "line": 11.5,
-                "over": 1.59,
-                "under": 2.34
-              },
-              {
-                "line": 12.5,
-                "over": 3.05,
-                "under": 1.38
-              },
-              {
-                "line": 13.5,
-                "over": 7.7,
-                "under": 1.09
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -201,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788426102.050552
+      "last_checked": 1788427190.4799266
     }
   }
 }
