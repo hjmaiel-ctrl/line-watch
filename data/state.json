@@ -1,5 +1,61 @@
 {
   "matches": {
+    "Real Sociedad|Celta de Vigo": {
+      "home": "Real Sociedad",
+      "away": "Celta de Vigo",
+      "event_id": "10047284",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 10.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
+                "line": 11.5,
+                "over": 2.0,
+                "under": 1.65
+              },
+              {
+                "line": 12.5,
+                "over": 2.65,
+                "under": 1.4
+              },
+              {
+                "line": 13.5,
+                "over": 3.65,
+                "under": 1.22
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788462910.8154438
+    },
     "Toulouse FC|Lille OSC": {
       "home": "Toulouse FC",
       "away": "Lille OSC",
@@ -8,50 +64,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 6.5,
             "odds": [
-              1.28,
-              3.25
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.18,
+                "under": 4.1
+              },
+              {
+                "line": 7.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
                 "line": 8.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.75,
+                "under": 1.92
               },
               {
                 "line": 9.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 10.5,
-                "over": 1.92,
-                "under": 1.75
-              },
-              {
-                "line": 11.5,
-                "over": 2.5,
-                "under": 1.45
-              },
-              {
-                "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 3.25,
+                "under": 1.28
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 5.5,
             "odds": [
-              1.87,
-              1.8
+              2.15,
+              1.6
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.87,
-                "under": 1.8
+                "line": 5.5,
+                "over": 2.15,
+                "under": 1.6
               }
             ]
           }
@@ -67,7 +123,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788462008.2737632
+      "last_checked": 1788462933.6205533
+    },
+    "Cagliari|Hellas Verona": {
+      "home": "Cagliari",
+      "away": "Hellas Verona",
+      "event_id": "10047253",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 10.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
+                "line": 11.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 12.5,
+                "over": 2.7,
+                "under": 1.38
+              },
+              {
+                "line": 13.5,
+                "over": 3.65,
+                "under": 1.22
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.9,
+              1.78
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.9,
+                "under": 1.78
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788462956.4548833
     },
     "Anderlecht|Kortrijk": {
       "home": "Anderlecht",
@@ -90,7 +215,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788462035.191203
+      "last_checked": 1788462982.9633322
     },
     "KAA Gent|Oud-Heverlee Leuven": {
       "home": "KAA Gent",
@@ -113,53 +238,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788462062.5739071
-    },
-    "Hibernian|Hearts": {
-      "home": "Hibernian",
-      "away": "Hearts",
-      "event_id": "10047252",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788462089.8620481
-    },
-    "Al Diriyah|Al-Qadisiyah": {
-      "home": "Al Diriyah",
-      "away": "Al-Qadisiyah",
-      "event_id": "10047237",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788462116.8478172
+      "last_checked": 1788463009.4990764
     }
   }
 }
