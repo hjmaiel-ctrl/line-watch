@@ -1,5 +1,28 @@
 {
   "matches": {
+    "Avia Swidnik|KS Wieczysta Kraków": {
+      "home": "Avia Swidnik",
+      "away": "KS Wieczysta Kraków",
+      "event_id": "10047094",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788439171.1496346
+    },
     "Jurong Reserves|Tampines Rovers II": {
       "home": "Jurong Reserves",
       "away": "Tampines Rovers II",
@@ -21,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788438031.4185512
+      "last_checked": 1788439198.6030128
     },
     "Olimpia Asuncion Reserves|Club Guaraní Reserves": {
       "home": "Olimpia Asuncion Reserves",
@@ -44,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788438058.103612
+      "last_checked": 1788439225.7147067
     },
     "Geylang International II|Lion City Sailors FC II": {
       "home": "Geylang International II",
@@ -67,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788438085.067208
+      "last_checked": 1788439252.8709695
     },
     "Club Nacional Asuncion Reserves|Club Libertad Asunción Reserves": {
       "home": "Club Nacional Asuncion Reserves",
@@ -90,30 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788438112.0493534
-    },
-    "CD Maxaquene|Ferroviário da Beira": {
-      "home": "CD Maxaquene",
-      "away": "Ferroviário da Beira",
-      "event_id": "10047095",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788438165.8342328
+      "last_checked": 1788439279.714935
     }
   }
 }

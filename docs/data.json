@@ -1,6 +1,28 @@
 {
-  "generated_at": 1788438165.8808928,
+  "generated_at": 1788439279.7625291,
   "matches": [
+    {
+      "match": "Avia Swidnik - KS Wieczysta Kraków",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Jurong Reserves - Tampines Rovers II",
       "bet9ja_stats": null,
@@ -69,28 +91,6 @@
     },
     {
       "match": "Club Nacional Asuncion Reserves - Club Libertad Asunción Reserves",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "CD Maxaquene - Ferroviário da Beira",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
