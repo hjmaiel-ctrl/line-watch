@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788432400.9916635
+      "last_checked": 1788432963.5743723
     },
     "Sawmer SC|Nangkiew Irat SC": {
       "home": "Sawmer SC",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788432428.2704918
+      "last_checked": 1788432990.1051755
     },
     "Marconi Stallions U20|Sydney U20": {
       "home": "Marconi Stallions U20",
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788432455.0793068
+      "last_checked": 1788433016.7438645
     },
-    "Manly Utd U20|Spirit U20": {
-      "home": "Manly Utd U20",
-      "away": "Spirit U20",
-      "event_id": "10043874",
+    "Brunei U20|Myanmar U20": {
+      "home": "Brunei U20",
+      "away": "Myanmar U20",
+      "event_id": "10043879",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788432482.039832
+      "last_checked": 1788433043.4778574
     },
-    "Kuwait U20|Yemen U20": {
-      "home": "Kuwait U20",
-      "away": "Yemen U20",
-      "event_id": "10043876",
+    "Korea DPR U20|Iran U20": {
+      "home": "Korea DPR U20",
+      "away": "Iran U20",
+      "event_id": "10043880",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788432508.7124822
+      "last_checked": 1788433070.06916
     }
   }
 }
