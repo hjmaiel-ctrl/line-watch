@@ -1,42 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Odra Opole - Wisla Krakow",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 5.3 a 5.9 (11.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Parma - Cremonese",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 17.5 a 18.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Parma - Cremonese",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.55 a 2.3 (48.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Parma - Cremonese",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.25 a 1.52 (48.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Parma - Cremonese",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.45 a 3.0 (15.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Parma - Cremonese",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 2.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Parma - Cremonese",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #1 passato da 2.3 a 2.05 (12.2%)"
@@ -2998,5 +2962,41 @@
     "match": "Z.Crystal Palace - Z.Bournemouth",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.75 a 5.4 (13.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Brighton - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Brighton - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.9 a 4.45 (14.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Fulham - Z.Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.8 a 8.95 (54.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Aston Villa - Z.Newcastle Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 11.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Aston Villa - Z.Newcastle Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.29 a 1.07 (20.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Aston Villa - Z.Newcastle Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 9.3 (154.8%)"
   }
 ]
