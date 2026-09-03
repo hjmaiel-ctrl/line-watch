@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788478774.8076487,
+  "generated_at": 1788479335.875846,
   "matches": [
     {
       "match": "Grêmio FBPA - SC Internacional",
@@ -10,19 +10,19 @@
           "CORNERS_OU": {
             "line": 11.5,
             "odds": [
-              1.45,
-              2.5
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 11.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 12.5,
-                "over": 1.8,
-                "under": 1.87
+                "over": 1.75,
+                "under": 1.92
               },
               {
                 "line": 13.5,
@@ -44,7 +44,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Grêmio FBPA - SC Internacional",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.5 a 2.7 (8.0%)"
+        }
+      ]
     },
     {
       "match": "Clube Náutico Capibaribe - Botafogo SP",
@@ -55,14 +62,14 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.6,
-              2.05
+              1.57,
+              2.1
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.6,
-                "under": 2.05
+                "over": 1.57,
+                "under": 2.1
               },
               {
                 "line": 9.5,
@@ -158,5 +165,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }

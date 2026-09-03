@@ -10,19 +10,19 @@
           "CORNERS_OU": {
             "line": 11.5,
             "odds": [
-              1.45,
-              2.5
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 11.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 12.5,
-                "over": 1.8,
-                "under": 1.87
+                "over": 1.75,
+                "under": 1.92
               },
               {
                 "line": 13.5,
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788478669.9365914
+      "last_checked": 1788479229.4071283
     },
     "Clube Náutico Capibaribe|Botafogo SP": {
       "home": "Clube Náutico Capibaribe",
@@ -56,14 +56,14 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.6,
-              2.05
+              1.57,
+              2.1
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.6,
-                "under": 2.05
+                "over": 1.57,
+                "under": 2.1
               },
               {
                 "line": 9.5,
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788478694.8010986
+      "last_checked": 1788479254.7940702
     },
     "Internacional de Palmira|Real Cundinamarca": {
       "home": "Internacional de Palmira",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788478721.3524742
+      "last_checked": 1788479281.8469172
     },
     "Boca Juniors Reserves|Quilmes Reserves": {
       "home": "Boca Juniors Reserves",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788478748.1858578
+      "last_checked": 1788479308.8014755
     },
     "Club Sol de América|Club General Caballero JLM": {
       "home": "Club Sol de América",
@@ -159,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788478774.7428367
+      "last_checked": 1788479335.8293903
     }
   }
 }
