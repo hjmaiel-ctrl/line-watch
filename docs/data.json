@@ -1,45 +1,6 @@
 {
-  "generated_at": 1788428092.434137,
+  "generated_at": 1788429041.8494627,
   "matches": [
-    {
-      "match": "Howler's FC - Gangtok Himalayan SC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            2.4,
-            3.2
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Howler's FC - Gangtok Himalayan SC",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 15.0 a 2.4 (525.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Howler's FC - Gangtok Himalayan SC",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 7.3 a 3.2 (128.1%)"
-        }
-      ]
-    },
     {
       "match": "Northern Tigers U20 - Dulwich Hill",
       "bet9ja_stats": null,
@@ -127,7 +88,29 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Macau U20 - Singapore U20",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
