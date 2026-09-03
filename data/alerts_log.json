@@ -1,17 +1,5 @@
 [
   {
-    "type": "quota_differente",
-    "match": "Atletico Grau - FBC Melgar",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja=1.59 vs sportybet=2.4 (esito #1, differenza 50.9%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "Atletico Grau - FBC Melgar",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja=2.08 vs sportybet=1.6 (esito #2, differenza 30.0%)"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Atletico Grau - FBC Melgar",
     "market": "CORNERS_OU",
@@ -2998,5 +2986,17 @@
     "match": "Real Sociedad - Celta de Vigo",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.47 a 1.73 (17.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Universidad Católica del Ecuador - Aucas",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 5.4 a 10.0 (85.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Universidad Católica del Ecuador - Aucas",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 1.38 a 1.13 (22.1%)"
   }
 ]

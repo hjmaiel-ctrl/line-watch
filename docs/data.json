@@ -1,133 +1,6 @@
 {
-  "generated_at": 1788468663.475819,
+  "generated_at": 1788469226.656005,
   "matches": [
-    {
-      "match": "Real Sociedad - Celta de Vigo",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.6,
-              2.15
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.6,
-                "under": 2.15
-              },
-              {
-                "line": 11.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 12.5,
-                "over": 6.0,
-                "under": 1.08
-              },
-              {
-                "line": 13.5,
-                "over": 10.0,
-                "under": 1.01
-              },
-              {
-                "line": 14.5,
-                "over": 11.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.95,
-              1.73
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.95,
-                "under": 1.73
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Real Sociedad - Celta de Vigo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 10.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Real Sociedad - Celta de Vigo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.12 a 1.6 (42.9%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Real Sociedad - Celta de Vigo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 5.0 a 2.15 (132.6%)"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Real Sociedad - Celta de Vigo",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 5.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Real Sociedad - Celta de Vigo",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.45 a 1.95 (25.6%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Real Sociedad - Celta de Vigo",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.47 a 1.73 (17.7%)"
-        }
-      ]
-    },
-    {
-      "match": "Cagliari - Hellas Verona",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Universidad Católica del Ecuador - Aucas",
       "bet9ja_stats": null,
@@ -140,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            5.4,
-            1.38
+            10.0,
+            1.13
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -152,7 +25,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Universidad Católica del Ecuador - Aucas",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 5.4 a 10.0 (85.2%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Universidad Católica del Ecuador - Aucas",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 1.38 a 1.13 (22.1%)"
+        }
+      ]
     },
     {
       "match": "JS El Biar - Olympique Akbou",
@@ -177,7 +63,51 @@
       "alerts": []
     },
     {
-      "match": "AC Trento - Calcio Desenzano",
+      "match": "KF Hafnir - Vængir Júpiters",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Elliði - Hamar Hveragerði",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Deportivo Capiata - 3 de Noviembre",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -199,5 +129,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 6
+  "alert_count_this_run": 2
 }

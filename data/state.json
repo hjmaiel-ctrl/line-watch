@@ -1,97 +1,5 @@
 {
   "matches": {
-    "Real Sociedad|Celta de Vigo": {
-      "home": "Real Sociedad",
-      "away": "Celta de Vigo",
-      "event_id": "10047284",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.6,
-              2.15
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.6,
-                "under": 2.15
-              },
-              {
-                "line": 11.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 12.5,
-                "over": 6.0,
-                "under": 1.08
-              },
-              {
-                "line": 13.5,
-                "over": 10.0,
-                "under": 1.01
-              },
-              {
-                "line": 14.5,
-                "over": 11.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.95,
-              1.73
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.95,
-                "under": 1.73
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788468548.7751627
-    },
-    "Cagliari|Hellas Verona": {
-      "home": "Cagliari",
-      "away": "Hellas Verona",
-      "event_id": "10047253",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788468575.3914945
-    },
     "Universidad Católica del Ecuador|Aucas": {
       "home": "Universidad Católica del Ecuador",
       "away": "Aucas",
@@ -105,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            5.4,
-            1.38
+            10.0,
+            1.13
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -117,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788468609.0532744
+      "last_checked": 1788469118.8449986
     },
     "JS El Biar|Olympique Akbou": {
       "home": "JS El Biar",
@@ -140,12 +48,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788468636.8098526
+      "last_checked": 1788469145.650948
     },
-    "AC Trento|Calcio Desenzano": {
-      "home": "AC Trento",
-      "away": "Calcio Desenzano",
-      "event_id": "10047254",
+    "KF Hafnir|Vængir Júpiters": {
+      "home": "KF Hafnir",
+      "away": "Vængir Júpiters",
+      "event_id": "10047285",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -163,7 +71,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788468663.4123924
+      "last_checked": 1788469172.5820167
+    },
+    "Elliði|Hamar Hveragerði": {
+      "home": "Elliði",
+      "away": "Hamar Hveragerði",
+      "event_id": "10047286",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788469199.4884348
+    },
+    "Deportivo Capiata|3 de Noviembre": {
+      "home": "Deportivo Capiata",
+      "away": "3 de Noviembre",
+      "event_id": "10047287",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788469226.5672686
     }
   }
 }
