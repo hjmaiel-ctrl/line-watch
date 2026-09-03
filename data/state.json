@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            31.0,
-            5.0
+            85.0,
+            5.8
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788471670.7961385
+      "last_checked": 1788472235.527208
     },
     "América de Cali|Alianza FC Valledupar": {
       "home": "América de Cali",
@@ -35,26 +35,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.5,
-              2.35
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
                 "line": 8.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.75,
+                "under": 1.92
               },
               {
                 "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 10.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           },
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788471695.8580167
+      "last_checked": 1788472261.0375764
     },
     "Recoleta FC|Cerro Porteño": {
       "home": "Recoleta FC",
@@ -94,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788471722.7797117
+      "last_checked": 1788472287.814002
+    },
+    "Leones del Norte|Orense SC": {
+      "home": "Leones del Norte",
+      "away": "Orense SC",
+      "event_id": "10047302",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788472314.4866197
     },
     "Úlfarnir|Alafoss": {
       "home": "Úlfarnir",
@@ -117,30 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788471749.6658032
-    },
-    "IH Hafnarfjördur|KFR": {
-      "home": "IH Hafnarfjördur",
-      "away": "KFR",
-      "event_id": "10047290",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788471776.5134242
+      "last_checked": 1788472340.9541004
     }
   }
 }
