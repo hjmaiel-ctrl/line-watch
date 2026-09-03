@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788427190.52438,
+  "generated_at": 1788428092.434137,
   "matches": [
     {
       "match": "Howler's FC - Gangtok Himalayan SC",
@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            15.0,
-            7.3
+            2.4,
+            3.2
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -30,13 +30,13 @@
           "type": "quota_cambiata",
           "match": "Howler's FC - Gangtok Himalayan SC",
           "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 2.6 a 15.0 (476.9%)"
+          "detail": "sportybet: esito #2 passato da 15.0 a 2.4 (525.0%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Howler's FC - Gangtok Himalayan SC",
           "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 3.25 a 7.3 (124.6%)"
+          "detail": "sportybet: esito #3 passato da 7.3 a 3.2 (128.1%)"
         }
       ]
     },
@@ -107,7 +107,7 @@
       "alerts": []
     },
     {
-      "match": "Malaysia U20 - Australia U20",
+      "match": "Kuwait U20 - Yemen U20",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

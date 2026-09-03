@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Lincoln City - Blackburn Rovers",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.65 a 2.1 (27.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Torino - Monza",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.8 a 2.05 (13.9%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Torino - Monza",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.87 a 1.65 (13.3%)"
@@ -2998,5 +2986,17 @@
     "match": "Howler's FC - Gangtok Himalayan SC",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 3.25 a 7.3 (124.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Howler's FC - Gangtok Himalayan SC",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 15.0 a 2.4 (525.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Howler's FC - Gangtok Himalayan SC",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 7.3 a 3.2 (128.1%)"
   }
 ]

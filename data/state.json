@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            15.0,
-            7.3
+            2.4,
+            3.2
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788427084.8109963
+      "last_checked": 1788427985.8073854
     },
     "Northern Tigers U20|Dulwich Hill": {
       "home": "Northern Tigers U20",
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788427111.2243824
+      "last_checked": 1788428012.5185518
     },
     "Marconi Stallions U20|Sydney U20": {
       "home": "Marconi Stallions U20",
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788427137.5651639
+      "last_checked": 1788428039.2447085
     },
     "Manly Utd U20|Spirit U20": {
       "home": "Manly Utd U20",
@@ -94,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788427164.0420716
+      "last_checked": 1788428065.9368012
     },
-    "Malaysia U20|Australia U20": {
-      "home": "Malaysia U20",
-      "away": "Australia U20",
-      "event_id": "10043875",
+    "Kuwait U20|Yemen U20": {
+      "home": "Kuwait U20",
+      "away": "Yemen U20",
+      "event_id": "10043876",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788427190.4799266
+      "last_checked": 1788428092.3911839
     }
   }
 }
