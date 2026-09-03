@@ -8,43 +8,30 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.66,
-              2.1
+              1.42,
+              2.66
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.42,
+                "under": 2.66
+              },
+              {
                 "line": 9.5,
-                "over": 1.66,
-                "under": 2.1
+                "over": 1.77,
+                "under": 1.94
               },
               {
                 "line": 10.5,
-                "over": 2.08,
-                "under": 1.67
-              },
-              {
-                "line": 11.5,
-                "over": 2.74,
-                "under": 1.4
+                "over": 2.32,
+                "under": 1.54
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.71,
-              1.98
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.71,
-                "under": 1.98
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -57,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788398854.6293874
+      "last_checked": 1788399719.4877446
     },
     "Vélez Sársfield|Boca Juniors": {
       "home": "Vélez Sársfield",
@@ -80,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788398881.6908953
+      "last_checked": 1788399745.4084888
     },
     "Deportes Limache|Ñublense": {
       "home": "Deportes Limache",
@@ -103,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788398908.593234
+      "last_checked": 1788399771.3447137
     },
     "Barcelona SC|Independiente del Valle": {
       "home": "Barcelona SC",
@@ -126,16 +113,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788398935.5529804
+      "last_checked": 1788399797.3824148
     },
-    "Real Estelí|FC San Marcos": {
-      "home": "Real Estelí",
-      "away": "FC San Marcos",
-      "event_id": "10043868",
+    "Santa Fe|Millonarios": {
+      "home": "Santa Fe",
+      "away": "Millonarios",
+      "event_id": "10043869",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.4,
+              2.65
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 10.5,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 11.5,
+                "over": 2.2,
+                "under": 1.57
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -149,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788398962.4003136
+      "last_checked": 1788399821.5442011
     }
   }
 }
