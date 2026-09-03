@@ -8,36 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 13.5,
             "odds": [
-              1.15,
-              5.45
+              null,
+              26.0
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.15,
-                "under": 5.45
-              },
-              {
-                "line": 12.5,
-                "over": 1.41,
-                "under": 2.89
-              },
-              {
                 "line": 13.5,
-                "over": 1.91,
-                "under": 1.88
+                "over": null,
+                "under": 26.0
               },
               {
                 "line": 14.5,
-                "over": 2.91,
-                "under": 1.41
+                "over": 1.15,
+                "under": 5.8
               },
               {
                 "line": 15.5,
-                "over": 4.95,
-                "under": 1.17
+                "over": 1.53,
+                "under": 2.49
               }
             ]
           },
@@ -54,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788418782.8431182
+      "last_checked": 1788419901.9781263
     },
     "Z.Bournemouth|Z.Brighton": {
       "home": "Z.Bournemouth",
@@ -64,36 +54,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.09,
-              7.9
+              1.01,
+              18.0
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.09,
-                "under": 7.9
-              },
-              {
                 "line": 7.5,
-                "over": 1.29,
-                "under": 3.6
+                "over": 1.01,
+                "under": 18.0
               },
               {
                 "line": 8.5,
-                "over": 1.73,
-                "under": 2.1
+                "over": 1.21,
+                "under": 4.4
               },
               {
                 "line": 9.5,
-                "over": 2.6,
-                "under": 1.5
+                "over": 1.76,
+                "under": 2.06
               },
               {
                 "line": 10.5,
-                "over": 4.45,
-                "under": 1.21
+                "over": 3.1,
+                "under": 1.37
+              },
+              {
+                "line": 11.5,
+                "over": 6.7,
+                "under": 1.12
               }
             ]
           },
@@ -110,7 +100,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788418808.0681927
+      "last_checked": 1788419926.820258
     },
     "Z.Everton|Z.Aston Villa": {
       "home": "Z.Everton",
@@ -120,36 +110,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 10.5,
             "odds": [
-              1.09,
-              7.75
+              1.02,
+              16.0
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.09,
-                "under": 7.75
-              },
-              {
                 "line": 10.5,
-                "over": 1.3,
-                "under": 3.55
+                "over": 1.02,
+                "under": 16.0
               },
               {
                 "line": 11.5,
-                "over": 1.74,
-                "under": 2.08
+                "over": 1.25,
+                "under": 4.0
               },
               {
                 "line": 12.5,
-                "over": 2.62,
-                "under": 1.49
+                "over": 1.87,
+                "under": 1.92
               },
               {
                 "line": 13.5,
-                "over": 4.5,
-                "under": 1.2
+                "over": 3.45,
+                "under": 1.31
+              },
+              {
+                "line": 14.5,
+                "over": 7.8,
+                "under": 1.09
               }
             ]
           },
@@ -166,7 +156,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788418833.1743402
+      "last_checked": 1788419951.6571014
     },
     "Z.Arsenal|Z.Crystal Palace": {
       "home": "Z.Arsenal",
@@ -176,36 +166,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 1.5,
             "odds": [
-              1.2,
-              4.6
+              null,
+              22.0
             ],
             "_all_lines": [
               {
+                "line": 1.5,
+                "over": null,
+                "under": 22.0
+              },
+              {
+                "line": 2.5,
+                "over": 1.17,
+                "under": 5.1
+              },
+              {
+                "line": 3.5,
+                "over": 1.62,
+                "under": 2.28
+              },
+              {
                 "line": 4.5,
-                "over": 1.2,
-                "under": 4.6
+                "over": 2.72,
+                "under": 1.46
               },
               {
                 "line": 5.5,
-                "over": 1.52,
-                "under": 2.52
-              },
-              {
-                "line": 6.5,
-                "over": 2.14,
-                "under": 1.7
-              },
-              {
-                "line": 7.5,
-                "over": 3.45,
-                "under": 1.31
-              },
-              {
-                "line": 8.5,
-                "over": 6.1,
-                "under": 1.13
+                "over": 5.55,
+                "under": 1.14
               }
             ]
           },
@@ -222,7 +212,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788418858.3240056
+      "last_checked": 1788419976.4181879
     },
     "Z.Newcastle Utd|Z.Tottenham": {
       "home": "Z.Newcastle Utd",
@@ -232,36 +222,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 8.5,
             "odds": [
-              1.09,
-              8.2
+              1.02,
+              15.5
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.02,
+                "under": 15.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.25,
+                "under": 3.95
+              },
+              {
                 "line": 10.5,
-                "over": 1.09,
-                "under": 8.2
+                "over": 1.89,
+                "under": 1.9
               },
               {
                 "line": 11.5,
-                "over": 1.28,
-                "under": 3.7
+                "over": 3.5,
+                "under": 1.3
               },
               {
                 "line": 12.5,
-                "over": 1.7,
-                "under": 2.14
-              },
-              {
-                "line": 13.5,
-                "over": 2.53,
-                "under": 1.52
-              },
-              {
-                "line": 14.5,
-                "over": 4.3,
-                "under": 1.22
+                "over": 8.0,
+                "under": 1.09
               }
             ]
           },
@@ -278,7 +268,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788418883.6933746
+      "last_checked": 1788420001.1755157
     }
   }
 }
