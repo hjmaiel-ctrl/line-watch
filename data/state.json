@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 14.5,
+            "line": 13.5,
             "odds": [
-              1.52,
-              2.3
+              1.42,
+              2.55
             ],
             "_all_lines": [
               {
+                "line": 13.5,
+                "over": 1.42,
+                "under": 2.55
+              },
+              {
                 "line": 14.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 2.45,
+                "under": 1.47
               },
               {
                 "line": 15.5,
-                "over": 2.2,
-                "under": 1.57
-              },
-              {
-                "line": 16.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 4.5,
+                "under": 1.15
               }
             ]
           },
@@ -44,30 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788393389.839413
-    },
-    "Coquimbo Unido|Universidad de Concepción": {
-      "home": "Coquimbo Unido",
-      "away": "Universidad de Concepción",
-      "event_id": "10043836",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788393416.4099727
+      "last_checked": 1788394604.530611
     },
     "Deportes Quindío|Llaneros FC Villavicencio": {
       "home": "Deportes Quindío",
@@ -90,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788393443.0091152
+      "last_checked": 1788394630.8818748
     },
-    "SV Broki|Delfines Del Este": {
-      "home": "SV Broki",
-      "away": "Delfines Del Este",
-      "event_id": "10043833",
+    "Barcelona SC|Independiente del Valle": {
+      "home": "Barcelona SC",
+      "away": "Independiente del Valle",
+      "event_id": "10043861",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788393469.8508658
+      "last_checked": 1788394657.3843207
     },
-    "Goiatuba EC|EC Sao Jose RS": {
-      "home": "Goiatuba EC",
-      "away": "EC Sao Jose RS",
-      "event_id": "10043838",
+    "Club Atlético Atenas|CA Peñarol": {
+      "home": "Club Atlético Atenas",
+      "away": "CA Peñarol",
+      "event_id": "10043841",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -126,11 +103,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            5.6,
-            6.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -140,7 +113,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788393501.9157047
+      "last_checked": 1788394683.7406557
+    },
+    "Colegiales|CA Ferrocarril Midland": {
+      "home": "Colegiales",
+      "away": "CA Ferrocarril Midland",
+      "event_id": "10043842",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788394710.1009786
     }
   }
 }
