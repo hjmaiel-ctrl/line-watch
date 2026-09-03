@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.32,
-              3.0
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
                 "line": 7.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 8.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 2.1,
+                "under": 1.62
+              },
+              {
+                "line": 9.5,
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
@@ -36,14 +36,14 @@
         "sportybet": {
           "1X2": [
             2.4,
-            16.0,
-            44.0
+            13.0,
+            35.0
           ],
           "CORNERS_OU": {
             "line": null,
             "odds": [
               2.4,
-              1.32
+              1.06
             ]
           },
           "CARDS_OU": null
@@ -54,7 +54,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788473763.0633698
+      "last_checked": 1788474537.6131449
     },
     "Recoleta FC|Cerro Porteño": {
       "home": "Recoleta FC",
@@ -77,7 +77,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788473789.8159888
+      "last_checked": 1788474564.4257922
     },
     "Leones del Norte|Orense SC": {
       "home": "Leones del Norte",
@@ -100,30 +100,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788473816.566369
-    },
-    "Vinotinto FC|San Antonio Futbol Club": {
-      "home": "Vinotinto FC",
-      "away": "San Antonio Futbol Club",
-      "event_id": "10047295",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788473843.5349777
+      "last_checked": 1788474591.2641957
     },
     "Dragon|AD Sesa": {
       "home": "Dragon",
@@ -146,7 +123,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788473871.8000176
+      "last_checked": 1788474618.4007466
+    },
+    "AD Academia Bp|Fuerte Aguilares": {
+      "home": "AD Academia Bp",
+      "away": "Fuerte Aguilares",
+      "event_id": "10047298",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788474645.2344756
     }
   }
 }
