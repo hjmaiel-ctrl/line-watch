@@ -1,36 +1,13 @@
 {
   "matches": {
-    "Flamengo|Mirassol FC": {
-      "home": "Flamengo",
-      "away": "Mirassol FC",
-      "event_id": "10040486",
+    "Vélez Sársfield|Boca Juniors": {
+      "home": "Vélez Sársfield",
+      "away": "Boca Juniors",
+      "event_id": "10043862",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 13.5,
-            "odds": [
-              1.42,
-              2.55
-            ],
-            "_all_lines": [
-              {
-                "line": 13.5,
-                "over": 1.42,
-                "under": 2.55
-              },
-              {
-                "line": 14.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 15.5,
-                "over": 4.5,
-                "under": 1.15
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788394604.530611
+      "last_checked": 1788396054.4873323
     },
-    "Deportes Quindío|Llaneros FC Villavicencio": {
-      "home": "Deportes Quindío",
-      "away": "Llaneros FC Villavicencio",
-      "event_id": "10043839",
+    "Deportes Limache|Ñublense": {
+      "home": "Deportes Limache",
+      "away": "Ñublense",
+      "event_id": "10043863",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788394630.8818748
+      "last_checked": 1788396080.341545
     },
     "Barcelona SC|Independiente del Valle": {
       "home": "Barcelona SC",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788394657.3843207
+      "last_checked": 1788396106.2852342
     },
     "Club Atlético Atenas|CA Peñarol": {
       "home": "Club Atlético Atenas",
@@ -113,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788394683.7406557
+      "last_checked": 1788396132.197978
     },
     "Colegiales|CA Ferrocarril Midland": {
       "home": "Colegiales",
@@ -136,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788394710.1009786
+      "last_checked": 1788396158.0347853
     }
   }
 }

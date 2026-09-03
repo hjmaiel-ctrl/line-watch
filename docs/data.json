@@ -1,36 +1,13 @@
 {
-  "generated_at": 1788394710.1895394,
+  "generated_at": 1788396158.07849,
   "matches": [
     {
-      "match": "Flamengo - Mirassol FC",
+      "match": "Vélez Sársfield - Boca Juniors",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 13.5,
-            "odds": [
-              1.42,
-              2.55
-            ],
-            "_all_lines": [
-              {
-                "line": 13.5,
-                "over": 1.42,
-                "under": 2.55
-              },
-              {
-                "line": 14.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 15.5,
-                "over": 4.5,
-                "under": 1.15
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,23 +21,10 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Flamengo - Mirassol FC",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 14.5 a 13.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Flamengo - Mirassol FC",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.3 a 2.55 (10.9%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Deportes Quindío - Llaneros FC Villavicencio",
+      "match": "Deportes Limache - Ñublense",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -148,5 +112,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
