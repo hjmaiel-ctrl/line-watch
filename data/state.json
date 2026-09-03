@@ -7,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.47,
-              2.45
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 10.5,
-                "over": 1.78,
-                "under": 1.9
-              },
-              {
-                "line": 11.5,
-                "over": 2.25,
-                "under": 1.55
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788477159.8516803
+      "last_checked": 1788478000.2961843
     },
     "Clube Náutico Capibaribe|Botafogo SP": {
       "home": "Clube Náutico Capibaribe",
@@ -56,24 +33,24 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.4,
-              2.5
+              1.55,
+              2.15
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.4,
-                "under": 2.5
+                "over": 1.55,
+                "under": 2.15
               },
               {
                 "line": 9.5,
-                "over": 1.65,
-                "under": 1.97
+                "over": 1.92,
+                "under": 1.7
               },
               {
                 "line": 10.5,
-                "over": 2.0,
-                "under": 1.63
+                "over": 2.35,
+                "under": 1.45
               }
             ]
           },
@@ -90,34 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788477184.6204224
-    },
-    "Recoleta FC|Cerro Porteño": {
-      "home": "Recoleta FC",
-      "away": "Cerro Porteño",
-      "event_id": "10047301",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            13.0,
-            13.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788477216.403923
+      "last_checked": 1788478024.8577313
     },
     "Leones del Norte|Orense SC": {
       "home": "Leones del Norte",
@@ -130,7 +80,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            16.5,
+            14.5
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -140,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788477243.2510374
+      "last_checked": 1788478056.4654531
     },
     "Internacional de Palmira|Real Cundinamarca": {
       "home": "Internacional de Palmira",
@@ -163,7 +117,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788477269.8029084
+      "last_checked": 1788478082.9879794
+    },
+    "Boca Juniors Reserves|Quilmes Reserves": {
+      "home": "Boca Juniors Reserves",
+      "away": "Quilmes Reserves",
+      "event_id": "10047303",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788478109.4914966
     }
   }
 }
