@@ -1,9 +1,9 @@
 {
   "matches": {
-    "Avia Swidnik|KS Wieczysta Kraków": {
-      "home": "Avia Swidnik",
-      "away": "KS Wieczysta Kraków",
-      "event_id": "10047094",
+    "Laos U20|Indonesia U20": {
+      "home": "Laos U20",
+      "away": "Indonesia U20",
+      "event_id": "10044021",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -11,11 +11,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.4,
-            3.6
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -25,7 +21,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788444617.7881606
+      "last_checked": 1788445881.0893476
+    },
+    "Al-Ahli|Qatar SC": {
+      "home": "Al-Ahli",
+      "away": "Qatar SC",
+      "event_id": "10047123",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788445907.648773
     },
     "Igdir FK|Manisa Futbol Kulubu": {
       "home": "Igdir FK",
@@ -48,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788444644.5039887
+      "last_checked": 1788445934.297919
     },
     "FC AGMK|Xorazm Urganch": {
       "home": "FC AGMK",
@@ -71,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788444671.274291
+      "last_checked": 1788445960.9859912
     },
-    "FC IberiaTiblisi 1999 II|Dinamo-2 Tbilisi": {
-      "home": "FC IberiaTiblisi 1999 II",
-      "away": "Dinamo-2 Tbilisi",
-      "event_id": "10047096",
+    "Iberia 2010|FC Orbi": {
+      "home": "Iberia 2010",
+      "away": "FC Orbi",
+      "event_id": "10047099",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -94,30 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788444697.966086
-    },
-    "Margveti 2006|Merani Tbilisi": {
-      "home": "Margveti 2006",
-      "away": "Merani Tbilisi",
-      "event_id": "10047098",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788444724.6436782
+      "last_checked": 1788445987.534937
     }
   }
 }
