@@ -1,8 +1,52 @@
 {
-  "generated_at": 1788434676.7616272,
+  "generated_at": 1788435639.5772462,
   "matches": [
     {
+      "match": "Jurong Reserves - Tampines Rovers II",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
       "match": "Olimpia Asuncion Reserves - Club Guaraní Reserves",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Geylang International II - Lion City Sailors FC II",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -52,116 +96,6 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Z.Everton - Z.Man United",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.25,
-              4.0
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.25,
-                "under": 4.0
-              },
-              {
-                "line": 10.5,
-                "over": 1.54,
-                "under": 2.48
-              },
-              {
-                "line": 11.5,
-                "over": 2.04,
-                "under": 1.77
-              },
-              {
-                "line": 12.5,
-                "over": 2.97,
-                "under": 1.4
-              },
-              {
-                "line": 13.5,
-                "over": 4.7,
-                "under": 1.19
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Z.Bournemouth - Z.Newcastle Utd",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.25,
-              3.95
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.25,
-                "under": 3.95
-              },
-              {
-                "line": 10.5,
-                "over": 1.54,
-                "under": 2.47
-              },
-              {
-                "line": 11.5,
-                "over": 2.05,
-                "under": 1.77
-              },
-              {
-                "line": 12.5,
-                "over": 2.99,
-                "under": 1.39
-              },
-              {
-                "line": 13.5,
-                "over": 4.7,
-                "under": 1.19
-              }
-            ]
-          },
           "CARDS_OU": null
         },
         "sportybet": {
