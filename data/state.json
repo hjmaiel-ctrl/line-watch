@@ -11,6 +11,39 @@
           "CARDS_OU": null
         },
         "sportybet": {
+          "1X2": [
+            2.4,
+            17.0,
+            17.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              6.25
+            ]
+          }
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788459140.3145933
+    },
+    "Panathinaikos|Niki Volos FC": {
+      "home": "Panathinaikos",
+      "away": "Niki Volos FC",
+      "event_id": "10047239",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -21,7 +54,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788458204.3667088
+      "last_checked": 1788459167.5361543
     },
     "Mjällby AIF|Djurgårdens IF": {
       "home": "Mjällby AIF",
@@ -44,7 +77,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788458231.3449624
+      "last_checked": 1788459194.3552623
+    },
+    "FC København|FC Nordsjælland": {
+      "home": "FC København",
+      "away": "FC Nordsjælland",
+      "event_id": "10047238",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 8.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
+                "line": 9.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 10.5,
+                "over": 2.7,
+                "under": 1.38
+              },
+              {
+                "line": 11.5,
+                "over": 3.75,
+                "under": 1.2
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788459219.3241456
     },
     "Hapoel Tel Aviv|Beitar Jerusalem": {
       "home": "Hapoel Tel Aviv",
@@ -67,53 +156,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788458258.2066758
-    },
-    "Al Ahly|Smouha SC": {
-      "home": "Al Ahly",
-      "away": "Smouha SC",
-      "event_id": "10047212",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788458285.1787107
-    },
-    "Al-Sailiya|Al-Arabi Doha": {
-      "home": "Al-Sailiya",
-      "away": "Al-Arabi Doha",
-      "event_id": "10047196",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788458311.9111674
+      "last_checked": 1788459245.8797839
     }
   }
 }
