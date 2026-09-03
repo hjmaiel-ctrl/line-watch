@@ -1,28 +1,6 @@
 {
-  "generated_at": 1788475867.1425767,
+  "generated_at": 1788476437.413467,
   "matches": [
-    {
-      "match": "América de Cali - Alianza FC Valledupar",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Recoleta FC - Cerro Porteño",
       "bet9ja_stats": null,
@@ -33,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            44.0,
+            12.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -68,7 +50,7 @@
       "alerts": []
     },
     {
-      "match": "Dragon - AD Sesa",
+      "match": "Boca Juniors Reserves - Quilmes Reserves",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -90,7 +72,29 @@
       "alerts": []
     },
     {
-      "match": "AD Academia Bp - Fuerte Aguilares",
+      "match": "Club Sol de América - Club General Caballero JLM",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Estudiantes de Mérida - Universidad Central de Venezuela FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

@@ -1,28 +1,5 @@
 {
   "matches": {
-    "América de Cali|Alianza FC Valledupar": {
-      "home": "América de Cali",
-      "away": "Alianza FC Valledupar",
-      "event_id": "10047300",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788475763.456797
-    },
     "Recoleta FC|Cerro Porteño": {
       "home": "Recoleta FC",
       "away": "Cerro Porteño",
@@ -34,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            44.0,
+            12.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788475789.2900982
+      "last_checked": 1788476327.6867347
     },
     "Leones del Norte|Orense SC": {
       "home": "Leones del Norte",
@@ -67,12 +48,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788475815.2995362
+      "last_checked": 1788476354.9210737
     },
-    "Dragon|AD Sesa": {
-      "home": "Dragon",
-      "away": "AD Sesa",
-      "event_id": "10047297",
+    "Boca Juniors Reserves|Quilmes Reserves": {
+      "home": "Boca Juniors Reserves",
+      "away": "Quilmes Reserves",
+      "event_id": "10047303",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +71,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788475841.2948039
+      "last_checked": 1788476382.3378937
     },
-    "AD Academia Bp|Fuerte Aguilares": {
-      "home": "AD Academia Bp",
-      "away": "Fuerte Aguilares",
-      "event_id": "10047298",
+    "Club Sol de América|Club General Caballero JLM": {
+      "home": "Club Sol de América",
+      "away": "Club General Caballero JLM",
+      "event_id": "10047304",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788475867.1006103
+      "last_checked": 1788476409.8496394
+    },
+    "Estudiantes de Mérida|Universidad Central de Venezuela FC": {
+      "home": "Estudiantes de Mérida",
+      "away": "Universidad Central de Venezuela FC",
+      "event_id": "10047305",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788476437.3459644
     }
   }
 }
