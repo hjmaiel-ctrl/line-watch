@@ -1,6 +1,64 @@
 {
-  "generated_at": 1788397840.3393333,
+  "generated_at": 1788398962.444009,
   "matches": [
+    {
+      "match": "Deportivo Toluca - Club Leon",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.66,
+              2.1
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.66,
+                "under": 2.1
+              },
+              {
+                "line": 10.5,
+                "over": 2.08,
+                "under": 1.67
+              },
+              {
+                "line": 11.5,
+                "over": 2.74,
+                "under": 1.4
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.71,
+              1.98
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.71,
+                "under": 1.98
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Vélez Sársfield - Boca Juniors",
       "bet9ja_stats": null,
@@ -78,32 +136,6 @@
         },
         "sportybet": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Colegiales - CA Ferrocarril Midland",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            13.0,
-            4.75
-          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
