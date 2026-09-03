@@ -1,6 +1,28 @@
 {
-  "generated_at": 1788450623.9301047,
+  "generated_at": 1788451191.5423443,
   "matches": [
+    {
+      "match": "Al-Fayha FC - Al-Kholood Club",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "GKS Tychy - LKS Lódz",
       "bet9ja_stats": null,
@@ -24,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Igdir FK - Manisa Futbol Kulubu",
+      "match": "Al-Ahli - Qatar SC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -35,8 +57,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            13.0,
-            22.0
+            5.6,
+            5.5
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -50,7 +72,7 @@
       "alerts": []
     },
     {
-      "match": "FC AGMK - Xorazm Urganch",
+      "match": "Igdir FK - Manisa Futbol Kulubu",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -73,28 +95,6 @@
     },
     {
       "match": "ACS Fotbal Club Bacau - CS Universitatea Craiova",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Vihren Sandanski - FC Etar Veliko Tarnovo",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
