@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788447480.3627527
+      "last_checked": 1788448399.8972216
     },
     "Igdir FK|Manisa Futbol Kulubu": {
       "home": "Igdir FK",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788447506.898777
+      "last_checked": 1788448427.4081423
     },
     "FC AGMK|Xorazm Urganch": {
       "home": "FC AGMK",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788447533.5102258
+      "last_checked": 1788448454.5697956
     },
     "ACS Fotbal Club Bacau|CS Universitatea Craiova": {
       "home": "ACS Fotbal Club Bacau",
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788447560.178365
+      "last_checked": 1788448481.8611836
     },
-    "MOIK Baku|Sahdag": {
-      "home": "MOIK Baku",
-      "away": "Sahdag",
-      "event_id": "10047102",
+    "Haras El Hodood|El-Entag El-Harby": {
+      "home": "Haras El Hodood",
+      "away": "El-Entag El-Harby",
+      "event_id": "10047104",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788447586.8168921
+      "last_checked": 1788448508.997083
     }
   }
 }
