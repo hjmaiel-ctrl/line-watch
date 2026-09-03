@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788452164.460961,
+  "generated_at": 1788453174.116273,
   "matches": [
     {
       "match": "Palermo - Mantova",
@@ -7,18 +7,51 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.2,
+              3.9
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.2,
+                "under": 3.9
+              },
+              {
+                "line": 7.5,
+                "over": 1.42,
+                "under": 2.6
+              },
+              {
+                "line": 8.5,
+                "over": 1.78,
+                "under": 1.9
+              },
+              {
+                "line": 9.5,
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 10.5,
+                "over": 3.25,
+                "under": 1.28
+              }
+            ]
+          },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.7,
-              1.98
+              1.98,
+              1.7
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.98,
+                "under": 1.7
               }
             ]
           }
@@ -34,10 +67,45 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Palermo - Mantova",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.7 a 1.98 (16.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Palermo - Mantova",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.98 a 1.7 (16.5%)"
+        }
+      ]
     },
     {
       "match": "Al-Fayha FC - Al-Kholood Club",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Neom SC - Al-Khaleej Saihat",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -101,29 +169,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Rakow Czestochowa - Górnik Zabrze",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
