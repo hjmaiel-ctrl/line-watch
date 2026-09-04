@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            4.0,
+            1.63
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -21,53 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788484776.4663458
-    },
-    "Deportivo Pereira|Independiente Medellín": {
-      "home": "Deportivo Pereira",
-      "away": "Independiente Medellín",
-      "event_id": "10048951",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.38,
-              2.7
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 7.5,
-                "over": 1.75,
-                "under": 1.92
-              },
-              {
-                "line": 8.5,
-                "over": 2.3,
-                "under": 1.52
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788484801.7388382
+      "last_checked": 1788485478.8352118
     },
     "Deportivo Santo Domingo|Cumbaya FC": {
       "home": "Deportivo Santo Domingo",
@@ -90,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788484828.7261593
+      "last_checked": 1788485505.5858705
     },
     "Cavalier|Portmore United FC": {
       "home": "Cavalier",
@@ -113,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788484855.804672
+      "last_checked": 1788485532.4933758
     },
     "Don Orione AC|Deportivo Guiraldes": {
       "home": "Don Orione AC",
@@ -136,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788484882.8364794
+      "last_checked": 1788485559.3678327
+    },
+    "Guaynabo Gol SC|San Juan FC Puerto Rico": {
+      "home": "Guaynabo Gol SC",
+      "away": "San Juan FC Puerto Rico",
+      "event_id": "10048937",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788485586.150119
     }
   }
 }
