@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            26.0,
-            13.0
+            13.0,
+            1.92
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788506702.7748873
+      "last_checked": 1788507598.4225411
     },
     "MLS FC|Kanan FC Aizawl": {
       "home": "MLS FC",
@@ -48,67 +48,92 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788506729.7772522
+      "last_checked": 1788507625.120813
     },
-    "Z.Hull City|Z.Brighton": {
-      "home": "Z.Hull City",
-      "away": "Z.Brighton",
-      "event_id": "10051227",
+    "MS Tzeirey Kfar Kana|Maccabi Ihud Bnei Avtin": {
+      "home": "MS Tzeirey Kfar Kana",
+      "away": "Maccabi Ihud Bnei Avtin",
+      "event_id": "10048961",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788507651.811453
+    },
+    "Lumshyiap SC|Jongksha SC": {
+      "home": "Lumshyiap SC",
+      "away": "Jongksha SC",
+      "event_id": "10048967",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788507678.3482995
+    },
+    "Z.Crystal Palace|Z.Newcastle Utd": {
+      "home": "Z.Crystal Palace",
+      "away": "Z.Newcastle Utd",
+      "event_id": "10051531",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 7.5,
             "odds": [
-              4.5,
-              1.2
+              1.28,
+              3.7
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.28,
+                "under": 3.7
+              },
+              {
+                "line": 8.5,
+                "over": 1.55,
+                "under": 2.45
+              },
+              {
                 "line": 9.5,
-                "over": 4.5,
-                "under": 1.2
+                "over": 1.98,
+                "under": 1.82
               },
               {
                 "line": 10.5,
-                "over": 74.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788506754.8132086
-    },
-    "Z.Ipswich Town|Z.Fulham": {
-      "home": "Z.Ipswich Town",
-      "away": "Z.Fulham",
-      "event_id": "10051228",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              8.6,
-              1.08
-            ],
-            "_all_lines": [
+                "over": 2.73,
+                "under": 1.46
+              },
               {
-                "line": 9.5,
-                "over": 8.6,
-                "under": 1.08
+                "line": 11.5,
+                "over": 4.05,
+                "under": 1.24
               }
             ]
           },
@@ -125,43 +150,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788506779.9815168
-    },
-    "Z.Coventry City|Z.Man City": {
-      "home": "Z.Coventry City",
-      "away": "Z.Man City",
-      "event_id": "10051229",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              7.65,
-              1.1
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 7.65,
-                "under": 1.1
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788506805.0888207
+      "last_checked": 1788507703.0685449
     }
   }
 }

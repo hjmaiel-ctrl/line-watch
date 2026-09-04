@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788506805.132146,
+  "generated_at": 1788507703.1286387,
   "matches": [
     {
       "match": "Sang Mustang FC - Sikkim Police",
@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            26.0,
-            13.0
+            13.0,
+            1.92
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -30,7 +30,13 @@
           "type": "quota_cambiata",
           "match": "Sang Mustang FC - Sikkim Police",
           "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 32.0 a 26.0 (23.1%)"
+          "detail": "sportybet: esito #2 passato da 26.0 a 13.0 (100.0%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Sang Mustang FC - Sikkim Police",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 13.0 a 1.92 (577.1%)"
         }
       ]
     },
@@ -57,81 +63,86 @@
       "alerts": []
     },
     {
-      "match": "Z.Hull City - Z.Brighton",
+      "match": "MS Tzeirey Kfar Kana - Maccabi Ihud Bnei Avtin",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Lumshyiap SC - Jongksha SC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Z.Crystal Palace - Z.Newcastle Utd",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 7.5,
             "odds": [
-              4.5,
-              1.2
+              1.28,
+              3.7
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.28,
+                "under": 3.7
+              },
+              {
+                "line": 8.5,
+                "over": 1.55,
+                "under": 2.45
+              },
+              {
                 "line": 9.5,
-                "over": 4.5,
-                "under": 1.2
+                "over": 1.98,
+                "under": 1.82
               },
               {
                 "line": 10.5,
-                "over": 74.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Hull City - Z.Brighton",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 9.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Hull City - Z.Brighton",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.11 a 4.5 (305.4%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Hull City - Z.Brighton",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 6.85 a 1.2 (470.8%)"
-        }
-      ]
-    },
-    {
-      "match": "Z.Ipswich Town - Z.Fulham",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              8.6,
-              1.08
-            ],
-            "_all_lines": [
+                "over": 2.73,
+                "under": 1.46
+              },
               {
-                "line": 9.5,
-                "over": 8.6,
-                "under": 1.08
+                "line": 11.5,
+                "over": 4.05,
+                "under": 1.24
               }
             ]
           },
@@ -148,81 +159,8 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Ipswich Town - Z.Fulham",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 9.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Ipswich Town - Z.Fulham",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.12 a 8.6 (667.9%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Ipswich Town - Z.Fulham",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 6.6 a 1.08 (511.1%)"
-        }
-      ]
-    },
-    {
-      "match": "Z.Coventry City - Z.Man City",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              7.65,
-              1.1
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 7.65,
-                "under": 1.1
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Coventry City - Z.Man City",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 8.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Coventry City - Z.Man City",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.1 a 7.65 (595.5%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Coventry City - Z.Man City",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 7.5 a 1.1 (581.8%)"
-        }
-      ]
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 10
+  "alert_count_this_run": 2
 }
