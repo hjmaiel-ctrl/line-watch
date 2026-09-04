@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788564705.339126,
+  "generated_at": 1788565289.201595,
   "matches": [
     {
       "match": "Platense - Deportivo Riestra",
@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.42,
-              2.6
+              1.17,
+              4.25
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.17,
+                "under": 4.25
+              },
+              {
                 "line": 7.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 1.83,
+                "under": 1.83
               },
               {
                 "line": 8.5,
-                "over": 2.25,
-                "under": 1.55
-              },
-              {
-                "line": 9.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 3.25,
+                "under": 1.28
               }
             ]
           },
@@ -36,8 +36,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.22,
-            4.4
+            5.25,
+            1.37
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -50,22 +50,34 @@
       },
       "alerts": [
         {
+          "type": "quota_cambiata",
+          "match": "Platense - Deportivo Riestra",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 1.22 a 5.25 (330.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Platense - Deportivo Riestra",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 4.4 a 1.37 (221.2%)"
+        },
+        {
           "type": "linea_cambiata",
           "match": "Platense - Deportivo Riestra",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 7.5"
+          "detail": "bet9ja: linea passata da 7.5 a 6.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Platense - Deportivo Riestra",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.55 a 1.42 (9.2%)"
+          "detail": "bet9ja: esito #1 passato da 1.42 a 1.17 (21.4%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Platense - Deportivo Riestra",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.25 a 2.6 (15.6%)"
+          "detail": "bet9ja: esito #2 passato da 2.6 a 4.25 (63.5%)"
         }
       ]
     },
@@ -75,7 +87,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.12,
+              5.0
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.12,
+                "under": 5.0
+              },
+              {
+                "line": 7.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 8.5,
+                "over": 2.85,
+                "under": 1.35
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -100,27 +135,49 @@
           "CORNERS_OU": {
             "line": 4.5,
             "odds": [
-              1.3,
-              2.9
+              1.35,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.3,
-                "under": 2.9
+                "over": 1.35,
+                "under": 2.7
               },
               {
                 "line": 5.5,
-                "over": 1.63,
-                "under": 2.0
+                "over": 1.75,
+                "under": 1.85
               },
               {
                 "line": 6.5,
-                "over": 2.2,
-                "under": 1.52
+                "over": 2.45,
+                "under": 1.42
               }
             ]
           },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Athletic Club MG - Vila Nova FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -157,29 +214,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Crown Legacy FC - Chicago Fire FC II",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 5
 }
