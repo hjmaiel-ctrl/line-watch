@@ -1,55 +1,5 @@
 {
   "matches": {
-    "Bali United|PSS Sleman": {
-      "home": "Bali United",
-      "away": "PSS Sleman",
-      "event_id": "10049018",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            10.5,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788529977.672378
-    },
-    "Pattani FC|BG Pathumthani United": {
-      "home": "Pattani FC",
-      "away": "BG Pathumthani United",
-      "event_id": "10049019",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788530004.2818012
-    },
     "Bunyodkor|Termez Surkhon": {
       "home": "Bunyodkor",
       "away": "Termez Surkhon",
@@ -71,7 +21,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788530030.8467245
+      "last_checked": 1788530949.0395417
+    },
+    "Al-Shamal|Al Shahaniya": {
+      "home": "Al-Shamal",
+      "away": "Al Shahaniya",
+      "event_id": "10052764",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788530975.7209976
     },
     "SK Poltava|Inhulets Petrove": {
       "home": "SK Poltava",
@@ -94,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788530057.5038373
+      "last_checked": 1788531002.382031
     },
-    "Guanabara City FC GO|Goiania EC GO": {
-      "home": "Guanabara City FC GO",
-      "away": "Goiania EC GO",
-      "event_id": "10049015",
+    "Simal FK|Ganjabasar FK": {
+      "home": "Simal FK",
+      "away": "Ganjabasar FK",
+      "event_id": "10052731",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788530083.9990687
+      "last_checked": 1788531028.9897828
+    },
+    "Mingachevir|FK Zaqatala": {
+      "home": "Mingachevir",
+      "away": "FK Zaqatala",
+      "event_id": "10052732",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788531055.6923583
     }
   }
 }
