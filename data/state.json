@@ -11,11 +11,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.36,
-            4.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -25,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788484091.8695772
+      "last_checked": 1788484776.4663458
     },
     "Deportivo Pereira|Independiente Medellín": {
       "home": "Deportivo Pereira",
@@ -35,26 +31,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 6.5,
             "odds": [
-              1.57,
-              2.2
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 7.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
                 "line": 8.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
-                "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 10.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 2.3,
+                "under": 1.52
               }
             ]
           },
@@ -71,30 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788484117.0488937
-    },
-    "CS Alagoano|Nacional FC AM": {
-      "home": "CS Alagoano",
-      "away": "Nacional FC AM",
-      "event_id": "10048925",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788484144.9608245
+      "last_checked": 1788484801.7388382
     },
     "Deportivo Santo Domingo|Cumbaya FC": {
       "home": "Deportivo Santo Domingo",
@@ -117,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788484177.7488697
+      "last_checked": 1788484828.7261593
     },
     "Cavalier|Portmore United FC": {
       "home": "Cavalier",
@@ -140,7 +113,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788484206.2803006
+      "last_checked": 1788484855.804672
+    },
+    "Don Orione AC|Deportivo Guiraldes": {
+      "home": "Don Orione AC",
+      "away": "Deportivo Guiraldes",
+      "event_id": "10048936",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788484882.8364794
     }
   }
 }

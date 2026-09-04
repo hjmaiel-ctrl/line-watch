@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788484206.3324633,
+  "generated_at": 1788484882.8884828,
   "matches": [
     {
       "match": "Libertad FC - Emelec",
@@ -11,11 +11,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.36,
-            4.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -34,26 +30,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 6.5,
             "odds": [
-              1.57,
-              2.2
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 7.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
                 "line": 8.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
-                "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 10.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 2.3,
+                "under": 1.52
               }
             ]
           },
@@ -70,29 +66,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
-    },
-    {
-      "match": "CS Alagoano - Nacional FC AM",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Deportivo Pereira - Independiente Medellín",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 6.5"
         },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "Deportivo Pereira - Independiente Medellín",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.57 a 1.38 (13.8%)"
         },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "Deportivo Pereira - Independiente Medellín",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.2 a 2.7 (22.7%)"
         }
-      },
-      "alerts": []
+      ]
     },
     {
       "match": "Deportivo Santo Domingo - Cumbaya FC",
@@ -137,7 +130,29 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Don Orione AC - Deportivo Guiraldes",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 3
 }
