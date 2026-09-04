@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788529333.7168684,
+  "generated_at": 1788530084.0663555,
   "matches": [
     {
       "match": "Bali United - PSS Sleman",
@@ -13,7 +13,7 @@
         "sportybet": {
           "1X2": [
             2.4,
-            12.0,
+            10.5,
             100.0
           ],
           "CORNERS_OU": null,
@@ -25,7 +25,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Bali United - PSS Sleman",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 12.0 a 10.5 (14.3%)"
+        }
+      ]
     },
     {
       "match": "Pattani FC - BG Pathumthani United",
@@ -116,5 +123,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }

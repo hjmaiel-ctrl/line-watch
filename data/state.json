@@ -13,7 +13,7 @@
         "sportybet": {
           "1X2": [
             2.4,
-            12.0,
+            10.5,
             100.0
           ],
           "CORNERS_OU": null,
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788529227.3411067
+      "last_checked": 1788529977.672378
     },
     "Pattani FC|BG Pathumthani United": {
       "home": "Pattani FC",
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788529253.9157822
+      "last_checked": 1788530004.2818012
     },
     "Bunyodkor|Termez Surkhon": {
       "home": "Bunyodkor",
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788529280.465358
+      "last_checked": 1788530030.8467245
     },
     "SK Poltava|Inhulets Petrove": {
       "home": "SK Poltava",
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788529307.085999
+      "last_checked": 1788530057.5038373
     },
     "Guanabara City FC GO|Goiania EC GO": {
       "home": "Guanabara City FC GO",
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788529333.6715386
+      "last_checked": 1788530083.9990687
     }
   }
 }
