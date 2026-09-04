@@ -1,5 +1,117 @@
 {
   "matches": {
+    "Arminia Bielefeld|FC St. Pauli": {
+      "home": "Arminia Bielefeld",
+      "away": "FC St. Pauli",
+      "event_id": "10052851",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.3,
+              3.1
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.3,
+                "under": 3.1
+              },
+              {
+                "line": 8.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
+                "line": 9.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 10.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 11.5,
+                "over": 3.25,
+                "under": 1.28
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788539948.8208265
+    },
+    "Hannover 96|Karlsruher SC": {
+      "home": "Hannover 96",
+      "away": "Karlsruher SC",
+      "event_id": "10052852",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 11.5,
+                "over": 1.57,
+                "under": 2.15
+              },
+              {
+                "line": 12.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 13.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 14.5,
+                "over": 3.1,
+                "under": 1.3
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788539973.6943693
+    },
     "Abha|Al-Ettifaq": {
       "home": "Abha",
       "away": "Al-Ettifaq",
@@ -21,7 +133,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788539163.6441405
+      "last_checked": 1788540000.293791
     },
     "Panthère du Ndé|Rayon Sports": {
       "home": "Panthère du Ndé",
@@ -36,8 +148,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.7,
-            2.0
+            2.35,
+            1.51
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -48,7 +160,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788539197.121996
+      "last_checked": 1788540032.2330992
     },
     "FC Polissya Zhytomyr|FK Kudrivka": {
       "home": "FC Polissya Zhytomyr",
@@ -71,53 +183,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788539223.7729728
-    },
-    "Vejle BK|Vendsyssel FF": {
-      "home": "Vejle BK",
-      "away": "Vendsyssel FF",
-      "event_id": "10052829",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788539250.33151
-    },
-    "Pogon Grodzisk Mazowiecki|Warta Poznan": {
-      "home": "Pogon Grodzisk Mazowiecki",
-      "away": "Warta Poznan",
-      "event_id": "10052824",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788539276.9550154
+      "last_checked": 1788540058.826669
     }
   }
 }

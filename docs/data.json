@@ -1,6 +1,116 @@
 {
-  "generated_at": 1788539277.0095587,
+  "generated_at": 1788540058.8646727,
   "matches": [
+    {
+      "match": "Arminia Bielefeld - FC St. Pauli",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.3,
+              3.1
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.3,
+                "under": 3.1
+              },
+              {
+                "line": 8.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
+                "line": 9.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 10.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 11.5,
+                "over": 3.25,
+                "under": 1.28
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Hannover 96 - Karlsruher SC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 11.5,
+                "over": 1.57,
+                "under": 2.15
+              },
+              {
+                "line": 12.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 13.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 14.5,
+                "over": 3.1,
+                "under": 1.3
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Abha - Al-Ettifaq",
       "bet9ja_stats": null,
@@ -35,8 +145,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.7,
-            2.0
+            2.35,
+            1.51
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -47,7 +157,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Panthère du Ndé - Rayon Sports",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 1.7 a 2.35 (38.2%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Panthère du Ndé - Rayon Sports",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 2.0 a 1.51 (32.5%)"
+        }
+      ]
     },
     {
       "match": "FC Polissya Zhytomyr - FK Kudrivka",
@@ -70,51 +193,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Vejle BK - Vendsyssel FF",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Pogon Grodzisk Mazowiecki - Warta Poznan",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
