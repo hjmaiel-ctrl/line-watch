@@ -2,18 +2,6 @@
   {
     "type": "quota_cambiata",
     "match": "Wiked Luzino - Wisla Plock",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.68 a 2.94 (9.7%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Wiked Luzino - Wisla Plock",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 2.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Wiked Luzino - Wisla Plock",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #1 passato da 2.0 a 1.76 (13.6%)"
   },
@@ -2998,5 +2986,17 @@
     "match": "Z.Man City - Z.Liverpool",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 5.15 a 6.15 (19.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Crystal Palace - Z.Newcastle Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Crystal Palace - Z.Newcastle Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 11.5 a 9.3 (23.7%)"
   }
 ]

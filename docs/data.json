@@ -1,6 +1,28 @@
 {
-  "generated_at": 1788510586.9087517,
+  "generated_at": 1788511495.867929,
   "matches": [
+    {
+      "match": "Arema - Isenmulang Kalteng F.C.",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "MS Tzeirey Kfar Kana - Maccabi Ihud Bnei Avtin",
       "bet9ja_stats": null,
@@ -74,104 +96,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.05,
-              11.5
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.05,
-                "under": 11.5
-              },
-              {
-                "line": 8.5,
-                "over": 1.23,
-                "under": 4.15
-              },
-              {
-                "line": 9.5,
-                "over": 1.67,
-                "under": 2.19
-              },
-              {
-                "line": 10.5,
-                "over": 2.61,
-                "under": 1.49
-              },
-              {
-                "line": 11.5,
-                "over": 4.75,
-                "under": 1.19
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Crystal Palace - Z.Newcastle Utd",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 7.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Crystal Palace - Z.Newcastle Utd",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 6.4 a 11.5 (79.7%)"
-        }
-      ]
-    },
-    {
-      "match": "Z.Man City - Z.Liverpool",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.13,
-              6.15
+              1.07,
+              9.3
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.13,
-                "under": 6.15
+                "over": 1.07,
+                "under": 9.3
               },
               {
                 "line": 10.5,
-                "over": 1.4,
-                "under": 2.93
+                "over": 1.46,
+                "under": 2.72
               },
               {
                 "line": 11.5,
-                "over": 1.98,
-                "under": 1.82
+                "over": 2.56,
+                "under": 1.51
               },
               {
                 "line": 12.5,
-                "over": 3.25,
-                "under": 1.35
+                "over": 5.8,
+                "under": 1.15
               },
               {
                 "line": 13.5,
-                "over": 6.0,
-                "under": 1.14
+                "over": 16.5,
+                "under": 1.02
               }
             ]
           },
@@ -191,18 +145,18 @@
       "alerts": [
         {
           "type": "linea_cambiata",
-          "match": "Z.Man City - Z.Liverpool",
+          "match": "Z.Crystal Palace - Z.Newcastle Utd",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 11.5 a 9.5"
+          "detail": "bet9ja: linea passata da 7.5 a 9.5"
         },
         {
           "type": "quota_cambiata",
-          "match": "Z.Man City - Z.Liverpool",
+          "match": "Z.Crystal Palace - Z.Newcastle Utd",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 5.15 a 6.15 (19.4%)"
+          "detail": "bet9ja: esito #2 passato da 11.5 a 9.3 (23.7%)"
         }
       ]
     }
   ],
-  "alert_count_this_run": 4
+  "alert_count_this_run": 2
 }
