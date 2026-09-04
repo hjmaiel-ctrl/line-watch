@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788513228.7200632,
+  "generated_at": 1788514389.5751476,
   "matches": [
     {
       "match": "Admira - Rapid Wien II",
@@ -68,7 +68,7 @@
       "alerts": []
     },
     {
-      "match": "MS Tzeirey Kfar Kana - Maccabi Ihud Bnei Avtin",
+      "match": "Nadi FC - Ba F.C.",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -77,7 +77,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            30.0,
+            6.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,7 +94,7 @@
       "alerts": []
     },
     {
-      "match": "Nadi FC - Ba F.C.",
+      "match": "Beitar Tel Aviv Holon - Ironi Beit Dagan",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
