@@ -10,27 +10,32 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.61,
-              2.04
+              1.49,
+              2.22
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.61,
-                "under": 2.04
-              },
-              {
-                "line": 6.5,
-                "over": 2.4,
-                "under": 1.44
+                "over": 1.49,
+                "under": 2.22
               }
             ]
           },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "1X2": [
+            2.4,
+            8.5,
+            1.22
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.6
+            ]
+          },
           "CARDS_OU": null
         },
         "bet365": {
@@ -39,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788523164.166358
+      "last_checked": 1788524482.1792119
     },
     "Sheffield Wednesday U21|Wigan Athletic U21": {
       "home": "Sheffield Wednesday U21",
@@ -62,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788523192.0723495
+      "last_checked": 1788524508.625453
     },
     "Truong Tuoi Dong Nai FC|Viettel": {
       "home": "Truong Tuoi Dong Nai FC",
@@ -85,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788523219.8749669
+      "last_checked": 1788524535.039678
     },
-    "Hapoel Marmorek|Hapoel Hadera FC": {
-      "home": "Hapoel Marmorek",
-      "away": "Hapoel Hadera FC",
-      "event_id": "10048994",
+    "Bali United|PSS Sleman": {
+      "home": "Bali United",
+      "away": "PSS Sleman",
+      "event_id": "10049018",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -108,12 +113,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788523247.7622035
+      "last_checked": 1788524561.503688
     },
-    "Recoleta FC Reserves|Cerro Porteño Reserves": {
-      "home": "Recoleta FC Reserves",
-      "away": "Cerro Porteño Reserves",
-      "event_id": "10048995",
+    "Pattani FC|BG Pathumthani United": {
+      "home": "Pattani FC",
+      "away": "BG Pathumthani United",
+      "event_id": "10049019",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -131,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788523275.292102
+      "last_checked": 1788524587.8929234
     }
   }
 }

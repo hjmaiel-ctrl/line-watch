@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788523275.3394175,
+  "generated_at": 1788524587.9356728,
   "matches": [
     {
       "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
@@ -10,27 +10,32 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.61,
-              2.04
+              1.49,
+              2.22
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.61,
-                "under": 2.04
-              },
-              {
-                "line": 6.5,
-                "over": 2.4,
-                "under": 1.44
+                "over": 1.49,
+                "under": 2.22
               }
             ]
           },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "1X2": [
+            2.4,
+            8.5,
+            1.22
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.6
+            ]
+          },
           "CARDS_OU": null
         },
         "bet365": {
@@ -41,16 +46,28 @@
       },
       "alerts": [
         {
-          "type": "quota_cambiata",
+          "type": "quota_differente",
           "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.28 a 1.61 (25.8%)"
+          "detail": "bet9ja=1.49 vs sportybet=2.4 (esito #1, differenza 61.1%)"
+        },
+        {
+          "type": "quota_differente",
+          "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja=2.22 vs sportybet=1.6 (esito #2, differenza 38.8%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.15 a 2.04 (54.4%)"
+          "detail": "bet9ja: esito #1 passato da 1.61 a 1.49 (8.1%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.04 a 2.22 (8.8%)"
         }
       ]
     },
@@ -99,7 +116,7 @@
       "alerts": []
     },
     {
-      "match": "Hapoel Marmorek - Hapoel Hadera FC",
+      "match": "Bali United - PSS Sleman",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -121,7 +138,7 @@
       "alerts": []
     },
     {
-      "match": "Recoleta FC Reserves - Cerro Porteño Reserves",
+      "match": "Pattani FC - BG Pathumthani United",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -143,5 +160,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 4
 }
