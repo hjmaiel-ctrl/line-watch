@@ -10,42 +10,27 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.28,
-              3.15
+              1.61,
+              2.04
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.28,
-                "under": 3.15
+                "over": 1.61,
+                "under": 2.04
               },
               {
                 "line": 6.5,
-                "over": 1.67,
-                "under": 1.99
-              },
-              {
-                "line": 7.5,
-                "over": 2.38,
-                "under": 1.47
+                "over": 2.4,
+                "under": 1.44
               }
             ]
           },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            3.9,
-            2.1
-          ],
-          "CORNERS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              1.27
-            ]
-          },
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "bet365": {
@@ -54,7 +39,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788522606.683989
+      "last_checked": 1788523164.166358
     },
     "Sheffield Wednesday U21|Wigan Athletic U21": {
       "home": "Sheffield Wednesday U21",
@@ -77,7 +62,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788522633.634375
+      "last_checked": 1788523192.0723495
     },
     "Truong Tuoi Dong Nai FC|Viettel": {
       "home": "Truong Tuoi Dong Nai FC",
@@ -100,30 +85,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788522660.8968048
-    },
-    "SC Salgueiros|AD Machico": {
-      "home": "SC Salgueiros",
-      "away": "AD Machico",
-      "event_id": "10048991",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788522687.8564153
+      "last_checked": 1788523219.8749669
     },
     "Hapoel Marmorek|Hapoel Hadera FC": {
       "home": "Hapoel Marmorek",
@@ -146,7 +108,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788522714.7306006
+      "last_checked": 1788523247.7622035
+    },
+    "Recoleta FC Reserves|Cerro Porteño Reserves": {
+      "home": "Recoleta FC Reserves",
+      "away": "Cerro Porteño Reserves",
+      "event_id": "10048995",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788523275.292102
     }
   }
 }

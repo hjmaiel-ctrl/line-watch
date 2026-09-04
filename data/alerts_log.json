@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Orenburg - Rubin Kazan",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.76 a 2.12 (30.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Sassuolo - Frosinone",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.82 a 1.5 (21.3%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Sassuolo - Frosinone",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.85 a 2.35 (27.0%)"
@@ -2998,5 +2986,17 @@
     "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.72 a 3.15 (15.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.28 a 1.61 (25.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.15 a 2.04 (54.4%)"
   }
 ]
