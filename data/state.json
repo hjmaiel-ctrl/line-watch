@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Bunyodkor|Termez Surkhon": {
-      "home": "Bunyodkor",
-      "away": "Termez Surkhon",
-      "event_id": "10052735",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788530949.0395417
-    },
     "Al-Shamal|Al Shahaniya": {
       "home": "Al-Shamal",
       "away": "Al Shahaniya",
@@ -44,30 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788530975.7209976
-    },
-    "SK Poltava|Inhulets Petrove": {
-      "home": "SK Poltava",
-      "away": "Inhulets Petrove",
-      "event_id": "10049012",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788531002.382031
+      "last_checked": 1788531852.2340593
     },
     "Simal FK|Ganjabasar FK": {
       "home": "Simal FK",
@@ -90,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788531028.9897828
+      "last_checked": 1788531879.0485125
     },
     "Mingachevir|FK Zaqatala": {
       "home": "Mingachevir",
@@ -113,7 +67,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788531055.6923583
+      "last_checked": 1788531905.9391234
+    },
+    "Real Soccer FC SP|Different System Sports SP": {
+      "home": "Real Soccer FC SP",
+      "away": "Different System Sports SP",
+      "event_id": "10052734",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788531932.9821188
+    },
+    "EC Taubate SP|Pinda FC SP": {
+      "home": "EC Taubate SP",
+      "away": "Pinda FC SP",
+      "event_id": "10052736",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788531959.9094024
     }
   }
 }
