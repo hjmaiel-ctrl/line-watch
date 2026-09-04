@@ -1,51 +1,5 @@
 {
   "matches": {
-    "Sheffield Wednesday U21|Wigan Athletic U21": {
-      "home": "Sheffield Wednesday U21",
-      "away": "Wigan Athletic U21",
-      "event_id": "10048996",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788525568.752946
-    },
-    "Truong Tuoi Dong Nai FC|Viettel": {
-      "home": "Truong Tuoi Dong Nai FC",
-      "away": "Viettel",
-      "event_id": "10049000",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788525595.5676577
-    },
     "Bali United|PSS Sleman": {
       "home": "Bali United",
       "away": "PSS Sleman",
@@ -67,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788525622.4122036
+      "last_checked": 1788526451.5629163
     },
     "Pattani FC|BG Pathumthani United": {
       "home": "Pattani FC",
@@ -90,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788525650.2205338
+      "last_checked": 1788526478.323684
     },
     "Recoleta FC Reserves|Cerro Porteño Reserves": {
       "home": "Recoleta FC Reserves",
@@ -113,7 +67,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788525677.0670862
+      "last_checked": 1788526505.4454608
+    },
+    "Hapoel Ironi Hod HaSharon|Beitar Petah Tikva": {
+      "home": "Hapoel Ironi Hod HaSharon",
+      "away": "Beitar Petah Tikva",
+      "event_id": "10049001",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788526532.3711843
+    },
+    "MK Kfar Saba 1928|MS Jerusalem": {
+      "home": "MK Kfar Saba 1928",
+      "away": "MS Jerusalem",
+      "event_id": "10049002",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788526559.1237228
     }
   }
 }
