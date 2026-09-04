@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788550980.5729017,
+  "generated_at": 1788551821.9657845,
   "matches": [
     {
       "match": "Ipswich Town - Liverpool",
@@ -8,40 +8,53 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 8.5,
             "odds": [
-              1.15,
-              4.5
+              1.18,
+              4.0
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.15,
-                "under": 4.5
-              },
-              {
-                "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
                 "line": 8.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.18,
+                "under": 4.0
               },
               {
                 "line": 9.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 10.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 11.5,
+                "over": 2.7,
+                "under": 1.38
+              },
+              {
+                "line": 12.5,
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              2.25,
+              1.55
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 2.25,
+                "under": 1.55
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -59,19 +72,13 @@
           "type": "linea_cambiata",
           "match": "Ipswich Town - Liverpool",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 6.5"
+          "detail": "bet9ja: linea passata da 6.5 a 8.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Ipswich Town - Liverpool",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.32 a 1.15 (14.8%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Ipswich Town - Liverpool",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.0 a 4.5 (50.0%)"
+          "detail": "bet9ja: esito #2 passato da 4.5 a 4.0 (12.5%)"
         }
       ]
     },
@@ -82,118 +89,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 14.5,
             "odds": [
-              1.28,
-              3.25
+              1.32,
+              3.0
             ],
             "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.28,
-                "under": 3.25
-              },
-              {
-                "line": 11.5,
-                "over": 1.55,
-                "under": 2.25
-              },
-              {
-                "line": 12.5,
-                "over": 1.92,
-                "under": 1.75
-              },
-              {
-                "line": 13.5,
-                "over": 2.5,
-                "under": 1.45
-              },
               {
                 "line": 14.5,
-                "over": 3.45,
-                "under": 1.25
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Real Betis - Real Madrid",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 11.5 a 10.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Real Betis - Real Madrid",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.0 a 3.25 (8.3%)"
-        }
-      ]
-    },
-    {
-      "match": "Genoa - Como",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.15,
-              4.5
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.15,
-                "under": 4.5
+                "over": 1.32,
+                "under": 3.0
               },
               {
-                "line": 6.5,
-                "over": 1.4,
-                "under": 2.65
+                "line": 15.5,
+                "over": 1.6,
+                "under": 2.15
               },
               {
-                "line": 7.5,
-                "over": 1.9,
-                "under": 1.78
+                "line": 16.5,
+                "over": 2.05,
+                "under": 1.65
               },
               {
-                "line": 8.5,
-                "over": 2.7,
-                "under": 1.38
+                "line": 17.5,
+                "over": 2.85,
+                "under": 1.35
               },
               {
-                "line": 9.5,
-                "over": 4.25,
-                "under": 1.17
+                "line": 18.5,
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 4.5,
             "odds": [
-              2.3,
-              1.52
+              1.85,
+              1.82
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 2.3,
-                "under": 1.52
+                "line": 4.5,
+                "over": 1.85,
+                "under": 1.82
               }
             ]
           }
@@ -209,7 +148,74 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Real Betis - Real Madrid",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 10.5 a 14.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Real Betis - Real Madrid",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.25 a 3.0 (8.3%)"
+        }
+      ]
+    },
+    {
+      "match": "Genoa - Como",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.6,
+              2.15
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.6,
+                "under": 2.15
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Genoa - Como",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 3.5 a 2.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Genoa - Como",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 2.3 a 1.6 (43.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Genoa - Como",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.52 a 2.15 (41.4%)"
+        }
+      ]
     },
     {
       "match": "Stuttgart - Cologne",
@@ -218,30 +224,43 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 15.5,
+            "line": 16.5,
             "odds": [
-              1.38,
-              2.82
+              1.5,
+              2.36
             ],
             "_all_lines": [
               {
-                "line": 15.5,
-                "over": 1.38,
-                "under": 2.82
-              },
-              {
                 "line": 16.5,
-                "over": 1.79,
-                "under": 1.92
+                "over": 1.5,
+                "under": 2.36
               },
               {
                 "line": 17.5,
-                "over": 2.48,
-                "under": 1.47
+                "over": 2.16,
+                "under": 1.6
+              },
+              {
+                "line": 18.5,
+                "over": 3.35,
+                "under": 1.26
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              2.18,
+              1.58
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 2.18,
+                "under": 1.58
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -259,19 +278,19 @@
           "type": "linea_cambiata",
           "match": "Stuttgart - Cologne",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 12.5 a 15.5"
+          "detail": "bet9ja: linea passata da 15.5 a 16.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Stuttgart - Cologne",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.55 a 1.38 (12.3%)"
+          "detail": "bet9ja: esito #1 passato da 1.38 a 1.5 (8.7%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Stuttgart - Cologne",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.3 a 2.82 (22.6%)"
+          "detail": "bet9ja: esito #2 passato da 2.82 a 2.36 (19.5%)"
         }
       ]
     },
@@ -282,50 +301,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              1.3,
-              3.1
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.3,
-                "under": 3.1
+                "line": 4.5,
+                "over": 1.28,
+                "under": 3.25
               },
               {
-                "line": 6.5,
+                "line": 5.5,
                 "over": 1.65,
                 "under": 2.05
               },
               {
+                "line": 6.5,
+                "over": 2.3,
+                "under": 1.52
+              },
+              {
                 "line": 7.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 3.45,
+                "under": 1.25
               },
               {
                 "line": 8.5,
-                "over": 3.25,
-                "under": 1.28
-              },
-              {
-                "line": 9.5,
-                "over": 4.75,
-                "under": 1.13
+                "over": 5.5,
+                "under": 1.1
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.9,
-              1.78
+              2.15,
+              1.6
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.9,
-                "under": 1.78
+                "over": 2.15,
+                "under": 1.6
               }
             ]
           }
@@ -343,31 +362,25 @@
       },
       "alerts": [
         {
-          "type": "quota_cambiata",
-          "match": "Paris Saint-Germain - AS Monaco",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.45 a 3.1 (11.3%)"
-        },
-        {
           "type": "linea_cambiata",
           "match": "Paris Saint-Germain - AS Monaco",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 3.5 a 2.5"
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 5.5 a 4.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Paris Saint-Germain - AS Monaco",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.25 a 1.9 (18.4%)"
+          "detail": "bet9ja: esito #1 passato da 1.9 a 2.15 (13.2%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Paris Saint-Germain - AS Monaco",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.55 a 1.78 (14.8%)"
+          "detail": "bet9ja: esito #2 passato da 1.78 a 1.6 (11.2%)"
         }
       ]
     }
   ],
-  "alert_count_this_run": 12
+  "alert_count_this_run": 13
 }
