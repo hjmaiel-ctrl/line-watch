@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Wiked Luzino - Wisla Plock",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.0 a 1.76 (13.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Wiked Luzino - Wisla Plock",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.67 a 1.88 (12.6%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Sassuolo - Frosinone",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #1 passato da 1.9 a 2.25 (18.4%)"
@@ -2998,5 +2986,17 @@
     "match": "Z.Crystal Palace - Z.Newcastle Utd",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 11.5 a 9.3 (23.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.3 a 2.1 (9.5%)"
   }
 ]
