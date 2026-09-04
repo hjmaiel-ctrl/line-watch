@@ -1,8 +1,30 @@
 {
-  "generated_at": 1788508427.1242867,
+  "generated_at": 1788509544.212957,
   "matches": [
     {
-      "match": "MS Tzeirey Kfar Kana - Maccabi Ihud Bnei Avtin",
+      "match": "Nadi FC - Ba F.C.",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Beitar Tel Aviv Holon - Ironi Beit Dagan",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -52,36 +74,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 5.5,
             "odds": [
-              1.32,
-              3.35
+              1.13,
+              6.4
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.13,
+                "under": 6.4
+              },
+              {
+                "line": 6.5,
+                "over": 1.33,
+                "under": 3.3
+              },
+              {
+                "line": 7.5,
+                "over": 1.76,
+                "under": 2.06
+              },
+              {
                 "line": 8.5,
-                "over": 1.32,
-                "under": 3.35
+                "over": 2.54,
+                "under": 1.51
               },
               {
                 "line": 9.5,
-                "over": 1.65,
-                "under": 2.23
-              },
-              {
-                "line": 10.5,
-                "over": 2.2,
-                "under": 1.67
-              },
-              {
-                "line": 11.5,
-                "over": 3.2,
-                "under": 1.35
-              },
-              {
-                "line": 12.5,
-                "over": 5.0,
-                "under": 1.17
+                "over": 4.15,
+                "under": 1.23
               }
             ]
           },
@@ -103,13 +125,19 @@
           "type": "linea_cambiata",
           "match": "Z.Crystal Palace - Z.Newcastle Utd",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 8.5"
+          "detail": "bet9ja: linea passata da 8.5 a 5.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Crystal Palace - Z.Newcastle Utd",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.7 a 3.35 (10.4%)"
+          "detail": "bet9ja: esito #1 passato da 1.32 a 1.13 (16.8%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Crystal Palace - Z.Newcastle Utd",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.35 a 6.4 (91.0%)"
         }
       ]
     },
@@ -120,36 +148,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 11.5,
             "odds": [
-              1.31,
-              3.45
+              1.16,
+              5.15
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.31,
-                "under": 3.45
-              },
-              {
-                "line": 10.5,
-                "over": 1.6,
-                "under": 2.33
-              },
-              {
                 "line": 11.5,
-                "over": 2.08,
-                "under": 1.74
+                "over": 1.16,
+                "under": 5.15
               },
               {
                 "line": 12.5,
-                "over": 2.93,
-                "under": 1.41
+                "over": 1.41,
+                "under": 2.91
               },
               {
                 "line": 13.5,
-                "over": 4.45,
-                "under": 1.21
+                "over": 1.86,
+                "under": 1.93
+              },
+              {
+                "line": 14.5,
+                "over": 2.68,
+                "under": 1.47
+              },
+              {
+                "line": 15.5,
+                "over": 4.3,
+                "under": 1.22
               }
             ]
           },
@@ -166,63 +194,27 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
-    },
-    {
-      "match": "Z.Sunderland - Z.Ipswich Town",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.25,
-              3.9
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.25,
-                "under": 3.9
-              },
-              {
-                "line": 7.5,
-                "over": 1.55,
-                "under": 2.44
-              },
-              {
-                "line": 8.5,
-                "over": 2.06,
-                "under": 1.76
-              },
-              {
-                "line": 9.5,
-                "over": 3.0,
-                "under": 1.39
-              },
-              {
-                "line": 10.5,
-                "over": 4.75,
-                "under": 1.19
-              }
-            ]
-          },
-          "CARDS_OU": null
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Z.Man City - Z.Liverpool",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 11.5"
         },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Man City - Z.Liverpool",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.31 a 1.16 (12.9%)"
         },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Man City - Z.Liverpool",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.45 a 5.15 (49.3%)"
         }
-      },
-      "alerts": []
+      ]
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 6
 }
