@@ -21,30 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788538208.9637916
-    },
-    "Espérance Sportive de Zarzis|Diambars FC": {
-      "home": "Espérance Sportive de Zarzis",
-      "away": "Diambars FC",
-      "event_id": "10052766",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788538235.882994
+      "last_checked": 1788539163.6441405
     },
     "Panthère du Ndé|Rayon Sports": {
       "home": "Panthère du Ndé",
@@ -57,7 +34,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.7,
+            2.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -67,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788538262.7357593
+      "last_checked": 1788539197.121996
     },
     "FC Polissya Zhytomyr|FK Kudrivka": {
       "home": "FC Polissya Zhytomyr",
@@ -90,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788538289.5786748
+      "last_checked": 1788539223.7729728
     },
     "Vejle BK|Vendsyssel FF": {
       "home": "Vejle BK",
@@ -113,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788538316.304033
+      "last_checked": 1788539250.33151
+    },
+    "Pogon Grodzisk Mazowiecki|Warta Poznan": {
+      "home": "Pogon Grodzisk Mazowiecki",
+      "away": "Warta Poznan",
+      "event_id": "10052824",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788539276.9550154
     }
   }
 }

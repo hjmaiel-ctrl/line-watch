@@ -1,30 +1,8 @@
 {
-  "generated_at": 1788538316.3586218,
+  "generated_at": 1788539277.0095587,
   "matches": [
     {
       "match": "Abha - Al-Ettifaq",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Espérance Sportive de Zarzis - Diambars FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -55,7 +33,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.7,
+            2.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -91,6 +73,28 @@
     },
     {
       "match": "Vejle BK - Vendsyssel FF",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Pogon Grodzisk Mazowiecki - Warta Poznan",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
