@@ -21,12 +21,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788533543.3997614
+      "last_checked": 1788534572.7049434
     },
-    "Bunyodkor|Termez Surkhon": {
-      "home": "Bunyodkor",
-      "away": "Termez Surkhon",
-      "event_id": "10052735",
+    "Panthère du Ndé|Rayon Sports": {
+      "home": "Panthère du Ndé",
+      "away": "Rayon Sports",
+      "event_id": "10052767",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -44,7 +44,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788533570.2424753
+      "last_checked": 1788534599.3467827
+    },
+    "FC Polissya Zhytomyr|FK Kudrivka": {
+      "home": "FC Polissya Zhytomyr",
+      "away": "FK Kudrivka",
+      "event_id": "10052791",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788534626.0015962
     },
     "Al-Shamal|Al Shahaniya": {
       "home": "Al-Shamal",
@@ -67,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788533597.1891007
+      "last_checked": 1788534652.589535
     },
-    "Simal FK|Ganjabasar FK": {
-      "home": "Simal FK",
-      "away": "Ganjabasar FK",
-      "event_id": "10052731",
+    "Real Native FC|Midlands Wanderers": {
+      "home": "Real Native FC",
+      "away": "Midlands Wanderers",
+      "event_id": "10052740",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -80,7 +103,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.14,
+            5.6
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,30 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788533624.126923
-    },
-    "Mingachevir|FK Zaqatala": {
-      "home": "Mingachevir",
-      "away": "FK Zaqatala",
-      "event_id": "10052732",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788533650.880115
+      "last_checked": 1788534684.6108162
     }
   }
 }

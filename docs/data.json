@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788533650.9190154,
+  "generated_at": 1788534684.6529377,
   "matches": [
     {
       "match": "Espérance Sportive de Zarzis - Diambars FC",
@@ -24,7 +24,29 @@
       "alerts": []
     },
     {
-      "match": "Bunyodkor - Termez Surkhon",
+      "match": "Panthère du Ndé - Rayon Sports",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "FC Polissya Zhytomyr - FK Kudrivka",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -68,7 +90,7 @@
       "alerts": []
     },
     {
-      "match": "Simal FK - Ganjabasar FK",
+      "match": "Real Native FC - Midlands Wanderers",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -77,29 +99,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Mingachevir - FK Zaqatala",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.14,
+            5.6
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
