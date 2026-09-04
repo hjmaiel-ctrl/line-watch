@@ -3,12 +3,6 @@
     "type": "quota_cambiata",
     "match": "Flamengo - Mirassol FC",
     "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.42 a 1.25 (13.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Flamengo - Mirassol FC",
-    "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.6 a 3.45 (32.7%)"
   },
   {
@@ -2998,5 +2992,11 @@
     "match": "Belgrano - CA Huracan",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.05 a 2.7 (31.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Platense - Deportivo Riestra",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 9.5"
   }
 ]
