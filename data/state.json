@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788514277.7901218
+      "last_checked": 1788515331.401247
     },
     "Lecce U20|AS Roma U20": {
       "home": "Lecce U20",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788514304.5602396
+      "last_checked": 1788515357.93582
     },
     "Arema|Isenmulang Kalteng F.C.": {
       "home": "Arema",
@@ -67,34 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788514331.005757
-    },
-    "Nadi FC|Ba F.C.": {
-      "home": "Nadi FC",
-      "away": "Ba F.C.",
-      "event_id": "10048962",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            30.0,
-            6.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788514362.8884916
+      "last_checked": 1788515384.4729822
     },
     "Beitar Tel Aviv Holon|Ironi Beit Dagan": {
       "home": "Beitar Tel Aviv Holon",
@@ -117,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788514389.5274005
+      "last_checked": 1788515411.0012054
+    },
+    "Imigresen FC II|Bunga Raya FC": {
+      "home": "Imigresen FC II",
+      "away": "Bunga Raya FC",
+      "event_id": "10048965",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788515437.5397573
     }
   }
 }
