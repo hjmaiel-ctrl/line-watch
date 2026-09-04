@@ -1,17 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Sassuolo - Frosinone",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.9 a 2.25 (18.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Sassuolo - Frosinone",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.78 a 1.55 (14.8%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Sassuolo - Frosinone",
     "market": "CARDS_OU",
@@ -2998,5 +2986,17 @@
     "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.3 a 2.1 (9.5%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=1.37 vs sportybet=2.4 (esito #1, differenza 75.2%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=2.72 vs sportybet=1.35 (esito #2, differenza 101.5%)"
   }
 ]
