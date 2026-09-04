@@ -1,53 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Z.Brentford - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 6.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Brentford - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.75 a 3.75 (26.7%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Hull City - Z.Liverpool",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Hull City - Z.Liverpool",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.3 a 4.9 (8.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Leeds - Z.Ipswich Town",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Leeds - Z.Ipswich Town",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.65 a 6.25 (10.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Brentford - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Brentford - Z.Fulham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.27 a 1.11 (14.4%)"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Z.Brentford - Z.Fulham",
     "market": "CORNERS_OU",
@@ -2998,5 +2950,53 @@
     "match": "Deportivo Pereira - Independiente Medellín",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.65 a 4.25 (16.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Toin University of Yokohama - Hosei University",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 25.0 a 10.5 (138.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Toin University of Yokohama - Hosei University",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 9.7 a 4.1 (136.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Nottingham Forest - Z.Leeds",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Nottingham Forest - Z.Leeds",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.4 a 3.95 (16.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Ipswich Town - Z.Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Ipswich Town - Z.Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.05 a 4.85 (19.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Fulham - Z.Tottenham",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Fulham - Z.Tottenham",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.25 a 4.7 (10.6%)"
   }
 ]
