@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788526559.1744492,
+  "generated_at": 1788527472.9420333,
   "matches": [
     {
       "match": "Bali United - PSS Sleman",
@@ -46,29 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Recoleta FC Reserves - Cerro Porteño Reserves",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Hapoel Ironi Hod HaSharon - Beitar Petah Tikva",
+      "match": "Bunyodkor - Termez Surkhon",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -91,6 +69,28 @@
     },
     {
       "match": "MK Kfar Saba 1928 - MS Jerusalem",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "FC Holon Yermiyahu - Hapoel Nir Ramat HaSharon",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
