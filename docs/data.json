@@ -1,8 +1,8 @@
 {
-  "generated_at": 1788490361.2842147,
+  "generated_at": 1788490901.5694146,
   "matches": [
     {
-      "match": "Deportivo Pereira - Independiente Medellín",
+      "match": "Toin University of Yokohama - Hosei University",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            13.0,
-            5.75
+            25.0,
+            9.7
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -28,12 +28,45 @@
       "alerts": []
     },
     {
-      "match": "Veraguas Reserves - SD Atlético Nacional",
+      "match": "Z.Nottingham Forest - Z.Leeds",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.32,
+              3.4
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.32,
+                "under": 3.4
+              },
+              {
+                "line": 8.5,
+                "over": 1.64,
+                "under": 2.25
+              },
+              {
+                "line": 9.5,
+                "over": 2.17,
+                "under": 1.68
+              },
+              {
+                "line": 10.5,
+                "over": 3.15,
+                "under": 1.36
+              },
+              {
+                "line": 11.5,
+                "over": 4.9,
+                "under": 1.18
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -50,12 +83,45 @@
       "alerts": []
     },
     {
-      "match": "CD Tepatitlan de Morelos - CSD Dorados de Sinaloa",
+      "match": "Z.Ipswich Town - Z.Aston Villa",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.24,
+              4.05
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.24,
+                "under": 4.05
+              },
+              {
+                "line": 9.5,
+                "over": 1.5,
+                "under": 2.59
+              },
+              {
+                "line": 10.5,
+                "over": 1.92,
+                "under": 1.87
+              },
+              {
+                "line": 11.5,
+                "over": 2.68,
+                "under": 1.47
+              },
+              {
+                "line": 12.5,
+                "over": 4.05,
+                "under": 1.24
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -72,12 +138,45 @@
       "alerts": []
     },
     {
-      "match": "Suva FC - Navua F.C.",
+      "match": "Z.Fulham - Z.Tottenham",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.23,
+              4.25
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.23,
+                "under": 4.25
+              },
+              {
+                "line": 8.5,
+                "over": 1.47,
+                "under": 2.68
+              },
+              {
+                "line": 9.5,
+                "over": 1.89,
+                "under": 1.9
+              },
+              {
+                "line": 10.5,
+                "over": 2.59,
+                "under": 1.5
+              },
+              {
+                "line": 11.5,
+                "over": 3.85,
+                "under": 1.26
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -94,12 +193,45 @@
       "alerts": []
     },
     {
-      "match": "Toin University of Yokohama - Hosei University",
+      "match": "Z.Brentford - Z.Hull City",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.15,
+              5.5
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.15,
+                "under": 5.5
+              },
+              {
+                "line": 8.5,
+                "over": 1.35,
+                "under": 3.25
+              },
+              {
+                "line": 9.5,
+                "over": 1.69,
+                "under": 2.16
+              },
+              {
+                "line": 10.5,
+                "over": 2.27,
+                "under": 1.63
+              },
+              {
+                "line": 11.5,
+                "over": 3.35,
+                "under": 1.33
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
