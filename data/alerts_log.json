@@ -1,23 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Deportivo Toluca - Club Leon",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.53 a 1.31 (16.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo Toluca - Club Leon",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.36 a 3.15 (33.5%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "CF America - CF Monterrey",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja=1.61 vs sportybet=2.4 (esito #1, differenza 49.1%)"
-  },
-  {
     "type": "quota_differente",
     "match": "CF America - CF Monterrey",
     "market": "CORNERS_OU",
@@ -2998,5 +2980,23 @@
     "match": "Criciúma EC - Cuiabá EC",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.15 a 2.9 (34.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Platense - Deportivo Riestra",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Platense - Deportivo Riestra",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.55 a 1.42 (9.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Platense - Deportivo Riestra",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.25 a 2.6 (15.6%)"
   }
 ]
