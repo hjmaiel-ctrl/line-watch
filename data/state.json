@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788515895.8469648
+      "last_checked": 1788517870.4379203
     },
     "Lecce U20|AS Roma U20": {
       "home": "Lecce U20",
@@ -44,34 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788515922.5025182
-    },
-    "Arema|Isenmulang Kalteng F.C.": {
-      "home": "Arema",
-      "away": "Isenmulang Kalteng F.C.",
-      "event_id": "10048964",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            12.5,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788515954.3404393
+      "last_checked": 1788517897.2814465
     },
     "Imigresen FC II|Bunga Raya FC": {
       "home": "Imigresen FC II",
@@ -84,7 +57,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            13.0,
+            45.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -94,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788515981.3146849
+      "last_checked": 1788517929.0717068
     },
     "Parramatta Eagles|Prospect Utd": {
       "home": "Parramatta Eagles",
@@ -117,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788516007.968477
+      "last_checked": 1788517955.769144
+    },
+    "Yangon City FC|Yadanarbon": {
+      "home": "Yangon City FC",
+      "away": "Yadanarbon",
+      "event_id": "10048978",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788517982.3025708
     }
   }
 }
