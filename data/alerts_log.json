@@ -1,17 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Udinese - Venezia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 8.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Zenit St. Petersburg - FC Dynamo-Makhachkala",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 8.5"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Udinese - Venezia",
     "market": "CORNERS_OU",
@@ -2998,5 +2986,17 @@
     "match": "Panthère du Ndé - Rayon Sports",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 1.51 a 1.22 (23.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Arminia Bielefeld - FC St. Pauli",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.32 a 1.22 (8.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Arminia Bielefeld - FC St. Pauli",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.0 a 3.5 (16.7%)"
   }
 ]
