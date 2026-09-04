@@ -1,36 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "Osnabruck - Bayern Munich",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 12.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Osnabruck - Bayern Munich",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.48 a 1.67 (12.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Osnabruck - Bayern Munich",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.36 a 2.0 (18.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Osnabruck - Bayern Munich",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.95 a 1.65 (18.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Osnabruck - Bayern Munich",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.7 a 2.02 (18.8%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Millwall - Wrexham",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 8.5 a 7.5"
@@ -2998,5 +2968,35 @@
     "match": "Hannover 96 - Karlsruher SC",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 8.5 a 7.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Arminia Bielefeld - FC St. Pauli",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Arminia Bielefeld - FC St. Pauli",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.09 a 1.25 (14.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Arminia Bielefeld - FC St. Pauli",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.75 a 3.45 (66.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Hannover 96 - Karlsruher SC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hannover 96 - Karlsruher SC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 4.25 (16.4%)"
   }
 ]
