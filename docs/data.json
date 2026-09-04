@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788492785.5347605,
+  "generated_at": 1788493759.9326522,
   "matches": [
     {
       "match": "Toin University of Yokohama - Hosei University",
@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            15.0,
-            4.5
+            7.75,
+            1.23
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -30,13 +30,13 @@
           "type": "quota_cambiata",
           "match": "Toin University of Yokohama - Hosei University",
           "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 10.5 a 15.0 (42.9%)"
+          "detail": "sportybet: esito #2 passato da 15.0 a 7.75 (93.5%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Toin University of Yokohama - Hosei University",
           "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 4.1 a 4.5 (9.8%)"
+          "detail": "sportybet: esito #3 passato da 4.5 a 1.23 (265.9%)"
         }
       ]
     },
@@ -69,36 +69,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              1.1,
-              7.55
+              null,
+              24.5
             ],
             "_all_lines": [
               {
+                "line": 3.5,
+                "over": null,
+                "under": 24.5
+              },
+              {
                 "line": 4.5,
-                "over": 1.1,
-                "under": 7.55
+                "over": 1.14,
+                "under": 5.65
               },
               {
                 "line": 5.5,
-                "over": 1.31,
-                "under": 3.45
+                "over": 1.54,
+                "under": 2.47
               },
               {
                 "line": 6.5,
-                "over": 1.76,
-                "under": 2.05
+                "over": 2.47,
+                "under": 1.54
               },
               {
                 "line": 7.5,
-                "over": 2.66,
-                "under": 1.48
-              },
-              {
-                "line": 8.5,
-                "over": 4.6,
-                "under": 1.2
+                "over": 4.75,
+                "under": 1.19
               }
             ]
           },
@@ -120,19 +120,13 @@
           "type": "linea_cambiata",
           "match": "Z.Nottingham Forest - Z.Leeds",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 4.5"
+          "detail": "bet9ja: linea passata da 4.5 a 3.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Nottingham Forest - Z.Leeds",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.25 a 1.1 (13.6%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Nottingham Forest - Z.Leeds",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.95 a 7.55 (91.1%)"
+          "detail": "bet9ja: esito #2 passato da 7.55 a 24.5 (224.5%)"
         }
       ]
     },
@@ -143,36 +137,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 9.5,
             "odds": [
-              1.23,
-              4.1
+              1.12,
+              6.65
             ],
             "_all_lines": [
               {
+                "line": 9.5,
+                "over": 1.12,
+                "under": 6.65
+              },
+              {
                 "line": 10.5,
-                "over": 1.23,
-                "under": 4.1
+                "over": 1.45,
+                "under": 2.77
               },
               {
                 "line": 11.5,
-                "over": 1.6,
-                "under": 2.33
+                "over": 2.21,
+                "under": 1.66
               },
               {
                 "line": 12.5,
-                "over": 2.3,
-                "under": 1.61
+                "over": 4.05,
+                "under": 1.24
               },
               {
                 "line": 13.5,
-                "over": 3.75,
-                "under": 1.27
-              },
-              {
-                "line": 14.5,
-                "over": 6.9,
-                "under": 1.11
+                "over": 8.8,
+                "under": 1.08
               }
             ]
           },
@@ -194,13 +188,19 @@
           "type": "linea_cambiata",
           "match": "Z.Ipswich Town - Z.Aston Villa",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 10.5"
+          "detail": "bet9ja: linea passata da 10.5 a 9.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Ipswich Town - Z.Aston Villa",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.85 a 4.1 (18.3%)"
+          "detail": "bet9ja: esito #1 passato da 1.23 a 1.12 (9.8%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Ipswich Town - Z.Aston Villa",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.1 a 6.65 (62.2%)"
         }
       ]
     },
@@ -211,36 +211,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.07,
-              9.05
+              1.13,
+              6.25
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.07,
-                "under": 9.05
-              },
-              {
                 "line": 7.5,
-                "over": 1.25,
-                "under": 4.0
+                "over": 1.13,
+                "under": 6.25
               },
               {
                 "line": 8.5,
-                "over": 1.63,
-                "under": 2.27
+                "over": 1.48,
+                "under": 2.64
               },
               {
                 "line": 9.5,
-                "over": 2.37,
-                "under": 1.58
+                "over": 2.31,
+                "under": 1.61
               },
               {
                 "line": 10.5,
-                "over": 3.9,
-                "under": 1.25
+                "over": 4.35,
+                "under": 1.22
+              },
+              {
+                "line": 11.5,
+                "over": 9.6,
+                "under": 1.06
               }
             ]
           },
@@ -262,22 +262,16 @@
           "type": "linea_cambiata",
           "match": "Z.Fulham - Z.Tottenham",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 6.5"
+          "detail": "bet9ja: linea passata da 6.5 a 7.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Fulham - Z.Tottenham",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.19 a 1.07 (11.2%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Fulham - Z.Tottenham",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.7 a 9.05 (92.6%)"
+          "detail": "bet9ja: esito #2 passato da 9.05 a 6.25 (44.8%)"
         }
       ]
     }
   ],
-  "alert_count_this_run": 10
+  "alert_count_this_run": 9
 }
