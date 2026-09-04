@@ -1,6 +1,28 @@
 {
-  "generated_at": 1788537196.8549902,
+  "generated_at": 1788538316.3586218,
   "matches": [
+    {
+      "match": "Abha - Al-Ettifaq",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Espérance Sportive de Zarzis - Diambars FC",
       "bet9ja_stats": null,
@@ -68,29 +90,7 @@
       "alerts": []
     },
     {
-      "match": "Al-Shamal - Al Shahaniya",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Pakhtakor Tashkent - FK Andijan",
+      "match": "Vejle BK - Vendsyssel FF",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
