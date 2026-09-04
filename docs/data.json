@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788544794.9045866,
+  "generated_at": 1788545849.0542374,
   "matches": [
     {
       "match": "Olympique Lyonnais - AJ Auxerre",
@@ -7,40 +7,29 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 13.5,
-            "odds": [
-              1.2,
-              3.9
-            ],
-            "_all_lines": [
-              {
-                "line": 13.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
-                "line": 14.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 15.5,
-                "over": 1.95,
-                "under": 1.73
-              },
-              {
-                "line": 16.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 17.5,
-                "over": 3.9,
-                "under": 1.2
-              }
-            ]
-          },
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Sparta Rotterdam - PEC Zwolle",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -63,39 +52,80 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 10.5,
             "odds": [
-              1.22,
-              3.65
+              1.07,
+              6.5
             ],
             "_all_lines": [
               {
+                "line": 10.5,
+                "over": 1.07,
+                "under": 6.5
+              },
+              {
                 "line": 11.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 12.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 13.5,
-                "over": 1.95,
-                "under": 1.73
+                "over": 2.5,
+                "under": 1.45
               },
               {
                 "line": 14.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 15.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Istanbul Basaksehir FK - Galatasaray SK",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 11.5 a 10.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Istanbul Basaksehir FK - Galatasaray SK",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.22 a 1.07 (14.0%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Istanbul Basaksehir FK - Galatasaray SK",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.65 a 6.5 (78.1%)"
+        }
+      ]
+    },
+    {
+      "match": "Arminia Bielefeld - FC St. Pauli",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -112,159 +142,27 @@
       "alerts": []
     },
     {
-      "match": "Arminia Bielefeld - FC St. Pauli",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.25,
-              3.45
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 10.5,
-                "over": 1.73,
-                "under": 1.95
-              },
-              {
-                "line": 11.5,
-                "over": 2.6,
-                "under": 1.42
-              },
-              {
-                "line": 12.5,
-                "over": 4.25,
-                "under": 1.17
-              },
-              {
-                "line": 13.5,
-                "over": 6.75,
-                "under": 1.06
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Arminia Bielefeld - FC St. Pauli",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 9.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Arminia Bielefeld - FC St. Pauli",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.09 a 1.25 (14.7%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Arminia Bielefeld - FC St. Pauli",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 5.75 a 3.45 (66.7%)"
-        }
-      ]
-    },
-    {
       "match": "Hannover 96 - Karlsruher SC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            3.7,
+            1.5
+          ],
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": null,
             "odds": [
-              1.17,
-              4.25
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.17,
-                "under": 4.25
-              },
-              {
-                "line": 7.5,
-                "over": 1.5,
-                "under": 2.35
-              },
-              {
-                "line": 8.5,
-                "over": 2.15,
-                "under": 1.57
-              },
-              {
-                "line": 9.5,
-                "over": 3.65,
-                "under": 1.22
-              },
-              {
-                "line": 10.5,
-                "over": 6.0,
-                "under": 1.08
-              }
+              2.4,
+              1.45
             ]
           },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Hannover 96 - Karlsruher SC",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 6.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Hannover 96 - Karlsruher SC",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.65 a 4.25 (16.4%)"
-        }
-      ]
-    },
-    {
-      "match": "Hilal Alsahil SC (Sdn) - Welwalo Adigrat",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "bet365": {
@@ -276,5 +174,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 5
+  "alert_count_this_run": 3
 }

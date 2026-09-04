@@ -1,23 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Millwall - Wrexham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Millwall - Wrexham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.25 a 3.0 (8.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Millwall - Wrexham",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 2.5"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Millwall - Wrexham",
     "market": "CARDS_OU",
@@ -2998,5 +2980,23 @@
     "match": "Hannover 96 - Karlsruher SC",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.65 a 4.25 (16.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Istanbul Basaksehir FK - Galatasaray SK",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 11.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Istanbul Basaksehir FK - Galatasaray SK",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.22 a 1.07 (14.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Istanbul Basaksehir FK - Galatasaray SK",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 6.5 (78.1%)"
   }
 ]
