@@ -1,53 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Osnabruck - Bayern Munich",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.7 a 2.02 (33.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Burnley - Middlesbrough",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.6 a 1.87 (16.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Burnley - Middlesbrough",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.15 a 1.8 (19.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Millwall - Wrexham",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Millwall - Wrexham",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.57 a 2.2 (40.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Millwall - Wrexham",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.2 a 1.57 (40.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Queens Park Rangers - Cardiff City",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.62 a 2.65 (63.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Queens Park Rangers - Cardiff City",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.1 a 1.4 (50.0%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "West Bromwich Albion - Charlton Athletic",
     "market": "CORNERS_OU",
@@ -2998,5 +2950,53 @@
     "match": "Paris Saint-Germain - AS Monaco",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.55 a 2.05 (32.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Ipswich Town - Liverpool",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Ipswich Town - Liverpool",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.95 a 1.75 (11.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Ipswich Town - Liverpool",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.73 a 1.92 (11.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Real Betis - Real Madrid",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.32 a 1.2 (10.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Real Betis - Real Madrid",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.0 a 3.9 (30.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Real Betis - Real Madrid",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Paris Saint-Germain - AS Monaco",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.13 a 1.02 (10.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Paris Saint-Germain - AS Monaco",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.75 a 9.0 (89.5%)"
   }
 ]
