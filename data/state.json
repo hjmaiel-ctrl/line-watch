@@ -1,32 +1,5 @@
 {
   "matches": {
-    "FC Porto|Moreirense FC": {
-      "home": "FC Porto",
-      "away": "Moreirense FC",
-      "event_id": "10053043",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            24.0,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788556330.783773
-    },
     "Estudiantes Río Cuarto|Club Atlético Sarmiento": {
       "home": "Estudiantes Río Cuarto",
       "away": "Club Atlético Sarmiento",
@@ -48,7 +21,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788556357.418251
+      "last_checked": 1788557343.6627996
+    },
+    "JS Kabylie|MB Rouissat": {
+      "home": "JS Kabylie",
+      "away": "MB Rouissat",
+      "event_id": "10053050",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788557370.6103528
     },
     "Leones FC|Atlético F.C.": {
       "home": "Leones FC",
@@ -71,30 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788556384.0501378
-    },
-    "Sportivo Carapeguá|Paraguari AC": {
-      "home": "Sportivo Carapeguá",
-      "away": "Paraguari AC",
-      "event_id": "10053047",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788556410.6497612
+      "last_checked": 1788557397.4122238
     },
     "Comerciantes FC|Ayacucho FC": {
       "home": "Comerciantes FC",
@@ -117,7 +90,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788556437.2156665
+      "last_checked": 1788557424.2507312
+    },
+    "Alianza Atletico|UTC de Cajamarca": {
+      "home": "Alianza Atletico",
+      "away": "UTC de Cajamarca",
+      "event_id": "10053053",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.32,
+              2.94
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.32,
+                "under": 2.94
+              },
+              {
+                "line": 7.5,
+                "over": 1.75,
+                "under": 1.89
+              },
+              {
+                "line": 8.5,
+                "over": 2.54,
+                "under": 1.42
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788557449.4018712
     }
   }
 }

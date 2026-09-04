@@ -1,8 +1,8 @@
 {
-  "generated_at": 1788556437.2628918,
+  "generated_at": 1788557449.4473562,
   "matches": [
     {
-      "match": "FC Porto - Moreirense FC",
+      "match": "Estudiantes Río Cuarto - Club Atlético Sarmiento",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -11,11 +11,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            24.0,
-            100.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -28,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Estudiantes Río Cuarto - Club Atlético Sarmiento",
+      "match": "JS Kabylie - MB Rouissat",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -72,7 +68,7 @@
       "alerts": []
     },
     {
-      "match": "Sportivo Carapeguá - Paraguari AC",
+      "match": "Comerciantes FC - Ayacucho FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -94,12 +90,35 @@
       "alerts": []
     },
     {
-      "match": "Comerciantes FC - Ayacucho FC",
+      "match": "Alianza Atletico - UTC de Cajamarca",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.32,
+              2.94
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.32,
+                "under": 2.94
+              },
+              {
+                "line": 7.5,
+                "over": 1.75,
+                "under": 1.89
+              },
+              {
+                "line": 8.5,
+                "over": 2.54,
+                "under": 1.42
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
