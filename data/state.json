@@ -8,36 +8,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.3,
-              3.1
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.3,
-                "under": 3.1
-              },
-              {
                 "line": 8.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 9.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 10.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 11.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 12.5,
+                "over": 3.45,
+                "under": 1.25
               }
             ]
           },
@@ -54,7 +54,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788539948.8208265
+      "last_checked": 1788540544.272614
     },
     "Hannover 96|Karlsruher SC": {
       "home": "Hannover 96",
@@ -66,34 +66,34 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.35,
-              2.85
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 11.5,
-                "over": 1.57,
-                "under": 2.15
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 12.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 13.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.65,
+                "under": 1.4
               },
               {
                 "line": 14.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 3.45,
+                "under": 1.25
               }
             ]
           },
@@ -110,7 +110,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788539973.6943693
+      "last_checked": 1788540569.73545
     },
     "Abha|Al-Ettifaq": {
       "home": "Abha",
@@ -133,7 +133,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788540000.293791
+      "last_checked": 1788540596.743933
     },
     "Panthère du Ndé|Rayon Sports": {
       "home": "Panthère du Ndé",
@@ -148,8 +148,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            2.35,
-            1.51
+            3.7,
+            1.22
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -160,7 +160,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788540032.2330992
+      "last_checked": 1788540629.733124
     },
     "FC Polissya Zhytomyr|FK Kudrivka": {
       "home": "FC Polissya Zhytomyr",
@@ -183,7 +183,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788540058.826669
+      "last_checked": 1788540656.7857103
     }
   }
 }
