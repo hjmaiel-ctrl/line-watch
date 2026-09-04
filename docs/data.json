@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788489680.1745043,
+  "generated_at": 1788490361.2842147,
   "matches": [
     {
       "match": "Deportivo Pereira - Independiente Medellín",
@@ -7,34 +7,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.17,
-              4.25
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.17,
-                "under": 4.25
-              },
-              {
-                "line": 7.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
-                "line": 8.5,
-                "over": 3.65,
-                "under": 1.22
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            13.0,
+            5.75
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,14 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Deportivo Pereira - Independiente Medellín",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.65 a 4.25 (16.4%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Veraguas Reserves - SD Atlético Nacional",
@@ -120,7 +94,7 @@
       "alerts": []
     },
     {
-      "match": "Olimpia - Club Deportivo Platense",
+      "match": "Toin University of Yokohama - Hosei University",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -142,5 +116,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 0
 }

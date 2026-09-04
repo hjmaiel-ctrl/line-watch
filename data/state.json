@@ -7,34 +7,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.17,
-              4.25
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.17,
-                "under": 4.25
-              },
-              {
-                "line": 7.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
-                "line": 8.5,
-                "over": 3.65,
-                "under": 1.22
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            13.0,
+            5.75
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788489575.556171
+      "last_checked": 1788490253.6124074
     },
     "Veraguas Reserves|SD Atlético Nacional": {
       "home": "Veraguas Reserves",
@@ -67,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788489602.3921604
+      "last_checked": 1788490280.498533
     },
     "CD Tepatitlan de Morelos|CSD Dorados de Sinaloa": {
       "home": "CD Tepatitlan de Morelos",
@@ -90,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788489628.2828655
+      "last_checked": 1788490307.52403
     },
     "Suva FC|Navua F.C.": {
       "home": "Suva FC",
@@ -113,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788489654.224796
+      "last_checked": 1788490334.3577847
     },
-    "Olimpia|Club Deportivo Platense": {
-      "home": "Olimpia",
-      "away": "Club Deportivo Platense",
-      "event_id": "10048953",
+    "Toin University of Yokohama|Hosei University": {
+      "home": "Toin University of Yokohama",
+      "away": "Hosei University",
+      "event_id": "10048955",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -136,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788489680.1319053
+      "last_checked": 1788490361.2423606
     }
   }
 }
