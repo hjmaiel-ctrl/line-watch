@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788499498.7442856,
+  "generated_at": 1788500436.7637506,
   "matches": [
     {
       "match": "Rewa FC - Lautoka FC",
@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            2.3,
-            3.33
+            2.4,
+            3.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Rewa FC - Lautoka FC",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 3.33 a 3.0 (11.0%)"
+        }
+      ]
     },
     {
       "match": "Kyoto Sangyo University - Kyushu Sangyo University",
@@ -56,31 +63,31 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 12.5,
+            "line": 11.5,
             "odds": [
-              1.1,
-              7.6
+              1.16,
+              5.2
             ],
             "_all_lines": [
               {
+                "line": 11.5,
+                "over": 1.16,
+                "under": 5.2
+              },
+              {
                 "line": 12.5,
-                "over": 1.1,
-                "under": 7.6
+                "over": 1.93,
+                "under": 1.87
               },
               {
                 "line": 13.5,
-                "over": 1.38,
-                "under": 3.05
+                "over": 4.45,
+                "under": 1.21
               },
               {
                 "line": 14.5,
-                "over": 2.05,
-                "under": 1.77
-              },
-              {
-                "line": 15.5,
-                "over": 3.65,
-                "under": 1.29
+                "over": 14.0,
+                "under": 1.03
               }
             ]
           },
@@ -102,19 +109,13 @@
           "type": "linea_cambiata",
           "match": "Z.Fulham - Z.Liverpool",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 11.5 a 12.5"
+          "detail": "bet9ja: linea passata da 12.5 a 11.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Fulham - Z.Liverpool",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.2 a 1.1 (9.1%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Fulham - Z.Liverpool",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.6 a 7.6 (65.2%)"
+          "detail": "bet9ja: esito #2 passato da 7.6 a 5.2 (46.2%)"
         }
       ]
     },
@@ -125,36 +126,31 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 11.5,
             "odds": [
-              1.1,
-              7.4
+              1.2,
+              4.5
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.1,
-                "under": 7.4
-              },
-              {
-                "line": 8.5,
-                "over": 1.39,
-                "under": 2.98
-              },
-              {
-                "line": 9.5,
-                "over": 2.08,
-                "under": 1.74
-              },
-              {
-                "line": 10.5,
-                "over": 3.7,
-                "under": 1.28
-              },
-              {
                 "line": 11.5,
-                "over": 7.8,
-                "under": 1.09
+                "over": 1.2,
+                "under": 4.5
+              },
+              {
+                "line": 12.5,
+                "over": 2.13,
+                "under": 1.71
+              },
+              {
+                "line": 13.5,
+                "over": 5.35,
+                "under": 1.15
+              },
+              {
+                "line": 14.5,
+                "over": 18.5,
+                "under": 1.01
               }
             ]
           },
@@ -176,19 +172,19 @@
           "type": "linea_cambiata",
           "match": "Z.Brighton - Z.Man United",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 7.5"
+          "detail": "bet9ja: linea passata da 7.5 a 11.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Brighton - Z.Man United",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.21 a 1.1 (10.0%)"
+          "detail": "bet9ja: esito #1 passato da 1.1 a 1.2 (9.1%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Brighton - Z.Man United",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.45 a 7.4 (66.3%)"
+          "detail": "bet9ja: esito #2 passato da 7.4 a 4.5 (64.4%)"
         }
       ]
     },
@@ -199,36 +195,31 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 11.5,
             "odds": [
-              1.14,
-              5.95
+              1.25,
+              4.0
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.14,
-                "under": 5.95
-              },
-              {
                 "line": 11.5,
-                "over": 1.51,
-                "under": 2.55
+                "over": 1.25,
+                "under": 4.0
               },
               {
                 "line": 12.5,
-                "over": 2.39,
-                "under": 1.57
+                "over": 2.35,
+                "under": 1.59
               },
               {
                 "line": 13.5,
-                "over": 4.6,
-                "under": 1.2
+                "over": 6.35,
+                "under": 1.13
               },
               {
                 "line": 14.5,
-                "over": 10.5,
-                "under": 1.06
+                "over": 23.5,
+                "under": null
               }
             ]
           },
@@ -250,16 +241,22 @@
           "type": "linea_cambiata",
           "match": "Z.Ipswich Town - Z.Newcastle Utd",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 10.5"
+          "detail": "bet9ja: linea passata da 10.5 a 11.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Ipswich Town - Z.Newcastle Utd",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 7.8 a 5.95 (31.1%)"
+          "detail": "bet9ja: esito #1 passato da 1.14 a 1.25 (9.6%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Ipswich Town - Z.Newcastle Utd",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 5.95 a 4.0 (48.8%)"
         }
       ]
     }
   ],
-  "alert_count_this_run": 8
+  "alert_count_this_run": 9
 }
