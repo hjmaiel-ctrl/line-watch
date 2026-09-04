@@ -13,7 +13,7 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.44,
+            1.4,
             3.8
           ],
           "CORNERS_OU": null,
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788500981.0519488
+      "last_checked": 1788501621.2992623
     },
     "Kyoto Sangyo University|Kyushu Sangyo University": {
       "home": "Kyoto Sangyo University",
@@ -48,31 +48,69 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788501007.6170416
+      "last_checked": 1788501648.5516262
     },
-    "Z.Fulham|Z.Liverpool": {
-      "home": "Z.Fulham",
-      "away": "Z.Liverpool",
-      "event_id": "10050941",
+    "Sang Mustang FC|Sikkim Police": {
+      "home": "Sang Mustang FC",
+      "away": "Sikkim Police",
+      "event_id": "10048959",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788501675.566137
+    },
+    "Z.Hull City|Z.Brighton": {
+      "home": "Z.Hull City",
+      "away": "Z.Brighton",
+      "event_id": "10051227",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 7.5,
             "odds": [
-              4.05,
-              1.24
+              1.31,
+              3.4
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 4.05,
-                "under": 1.24
+                "line": 7.5,
+                "over": 1.31,
+                "under": 3.4
               },
               {
-                "line": 12.5,
-                "over": 60.0,
-                "under": null
+                "line": 8.5,
+                "over": 1.61,
+                "under": 2.31
+              },
+              {
+                "line": 9.5,
+                "over": 2.08,
+                "under": 1.74
+              },
+              {
+                "line": 10.5,
+                "over": 2.91,
+                "under": 1.41
+              },
+              {
+                "line": 11.5,
+                "over": 4.35,
+                "under": 1.21
               }
             ]
           },
@@ -89,67 +127,46 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788501032.3987565
+      "last_checked": 1788501701.1246247
     },
-    "Z.Brighton|Z.Man United": {
-      "home": "Z.Brighton",
-      "away": "Z.Man United",
-      "event_id": "10050942",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              4.1,
-              1.24
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 4.1,
-                "under": 1.24
-              },
-              {
-                "line": 12.5,
-                "over": 61.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788501057.2788692
-    },
-    "Z.Ipswich Town|Z.Newcastle Utd": {
+    "Z.Ipswich Town|Z.Fulham": {
       "home": "Z.Ipswich Town",
-      "away": "Z.Newcastle Utd",
-      "event_id": "10050943",
+      "away": "Z.Fulham",
+      "event_id": "10051228",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 7.5,
             "odds": [
-              8.25,
-              1.08
+              1.16,
+              5.15
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.16,
+                "under": 5.15
+              },
+              {
+                "line": 8.5,
+                "over": 1.35,
+                "under": 3.2
+              },
+              {
+                "line": 9.5,
+                "over": 1.68,
+                "under": 2.19
+              },
+              {
+                "line": 10.5,
+                "over": 2.2,
+                "under": 1.67
+              },
+              {
                 "line": 11.5,
-                "over": 8.25,
-                "under": 1.08
+                "over": 3.15,
+                "under": 1.36
               }
             ]
           },
@@ -166,7 +183,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788501082.0776722
+      "last_checked": 1788501726.5022764
     }
   }
 }
