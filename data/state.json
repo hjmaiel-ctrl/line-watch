@@ -10,63 +10,30 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.22,
-              3.65
+              1.17,
+              4.25
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.17,
+                "under": 4.25
               },
               {
                 "line": 7.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.9,
+                "under": 1.78
               },
               {
                 "line": 8.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            44.0,
-            17.5
-          ],
-          "CORNERS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              1.22
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788488654.3381672
-    },
-    "Guaynabo Gol SC|San Juan FC Puerto Rico": {
-      "home": "Guaynabo Gol SC",
-      "away": "San Juan FC Puerto Rico",
-      "event_id": "10048937",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -77,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788488682.1174328
+      "last_checked": 1788489575.556171
     },
     "Veraguas Reserves|SD Atlético Nacional": {
       "home": "Veraguas Reserves",
@@ -100,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788488709.5008287
+      "last_checked": 1788489602.3921604
     },
     "CD Tepatitlan de Morelos|CSD Dorados de Sinaloa": {
       "home": "CD Tepatitlan de Morelos",
@@ -123,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788488736.3873932
+      "last_checked": 1788489628.2828655
     },
     "Suva FC|Navua F.C.": {
       "home": "Suva FC",
@@ -146,7 +113,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788488763.2731488
+      "last_checked": 1788489654.224796
+    },
+    "Olimpia|Club Deportivo Platense": {
+      "home": "Olimpia",
+      "away": "Club Deportivo Platense",
+      "event_id": "10048953",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788489680.1319053
     }
   }
 }
