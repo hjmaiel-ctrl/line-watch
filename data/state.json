@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 13.5,
             "odds": [
-              1.25,
-              3.45
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
                 "line": 13.5,
-                "over": 1.25,
-                "under": 3.45
+                "over": 1.22,
+                "under": 3.65
               },
               {
                 "line": 14.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 15.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 16.5,
@@ -36,6 +36,62 @@
               },
               {
                 "line": 17.5,
+                "over": 4.25,
+                "under": 1.17
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788544150.351791
+    },
+    "Istanbul Basaksehir FK|Galatasaray SK": {
+      "home": "Istanbul Basaksehir FK",
+      "away": "Galatasaray SK",
+      "event_id": "10052895",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.2,
+              3.9
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.2,
+                "under": 3.9
+              },
+              {
+                "line": 12.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 13.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 14.5,
+                "over": 2.7,
+                "under": 1.38
+              },
+              {
+                "line": 15.5,
                 "over": 4.1,
                 "under": 1.18
               }
@@ -54,46 +110,46 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788543535.0768843
+      "last_checked": 1788544175.3492365
     },
-    "Istanbul Basaksehir FK|Galatasaray SK": {
-      "home": "Istanbul Basaksehir FK",
-      "away": "Galatasaray SK",
-      "event_id": "10052895",
+    "Arminia Bielefeld|FC St. Pauli": {
+      "home": "Arminia Bielefeld",
+      "away": "FC St. Pauli",
+      "event_id": "10052851",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 7.5,
             "odds": [
-              1.32,
-              3.0
+              1.09,
+              5.75
             ],
             "_all_lines": [
               {
-                "line": 10.5,
+                "line": 7.5,
+                "over": 1.09,
+                "under": 5.75
+              },
+              {
+                "line": 8.5,
                 "over": 1.32,
                 "under": 3.0
               },
               {
+                "line": 9.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 10.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
                 "line": 11.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 12.5,
-                "over": 2.25,
-                "under": 1.55
-              },
-              {
-                "line": 13.5,
-                "over": 3.1,
-                "under": 1.3
-              },
-              {
-                "line": 14.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 4.0,
+                "under": 1.18
               }
             ]
           },
@@ -110,41 +166,41 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788543559.8995216
+      "last_checked": 1788544200.3735576
     },
-    "Arminia Bielefeld|FC St. Pauli": {
-      "home": "Arminia Bielefeld",
-      "away": "FC St. Pauli",
-      "event_id": "10052851",
+    "Hannover 96|Karlsruher SC": {
+      "home": "Hannover 96",
+      "away": "Karlsruher SC",
+      "event_id": "10052852",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.32,
-              3.0
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.22,
+                "under": 3.65
               },
               {
                 "line": 8.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 9.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 10.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 3.1,
+                "under": 1.3
               },
               {
                 "line": 11.5,
@@ -166,63 +222,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788543584.7539043
-    },
-    "Hannover 96|Karlsruher SC": {
-      "home": "Hannover 96",
-      "away": "Karlsruher SC",
-      "event_id": "10052852",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.2,
-              3.75
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.2,
-                "under": 3.75
-              },
-              {
-                "line": 9.5,
-                "over": 1.55,
-                "under": 2.25
-              },
-              {
-                "line": 10.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 11.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 12.5,
-                "over": 4.5,
-                "under": 1.15
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788543609.758403
+      "last_checked": 1788544225.4889004
     },
     "Hilal Alsahil SC (Sdn)|Welwalo Adigrat": {
       "home": "Hilal Alsahil SC (Sdn)",
@@ -245,7 +245,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788543636.3679078
+      "last_checked": 1788544252.2381406
     }
   }
 }
