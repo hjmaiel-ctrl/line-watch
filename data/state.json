@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            12.0,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -21,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788528322.141363
+      "last_checked": 1788529227.3411067
     },
     "Pattani FC|BG Pathumthani United": {
       "home": "Pattani FC",
@@ -44,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788528348.920536
+      "last_checked": 1788529253.9157822
     },
     "Bunyodkor|Termez Surkhon": {
       "home": "Bunyodkor",
@@ -67,12 +71,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788528375.5993595
+      "last_checked": 1788529280.465358
     },
-    "Bnei Yehud|Beitar Kfar Saba Shlomi FC": {
-      "home": "Bnei Yehud",
-      "away": "Beitar Kfar Saba Shlomi FC",
-      "event_id": "10049009",
+    "SK Poltava|Inhulets Petrove": {
+      "home": "SK Poltava",
+      "away": "Inhulets Petrove",
+      "event_id": "10049012",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788528402.2549136
+      "last_checked": 1788529307.085999
     },
-    "Hapoel Ihud Bnei Jatt FC|Hapoel Ironi Karmiel": {
-      "home": "Hapoel Ihud Bnei Jatt FC",
-      "away": "Hapoel Ironi Karmiel",
-      "event_id": "10049011",
+    "Guanabara City FC GO|Goiania EC GO": {
+      "home": "Guanabara City FC GO",
+      "away": "Goiania EC GO",
+      "event_id": "10049015",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -103,11 +107,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            44.0,
-            7.5
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788528434.1406713
+      "last_checked": 1788529333.6715386
     }
   }
 }

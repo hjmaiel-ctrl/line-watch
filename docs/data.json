@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788528434.1854582,
+  "generated_at": 1788529333.7168684,
   "matches": [
     {
       "match": "Bali United - PSS Sleman",
@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            12.0,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -68,7 +72,7 @@
       "alerts": []
     },
     {
-      "match": "Bnei Yehud - Beitar Kfar Saba Shlomi FC",
+      "match": "SK Poltava - Inhulets Petrove",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -90,7 +94,7 @@
       "alerts": []
     },
     {
-      "match": "Hapoel Ihud Bnei Jatt FC - Hapoel Ironi Karmiel",
+      "match": "Guanabara City FC GO - Goiania EC GO",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -99,11 +103,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            44.0,
-            7.5
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
