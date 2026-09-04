@@ -3,48 +3,6 @@
     "type": "quota_cambiata",
     "match": "Udinese - Venezia",
     "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.9 a 1.62 (17.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Udinese - Venezia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.78 a 2.1 (18.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Udinese - Venezia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.5 a 3.5 (28.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Udinese - Venezia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.62 a 1.8 (11.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Udinese - Venezia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.1 a 1.87 (12.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Udinese - Venezia",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.5 a 4.75 (35.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Udinese - Venezia",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.8 a 2.05 (13.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Udinese - Venezia",
-    "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.87 a 1.65 (13.3%)"
   },
   {
@@ -2998,5 +2956,47 @@
     "match": "Arminia Bielefeld - FC St. Pauli",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.5 a 2.9 (20.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Istanbul Basaksehir FK - Galatasaray SK",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 11.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Arminia Bielefeld - FC St. Pauli",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Arminia Bielefeld - FC St. Pauli",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.32 a 1.22 (8.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Arminia Bielefeld - FC St. Pauli",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.9 a 3.65 (25.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Hannover 96 - Karlsruher SC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hannover 96 - Karlsruher SC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.28 a 1.17 (9.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hannover 96 - Karlsruher SC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.25 a 4.25 (30.8%)"
   }
 ]
