@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.37,
-              2.72
+              1.28,
+              3.15
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.28,
+                "under": 3.15
+              },
+              {
                 "line": 6.5,
-                "over": 1.37,
-                "under": 2.72
+                "over": 1.67,
+                "under": 1.99
               },
               {
                 "line": 7.5,
-                "over": 1.77,
-                "under": 1.87
-              },
-              {
-                "line": 8.5,
-                "over": 2.46,
-                "under": 1.44
+                "over": 2.38,
+                "under": 1.47
               }
             ]
           },
@@ -36,14 +36,14 @@
         "sportybet": {
           "1X2": [
             2.4,
-            3.55,
-            2.3
+            3.9,
+            2.1
           ],
           "CORNERS_OU": {
             "line": null,
             "odds": [
               2.4,
-              1.35
+              1.27
             ]
           },
           "CARDS_OU": null
@@ -54,7 +54,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788521965.3600688
+      "last_checked": 1788522606.683989
     },
     "Sheffield Wednesday U21|Wigan Athletic U21": {
       "home": "Sheffield Wednesday U21",
@@ -77,7 +77,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788521992.1530256
+      "last_checked": 1788522633.634375
     },
     "Truong Tuoi Dong Nai FC|Viettel": {
       "home": "Truong Tuoi Dong Nai FC",
@@ -100,7 +100,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788522018.8894777
+      "last_checked": 1788522660.8968048
     },
     "SC Salgueiros|AD Machico": {
       "home": "SC Salgueiros",
@@ -123,7 +123,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788522045.6616561
+      "last_checked": 1788522687.8564153
     },
     "Hapoel Marmorek|Hapoel Hadera FC": {
       "home": "Hapoel Marmorek",
@@ -146,7 +146,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788522072.4502344
+      "last_checked": 1788522714.7306006
     }
   }
 }
