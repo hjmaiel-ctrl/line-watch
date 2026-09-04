@@ -1,94 +1,21 @@
 {
-  "generated_at": 1788555591.898338,
+  "generated_at": 1788556437.2628918,
   "matches": [
-    {
-      "match": "Real Betis - Real Madrid",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Paris Saint-Germain - AS Monaco",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "FC Porto - Moreirense FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 10.5,
-                "over": 2.2,
-                "under": 1.57
-              },
-              {
-                "line": 11.5,
-                "over": 4.25,
-                "under": 1.17
-              },
-              {
-                "line": 12.5,
-                "over": 7.5,
-                "under": 1.04
-              },
-              {
-                "line": 13.5,
-                "over": 11.0,
-                "under": null
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            24.0,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -98,20 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "FC Porto - Moreirense FC",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.05 a 1.32 (25.7%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "FC Porto - Moreirense FC",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 7.0 a 3.0 (133.3%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Estudiantes Río Cuarto - Club Atlético Sarmiento",
@@ -119,30 +33,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 11.5,
-                "over": 1.73,
-                "under": 1.95
-              },
-              {
-                "line": 12.5,
-                "over": 2.5,
-                "under": 1.45
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -159,7 +50,51 @@
       "alerts": []
     },
     {
-      "match": "JS Kabylie - MB Rouissat",
+      "match": "Leones FC - Atlético F.C.",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Sportivo Carapeguá - Paraguari AC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Comerciantes FC - Ayacucho FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -181,5 +116,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
