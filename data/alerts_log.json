@@ -1,36 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Marist FC - Malaita Kingz",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 10.0 a 9.0 (11.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Sunderland - Z.Arsenal",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.35 a 6.05 (13.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Man City - Z.Crystal Palace",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.95 a 24.5 (394.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Newcastle Utd - Z.Bournemouth",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 11.0 a 19.0 (72.7%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Man United - Z.Everton",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Z.Man United - Z.Everton",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 11.0 a 17.0 (54.5%)"
@@ -2998,5 +2968,35 @@
     "match": "Z.Crystal Palace - Z.Leeds",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.85 a 6.8 (76.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Fulham - Z.Liverpool",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 11.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Fulham - Z.Liverpool",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.35 a 4.6 (16.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Brighton - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.85 a 4.45 (9.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Ipswich Town - Z.Newcastle Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 9.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Crystal Palace - Z.Leeds",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 10.5"
   }
 ]
