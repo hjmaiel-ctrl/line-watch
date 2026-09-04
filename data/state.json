@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788527366.4563947
+      "last_checked": 1788528322.141363
     },
     "Pattani FC|BG Pathumthani United": {
       "home": "Pattani FC",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788527393.050726
+      "last_checked": 1788528348.920536
     },
     "Bunyodkor|Termez Surkhon": {
       "home": "Bunyodkor",
@@ -67,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788527419.656043
+      "last_checked": 1788528375.5993595
     },
-    "MK Kfar Saba 1928|MS Jerusalem": {
-      "home": "MK Kfar Saba 1928",
-      "away": "MS Jerusalem",
-      "event_id": "10049002",
+    "Bnei Yehud|Beitar Kfar Saba Shlomi FC": {
+      "home": "Bnei Yehud",
+      "away": "Beitar Kfar Saba Shlomi FC",
+      "event_id": "10049009",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788527446.2935414
+      "last_checked": 1788528402.2549136
     },
-    "FC Holon Yermiyahu|Hapoel Nir Ramat HaSharon": {
-      "home": "FC Holon Yermiyahu",
-      "away": "Hapoel Nir Ramat HaSharon",
-      "event_id": "10049003",
+    "Hapoel Ihud Bnei Jatt FC|Hapoel Ironi Karmiel": {
+      "home": "Hapoel Ihud Bnei Jatt FC",
+      "away": "Hapoel Ironi Karmiel",
+      "event_id": "10049011",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -103,7 +103,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            44.0,
+            7.5
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788527472.897104
+      "last_checked": 1788528434.1406713
     }
   }
 }

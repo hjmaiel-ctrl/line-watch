@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788527472.9420333,
+  "generated_at": 1788528434.1854582,
   "matches": [
     {
       "match": "Bali United - PSS Sleman",
@@ -68,7 +68,7 @@
       "alerts": []
     },
     {
-      "match": "MK Kfar Saba 1928 - MS Jerusalem",
+      "match": "Bnei Yehud - Beitar Kfar Saba Shlomi FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -90,7 +90,7 @@
       "alerts": []
     },
     {
-      "match": "FC Holon Yermiyahu - Hapoel Nir Ramat HaSharon",
+      "match": "Hapoel Ihud Bnei Jatt FC - Hapoel Ironi Karmiel",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -99,7 +99,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            44.0,
+            7.5
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
