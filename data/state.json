@@ -1,5 +1,64 @@
 {
   "matches": {
+    "Stuttgart|Cologne": {
+      "home": "Stuttgart",
+      "away": "Cologne",
+      "event_id": "10034825",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.42,
+              2.68
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.42,
+                "under": 2.68
+              },
+              {
+                "line": 10.5,
+                "over": 1.7,
+                "under": 2.04
+              },
+              {
+                "line": 11.5,
+                "over": 2.12,
+                "under": 1.64
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.91,
+              1.77
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.91,
+                "under": 1.77
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788547670.6348958
+    },
     "Olympique Lyonnais|AJ Auxerre": {
       "home": "Olympique Lyonnais",
       "away": "AJ Auxerre",
@@ -7,40 +66,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.01,
-              10.0
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.01,
-                "under": 10.0
-              },
-              {
-                "line": 13.5,
-                "over": 1.3,
-                "under": 3.1
-              },
-              {
-                "line": 14.5,
-                "over": 1.83,
-                "under": 1.83
-              },
-              {
-                "line": 15.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 16.5,
-                "over": 4.75,
-                "under": 1.13
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -54,7 +80,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788546678.332973
+      "last_checked": 1788547697.6794627
     },
     "Sparta Rotterdam|PEC Zwolle": {
       "home": "Sparta Rotterdam",
@@ -77,124 +103,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788546705.151526
+      "last_checked": 1788547724.5636806
     },
-    "Istanbul Basaksehir FK|Galatasaray SK": {
-      "home": "Istanbul Basaksehir FK",
-      "away": "Galatasaray SK",
-      "event_id": "10052895",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.04,
-              7.5
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.04,
-                "under": 7.5
-              },
-              {
-                "line": 10.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
-                "line": 11.5,
-                "over": 2.3,
-                "under": 1.52
-              },
-              {
-                "line": 12.5,
-                "over": 4.1,
-                "under": 1.18
-              },
-              {
-                "line": 13.5,
-                "over": 7.5,
-                "under": 1.04
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788546730.1166248
-    },
-    "UD Las Palmas|Leganés": {
-      "home": "UD Las Palmas",
-      "away": "Leganés",
-      "event_id": "10053004",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.25,
-              3.45
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 7.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
-                "line": 8.5,
-                "over": 1.75,
-                "under": 1.92
-              },
-              {
-                "line": 9.5,
-                "over": 2.2,
-                "under": 1.57
-              },
-              {
-                "line": 10.5,
-                "over": 2.85,
-                "under": 1.35
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788546755.2712035
-    },
-    "Pau FC|Sochaux-Montbéliard": {
-      "home": "Pau FC",
-      "away": "Sochaux-Montbéliard",
-      "event_id": "10052945",
+    "Quorn|Shepshed Dynamo": {
+      "home": "Quorn",
+      "away": "Shepshed Dynamo",
+      "event_id": "10053014",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -212,7 +126,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788546782.235804
+      "last_checked": 1788547751.2462053
+    },
+    "Three Bridges|Kingstonian": {
+      "home": "Three Bridges",
+      "away": "Kingstonian",
+      "event_id": "10053017",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788547777.8831038
     }
   }
 }
