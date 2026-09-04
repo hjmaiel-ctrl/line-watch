@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.37,
-            3.9
+            1.02,
+            10.5
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788502766.4583883
+      "last_checked": 1788503885.2861297
     },
     "Kyoto Sangyo University|Kyushu Sangyo University": {
       "home": "Kyoto Sangyo University",
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788502793.0793355
+      "last_checked": 1788503912.1073997
     },
     "Sang Mustang FC|Sikkim Police": {
       "home": "Sang Mustang FC",
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788502819.6164896
+      "last_checked": 1788503938.6884468
     },
     "MLS FC|Kanan FC Aizawl": {
       "home": "MLS FC",
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788502846.213632
+      "last_checked": 1788503965.4766064
     },
     "Z.Hull City|Z.Brighton": {
       "home": "Z.Hull City",
@@ -106,34 +106,34 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.29,
-              3.6
+              1.22,
+              4.25
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.29,
-                "under": 3.6
+                "over": 1.22,
+                "under": 4.25
               },
               {
                 "line": 8.5,
-                "over": 1.62,
-                "under": 2.29
+                "over": 1.57,
+                "under": 2.39
               },
               {
                 "line": 9.5,
-                "over": 2.19,
-                "under": 1.68
+                "over": 2.24,
+                "under": 1.65
               },
               {
                 "line": 10.5,
-                "over": 3.25,
-                "under": 1.34
+                "over": 3.6,
+                "under": 1.29
               },
               {
                 "line": 11.5,
-                "over": 5.25,
-                "under": 1.16
+                "over": 6.55,
+                "under": 1.12
               }
             ]
           },
@@ -150,7 +150,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788502871.0325313
+      "last_checked": 1788503990.3378386
     }
   }
 }
