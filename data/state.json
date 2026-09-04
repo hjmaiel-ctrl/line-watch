@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788534572.7049434
+      "last_checked": 1788535533.4536116
     },
     "Panthère du Ndé|Rayon Sports": {
       "home": "Panthère du Ndé",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788534599.3467827
+      "last_checked": 1788535560.1651735
     },
     "FC Polissya Zhytomyr|FK Kudrivka": {
       "home": "FC Polissya Zhytomyr",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788534626.0015962
+      "last_checked": 1788535586.827076
     },
     "Al-Shamal|Al Shahaniya": {
       "home": "Al-Shamal",
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788534652.589535
+      "last_checked": 1788535613.4815774
     },
-    "Real Native FC|Midlands Wanderers": {
-      "home": "Real Native FC",
-      "away": "Midlands Wanderers",
-      "event_id": "10052740",
+    "Pakhtakor Tashkent|FK Andijan": {
+      "home": "Pakhtakor Tashkent",
+      "away": "FK Andijan",
+      "event_id": "10052798",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -103,11 +103,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.14,
-            5.6
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -117,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788534684.6108162
+      "last_checked": 1788535640.1332178
     }
   }
 }

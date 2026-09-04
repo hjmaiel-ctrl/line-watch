@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788534684.6529377,
+  "generated_at": 1788535640.1757572,
   "matches": [
     {
       "match": "Espérance Sportive de Zarzis - Diambars FC",
@@ -90,7 +90,7 @@
       "alerts": []
     },
     {
-      "match": "Real Native FC - Midlands Wanderers",
+      "match": "Pakhtakor Tashkent - FK Andijan",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -99,11 +99,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.14,
-            5.6
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
