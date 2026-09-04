@@ -1,93 +1,13 @@
 {
-  "generated_at": 1788482405.0946076,
+  "generated_at": 1788483207.904657,
   "matches": [
-    {
-      "match": "Grêmio FBPA - SC Internacional",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            15.5,
-            100.0
-          ],
-          "CORNERS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              1.5
-            ]
-          },
-          "CARDS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              1.65
-            ]
-          }
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Grêmio FBPA - SC Internacional",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 1.12 a 15.5 (1283.9%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Grêmio FBPA - SC Internacional",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 7.75 a 100.0 (1190.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Grêmio FBPA - SC Internacional",
-          "market": "CARDS_OU",
-          "detail": "sportybet: esito #2 passato da 1.9 a 1.65 (15.2%)"
-        }
-      ]
-    },
     {
       "match": "Clube Náutico Capibaribe - Botafogo SP",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.38,
-              2.55
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.38,
-                "under": 2.55
-              },
-              {
-                "line": 9.5,
-                "over": 2.0,
-                "under": 1.63
-              },
-              {
-                "line": 10.5,
-                "over": 3.2,
-                "under": 1.25
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -101,20 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Clube Náutico Capibaribe - Botafogo SP",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 8.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Clube Náutico Capibaribe - Botafogo SP",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.8 a 2.55 (9.8%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Libertad FC - Emelec",
@@ -139,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Internacional de Palmira - Real Cundinamarca",
+      "match": "Tauro FC Reserves - UMECIT Reserves",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -161,7 +68,29 @@
       "alerts": []
     },
     {
-      "match": "Nacional Potosi - Real Tomayapo",
+      "match": "CS Alagoano - Nacional FC AM",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Academia Puerto Cabello - Deportivo La Guaira",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -183,5 +112,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 5
+  "alert_count_this_run": 0
 }
