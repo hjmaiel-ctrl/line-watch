@@ -1,17 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Millwall - Wrexham",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.1 a 1.55 (35.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Millwall - Wrexham",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.62 a 2.25 (38.9%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "West Bromwich Albion - Charlton Athletic",
     "market": "CORNERS_OU",
@@ -2998,5 +2986,17 @@
     "match": "Istanbul Basaksehir FK - Galatasaray SK",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.65 a 6.5 (78.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Istanbul Basaksehir FK - Galatasaray SK",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Istanbul Basaksehir FK - Galatasaray SK",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 6.5 a 7.5 (15.4%)"
   }
 ]
