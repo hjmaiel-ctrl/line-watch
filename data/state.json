@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.35,
-              2.85
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 9.5,
-                "over": 1.8,
-                "under": 1.87
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 10.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 3.0,
+                "under": 1.32
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788561998.618061
+      "last_checked": 1788562589.9896457
     },
     "Belgrano|CA Huracan": {
       "home": "Belgrano",
@@ -56,24 +56,24 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.32,
-              3.0
+              1.47,
+              2.45
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 6.5,
-                "over": 1.73,
-                "under": 1.95
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 7.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 3.1,
+                "under": 1.3
               }
             ]
           },
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788562023.5236626
+      "last_checked": 1788562614.7866263
     },
     "Criciúma EC|Cuiabá EC": {
       "home": "Criciúma EC",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788562050.1374562
+      "last_checked": 1788562641.6727345
     },
     "Bogotá F.C.|Independiente Valle del Cauca": {
       "home": "Bogotá F.C.",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788562076.9169943
+      "last_checked": 1788562668.4830875
     },
     "Academia de Balompie Boliviano|Universitario de Vinto": {
       "home": "Academia de Balompie Boliviano",
@@ -149,7 +149,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            8.75,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -159,7 +163,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788562103.5429094
+      "last_checked": 1788562703.5773485
     }
   }
 }
