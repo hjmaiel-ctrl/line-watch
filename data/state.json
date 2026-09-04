@@ -1,5 +1,28 @@
 {
   "matches": {
+    "MS Tzeirey Kfar Kana|Maccabi Ihud Bnei Avtin": {
+      "home": "MS Tzeirey Kfar Kana",
+      "away": "Maccabi Ihud Bnei Avtin",
+      "event_id": "10048961",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788510486.6059647
+    },
     "Nadi FC|Ba F.C.": {
       "home": "Nadi FC",
       "away": "Ba F.C.",
@@ -21,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788509439.4869888
+      "last_checked": 1788510512.4575949
     },
     "Beitar Tel Aviv Holon|Ironi Beit Dagan": {
       "home": "Beitar Tel Aviv Holon",
@@ -44,30 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788509466.4181378
-    },
-    "Lumshyiap SC|Jongksha SC": {
-      "home": "Lumshyiap SC",
-      "away": "Jongksha SC",
-      "event_id": "10048967",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788509493.8190014
+      "last_checked": 1788510538.3762717
     },
     "Z.Crystal Palace|Z.Newcastle Utd": {
       "home": "Z.Crystal Palace",
@@ -77,36 +77,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 7.5,
             "odds": [
-              1.13,
-              6.4
+              1.05,
+              11.5
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.13,
-                "under": 6.4
-              },
-              {
-                "line": 6.5,
-                "over": 1.33,
-                "under": 3.3
-              },
-              {
                 "line": 7.5,
-                "over": 1.76,
-                "under": 2.06
+                "over": 1.05,
+                "under": 11.5
               },
               {
                 "line": 8.5,
-                "over": 2.54,
-                "under": 1.51
+                "over": 1.23,
+                "under": 4.15
               },
               {
                 "line": 9.5,
-                "over": 4.15,
-                "under": 1.23
+                "over": 1.67,
+                "under": 2.19
+              },
+              {
+                "line": 10.5,
+                "over": 2.61,
+                "under": 1.49
+              },
+              {
+                "line": 11.5,
+                "over": 4.75,
+                "under": 1.19
               }
             ]
           },
@@ -123,7 +123,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788509519.1112707
+      "last_checked": 1788510562.616618
     },
     "Z.Man City|Z.Liverpool": {
       "home": "Z.Man City",
@@ -133,36 +133,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 9.5,
             "odds": [
-              1.16,
-              5.15
+              1.13,
+              6.15
             ],
             "_all_lines": [
               {
+                "line": 9.5,
+                "over": 1.13,
+                "under": 6.15
+              },
+              {
+                "line": 10.5,
+                "over": 1.4,
+                "under": 2.93
+              },
+              {
                 "line": 11.5,
-                "over": 1.16,
-                "under": 5.15
+                "over": 1.98,
+                "under": 1.82
               },
               {
                 "line": 12.5,
-                "over": 1.41,
-                "under": 2.91
+                "over": 3.25,
+                "under": 1.35
               },
               {
                 "line": 13.5,
-                "over": 1.86,
-                "under": 1.93
-              },
-              {
-                "line": 14.5,
-                "over": 2.68,
-                "under": 1.47
-              },
-              {
-                "line": 15.5,
-                "over": 4.3,
-                "under": 1.22
+                "over": 6.0,
+                "under": 1.14
               }
             ]
           },
@@ -179,7 +179,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788509544.1693118
+      "last_checked": 1788510586.8605316
     }
   }
 }

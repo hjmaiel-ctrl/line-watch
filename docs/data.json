@@ -1,6 +1,28 @@
 {
-  "generated_at": 1788509544.212957,
+  "generated_at": 1788510586.9087517,
   "matches": [
+    {
+      "match": "MS Tzeirey Kfar Kana - Maccabi Ihud Bnei Avtin",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Nadi FC - Ba F.C.",
       "bet9ja_stats": null,
@@ -46,64 +68,42 @@
       "alerts": []
     },
     {
-      "match": "Lumshyiap SC - Jongksha SC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
       "match": "Z.Crystal Palace - Z.Newcastle Utd",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 7.5,
             "odds": [
-              1.13,
-              6.4
+              1.05,
+              11.5
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.13,
-                "under": 6.4
-              },
-              {
-                "line": 6.5,
-                "over": 1.33,
-                "under": 3.3
-              },
-              {
                 "line": 7.5,
-                "over": 1.76,
-                "under": 2.06
+                "over": 1.05,
+                "under": 11.5
               },
               {
                 "line": 8.5,
-                "over": 2.54,
-                "under": 1.51
+                "over": 1.23,
+                "under": 4.15
               },
               {
                 "line": 9.5,
-                "over": 4.15,
-                "under": 1.23
+                "over": 1.67,
+                "under": 2.19
+              },
+              {
+                "line": 10.5,
+                "over": 2.61,
+                "under": 1.49
+              },
+              {
+                "line": 11.5,
+                "over": 4.75,
+                "under": 1.19
               }
             ]
           },
@@ -125,19 +125,13 @@
           "type": "linea_cambiata",
           "match": "Z.Crystal Palace - Z.Newcastle Utd",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 5.5"
+          "detail": "bet9ja: linea passata da 5.5 a 7.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Crystal Palace - Z.Newcastle Utd",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.32 a 1.13 (16.8%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Crystal Palace - Z.Newcastle Utd",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.35 a 6.4 (91.0%)"
+          "detail": "bet9ja: esito #2 passato da 6.4 a 11.5 (79.7%)"
         }
       ]
     },
@@ -148,36 +142,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 9.5,
             "odds": [
-              1.16,
-              5.15
+              1.13,
+              6.15
             ],
             "_all_lines": [
               {
+                "line": 9.5,
+                "over": 1.13,
+                "under": 6.15
+              },
+              {
+                "line": 10.5,
+                "over": 1.4,
+                "under": 2.93
+              },
+              {
                 "line": 11.5,
-                "over": 1.16,
-                "under": 5.15
+                "over": 1.98,
+                "under": 1.82
               },
               {
                 "line": 12.5,
-                "over": 1.41,
-                "under": 2.91
+                "over": 3.25,
+                "under": 1.35
               },
               {
                 "line": 13.5,
-                "over": 1.86,
-                "under": 1.93
-              },
-              {
-                "line": 14.5,
-                "over": 2.68,
-                "under": 1.47
-              },
-              {
-                "line": 15.5,
-                "over": 4.3,
-                "under": 1.22
+                "over": 6.0,
+                "under": 1.14
               }
             ]
           },
@@ -199,22 +193,16 @@
           "type": "linea_cambiata",
           "match": "Z.Man City - Z.Liverpool",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 11.5"
+          "detail": "bet9ja: linea passata da 11.5 a 9.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Z.Man City - Z.Liverpool",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.31 a 1.16 (12.9%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Man City - Z.Liverpool",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.45 a 5.15 (49.3%)"
+          "detail": "bet9ja: esito #2 passato da 5.15 a 6.15 (19.4%)"
         }
       ]
     }
   ],
-  "alert_count_this_run": 6
+  "alert_count_this_run": 4
 }
