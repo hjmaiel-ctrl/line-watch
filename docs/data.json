@@ -1,28 +1,6 @@
 {
-  "generated_at": 1788483207.904657,
+  "generated_at": 1788484206.3324633,
   "matches": [
-    {
-      "match": "Clube Náutico Capibaribe - Botafogo SP",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Libertad FC - Emelec",
       "bet9ja_stats": null,
@@ -33,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.36,
+            4.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -46,12 +28,35 @@
       "alerts": []
     },
     {
-      "match": "Tauro FC Reserves - UMECIT Reserves",
+      "match": "Deportivo Pereira - Independiente Medellín",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.57,
+              2.2
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
+                "line": 9.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 10.5,
+                "over": 2.65,
+                "under": 1.4
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -90,7 +95,29 @@
       "alerts": []
     },
     {
-      "match": "Academia Puerto Cabello - Deportivo La Guaira",
+      "match": "Deportivo Santo Domingo - Cumbaya FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Cavalier - Portmore United FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Clube Náutico Capibaribe|Botafogo SP": {
-      "home": "Clube Náutico Capibaribe",
-      "away": "Botafogo SP",
-      "event_id": "10048924",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788483101.2129004
-    },
     "Libertad FC|Emelec": {
       "home": "Libertad FC",
       "away": "Emelec",
@@ -34,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.36,
+            4.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,16 +25,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788483127.8116393
+      "last_checked": 1788484091.8695772
     },
-    "Tauro FC Reserves|UMECIT Reserves": {
-      "home": "Tauro FC Reserves",
-      "away": "UMECIT Reserves",
-      "event_id": "10048923",
+    "Deportivo Pereira|Independiente Medellín": {
+      "home": "Deportivo Pereira",
+      "away": "Independiente Medellín",
+      "event_id": "10048951",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.57,
+              2.2
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
+                "line": 9.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 10.5,
+                "over": 2.65,
+                "under": 1.4
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -67,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788483154.431738
+      "last_checked": 1788484117.0488937
     },
     "CS Alagoano|Nacional FC AM": {
       "home": "CS Alagoano",
@@ -90,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788483181.1676824
+      "last_checked": 1788484144.9608245
     },
-    "Academia Puerto Cabello|Deportivo La Guaira": {
-      "home": "Academia Puerto Cabello",
-      "away": "Deportivo La Guaira",
-      "event_id": "10048929",
+    "Deportivo Santo Domingo|Cumbaya FC": {
+      "home": "Deportivo Santo Domingo",
+      "away": "Cumbaya FC",
+      "event_id": "10048933",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +117,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788483207.848359
+      "last_checked": 1788484177.7488697
+    },
+    "Cavalier|Portmore United FC": {
+      "home": "Cavalier",
+      "away": "Portmore United FC",
+      "event_id": "10048935",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788484206.2803006
     }
   }
 }
