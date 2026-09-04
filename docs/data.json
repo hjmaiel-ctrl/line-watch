@@ -1,28 +1,6 @@
 {
-  "generated_at": 1788518839.1204615,
+  "generated_at": 1788519496.1292331,
   "matches": [
-    {
-      "match": "Admira - Rapid Wien II",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
       "bet9ja_stats": null,
@@ -32,24 +10,24 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.55,
-              2.2
+              1.5,
+              2.3
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.55,
-                "under": 2.2
+                "over": 1.5,
+                "under": 2.3
               },
               {
                 "line": 8.5,
-                "over": 1.91,
-                "under": 1.73
+                "over": 1.87,
+                "under": 1.77
               },
               {
                 "line": 9.5,
-                "over": 2.46,
-                "under": 1.44
+                "over": 2.44,
+                "under": 1.45
               }
             ]
           },
@@ -69,51 +47,73 @@
       "alerts": []
     },
     {
-      "match": "Lecce U20 - AS Roma U20",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Imigresen FC II - Bunga Raya FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
       "match": "Parramatta Eagles - Prospect Utd",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Maccabi Ironi Amishav Petah Tikva - MS Hapoel Lod",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Measurers Club - Calcutta Police Club",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "SC Salgueiros - AD Machico",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
