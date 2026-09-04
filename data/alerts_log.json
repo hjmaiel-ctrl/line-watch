@@ -3,66 +3,6 @@
     "type": "quota_cambiata",
     "match": "Z.Man United - Z.Everton",
     "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.25 a 1.14 (9.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Man United - Z.Everton",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.0 a 5.7 (42.5%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Sunderland - Z.Arsenal",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 6.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Sunderland - Z.Arsenal",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.2 a 1.11 (8.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Sunderland - Z.Arsenal",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.5 a 6.9 (53.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Man City - Z.Crystal Palace",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.2 a 1.11 (8.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Man City - Z.Crystal Palace",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.6 a 7.05 (53.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Newcastle Utd - Z.Bournemouth",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Newcastle Utd - Z.Bournemouth",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.65 a 5.0 (13.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Man United - Z.Everton",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Man United - Z.Everton",
-    "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 5.7 a 5.05 (12.9%)"
   },
   {
@@ -2998,5 +2938,65 @@
     "match": "Z.Fulham - Z.Tottenham",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 8.5 a 1.56 (444.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Labasa FC - Nasinu FC",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 6.6 a 7.3 (10.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Fulham - Z.Liverpool",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Fulham - Z.Liverpool",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.21 a 1.32 (9.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Fulham - Z.Liverpool",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.45 a 3.4 (30.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Brighton - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Brighton - Z.Man United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.25 a 5.6 (31.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Ipswich Town - Z.Newcastle Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 11.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Ipswich Town - Z.Newcastle Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.8 a 3.95 (21.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Crystal Palace - Z.Leeds",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Crystal Palace - Z.Leeds",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.7 a 3.85 (22.1%)"
   }
 ]
