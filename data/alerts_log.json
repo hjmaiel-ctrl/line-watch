@@ -1,35 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Z.Everton - Z.Man City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 9.0 a 6.15 (46.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Bournemouth - Z.Sunderland",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Bournemouth - Z.Sunderland",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 7.05 a 19.5 (176.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Newcastle Utd - Z.Man United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Newcastle Utd - Z.Man United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 6.4 a 4.7 (36.2%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Z.Everton - Z.Man City",
     "market": "CORNERS_OU",
@@ -2998,5 +2968,35 @@
     "match": "Z.Hull City - Z.Brighton",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.6 a 4.25 (18.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Rewa FC - Lautoka FC",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 1.02 a 13.0 (1174.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Rewa FC - Lautoka FC",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 10.5 a 34.0 (223.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Hull City - Z.Brighton",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Hull City - Z.Brighton",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.22 a 1.09 (11.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Hull City - Z.Brighton",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.25 a 8.0 (88.2%)"
   }
 ]
