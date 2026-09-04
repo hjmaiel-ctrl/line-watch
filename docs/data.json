@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788511495.867929,
+  "generated_at": 1788512362.1558144,
   "matches": [
     {
       "match": "Arema - Isenmulang Kalteng F.C.",
@@ -90,45 +90,12 @@
       "alerts": []
     },
     {
-      "match": "Z.Crystal Palace - Z.Newcastle Utd",
+      "match": "Imigresen FC II - Bunga Raya FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.07,
-              9.3
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.07,
-                "under": 9.3
-              },
-              {
-                "line": 10.5,
-                "over": 1.46,
-                "under": 2.72
-              },
-              {
-                "line": 11.5,
-                "over": 2.56,
-                "under": 1.51
-              },
-              {
-                "line": 12.5,
-                "over": 5.8,
-                "under": 1.15
-              },
-              {
-                "line": 13.5,
-                "over": 16.5,
-                "under": 1.02
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -142,21 +109,8 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Z.Crystal Palace - Z.Newcastle Utd",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 9.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Z.Crystal Palace - Z.Newcastle Utd",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 11.5 a 9.3 (23.7%)"
-        }
-      ]
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }

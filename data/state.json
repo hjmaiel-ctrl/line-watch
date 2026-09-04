@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788511390.8631532
+      "last_checked": 1788512256.5129206
     },
     "MS Tzeirey Kfar Kana|Maccabi Ihud Bnei Avtin": {
       "home": "MS Tzeirey Kfar Kana",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788511417.4049842
+      "last_checked": 1788512282.904574
     },
     "Nadi FC|Ba F.C.": {
       "home": "Nadi FC",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788511444.0642068
+      "last_checked": 1788512309.2032704
     },
     "Beitar Tel Aviv Holon|Ironi Beit Dagan": {
       "home": "Beitar Tel Aviv Holon",
@@ -90,49 +90,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788511470.9232538
+      "last_checked": 1788512335.6379025
     },
-    "Z.Crystal Palace|Z.Newcastle Utd": {
-      "home": "Z.Crystal Palace",
-      "away": "Z.Newcastle Utd",
-      "event_id": "10051531",
+    "Imigresen FC II|Bunga Raya FC": {
+      "home": "Imigresen FC II",
+      "away": "Bunga Raya FC",
+      "event_id": "10048965",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.07,
-              9.3
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.07,
-                "under": 9.3
-              },
-              {
-                "line": 10.5,
-                "over": 1.46,
-                "under": 2.72
-              },
-              {
-                "line": 11.5,
-                "over": 2.56,
-                "under": 1.51
-              },
-              {
-                "line": 12.5,
-                "over": 5.8,
-                "under": 1.15
-              },
-              {
-                "line": 13.5,
-                "over": 16.5,
-                "under": 1.02
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -146,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788511495.8133616
+      "last_checked": 1788512362.1198914
     }
   }
 }
