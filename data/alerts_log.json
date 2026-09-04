@@ -1,18 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "West Bromwich Albion - Charlton Athletic",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 11.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "West Bromwich Albion - Charlton Athletic",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.1 a 3.45 (18.8%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Burnley - Middlesbrough",
     "market": "CARDS_OU",
     "detail": "bet9ja: linea passata da 4.5 a 3.5"
@@ -2998,5 +2986,17 @@
     "match": "Paris Saint-Germain - AS Monaco",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.75 a 9.0 (89.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "FC Porto - Moreirense FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.15 a 1.05 (9.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "FC Porto - Moreirense FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.5 a 7.0 (55.6%)"
   }
 ]

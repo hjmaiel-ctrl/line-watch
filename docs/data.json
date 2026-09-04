@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788554451.88119,
+  "generated_at": 1788555029.1849408,
   "matches": [
     {
       "match": "Ipswich Town - Liverpool",
@@ -7,282 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.18,
-              4.0
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.18,
-                "under": 4.0
-              },
-              {
-                "line": 8.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 9.5,
-                "over": 4.1,
-                "under": 1.18
-              },
-              {
-                "line": 10.5,
-                "over": 8.0,
-                "under": 1.03
-              },
-              {
-                "line": 11.5,
-                "over": 23.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.75,
-              1.92
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.75,
-                "under": 1.92
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Ipswich Town - Liverpool",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 4.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Ipswich Town - Liverpool",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.95 a 1.75 (11.4%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Ipswich Town - Liverpool",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.73 a 1.92 (11.0%)"
-        }
-      ]
-    },
-    {
-      "match": "Real Betis - Real Madrid",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 13.5,
-            "odds": [
-              1.2,
-              3.9
-            ],
-            "_all_lines": [
-              {
-                "line": 13.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
-                "line": 14.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
-                "line": 15.5,
-                "over": 2.25,
-                "under": 1.55
-              },
-              {
-                "line": 16.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 17.5,
-                "over": 5.25,
-                "under": 1.11
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.55,
-              2.25
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.55,
-                "under": 2.25
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Real Betis - Real Madrid",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.32 a 1.2 (10.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Real Betis - Real Madrid",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.0 a 3.9 (30.0%)"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Real Betis - Real Madrid",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 5.5"
-        }
-      ]
-    },
-    {
-      "match": "Paris Saint-Germain - AS Monaco",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.02,
-              9.0
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.02,
-                "under": 9.0
-              },
-              {
-                "line": 4.5,
-                "over": 1.3,
-                "under": 3.1
-              },
-              {
-                "line": 5.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
-                "line": 6.5,
-                "over": 3.1,
-                "under": 1.3
-              },
-              {
-                "line": 7.5,
-                "over": 5.25,
-                "under": 1.11
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Paris Saint-Germain - AS Monaco",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.13 a 1.02 (10.8%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Paris Saint-Germain - AS Monaco",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.75 a 9.0 (89.5%)"
-        }
-      ]
-    },
-    {
-      "match": "FC Porto - Moreirense FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.15,
-              4.5
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.15,
-                "under": 4.5
-              },
-              {
-                "line": 10.5,
-                "over": 1.5,
-                "under": 2.35
-              },
-              {
-                "line": 11.5,
-                "over": 2.2,
-                "under": 1.57
-              },
-              {
-                "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 13.5,
-                "over": 5.75,
-                "under": 1.09
-              }
-            ]
-          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -299,7 +24,119 @@
       "alerts": []
     },
     {
-      "match": "Ossett Utd - Pontefract Collieries",
+      "match": "Real Betis - Real Madrid",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "FC Porto - Moreirense FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.05,
+              7.0
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.05,
+                "under": 7.0
+              },
+              {
+                "line": 10.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 11.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 12.5,
+                "over": 3.45,
+                "under": 1.25
+              },
+              {
+                "line": 13.5,
+                "over": 5.5,
+                "under": 1.1
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "FC Porto - Moreirense FC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.15 a 1.05 (9.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "FC Porto - Moreirense FC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.5 a 7.0 (55.6%)"
+        }
+      ]
+    },
+    {
+      "match": "Aveley - Cheshunt",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Shamrock Rovers - Shelbourne FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -321,5 +158,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 8
+  "alert_count_this_run": 2
 }

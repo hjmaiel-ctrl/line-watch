@@ -7,54 +7,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.18,
-              4.0
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.18,
-                "under": 4.0
-              },
-              {
-                "line": 8.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 9.5,
-                "over": 4.1,
-                "under": 1.18
-              },
-              {
-                "line": 10.5,
-                "over": 8.0,
-                "under": 1.03
-              },
-              {
-                "line": 11.5,
-                "over": 23.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.75,
-              1.92
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.75,
-                "under": 1.92
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -67,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788554351.6786282
+      "last_checked": 1788554922.8953798
     },
     "Real Betis|Real Madrid": {
       "home": "Real Betis",
@@ -76,109 +30,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 13.5,
-            "odds": [
-              1.2,
-              3.9
-            ],
-            "_all_lines": [
-              {
-                "line": 13.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
-                "line": 14.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
-                "line": 15.5,
-                "over": 2.25,
-                "under": 1.55
-              },
-              {
-                "line": 16.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 17.5,
-                "over": 5.25,
-                "under": 1.11
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.55,
-              2.25
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.55,
-                "under": 2.25
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788554375.0655055
-    },
-    "Paris Saint-Germain|AS Monaco": {
-      "home": "Paris Saint-Germain",
-      "away": "AS Monaco",
-      "event_id": "10036777",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.02,
-              9.0
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.02,
-                "under": 9.0
-              },
-              {
-                "line": 4.5,
-                "over": 1.3,
-                "under": 3.1
-              },
-              {
-                "line": 5.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
-                "line": 6.5,
-                "over": 3.1,
-                "under": 1.3
-              },
-              {
-                "line": 7.5,
-                "over": 5.25,
-                "under": 1.11
-              }
-            ]
-          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -192,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788554400.041883
+      "last_checked": 1788554950.030176
     },
     "FC Porto|Moreirense FC": {
       "home": "FC Porto",
@@ -204,24 +56,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.15,
-              4.5
+              1.05,
+              7.0
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.15,
-                "under": 4.5
+                "over": 1.05,
+                "under": 7.0
               },
               {
                 "line": 10.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 11.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 2.05,
+                "under": 1.65
               },
               {
                 "line": 12.5,
@@ -230,8 +82,8 @@
               },
               {
                 "line": 13.5,
-                "over": 5.75,
-                "under": 1.09
+                "over": 5.5,
+                "under": 1.1
               }
             ]
           },
@@ -248,12 +100,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788554425.1042085
+      "last_checked": 1788554975.1060088
     },
-    "Ossett Utd|Pontefract Collieries": {
-      "home": "Ossett Utd",
-      "away": "Pontefract Collieries",
-      "event_id": "10053012",
+    "Aveley|Cheshunt": {
+      "home": "Aveley",
+      "away": "Cheshunt",
+      "event_id": "10053015",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -271,7 +123,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788554451.8413165
+      "last_checked": 1788555002.1446834
+    },
+    "Shamrock Rovers|Shelbourne FC": {
+      "home": "Shamrock Rovers",
+      "away": "Shelbourne FC",
+      "event_id": "10053041",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788555029.11608
     }
   }
 }
