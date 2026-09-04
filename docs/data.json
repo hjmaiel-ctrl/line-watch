@@ -1,8 +1,8 @@
 {
-  "generated_at": 1788555029.1849408,
+  "generated_at": 1788555591.898338,
   "matches": [
     {
-      "match": "Ipswich Town - Liverpool",
+      "match": "Real Betis - Real Madrid",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Real Betis - Real Madrid",
+      "match": "Paris Saint-Germain - AS Monaco",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -54,34 +54,34 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.05,
-              7.0
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.05,
-                "under": 7.0
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 10.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 11.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 4.25,
+                "under": 1.17
               },
               {
                 "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 7.5,
+                "under": 1.04
               },
               {
                 "line": 13.5,
-                "over": 5.5,
-                "under": 1.1
+                "over": 11.0,
+                "under": null
               }
             ]
           },
@@ -103,23 +103,46 @@
           "type": "quota_cambiata",
           "match": "FC Porto - Moreirense FC",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.15 a 1.05 (9.5%)"
+          "detail": "bet9ja: esito #1 passato da 1.05 a 1.32 (25.7%)"
         },
         {
           "type": "quota_cambiata",
           "match": "FC Porto - Moreirense FC",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.5 a 7.0 (55.6%)"
+          "detail": "bet9ja: esito #2 passato da 7.0 a 3.0 (133.3%)"
         }
       ]
     },
     {
-      "match": "Aveley - Cheshunt",
+      "match": "Estudiantes Río Cuarto - Club Atlético Sarmiento",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 11.5,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 12.5,
+                "over": 2.5,
+                "under": 1.45
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -136,7 +159,7 @@
       "alerts": []
     },
     {
-      "match": "Shamrock Rovers - Shelbourne FC",
+      "match": "JS Kabylie - MB Rouissat",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
