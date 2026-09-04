@@ -1,6 +1,116 @@
 {
-  "generated_at": 1788541198.2459419,
+  "generated_at": 1788542065.732503,
   "matches": [
+    {
+      "match": "Olympique Lyonnais - AJ Auxerre",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 12.5,
+                "over": 1.6,
+                "under": 2.15
+              },
+              {
+                "line": 13.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 14.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 15.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Istanbul Basaksehir FK - Galatasaray SK",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 11.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 12.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 13.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 14.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Arminia Bielefeld - FC St. Pauli",
       "bet9ja_stats": null,
@@ -10,34 +120,34 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.22,
-              3.5
+              1.32,
+              2.9
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.22,
-                "under": 3.5
+                "over": 1.32,
+                "under": 2.9
               },
               {
                 "line": 9.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 10.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 11.5,
-                "over": 2.4,
-                "under": 1.47
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 12.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 4.5,
+                "under": 1.15
               }
             ]
           },
@@ -59,13 +169,13 @@
           "type": "quota_cambiata",
           "match": "Arminia Bielefeld - FC St. Pauli",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.32 a 1.22 (8.2%)"
+          "detail": "bet9ja: esito #1 passato da 1.22 a 1.32 (8.2%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Arminia Bielefeld - FC St. Pauli",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.0 a 3.5 (16.7%)"
+          "detail": "bet9ja: esito #2 passato da 3.5 a 2.9 (20.7%)"
         }
       ]
     },
@@ -75,7 +185,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 10.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
+                "line": 11.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 12.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 13.5,
+                "over": 4.1,
+                "under": 1.18
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -92,51 +235,7 @@
       "alerts": []
     },
     {
-      "match": "Abha - Al-Ettifaq",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Panthère du Ndé - Rayon Sports",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "FC Polissya Zhytomyr - FK Kudrivka",
+      "match": "Hilal Alsahil SC (Sdn) - Welwalo Adigrat",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

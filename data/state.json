@@ -1,43 +1,43 @@
 {
   "matches": {
-    "Arminia Bielefeld|FC St. Pauli": {
-      "home": "Arminia Bielefeld",
-      "away": "FC St. Pauli",
-      "event_id": "10052851",
+    "Olympique Lyonnais|AJ Auxerre": {
+      "home": "Olympique Lyonnais",
+      "away": "AJ Auxerre",
+      "event_id": "10036137",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 11.5,
             "odds": [
-              1.22,
-              3.5
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.22,
-                "under": 3.5
-              },
-              {
-                "line": 9.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 10.5,
-                "over": 1.83,
-                "under": 1.83
-              },
-              {
                 "line": 11.5,
-                "over": 2.4,
-                "under": 1.47
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 12.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 1.6,
+                "under": 2.15
+              },
+              {
+                "line": 13.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 14.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 15.5,
+                "over": 3.45,
+                "under": 1.25
               }
             ]
           },
@@ -54,7 +54,119 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788541090.73278
+      "last_checked": 1788541964.2771602
+    },
+    "Istanbul Basaksehir FK|Galatasaray SK": {
+      "home": "Istanbul Basaksehir FK",
+      "away": "Galatasaray SK",
+      "event_id": "10052895",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 11.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 12.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 13.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 14.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788541989.148686
+    },
+    "Arminia Bielefeld|FC St. Pauli": {
+      "home": "Arminia Bielefeld",
+      "away": "FC St. Pauli",
+      "event_id": "10052851",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.32,
+              2.9
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.32,
+                "under": 2.9
+              },
+              {
+                "line": 9.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 10.5,
+                "over": 2.25,
+                "under": 1.55
+              },
+              {
+                "line": 11.5,
+                "over": 3.25,
+                "under": 1.28
+              },
+              {
+                "line": 12.5,
+                "over": 4.5,
+                "under": 1.15
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788542014.0678132
     },
     "Hannover 96|Karlsruher SC": {
       "home": "Hannover 96",
@@ -63,7 +175,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 10.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
+                "line": 11.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 12.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 13.5,
+                "over": 4.1,
+                "under": 1.18
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -77,12 +222,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788541117.5381212
+      "last_checked": 1788542039.056756
     },
-    "Abha|Al-Ettifaq": {
-      "home": "Abha",
-      "away": "Al-Ettifaq",
-      "event_id": "10052837",
+    "Hilal Alsahil SC (Sdn)|Welwalo Adigrat": {
+      "home": "Hilal Alsahil SC (Sdn)",
+      "away": "Welwalo Adigrat",
+      "event_id": "10052892",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -100,53 +245,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788541144.4014618
-    },
-    "Panthère du Ndé|Rayon Sports": {
-      "home": "Panthère du Ndé",
-      "away": "Rayon Sports",
-      "event_id": "10052767",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788541171.418355
-    },
-    "FC Polissya Zhytomyr|FK Kudrivka": {
-      "home": "FC Polissya Zhytomyr",
-      "away": "FK Kudrivka",
-      "event_id": "10052791",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788541198.2009935
+      "last_checked": 1788542065.6971405
     }
   }
 }
