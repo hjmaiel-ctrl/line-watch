@@ -1,24 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Z.Everton - Z.Arsenal",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.04 a 4.05 (289.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Everton - Z.Arsenal",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 11.5 a 1.24 (827.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Tottenham - Z.Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Z.Tottenham - Z.Coventry City",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.34 a 1.24 (8.1%)"
@@ -2998,5 +2980,23 @@
     "match": "Libertad FC - Emelec",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 1.63 a 1.33 (22.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Deportivo Pereira - Independiente Medellín",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Deportivo Pereira - Independiente Medellín",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.6 a 1.38 (15.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Deportivo Pereira - Independiente Medellín",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.15 a 2.7 (25.6%)"
   }
 ]
