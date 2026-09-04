@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788558194.9626117,
+  "generated_at": 1788559043.6224215,
   "matches": [
     {
       "match": "JS Kabylie - MB Rouissat",
@@ -74,21 +74,16 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.69,
-              1.94
+              1.76,
+              1.81
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.69,
-                "under": 1.94
-              },
-              {
                 "line": 7.5,
-                "over": 2.56,
-                "under": 1.39
+                "over": 1.76,
+                "under": 1.81
               }
             ]
           },
@@ -107,16 +102,10 @@
       },
       "alerts": [
         {
-          "type": "quota_cambiata",
+          "type": "linea_cambiata",
           "match": "Alianza Atletico - UTC de Cajamarca",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.32 a 1.69 (28.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Alianza Atletico - UTC de Cajamarca",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.94 a 1.94 (51.5%)"
+          "detail": "bet9ja: linea passata da 6.5 a 7.5"
         }
       ]
     },
@@ -143,5 +132,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 1
 }

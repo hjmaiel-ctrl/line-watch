@@ -1,11 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Flamengo - Mirassol FC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.3 a 2.7 (17.4%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Flamengo - Mirassol FC",
     "market": "CORNERS_OU",
@@ -2998,5 +2992,11 @@
     "match": "Alianza Atletico - UTC de Cajamarca",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.94 a 1.94 (51.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Alianza Atletico - UTC de Cajamarca",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 7.5"
   }
 ]

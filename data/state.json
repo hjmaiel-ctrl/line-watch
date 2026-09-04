@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788558086.5625937
+      "last_checked": 1788558933.1145148
     },
     "Leones FC|Atlético F.C.": {
       "home": "Leones FC",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788558114.0447018
+      "last_checked": 1788558959.7695608
     },
     "Comerciantes FC|Ayacucho FC": {
       "home": "Comerciantes FC",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788558141.625345
+      "last_checked": 1788558987.6716053
     },
     "Alianza Atletico|UTC de Cajamarca": {
       "home": "Alianza Atletico",
@@ -77,21 +77,16 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.69,
-              1.94
+              1.76,
+              1.81
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.69,
-                "under": 1.94
-              },
-              {
                 "line": 7.5,
-                "over": 2.56,
-                "under": 1.39
+                "over": 1.76,
+                "under": 1.81
               }
             ]
           },
@@ -108,7 +103,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788558167.502603
+      "last_checked": 1788559012.448118
     },
     "Atletico Rojiblanco|9 de Octubre FC": {
       "home": "Atletico Rojiblanco",
@@ -131,7 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788558194.8918388
+      "last_checked": 1788559043.5734978
     }
   }
 }
