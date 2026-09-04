@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788485586.1871848,
+  "generated_at": 1788486349.8034427,
   "matches": [
     {
       "match": "Libertad FC - Emelec",
@@ -13,9 +13,67 @@
         "sportybet": {
           "1X2": [
             2.4,
-            4.0,
-            1.63
+            5.75,
+            1.33
           ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Libertad FC - Emelec",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 4.0 a 5.75 (43.8%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Libertad FC - Emelec",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 1.63 a 1.33 (22.6%)"
+        }
+      ]
+    },
+    {
+      "match": "Deportivo Pereira - Independiente Medellín",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.6,
+              2.15
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.6,
+                "under": 2.15
+              },
+              {
+                "line": 8.5,
+                "over": 2.2,
+                "under": 1.57
+              },
+              {
+                "line": 9.5,
+                "over": 3.25,
+                "under": 1.28
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -92,29 +150,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Guaynabo Gol SC - San Juan FC Puerto Rico",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
