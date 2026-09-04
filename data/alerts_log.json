@@ -1,17 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Z.Nottingham Forest - Z.Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.55 a 5.2 (46.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Liverpool - Z.Arsenal",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.1 a 4.95 (20.7%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Z.Nottingham Forest - Z.Aston Villa",
     "market": "CORNERS_OU",
@@ -2998,5 +2986,17 @@
     "match": "Sang Mustang FC - Sikkim Police",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 13.0 a 1.92 (577.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Z.Crystal Palace - Z.Newcastle Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Z.Crystal Palace - Z.Newcastle Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.7 a 3.35 (10.4%)"
   }
 ]

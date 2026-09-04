@@ -1,67 +1,6 @@
 {
-  "generated_at": 1788507703.1286387,
+  "generated_at": 1788508427.1242867,
   "matches": [
-    {
-      "match": "Sang Mustang FC - Sikkim Police",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            13.0,
-            1.92
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Sang Mustang FC - Sikkim Police",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 26.0 a 13.0 (100.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Sang Mustang FC - Sikkim Police",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 13.0 a 1.92 (577.1%)"
-        }
-      ]
-    },
-    {
-      "match": "MLS FC - Kanan FC Aizawl",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "MS Tzeirey Kfar Kana - Maccabi Ihud Bnei Avtin",
       "bet9ja_stats": null,
@@ -113,36 +52,159 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.28,
-              3.7
+              1.32,
+              3.35
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.28,
-                "under": 3.7
-              },
-              {
                 "line": 8.5,
-                "over": 1.55,
-                "under": 2.45
+                "over": 1.32,
+                "under": 3.35
               },
               {
                 "line": 9.5,
-                "over": 1.98,
-                "under": 1.82
+                "over": 1.65,
+                "under": 2.23
               },
               {
                 "line": 10.5,
-                "over": 2.73,
-                "under": 1.46
+                "over": 2.2,
+                "under": 1.67
               },
               {
                 "line": 11.5,
-                "over": 4.05,
-                "under": 1.24
+                "over": 3.2,
+                "under": 1.35
+              },
+              {
+                "line": 12.5,
+                "over": 5.0,
+                "under": 1.17
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Z.Crystal Palace - Z.Newcastle Utd",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 7.5 a 8.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Z.Crystal Palace - Z.Newcastle Utd",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.7 a 3.35 (10.4%)"
+        }
+      ]
+    },
+    {
+      "match": "Z.Man City - Z.Liverpool",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.31,
+              3.45
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.31,
+                "under": 3.45
+              },
+              {
+                "line": 10.5,
+                "over": 1.6,
+                "under": 2.33
+              },
+              {
+                "line": 11.5,
+                "over": 2.08,
+                "under": 1.74
+              },
+              {
+                "line": 12.5,
+                "over": 2.93,
+                "under": 1.41
+              },
+              {
+                "line": 13.5,
+                "over": 4.45,
+                "under": 1.21
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Z.Sunderland - Z.Ipswich Town",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.25,
+              3.9
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.25,
+                "under": 3.9
+              },
+              {
+                "line": 7.5,
+                "over": 1.55,
+                "under": 2.44
+              },
+              {
+                "line": 8.5,
+                "over": 2.06,
+                "under": 1.76
+              },
+              {
+                "line": 9.5,
+                "over": 3.0,
+                "under": 1.39
+              },
+              {
+                "line": 10.5,
+                "over": 4.75,
+                "under": 1.19
               }
             ]
           },
