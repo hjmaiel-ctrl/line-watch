@@ -1,47 +1,24 @@
 {
-  "generated_at": 1788547777.9221177,
+  "generated_at": 1788548343.7332017,
   "matches": [
     {
-      "match": "Stuttgart - Cologne",
+      "match": "Genoa - Como",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.42,
-              2.68
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.42,
-                "under": 2.68
-              },
-              {
-                "line": 10.5,
-                "over": 1.7,
-                "under": 2.04
-              },
-              {
-                "line": 11.5,
-                "over": 2.12,
-                "under": 1.64
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.91,
-              1.77
+              1.78,
+              1.9
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.91,
-                "under": 1.77
+                "over": 1.78,
+                "under": 1.9
               }
             ]
           }
@@ -60,7 +37,49 @@
       "alerts": []
     },
     {
-      "match": "Olympique Lyonnais - AJ Auxerre",
+      "match": "Stuttgart - Cologne",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              2.08,
+              1.64
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 2.08,
+                "under": 1.64
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Stuttgart - Cologne",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.91 a 2.08 (8.9%)"
+        }
+      ]
+    },
+    {
+      "match": "Sparta Rotterdam - PEC Zwolle",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -82,7 +101,7 @@
       "alerts": []
     },
     {
-      "match": "Sparta Rotterdam - PEC Zwolle",
+      "match": "Ossett Utd - Pontefract Collieries",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -124,29 +143,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Three Bridges - Kingstonian",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }

@@ -1,47 +1,24 @@
 {
   "matches": {
-    "Stuttgart|Cologne": {
-      "home": "Stuttgart",
-      "away": "Cologne",
-      "event_id": "10034825",
+    "Genoa|Como": {
+      "home": "Genoa",
+      "away": "Como",
+      "event_id": "10036556",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.42,
-              2.68
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.42,
-                "under": 2.68
-              },
-              {
-                "line": 10.5,
-                "over": 1.7,
-                "under": 2.04
-              },
-              {
-                "line": 11.5,
-                "over": 2.12,
-                "under": 1.64
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.91,
-              1.77
+              1.78,
+              1.9
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.91,
-                "under": 1.77
+                "over": 1.78,
+                "under": 1.9
               }
             ]
           }
@@ -57,17 +34,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788547670.6348958
+      "last_checked": 1788548238.360401
     },
-    "Olympique Lyonnais|AJ Auxerre": {
-      "home": "Olympique Lyonnais",
-      "away": "AJ Auxerre",
-      "event_id": "10036137",
+    "Stuttgart|Cologne": {
+      "home": "Stuttgart",
+      "away": "Cologne",
+      "event_id": "10034825",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              2.08,
+              1.64
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 2.08,
+                "under": 1.64
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -80,7 +70,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788547697.6794627
+      "last_checked": 1788548263.369553
     },
     "Sparta Rotterdam|PEC Zwolle": {
       "home": "Sparta Rotterdam",
@@ -103,7 +93,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788547724.5636806
+      "last_checked": 1788548289.996297
+    },
+    "Ossett Utd|Pontefract Collieries": {
+      "home": "Ossett Utd",
+      "away": "Pontefract Collieries",
+      "event_id": "10053012",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788548316.9026167
     },
     "Quorn|Shepshed Dynamo": {
       "home": "Quorn",
@@ -126,30 +139,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788547751.2462053
-    },
-    "Three Bridges|Kingstonian": {
-      "home": "Three Bridges",
-      "away": "Kingstonian",
-      "event_id": "10053017",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788547777.8831038
+      "last_checked": 1788548343.6829765
     }
   }
 }
