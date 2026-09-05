@@ -1,51 +1,5 @@
 {
   "matches": {
-    "KOSSA FC|Marist FC": {
-      "home": "KOSSA FC",
-      "away": "Marist FC",
-      "event_id": "10054594",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788582563.3569252
-    },
-    "UWA Nedlands Reserves|Jooondalop City Reserve": {
-      "home": "UWA Nedlands Reserves",
-      "away": "Jooondalop City Reserve",
-      "event_id": "10054596",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788582593.7970588
-    },
     "FC Juárez|Pachuca": {
       "home": "FC Juárez",
       "away": "Pachuca",
@@ -53,15 +7,34 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.11,
+              4.75
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.11,
+                "under": 4.75
+              },
+              {
+                "line": 4.5,
+                "over": 1.72,
+                "under": 1.88
+              },
+              {
+                "line": 5.5,
+                "over": 3.2,
+                "under": 1.25
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            22.0,
-            5.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -71,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788582625.7359877
+      "last_checked": 1788583311.7248073
     },
     "Club Atletico La Paz|Mineros de Zacatecas": {
       "home": "Club Atletico La Paz",
@@ -94,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788582652.3943694
+      "last_checked": 1788583338.5062091
     },
     "Labasa FC|Suva FC": {
       "home": "Labasa FC",
@@ -117,7 +90,57 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788582679.155936
+      "last_checked": 1788583365.4376867
+    },
+    "The Cove FC Reserves|Adelaide Olympic Reserve": {
+      "home": "The Cove FC Reserves",
+      "away": "Adelaide Olympic Reserve",
+      "event_id": "10054601",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788583395.613494
+    },
+    "Modbury Reserve|Cumberland United Reserve": {
+      "home": "Modbury Reserve",
+      "away": "Cumberland United Reserve",
+      "event_id": "10054602",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            24.0,
+            3.85
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788583427.6830006
     }
   }
 }
