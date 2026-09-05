@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788645550.3157187,
+  "generated_at": 1788646298.395414,
   "matches": [
     {
       "match": "São Paulo - Atlético Mineiro",
@@ -8,29 +8,58 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 13.5,
             "odds": [
-              1.47,
-              2.45
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 12.5,
-                "over": 1.82,
-                "under": 1.85
-              },
-              {
                 "line": 13.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 14.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 15.5,
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "São Paulo - Atlético Mineiro",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 11.5 a 13.5"
+        }
+      ]
+    },
+    {
+      "match": "San Lorenzo - Talleres de Córdoba",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -111,29 +140,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Boyacá Chicó - Once Caldas",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }

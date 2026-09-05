@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 13.5,
             "odds": [
-              1.47,
-              2.45
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 12.5,
-                "over": 1.82,
-                "under": 1.85
-              },
-              {
                 "line": 13.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 14.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 15.5,
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
@@ -44,7 +44,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788645442.328622
+      "last_checked": 1788646192.1732805
+    },
+    "San Lorenzo|Talleres de Córdoba": {
+      "home": "San Lorenzo",
+      "away": "Talleres de Córdoba",
+      "event_id": "10055669",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788646218.6913438
     },
     "EC Juventude|Atlético Goianiense": {
       "home": "EC Juventude",
@@ -67,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788645469.2091134
+      "last_checked": 1788646245.2186952
     },
     "Ceará SC|Sport Club do Recife": {
       "home": "Ceará SC",
@@ -90,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788645496.070281
+      "last_checked": 1788646271.7327106
     },
     "Everton de Viña del Mar|Universidad Católica": {
       "home": "Everton de Viña del Mar",
@@ -113,30 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788645523.21708
-    },
-    "Boyacá Chicó|Once Caldas": {
-      "home": "Boyacá Chicó",
-      "away": "Once Caldas",
-      "event_id": "10055636",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788645550.2740235
+      "last_checked": 1788646298.3500214
     }
   }
 }
