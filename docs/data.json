@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788613845.943048,
+  "generated_at": 1788614618.439204,
   "matches": [
     {
       "match": "Newcastle United - AFC Bournemouth",
@@ -7,51 +7,73 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Fiorentina - Torino",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.12,
-              5.0
+              1.17,
+              4.25
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.12,
-                "under": 5.0
+                "over": 1.17,
+                "under": 4.25
               },
               {
                 "line": 8.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 9.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 10.5,
-                "over": 4.75,
-                "under": 1.13
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 11.5,
-                "over": 10.0,
-                "under": 1.01
+                "over": 3.25,
+                "under": 1.28
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              2.2,
-              1.57
+              1.6,
+              2.15
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 2.2,
-                "under": 1.57
+                "line": 3.5,
+                "over": 1.6,
+                "under": 2.15
               }
             ]
           }
@@ -69,67 +91,18 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
-          "match": "Newcastle United - AFC Bournemouth",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 4.5"
+          "type": "quota_cambiata",
+          "match": "Fiorentina - Torino",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.35 a 1.17 (15.4%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Fiorentina - Torino",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.85 a 4.25 (49.1%)"
         }
       ]
-    },
-    {
-      "match": "Fiorentina - Torino",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 8.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 9.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 10.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 11.5,
-                "over": 4.0,
-                "under": 1.18
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     },
     {
       "match": "Knowle FC - Worcester City",
@@ -198,5 +171,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 2
 }
