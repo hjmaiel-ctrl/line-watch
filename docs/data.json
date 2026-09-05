@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788621034.5485575,
+  "generated_at": 1788621843.7804883,
   "matches": [
     {
       "match": "Brentford - Sunderland",
@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.22,
-              3.65
+              1.18,
+              4.0
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.18,
+                "under": 4.0
+              },
+              {
                 "line": 9.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.55,
+                "under": 2.25
               },
               {
                 "line": 10.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 2.15,
+                "under": 1.6
               },
               {
                 "line": 11.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 3.1,
+                "under": 1.3
               },
               {
                 "line": 12.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 13.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.87,
-              1.8
+              2.35,
+              1.5
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 2.35,
+                "under": 1.5
               }
             ]
           }
@@ -67,7 +67,32 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Brentford - Sunderland",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Brentford - Sunderland",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.65 a 4.0 (9.6%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Brentford - Sunderland",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.87 a 2.35 (25.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Brentford - Sunderland",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.8 a 1.5 (20.0%)"
+        }
+      ]
     },
     {
       "match": "Manchester City - Coventry City",
@@ -76,50 +101,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.12,
-              5.0
+              1.17,
+              4.25
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.17,
+                "under": 4.25
+              },
+              {
                 "line": 8.5,
-                "over": 1.12,
-                "under": 5.0
+                "over": 1.52,
+                "under": 2.3
               },
               {
                 "line": 9.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 2.3,
+                "under": 1.52
               },
               {
                 "line": 10.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 3.65,
+                "under": 1.22
               },
               {
                 "line": 11.5,
-                "over": 2.75,
-                "under": 1.35
-              },
-              {
-                "line": 12.5,
-                "over": 4.25,
-                "under": 1.17
+                "over": 7.5,
+                "under": 1.04
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.83,
-              1.83
+              2.35,
+              1.5
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 2.35,
+                "under": 1.5
               }
             ]
           }
@@ -140,19 +165,25 @@
           "type": "linea_cambiata",
           "match": "Manchester City - Coventry City",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 8.5"
+          "detail": "bet9ja: linea passata da 8.5 a 7.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Manchester City - Coventry City",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.25 a 1.12 (11.6%)"
+          "detail": "bet9ja: esito #2 passato da 5.0 a 4.25 (17.6%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Manchester City - Coventry City",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.45 a 5.0 (44.9%)"
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.83 a 2.35 (28.4%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Manchester City - Coventry City",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.83 a 1.5 (22.0%)"
         }
       ]
     },
@@ -187,83 +218,48 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.28,
-              3.25
+              1.11,
+              5.25
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.11,
+                "under": 5.25
               },
               {
                 "line": 10.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 11.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 1.83,
+                "under": 1.83
               },
               {
                 "line": 12.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 2.65,
+                "under": 1.4
               },
               {
                 "line": 13.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Brighton & Hove Albion - Leeds United",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.17 a 1.28 (9.4%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Brighton & Hove Albion - Leeds United",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.25 a 3.25 (30.8%)"
-        }
-      ]
-    },
-    {
-      "match": "Fulham - Crystal Palace",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 6.5,
             "odds": [
-              2.15,
-              1.6
+              2.1,
+              1.62
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 2.15,
-                "under": 1.6
+                "line": 6.5,
+                "over": 2.1,
+                "under": 1.62
               }
             ]
           }
@@ -282,18 +278,105 @@
       "alerts": [
         {
           "type": "quota_cambiata",
+          "match": "Brighton & Hove Albion - Leeds United",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.28 a 1.11 (15.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Brighton & Hove Albion - Leeds United",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.25 a 5.25 (61.5%)"
+        }
+      ]
+    },
+    {
+      "match": "Fulham - Crystal Palace",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.11,
+              5.25
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.11,
+                "under": 5.25
+              },
+              {
+                "line": 8.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 9.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 10.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 11.5,
+                "over": 5.0,
+                "under": 1.12
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 1.5,
+            "odds": [
+              1.62,
+              2.1
+            ],
+            "_all_lines": [
+              {
+                "line": 1.5,
+                "over": 1.62,
+                "under": 2.1
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
           "match": "Fulham - Crystal Palace",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.9 a 2.15 (13.2%)"
+          "detail": "bet9ja: linea passata da 2.5 a 1.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Fulham - Crystal Palace",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.78 a 1.6 (11.2%)"
+          "detail": "bet9ja: esito #1 passato da 2.15 a 1.62 (32.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Fulham - Crystal Palace",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.6 a 2.1 (31.2%)"
         }
       ]
     }
   ],
-  "alert_count_this_run": 7
+  "alert_count_this_run": 13
 }
