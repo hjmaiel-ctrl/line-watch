@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788581540.3699088
+      "last_checked": 1788582563.3569252
     },
     "UWA Nedlands Reserves|Jooondalop City Reserve": {
       "home": "UWA Nedlands Reserves",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788581567.689217
+      "last_checked": 1788582593.7970588
     },
     "FC Juárez|Pachuca": {
       "home": "FC Juárez",
@@ -53,34 +53,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.4,
-              2.5
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.4,
-                "under": 2.5
-              },
-              {
-                "line": 5.5,
-                "over": 1.92,
-                "under": 1.7
-              },
-              {
-                "line": 6.5,
-                "over": 2.8,
-                "under": 1.32
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            22.0,
+            5.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788581593.2986317
+      "last_checked": 1788582625.7359877
     },
     "Club Atletico La Paz|Mineros de Zacatecas": {
       "home": "Club Atletico La Paz",
@@ -113,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788581620.5725358
+      "last_checked": 1788582652.3943694
     },
     "Labasa FC|Suva FC": {
       "home": "Labasa FC",
@@ -136,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788581647.3543017
+      "last_checked": 1788582679.155936
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788581647.3967104,
+  "generated_at": 1788582679.206292,
   "matches": [
     {
       "match": "KOSSA FC - Marist FC",
@@ -51,34 +51,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.4,
-              2.5
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.4,
-                "under": 2.5
-              },
-              {
-                "line": 5.5,
-                "over": 1.92,
-                "under": 1.7
-              },
-              {
-                "line": 6.5,
-                "over": 2.8,
-                "under": 1.32
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            22.0,
+            5.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
