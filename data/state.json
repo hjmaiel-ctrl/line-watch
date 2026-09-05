@@ -10,19 +10,19 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.42,
-              2.66
+              1.34,
+              2.98
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.42,
-                "under": 2.66
+                "over": 1.34,
+                "under": 2.98
               },
               {
                 "line": 6.5,
-                "over": 1.88,
-                "under": 1.83
+                "over": 1.81,
+                "under": 1.9
               },
               {
                 "line": 7.5,
@@ -32,16 +32,16 @@
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 5.5,
             "odds": [
-              1.58,
-              2.18
+              1.88,
+              1.8
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.58,
-                "under": 2.18
+                "line": 5.5,
+                "over": 1.88,
+                "under": 1.8
               }
             ]
           }
@@ -57,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788568997.1293778
+      "last_checked": 1788569834.0449646
     },
     "Athletic Club MG|Vila Nova FC": {
       "home": "Athletic Club MG",
@@ -67,26 +67,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 4.5,
             "odds": [
-              1.42,
-              2.45
+              1.2,
+              3.55
             ],
             "_all_lines": [
               {
+                "line": 4.5,
+                "over": 1.2,
+                "under": 3.55
+              },
+              {
+                "line": 5.5,
+                "over": 1.6,
+                "under": 2.05
+              },
+              {
                 "line": 6.5,
-                "over": 1.42,
-                "under": 2.45
-              },
-              {
-                "line": 7.5,
-                "over": 1.88,
-                "under": 1.72
-              },
-              {
-                "line": 8.5,
-                "over": 2.7,
-                "under": 1.35
+                "over": 2.35,
+                "under": 1.45
               }
             ]
           },
@@ -103,7 +103,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788569022.1289458
+      "last_checked": 1788569859.1077778
     },
     "CRB|América-MG": {
       "home": "CRB",
@@ -115,24 +115,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.47,
-              2.3
+              1.4,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.47,
-                "under": 2.3
+                "over": 1.4,
+                "under": 2.5
               },
               {
                 "line": 10.5,
-                "over": 1.78,
-                "under": 1.82
+                "over": 1.72,
+                "under": 1.88
               },
               {
                 "line": 11.5,
-                "over": 2.25,
-                "under": 1.5
+                "over": 2.2,
+                "under": 1.52
               }
             ]
           },
@@ -149,7 +149,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788569047.6750016
+      "last_checked": 1788569883.941178
     },
     "Deportes Concepción|Audax Italiano": {
       "home": "Deportes Concepción",
@@ -172,7 +172,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788569074.36362
+      "last_checked": 1788569910.6501434
     },
     "Club Deportivo Técnico Universitario|LDU Quito": {
       "home": "Club Deportivo Técnico Universitario",
@@ -195,7 +195,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788569101.0564568
+      "last_checked": 1788569937.4960864
     }
   }
 }
