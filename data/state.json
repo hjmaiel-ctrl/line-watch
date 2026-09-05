@@ -7,34 +7,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.11,
-              4.75
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.11,
-                "under": 4.75
-              },
-              {
-                "line": 4.5,
-                "over": 1.72,
-                "under": 1.88
-              },
-              {
-                "line": 5.5,
-                "over": 3.2,
-                "under": 1.25
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            70.0,
+            7.5
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,30 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788583311.7248073
-    },
-    "Club Atletico La Paz|Mineros de Zacatecas": {
-      "home": "Club Atletico La Paz",
-      "away": "Mineros de Zacatecas",
-      "event_id": "10054599",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788583338.5062091
+      "last_checked": 1788584133.769248
     },
     "Labasa FC|Suva FC": {
       "home": "Labasa FC",
@@ -90,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788583365.4376867
+      "last_checked": 1788584161.1253343
     },
     "The Cove FC Reserves|Adelaide Olympic Reserve": {
       "home": "The Cove FC Reserves",
@@ -113,12 +71,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788583395.613494
+      "last_checked": 1788584187.9622355
     },
-    "Modbury Reserve|Cumberland United Reserve": {
-      "home": "Modbury Reserve",
-      "away": "Cumberland United Reserve",
-      "event_id": "10054602",
+    "Newmarket|AC Carina": {
+      "home": "Newmarket",
+      "away": "AC Carina",
+      "event_id": "10054603",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -126,11 +84,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            24.0,
-            3.85
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -140,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788583427.6830006
+      "last_checked": 1788584215.287615
+    },
+    "Cashmere Technical|Fencibles United AFC": {
+      "home": "Cashmere Technical",
+      "away": "Fencibles United AFC",
+      "event_id": "10054605",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788584242.1189709
     }
   }
 }

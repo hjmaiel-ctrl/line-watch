@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788583427.729501,
+  "generated_at": 1788584242.1634881,
   "matches": [
     {
       "match": "FC Juárez - Pachuca",
@@ -7,56 +7,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.11,
-              4.75
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.11,
-                "under": 4.75
-              },
-              {
-                "line": 4.5,
-                "over": 1.72,
-                "under": 1.88
-              },
-              {
-                "line": 5.5,
-                "over": 3.2,
-                "under": 1.25
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Club Atletico La Paz - Mineros de Zacatecas",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            70.0,
+            7.5
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -113,7 +72,7 @@
       "alerts": []
     },
     {
-      "match": "Modbury Reserve - Cumberland United Reserve",
+      "match": "Newmarket - AC Carina",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -122,11 +81,29 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            24.0,
-            3.85
-          ],
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Cashmere Technical - Fencibles United AFC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
