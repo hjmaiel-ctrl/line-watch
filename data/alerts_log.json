@@ -1,47 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Universidad Católica del Ecuador - Aucas",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 5.4 a 10.0 (85.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Universidad Católica del Ecuador - Aucas",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 1.38 a 1.13 (22.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "América de Cali - Alianza FC Valledupar",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.4 a 1.52 (8.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "América de Cali - Alianza FC Valledupar",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.65 a 2.3 (15.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "América de Cali - Alianza FC Valledupar",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "JS El Biar - Olympique Akbou",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 31.0 a 85.0 (174.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "JS El Biar - Olympique Akbou",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 5.0 a 5.8 (16.0%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "América de Cali - Alianza FC Valledupar",
     "market": "CORNERS_OU",
@@ -2998,5 +2956,47 @@
     "match": "Fulham - Crystal Palace",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.6 a 2.1 (31.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Manchester City - Coventry City",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Manchester City - Coventry City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 2.5 a 1.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Manchester City - Coventry City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.35 a 1.6 (46.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Manchester City - Coventry City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.5 a 2.15 (43.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Brighton & Hove Albion - Leeds United",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Brighton & Hove Albion - Leeds United",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.1 a 2.35 (11.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Brighton & Hove Albion - Leeds United",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.62 a 1.5 (8.0%)"
   }
 ]
