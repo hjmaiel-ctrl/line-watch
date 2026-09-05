@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Árabe Unido|Veraguas FC": {
-      "home": "Árabe Unido",
-      "away": "Veraguas FC",
-      "event_id": "10054584",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788578629.7205918
-    },
     "Lautoka FC|Nadi FC": {
       "home": "Lautoka FC",
       "away": "Nadi FC",
@@ -34,33 +11,6 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            13.0,
-            41.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788578661.38686
-    },
-    "RB Do Norte AM|CDC Manicore AM": {
-      "home": "RB Do Norte AM",
-      "away": "CDC Manicore AM",
-      "event_id": "10054587",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -71,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788578688.0600314
+      "last_checked": 1788579522.9887784
     },
     "Reboceros de La Piedad|H20 Purepechas FC": {
       "home": "Reboceros de La Piedad",
@@ -94,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788578714.8932283
+      "last_checked": 1788579549.60277
     },
     "Escorpiones|Inter San Carlos": {
       "home": "Escorpiones",
@@ -117,7 +67,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788578741.3868399
+      "last_checked": 1788579576.4641862
+    },
+    "Caballeros de Córdoba|Atlético Boca del Río": {
+      "home": "Caballeros de Córdoba",
+      "away": "Atlético Boca del Río",
+      "event_id": "10054591",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788579603.44706
+    },
+    "KOSSA FC|Marist FC": {
+      "home": "KOSSA FC",
+      "away": "Marist FC",
+      "event_id": "10054594",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788579630.0525334
     }
   }
 }

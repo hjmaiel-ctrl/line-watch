@@ -1,69 +1,8 @@
 {
-  "generated_at": 1788578741.4329903,
+  "generated_at": 1788579630.0885856,
   "matches": [
     {
-      "match": "Árabe Unido - Veraguas FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
       "match": "Lautoka FC - Nadi FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            13.0,
-            41.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Lautoka FC - Nadi FC",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 11.5 a 13.0 (13.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Lautoka FC - Nadi FC",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 45.0 a 41.0 (9.8%)"
-        }
-      ]
-    },
-    {
-      "match": "RB Do Norte AM - CDC Manicore AM",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -127,7 +66,51 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Caballeros de Córdoba - Atlético Boca del Río",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "KOSSA FC - Marist FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
