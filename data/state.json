@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            26.0,
-            4.25
+            11.0,
+            13.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788587216.6651182
+      "last_checked": 1788587772.9409218
     },
     "Central Coast FC|Green Shield": {
       "home": "Central Coast FC",
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788587243.2708979
+      "last_checked": 1788587799.473702
     },
     "Perth Redstar FC|Fremantle City FC": {
       "home": "Perth Redstar FC",
@@ -71,12 +71,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788587269.7767081
+      "last_checked": 1788587826.0297892
     },
-    "Avondale|Preston Lions": {
-      "home": "Avondale",
-      "away": "Preston Lions",
-      "event_id": "10054610",
+    "Broadbeach Utd|Sunshine Coast Wanderers": {
+      "home": "Broadbeach Utd",
+      "away": "Sunshine Coast Wanderers",
+      "event_id": "10054612",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -94,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788587296.5356348
+      "last_checked": 1788587852.7029543
     },
-    "Kahibah|Newcastle Croatia FC": {
-      "home": "Kahibah",
-      "away": "Newcastle Croatia FC",
-      "event_id": "10054611",
+    "Ba F.C.|Rewa FC": {
+      "home": "Ba F.C.",
+      "away": "Rewa FC",
+      "event_id": "10054613",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788587323.2117825
+      "last_checked": 1788587879.2835386
     }
   }
 }

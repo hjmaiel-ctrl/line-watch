@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788587323.2469263,
+  "generated_at": 1788587879.3529315,
   "matches": [
     {
       "match": "Cashmere Technical - Fencibles United AFC",
@@ -13,8 +13,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            26.0,
-            4.25
+            11.0,
+            13.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -25,7 +25,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Cashmere Technical - Fencibles United AFC",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 26.0 a 11.0 (136.4%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Cashmere Technical - Fencibles United AFC",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 4.25 a 13.0 (205.9%)"
+        }
+      ]
     },
     {
       "match": "Central Coast FC - Green Shield",
@@ -72,7 +85,7 @@
       "alerts": []
     },
     {
-      "match": "Avondale - Preston Lions",
+      "match": "Broadbeach Utd - Sunshine Coast Wanderers",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -94,7 +107,7 @@
       "alerts": []
     },
     {
-      "match": "Kahibah - Newcastle Croatia FC",
+      "match": "Ba F.C. - Rewa FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -116,5 +129,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
