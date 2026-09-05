@@ -1,6 +1,28 @@
 {
-  "generated_at": 1788595216.337596,
+  "generated_at": 1788596145.8317654,
   "matches": [
+    {
+      "match": "Tai Po FC - Hong Kong Rangers FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Palmerston Rovers - Darwin Olympic",
       "bet9ja_stats": null,
@@ -69,28 +91,6 @@
     },
     {
       "match": "Shaanxi Union FC - Jiangxi Dingnan United F.C.",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Sturt Lions Reserve - North Eastern Metrostars SC Reserves",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

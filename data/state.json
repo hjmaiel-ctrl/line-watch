@@ -1,5 +1,28 @@
 {
   "matches": {
+    "Tai Po FC|Hong Kong Rangers FC": {
+      "home": "Tai Po FC",
+      "away": "Hong Kong Rangers FC",
+      "event_id": "10054667",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788596039.398589
+    },
     "Palmerston Rovers|Darwin Olympic": {
       "home": "Palmerston Rovers",
       "away": "Darwin Olympic",
@@ -21,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788595096.705611
+      "last_checked": 1788596066.0558312
     },
     "Joondalup City|Armadale": {
       "home": "Joondalup City",
@@ -44,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788595123.222681
+      "last_checked": 1788596092.51956
     },
     "Floreat Athena FC Reserves|Kingsley Westside FC": {
       "home": "Floreat Athena FC Reserves",
@@ -67,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788595149.7484782
+      "last_checked": 1788596119.099926
     },
     "Shaanxi Union FC|Jiangxi Dingnan United F.C.": {
       "home": "Shaanxi Union FC",
@@ -90,30 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788595189.7358007
-    },
-    "Sturt Lions Reserve|North Eastern Metrostars SC Reserves": {
-      "home": "Sturt Lions Reserve",
-      "away": "North Eastern Metrostars SC Reserves",
-      "event_id": "10054634",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788595216.2740755
+      "last_checked": 1788596145.7960696
     }
   }
 }
