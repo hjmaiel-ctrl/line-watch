@@ -7,44 +7,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.5,
-              2.4
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.5,
-                "under": 2.4
-              },
-              {
-                "line": 9.5,
-                "over": 1.82,
-                "under": 1.88
-              },
-              {
-                "line": 10.5,
-                "over": 2.28,
-                "under": 1.56
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.84,
-              1.83
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.84,
-                "under": 1.83
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -57,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788651666.3393638
+      "last_checked": 1788652518.735262
     },
     "Columbus Crew|Colorado Rapids": {
       "home": "Columbus Crew",
@@ -69,38 +33,38 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.58,
-              2.24
+              1.68,
+              2.06
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.58,
-                "under": 2.24
+                "over": 1.68,
+                "under": 2.06
               },
               {
                 "line": 9.5,
-                "over": 1.94,
-                "under": 1.77
+                "over": 2.12,
+                "under": 1.65
               },
               {
                 "line": 10.5,
-                "over": 2.48,
-                "under": 1.48
+                "over": 2.78,
+                "under": 1.39
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.78,
-              1.89
+              1.97,
+              1.72
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.78,
-                "under": 1.89
+                "over": 1.97,
+                "under": 1.72
               }
             ]
           }
@@ -116,7 +80,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788651689.7949443
+      "last_checked": 1788652542.4218423
     },
     "Orlando City|San Diego FC": {
       "home": "Orlando City",
@@ -126,40 +90,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.53,
-              2.34
+              1.43,
+              2.64
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.43,
+                "under": 2.64
+              },
+              {
                 "line": 9.5,
-                "over": 1.53,
-                "under": 2.34
+                "over": 1.71,
+                "under": 2.02
               },
               {
                 "line": 10.5,
-                "over": 1.85,
-                "under": 1.86
-              },
-              {
-                "line": 11.5,
-                "over": 2.28,
-                "under": 1.56
+                "over": 2.14,
+                "under": 1.63
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              2.06,
-              1.66
+              1.59,
+              2.16
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 2.06,
-                "under": 1.66
+                "line": 3.5,
+                "over": 1.59,
+                "under": 2.16
               }
             ]
           }
@@ -175,7 +139,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788651713.0520022
+      "last_checked": 1788652566.2464106
     },
     "Philadelphia Union|CF Montreal": {
       "home": "Philadelphia Union",
@@ -185,86 +149,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.61,
-              2.18
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.61,
-                "under": 2.18
-              },
-              {
-                "line": 10.5,
-                "over": 1.96,
-                "under": 1.76
-              },
-              {
-                "line": 11.5,
-                "over": 2.48,
-                "under": 1.48
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788651738.2670403
-    },
-    "Toronto|Chicago Fire": {
-      "home": "Toronto",
-      "away": "Chicago Fire",
-      "event_id": "10061250",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.64,
-              2.12
+              1.54,
+              2.34
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.64,
-                "under": 2.12
+                "over": 1.54,
+                "under": 2.34
               },
               {
                 "line": 9.5,
-                "over": 2.04,
-                "under": 1.7
+                "over": 1.9,
+                "under": 1.81
               },
               {
                 "line": 10.5,
-                "over": 2.62,
-                "under": 1.43
+                "over": 2.42,
+                "under": 1.5
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 6.5,
             "odds": [
-              1.68,
-              2.02
+              1.93,
+              1.75
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.68,
-                "under": 2.02
+                "line": 6.5,
+                "over": 1.93,
+                "under": 1.75
               }
             ]
           }
@@ -280,7 +198,66 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788651761.4852002
+      "last_checked": 1788652589.981407
+    },
+    "Toronto|Chicago Fire": {
+      "home": "Toronto",
+      "away": "Chicago Fire",
+      "event_id": "10061250",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.45,
+              2.56
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.45,
+                "under": 2.56
+              },
+              {
+                "line": 8.5,
+                "over": 1.78,
+                "under": 1.93
+              },
+              {
+                "line": 9.5,
+                "over": 2.3,
+                "under": 1.55
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.86,
+              1.81
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.86,
+                "under": 1.81
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788652613.6882012
     }
   }
 }
