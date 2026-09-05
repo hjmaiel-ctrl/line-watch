@@ -1,28 +1,6 @@
 {
-  "generated_at": 1788650545.2101617,
+  "generated_at": 1788651144.5830548,
   "matches": [
-    {
-      "match": "São Paulo - Atlético Mineiro",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "San Lorenzo - Talleres de Córdoba",
       "bet9ja_stats": null,
@@ -33,11 +11,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            57.0,
-            8.0
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -47,23 +21,10 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "San Lorenzo - Talleres de Córdoba",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 28.0 a 57.0 (103.6%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "San Lorenzo - Talleres de Córdoba",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 5.0 a 8.0 (60.0%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Ceará SC - Sport Club do Recife",
+      "match": "Cusco FC - Deportivo Moquegua",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -85,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Everton de Viña del Mar - Universidad Católica",
+      "match": "Cúcuta Deportivo - Deportivo Pasto",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -107,7 +68,29 @@
       "alerts": []
     },
     {
-      "match": "Sportivo San Lorenzo - CS 2 de Mayo",
+      "match": "Independiente del Valle - Deportivo Macara",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Santa Fe - Fortaleza FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -129,5 +112,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
