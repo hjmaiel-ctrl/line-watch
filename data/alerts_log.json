@@ -1,77 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Z.Fulham - Z.Liverpool",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 11.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Fulham - Z.Liverpool",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.35 a 4.6 (16.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Brighton - Z.Man United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.85 a 4.45 (9.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Ipswich Town - Z.Newcastle Utd",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 9.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Crystal Palace - Z.Leeds",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 10.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Fulham - Z.Liverpool",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 11.5 a 12.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Fulham - Z.Liverpool",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.2 a 1.1 (9.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Fulham - Z.Liverpool",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.6 a 7.6 (65.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Brighton - Z.Man United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Brighton - Z.Man United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.21 a 1.1 (10.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Brighton - Z.Man United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.45 a 7.4 (66.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Ipswich Town - Z.Newcastle Utd",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 10.5"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Z.Ipswich Town - Z.Newcastle Utd",
     "market": "CORNERS_OU",
@@ -2998,5 +2926,77 @@
     "match": "Le Havre AC - Stade Brestois 29",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.9 a 2.15 (13.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Villarreal - Deportivo La Coruña",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Villarreal - Deportivo La Coruña",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.6 a 1.9 (18.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Villarreal - Deportivo La Coruña",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.15 a 1.78 (20.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "AS Roma - Atalanta",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 2.5 a 1.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "OGC Nice - Le Mans FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.25 a 1.07 (16.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "OGC Nice - Le Mans FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.45 a 6.5 (88.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Le Havre AC - Stade Brestois 29",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Le Havre AC - Stade Brestois 29",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.28 a 1.05 (21.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Le Havre AC - Stade Brestois 29",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.25 a 7.0 (115.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Le Havre AC - Stade Brestois 29",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Le Havre AC - Stade Brestois 29",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.6 a 1.4 (14.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Le Havre AC - Stade Brestois 29",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.15 a 2.65 (23.3%)"
   }
 ]

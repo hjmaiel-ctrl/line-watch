@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.18,
-              4.1
+              1.17,
+              4.25
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.17,
+                "under": 4.25
+              },
+              {
                 "line": 9.5,
-                "over": 1.18,
-                "under": 4.1
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 10.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 1.9,
+                "under": 1.78
               },
               {
                 "line": 11.5,
-                "over": 1.8,
-                "under": 1.87
+                "over": 2.65,
+                "under": 1.4
               },
               {
                 "line": 12.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 13.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.6,
-              2.15
+              1.9,
+              1.78
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 1.9,
+                "under": 1.78
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788638384.9375355
+      "last_checked": 1788639357.5339384
     },
     "AS Roma|Atalanta": {
       "home": "AS Roma",
@@ -76,37 +76,73 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 14.5,
+          "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": 1.5,
             "odds": [
-              1.35,
-              2.85
+              1.95,
+              1.73
             ],
             "_all_lines": [
               {
-                "line": 14.5,
-                "over": 1.35,
-                "under": 2.85
+                "line": 1.5,
+                "over": 1.95,
+                "under": 1.73
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788639383.0321553
+    },
+    "OGC Nice|Le Mans FC": {
+      "home": "OGC Nice",
+      "away": "Le Mans FC",
+      "event_id": "10046989",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.07,
+              6.5
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.07,
+                "under": 6.5
               },
               {
-                "line": 15.5,
-                "over": 1.7,
-                "under": 1.98
+                "line": 7.5,
+                "over": 1.45,
+                "under": 2.5
               },
               {
-                "line": 16.5,
-                "over": 2.3,
-                "under": 1.52
+                "line": 8.5,
+                "over": 2.15,
+                "under": 1.57
               },
               {
-                "line": 17.5,
-                "over": 3.25,
-                "under": 1.28
+                "line": 9.5,
+                "over": 3.65,
+                "under": 1.22
               },
               {
-                "line": 18.5,
-                "over": 4.5,
-                "under": 1.15
+                "line": 10.5,
+                "over": 6.0,
+                "under": 1.08
               }
             ]
           },
@@ -136,76 +172,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788638408.0303524
-    },
-    "OGC Nice|Le Mans FC": {
-      "home": "OGC Nice",
-      "away": "Le Mans FC",
-      "event_id": "10046989",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.25,
-              3.45
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 7.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 8.5,
-                "over": 2.25,
-                "under": 1.55
-              },
-              {
-                "line": 9.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 10.5,
-                "over": 5.0,
-                "under": 1.12
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              2.05,
-              1.65
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 2.05,
-                "under": 1.65
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788638430.9343727
+      "last_checked": 1788639406.3419807
     },
     "Le Havre AC|Stade Brestois 29": {
       "home": "Le Havre AC",
@@ -215,50 +182,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.28,
-              3.25
+              1.05,
+              7.0
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.05,
+                "under": 7.0
+              },
+              {
                 "line": 7.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 8.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 2.45,
+                "under": 1.47
               },
               {
                 "line": 9.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 4.5,
+                "under": 1.15
               },
               {
                 "line": 10.5,
-                "over": 3.9,
-                "under": 1.2
-              },
-              {
-                "line": 11.5,
-                "over": 7.5,
-                "under": 1.04
+                "over": 8.0,
+                "under": 1.03
               }
             ]
           },
           "CARDS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              1.6,
-              2.15
+              1.4,
+              2.65
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.6,
-                "under": 2.15
+                "line": 4.5,
+                "over": 1.4,
+                "under": 2.65
               }
             ]
           }
@@ -274,7 +241,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788638454.0618834
+      "last_checked": 1788639429.8936837
     },
     "Willem II|Excelsior Rotterdam": {
       "home": "Willem II",
@@ -297,7 +264,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788638480.7823586
+      "last_checked": 1788639456.874577
     }
   }
 }
