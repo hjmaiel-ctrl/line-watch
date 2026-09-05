@@ -1,55 +1,5 @@
 {
   "matches": {
-    "Reboceros de La Piedad|H20 Purepechas FC": {
-      "home": "Reboceros de La Piedad",
-      "away": "H20 Purepechas FC",
-      "event_id": "10054589",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788580663.7322736
-    },
-    "Escorpiones|Inter San Carlos": {
-      "home": "Escorpiones",
-      "away": "Inter San Carlos",
-      "event_id": "10054590",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            13.0,
-            9.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788580695.588956
-    },
     "KOSSA FC|Marist FC": {
       "home": "KOSSA FC",
       "away": "Marist FC",
@@ -71,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788580722.2000995
+      "last_checked": 1788581540.3699088
     },
     "UWA Nedlands Reserves|Jooondalop City Reserve": {
       "home": "UWA Nedlands Reserves",
@@ -94,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788580748.8015854
+      "last_checked": 1788581567.689217
     },
     "FC Juárez|Pachuca": {
       "home": "FC Juárez",
@@ -106,24 +56,24 @@
           "CORNERS_OU": {
             "line": 4.5,
             "odds": [
-              1.38,
-              2.6
+              1.4,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.38,
-                "under": 2.6
+                "over": 1.4,
+                "under": 2.5
               },
               {
                 "line": 5.5,
-                "over": 1.82,
-                "under": 1.78
+                "over": 1.92,
+                "under": 1.7
               },
               {
                 "line": 6.5,
-                "over": 2.7,
-                "under": 1.35
+                "over": 2.8,
+                "under": 1.32
               }
             ]
           },
@@ -140,7 +90,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788580773.5003166
+      "last_checked": 1788581593.2986317
+    },
+    "Club Atletico La Paz|Mineros de Zacatecas": {
+      "home": "Club Atletico La Paz",
+      "away": "Mineros de Zacatecas",
+      "event_id": "10054599",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788581620.5725358
+    },
+    "Labasa FC|Suva FC": {
+      "home": "Labasa FC",
+      "away": "Suva FC",
+      "event_id": "10054600",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788581647.3543017
     }
   }
 }
