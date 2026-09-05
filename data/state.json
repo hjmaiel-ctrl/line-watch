@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 14.5,
+            "line": 12.5,
             "odds": [
-              1.35,
-              2.85
+              1.13,
+              4.75
             ],
             "_all_lines": [
               {
+                "line": 12.5,
+                "over": 1.13,
+                "under": 4.75
+              },
+              {
+                "line": 13.5,
+                "over": 1.62,
+                "under": 2.1
+              },
+              {
                 "line": 14.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 15.5,
-                "over": 1.82,
-                "under": 1.85
-              },
-              {
-                "line": 16.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.65,
+                "under": 1.4
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788648921.4636273
+      "last_checked": 1788649710.6589146
     },
     "San Lorenzo|Talleres de Córdoba": {
       "home": "San Lorenzo",
@@ -57,33 +57,10 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788648948.4440413
-    },
-    "EC Juventude|Atlético Goianiense": {
-      "home": "EC Juventude",
-      "away": "Atlético Goianiense",
-      "event_id": "10055633",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
           "1X2": [
             2.4,
-            1.06,
-            6.25
+            28.0,
+            5.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -94,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788648980.6784122
+      "last_checked": 1788649743.2259731
     },
     "Ceará SC|Sport Club do Recife": {
       "home": "Ceará SC",
@@ -117,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788649008.125053
+      "last_checked": 1788649770.2396913
     },
     "Everton de Viña del Mar|Universidad Católica": {
       "home": "Everton de Viña del Mar",
@@ -140,7 +117,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788649035.3661628
+      "last_checked": 1788649797.2151706
+    },
+    "Sportivo San Lorenzo|CS 2 de Mayo": {
+      "home": "Sportivo San Lorenzo",
+      "away": "CS 2 de Mayo",
+      "event_id": "10055649",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            30.0,
+            5.1
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788649829.6355524
     }
   }
 }
