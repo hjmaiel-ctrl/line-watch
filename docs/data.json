@@ -1,45 +1,6 @@
 {
-  "generated_at": 1788587879.3529315,
+  "generated_at": 1788588797.6824045,
   "matches": [
-    {
-      "match": "Cashmere Technical - Fencibles United AFC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            11.0,
-            13.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Cashmere Technical - Fencibles United AFC",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 26.0 a 11.0 (136.4%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Cashmere Technical - Fencibles United AFC",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 4.25 a 13.0 (205.9%)"
-        }
-      ]
-    },
     {
       "match": "Central Coast FC - Green Shield",
       "bet9ja_stats": null,
@@ -50,29 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Perth Redstar FC - Fremantle City FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            10.5,
+            28.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -127,7 +70,51 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Tiamo Hirakata - Maruyasu Okazaki",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Minebea Mitsumi FC - Okinawa",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
