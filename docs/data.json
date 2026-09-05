@@ -1,30 +1,8 @@
 {
-  "generated_at": 1788592379.490829,
+  "generated_at": 1788593398.5070045,
   "matches": [
     {
       "match": "Ba F.C. - Rewa FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Tiamo Hirakata - Maruyasu Okazaki",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -91,6 +69,32 @@
     },
     {
       "match": "Modbury Jets - Adelaide Olympic",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            9.75,
+            100.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "FC Basara Hyogo - Arterivo Wakayama",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

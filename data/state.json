@@ -21,30 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788592273.0616586
-    },
-    "Tiamo Hirakata|Maruyasu Okazaki": {
-      "home": "Tiamo Hirakata",
-      "away": "Maruyasu Okazaki",
-      "event_id": "10054614",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788592299.5348747
+      "last_checked": 1788593286.6270988
     },
     "Minebea Mitsumi FC|Okinawa": {
       "home": "Minebea Mitsumi FC",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788592326.1013718
+      "last_checked": 1788593313.3798022
     },
     "Verspah Oita|Iwate Grulla Morioka": {
       "home": "Verspah Oita",
@@ -90,12 +67,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788592352.77064
+      "last_checked": 1788593339.9697425
     },
     "Modbury Jets|Adelaide Olympic": {
       "home": "Modbury Jets",
       "away": "Adelaide Olympic",
       "event_id": "10054617",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            9.75,
+            100.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788593371.8676107
+    },
+    "FC Basara Hyogo|Arterivo Wakayama": {
+      "home": "FC Basara Hyogo",
+      "away": "Arterivo Wakayama",
+      "event_id": "10054621",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788592379.4227443
+      "last_checked": 1788593398.4681928
     }
   }
 }
