@@ -3,36 +3,6 @@
     "type": "quota_cambiata",
     "match": "Z.Ipswich Town - Z.Aston Villa",
     "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.1 a 6.65 (62.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Fulham - Z.Tottenham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Fulham - Z.Tottenham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 9.05 a 6.25 (44.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Nottingham Forest - Z.Leeds",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 24.5 a 8.15 (200.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Ipswich Town - Z.Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 10.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Ipswich Town - Z.Aston Villa",
-    "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 6.65 a 9.3 (39.8%)"
   },
   {
@@ -2998,5 +2968,35 @@
     "match": "Rayo Vallecano - Racing Santander",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 10.5 a 11.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Marítimo - Benfica",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Marítimo - Benfica",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.25 a 1.42 (13.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Marítimo - Benfica",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.45 a 2.6 (32.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Alverca - Sporting de Braga",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Alverca - Sporting de Braga",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.25 a 4.75 (11.8%)"
   }
 ]
