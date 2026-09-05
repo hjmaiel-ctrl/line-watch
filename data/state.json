@@ -1,84 +1,5 @@
 {
   "matches": {
-    "Sporting CP|Nacional da Madeira": {
-      "home": "Sporting CP",
-      "away": "Nacional da Madeira",
-      "event_id": "10055600",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.4,
-              2.7
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.4,
-                "under": 2.7
-              },
-              {
-                "line": 12.5,
-                "over": 2.5,
-                "under": 1.45
-              },
-              {
-                "line": 13.5,
-                "over": 4.75,
-                "under": 1.13
-              },
-              {
-                "line": 14.5,
-                "over": 8.0,
-                "under": 1.03
-              },
-              {
-                "line": 15.5,
-                "over": 11.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788642907.8775034
-    },
-    "Gimnasia y Esgrima de Mendoza|Boca Juniors": {
-      "home": "Gimnasia y Esgrima de Mendoza",
-      "away": "Boca Juniors",
-      "event_id": "10055604",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788642934.5268743
-    },
     "EC Juventude|Atlético Goianiense": {
       "home": "EC Juventude",
       "away": "Atlético Goianiense",
@@ -100,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788642961.0617282
+      "last_checked": 1788643664.0625124
     },
     "Sport Huancayo|Sport Boys": {
       "home": "Sport Huancayo",
@@ -123,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788642987.711952
+      "last_checked": 1788643690.5797815
     },
     "ASO Chlef|CR Belouizdad": {
       "home": "ASO Chlef",
@@ -146,7 +67,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788643014.3053277
+      "last_checked": 1788643717.2127047
+    },
+    "Boyacá Chicó|Once Caldas": {
+      "home": "Boyacá Chicó",
+      "away": "Once Caldas",
+      "event_id": "10055636",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788643743.798693
+    },
+    "Monagas Reserve|Aragua": {
+      "home": "Monagas Reserve",
+      "away": "Aragua",
+      "event_id": "10055605",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788643770.412976
     }
   }
 }
