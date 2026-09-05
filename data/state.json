@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Lautoka FC|Nadi FC": {
-      "home": "Lautoka FC",
-      "away": "Nadi FC",
-      "event_id": "10054585",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788579522.9887784
-    },
     "Reboceros de La Piedad|H20 Purepechas FC": {
       "home": "Reboceros de La Piedad",
       "away": "H20 Purepechas FC",
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788579549.60277
+      "last_checked": 1788580104.598336
     },
     "Escorpiones|Inter San Carlos": {
       "home": "Escorpiones",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788579576.4641862
+      "last_checked": 1788580131.1851904
     },
     "Caballeros de Córdoba|Atlético Boca del Río": {
       "home": "Caballeros de Córdoba",
@@ -80,7 +57,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            13.0,
+            11.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788579603.44706
+      "last_checked": 1788580162.8488827
     },
     "KOSSA FC|Marist FC": {
       "home": "KOSSA FC",
@@ -113,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788579630.0525334
+      "last_checked": 1788580189.6528587
+    },
+    "UWA Nedlands Reserves|Jooondalop City Reserve": {
+      "home": "UWA Nedlands Reserves",
+      "away": "Jooondalop City Reserve",
+      "event_id": "10054596",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788580216.2774603
     }
   }
 }
