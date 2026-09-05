@@ -1,59 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Grêmio FBPA - SC Internacional",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 11.5 a 10.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Clube Náutico Capibaribe - Botafogo SP",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Grêmio FBPA - SC Internacional",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 1.12 a 15.5 (1283.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Grêmio FBPA - SC Internacional",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 7.75 a 100.0 (1190.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Grêmio FBPA - SC Internacional",
-    "market": "CARDS_OU",
-    "detail": "sportybet: esito #2 passato da 1.9 a 1.65 (15.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Clube Náutico Capibaribe - Botafogo SP",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Clube Náutico Capibaribe - Botafogo SP",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.8 a 2.55 (9.8%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Deportivo Pereira - Independiente Medellín",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 6.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Deportivo Pereira - Independiente Medellín",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.57 a 1.38 (13.8%)"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Deportivo Pereira - Independiente Medellín",
     "market": "CORNERS_OU",
@@ -2998,5 +2944,59 @@
     "match": "Rayo Vallecano - Racing Santander",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 2.05 a 1.75 (17.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Hull City - Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hull City - Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.17 a 1.28 (9.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hull City - Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.25 a 3.25 (30.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hull City - Aston Villa",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.78 a 1.98 (11.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hull City - Aston Villa",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.9 a 1.7 (11.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Rayo Vallecano - Racing Santander",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Rayo Vallecano - Racing Santander",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Rayo Vallecano - Racing Santander",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.92 a 1.7 (12.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Rayo Vallecano - Racing Santander",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.75 a 1.98 (13.1%)"
   }
 ]
