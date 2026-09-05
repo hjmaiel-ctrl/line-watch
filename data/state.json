@@ -7,51 +7,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 8.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
-                "line": 9.5,
-                "over": 1.92,
-                "under": 1.75
-              },
-              {
-                "line": 10.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 11.5,
-                "over": 3.25,
-                "under": 1.28
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              1.92,
-              1.75
+              1.6,
+              2.15
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 1.92,
-                "under": 1.75
+                "line": 3.5,
+                "over": 1.6,
+                "under": 2.15
               }
             ]
           }
@@ -67,7 +34,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788608757.0466988
+      "last_checked": 1788609322.0220385
     },
     "Knowle FC|Worcester City": {
       "home": "Knowle FC",
@@ -90,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788608783.9241586
+      "last_checked": 1788609348.9810638
     },
     "Peterborough United|Sheffield Wednesday": {
       "home": "Peterborough United",
@@ -113,7 +80,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788608810.6019092
+      "last_checked": 1788609376.09091
     },
     "Wigan Athletic|Stockport County": {
       "home": "Wigan Athletic",
@@ -136,7 +103,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788608837.755061
+      "last_checked": 1788609403.1728559
     },
     "Fleetwood Town|Shrewsbury Town": {
       "home": "Fleetwood Town",
@@ -159,7 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788608864.5120847
+      "last_checked": 1788609430.1639233
     }
   }
 }
