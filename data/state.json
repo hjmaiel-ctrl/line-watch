@@ -10,14 +10,14 @@
           "CORNERS_OU": {
             "line": 11.5,
             "odds": [
-              1.5,
-              2.35
+              1.47,
+              2.45
             ],
             "_all_lines": [
               {
                 "line": 11.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 12.5,
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788644855.8835723
+      "last_checked": 1788645442.328622
     },
     "EC Juventude|Atlético Goianiense": {
       "home": "EC Juventude",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788644882.4342983
+      "last_checked": 1788645469.2091134
     },
     "Ceará SC|Sport Club do Recife": {
       "home": "Ceará SC",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788644909.725565
+      "last_checked": 1788645496.070281
     },
     "Everton de Viña del Mar|Universidad Católica": {
       "home": "Everton de Viña del Mar",
@@ -113,12 +113,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788644936.6064
+      "last_checked": 1788645523.21708
     },
-    "Sport Huancayo|Sport Boys": {
-      "home": "Sport Huancayo",
-      "away": "Sport Boys",
-      "event_id": "10055607",
+    "Boyacá Chicó|Once Caldas": {
+      "home": "Boyacá Chicó",
+      "away": "Once Caldas",
+      "event_id": "10055636",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788644963.4943264
+      "last_checked": 1788645550.2740235
     }
   }
 }

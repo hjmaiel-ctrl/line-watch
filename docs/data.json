@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788644963.5663793,
+  "generated_at": 1788645550.3157187,
   "matches": [
     {
       "match": "São Paulo - Atlético Mineiro",
@@ -10,14 +10,14 @@
           "CORNERS_OU": {
             "line": 11.5,
             "odds": [
-              1.5,
-              2.35
+              1.47,
+              2.45
             ],
             "_all_lines": [
               {
                 "line": 11.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.47,
+                "under": 2.45
               },
               {
                 "line": 12.5,
@@ -44,14 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "São Paulo - Atlético Mineiro",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 11.5"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "EC Juventude - Atlético Goianiense",
@@ -120,7 +113,7 @@
       "alerts": []
     },
     {
-      "match": "Sport Huancayo - Sport Boys",
+      "match": "Boyacá Chicó - Once Caldas",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -142,5 +135,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 0
 }
