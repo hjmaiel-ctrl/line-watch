@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788648423.8005848,
+  "generated_at": 1788649035.407446,
   "matches": [
     {
       "match": "São Paulo - Atlético Mineiro",
@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 13.5,
+            "line": 14.5,
             "odds": [
-              1.38,
-              2.7
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
-                "line": 13.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
                 "line": 14.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 15.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.82,
+                "under": 1.85
+              },
+              {
+                "line": 16.5,
+                "over": 2.6,
+                "under": 1.42
               }
             ]
           },
@@ -46,10 +46,10 @@
       },
       "alerts": [
         {
-          "type": "quota_cambiata",
+          "type": "linea_cambiata",
           "match": "São Paulo - Atlético Mineiro",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.5 a 2.7 (8.0%)"
+          "detail": "bet9ja: linea passata da 13.5 a 14.5"
         }
       ]
     },
@@ -85,7 +85,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.06,
+            6.25
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },

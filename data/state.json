@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 13.5,
+            "line": 14.5,
             "odds": [
-              1.38,
-              2.7
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
-                "line": 13.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
                 "line": 14.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 15.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.82,
+                "under": 1.85
+              },
+              {
+                "line": 16.5,
+                "over": 2.6,
+                "under": 1.42
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788648318.8313866
+      "last_checked": 1788648921.4636273
     },
     "San Lorenzo|Talleres de Córdoba": {
       "home": "San Lorenzo",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788648345.3901567
+      "last_checked": 1788648948.4440413
     },
     "EC Juventude|Atlético Goianiense": {
       "home": "EC Juventude",
@@ -80,7 +80,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.06,
+            6.25
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788648371.4625926
+      "last_checked": 1788648980.6784122
     },
     "Ceará SC|Sport Club do Recife": {
       "home": "Ceará SC",
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788648397.5558796
+      "last_checked": 1788649008.125053
     },
     "Everton de Viña del Mar|Universidad Católica": {
       "home": "Everton de Viña del Mar",
@@ -136,7 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788648423.750308
+      "last_checked": 1788649035.3661628
     }
   }
 }
