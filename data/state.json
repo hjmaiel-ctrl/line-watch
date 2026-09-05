@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.15,
-              4.5
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.15,
-                "under": 4.5
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 8.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 9.5,
-                "over": 1.73,
-                "under": 1.95
+                "over": 2.3,
+                "under": 1.52
               },
               {
                 "line": 10.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 3.45,
+                "under": 1.25
               },
               {
                 "line": 11.5,
-                "over": 3.5,
-                "under": 1.22
+                "over": 5.5,
+                "under": 1.1
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              1.95,
-              1.73
+              1.6,
+              2.15
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.95,
-                "under": 1.73
+                "line": 2.5,
+                "over": 1.6,
+                "under": 2.15
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788615378.1815472
+      "last_checked": 1788615951.970981
     },
     "Bayer Leverkusen|Union Berlin": {
       "home": "Bayer Leverkusen",
@@ -76,18 +76,41 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.59,
+              2.22
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.59,
+                "under": 2.22
+              },
+              {
+                "line": 9.5,
+                "over": 1.98,
+                "under": 1.74
+              },
+              {
+                "line": 10.5,
+                "over": 2.56,
+                "under": 1.45
+              }
+            ]
+          },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.87,
-              1.8
+              1.91,
+              1.76
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 1.91,
+                "under": 1.76
               }
             ]
           }
@@ -103,7 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788615403.2570055
+      "last_checked": 1788615975.0778067
     },
     "Monchengladbach|SV 07 Elversberg": {
       "home": "Monchengladbach",
@@ -113,85 +136,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.41,
-              2.7
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.41,
-                "under": 2.7
-              },
-              {
-                "line": 9.5,
-                "over": 1.7,
-                "under": 2.04
-              },
-              {
-                "line": 10.5,
-                "over": 2.12,
-                "under": 1.64
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.65,
+              1.67,
               2.08
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.65,
+                "line": 9.5,
+                "over": 1.67,
                 "under": 2.08
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788615426.5733724
-    },
-    "Hoffenheim|Borussia Dortmund": {
-      "home": "Hoffenheim",
-      "away": "Borussia Dortmund",
-      "event_id": "10034519",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.58,
-              2.22
-            ],
-            "_all_lines": [
+              },
               {
                 "line": 10.5,
-                "over": 1.58,
-                "under": 2.22
+                "over": 2.12,
+                "under": 1.65
               },
               {
                 "line": 11.5,
-                "over": 1.94,
-                "under": 1.77
-              },
-              {
-                "line": 12.5,
-                "over": 2.48,
-                "under": 1.48
+                "over": 2.78,
+                "under": 1.39
               }
             ]
           },
@@ -221,12 +185,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788615449.8638797
+      "last_checked": 1788615998.3923283
     },
-    "Paderborn|Freiburg": {
-      "home": "Paderborn",
-      "away": "Freiburg",
-      "event_id": "10034826",
+    "Hoffenheim|Borussia Dortmund": {
+      "home": "Hoffenheim",
+      "away": "Borussia Dortmund",
+      "event_id": "10034519",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -234,37 +198,37 @@
             "line": 9.5,
             "odds": [
               1.53,
-              2.34
+              2.36
             ],
             "_all_lines": [
               {
                 "line": 9.5,
                 "over": 1.53,
-                "under": 2.34
+                "under": 2.36
               },
               {
                 "line": 10.5,
-                "over": 1.89,
+                "over": 1.88,
                 "under": 1.82
               },
               {
                 "line": 11.5,
-                "over": 2.42,
+                "over": 2.4,
                 "under": 1.5
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              2.22,
-              1.56
+              1.86,
+              1.81
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 2.22,
-                "under": 1.56
+                "line": 3.5,
+                "over": 1.86,
+                "under": 1.81
               }
             ]
           }
@@ -280,7 +244,66 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788615473.2832248
+      "last_checked": 1788616021.515165
+    },
+    "Paderborn|Freiburg": {
+      "home": "Paderborn",
+      "away": "Freiburg",
+      "event_id": "10034826",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.49,
+              2.44
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.49,
+                "under": 2.44
+              },
+              {
+                "line": 9.5,
+                "over": 1.86,
+                "under": 1.84
+              },
+              {
+                "line": 10.5,
+                "over": 2.42,
+                "under": 1.5
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.68,
+              2.02
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.68,
+                "under": 2.02
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788616044.698053
     }
   }
 }

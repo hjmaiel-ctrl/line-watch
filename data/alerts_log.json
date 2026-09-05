@@ -1,96 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "Z.Aston Villa - Z.Newcastle Utd",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 11.5 a 10.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Aston Villa - Z.Newcastle Utd",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.95 a 7.5 (26.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Howler's FC - Gangtok Himalayan SC",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 2.6 a 15.0 (476.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Howler's FC - Gangtok Himalayan SC",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 3.25 a 7.3 (124.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Howler's FC - Gangtok Himalayan SC",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 15.0 a 2.4 (525.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Howler's FC - Gangtok Himalayan SC",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 7.3 a 3.2 (128.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Palermo - Mantova",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.7 a 1.98 (16.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Palermo - Mantova",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.98 a 1.7 (16.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Palermo - Mantova",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.25 a 4.25 (23.5%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Palermo - Mantova",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 2.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Palermo - Mantova",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.52 a 1.85 (21.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Palermo - Mantova",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.3 a 1.82 (26.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Palermo - Mantova",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 3.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Palermo - Mantova",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.85 a 1.38 (34.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Palermo - Mantova",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.82 a 2.7 (48.4%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Toulouse FC - Lille OSC",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 7.5 a 8.5"
@@ -2998,5 +2908,95 @@
     "match": "Fiorentina - Torino",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 2.15 a 1.73 (24.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Fiorentina - Torino",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.15 a 1.28 (11.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Fiorentina - Torino",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 4.5 a 3.25 (38.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Fiorentina - Torino",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Fiorentina - Torino",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.95 a 1.6 (21.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Fiorentina - Torino",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.73 a 2.15 (24.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Monchengladbach - SV 07 Elversberg",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Monchengladbach - SV 07 Elversberg",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.41 a 1.67 (18.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Monchengladbach - SV 07 Elversberg",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.7 a 2.08 (29.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Monchengladbach - SV 07 Elversberg",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.65 a 1.79 (8.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Monchengladbach - SV 07 Elversberg",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.08 a 1.88 (10.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Hoffenheim - Borussia Dortmund",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 9.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Paderborn - Freiburg",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 8.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Paderborn - Freiburg",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Paderborn - Freiburg",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.22 a 1.68 (32.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Paderborn - Freiburg",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.56 a 2.02 (29.5%)"
   }
 ]
