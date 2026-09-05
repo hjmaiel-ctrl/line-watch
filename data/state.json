@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.42,
-              2.45
+              1.55,
+              2.15
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.42,
-                "under": 2.45
+                "over": 1.55,
+                "under": 2.15
               },
               {
                 "line": 10.5,
-                "over": 1.8,
-                "under": 1.8
+                "over": 2.1,
+                "under": 1.57
               },
               {
                 "line": 11.5,
-                "over": 2.45,
-                "under": 1.42
+                "over": 3.25,
+                "under": 1.22
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788572270.4650218
+      "last_checked": 1788572910.3198721
     },
     "Deportes Concepción|Audax Italiano": {
       "home": "Deportes Concepción",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788572297.1651876
+      "last_checked": 1788572937.504477
     },
     "Club Deportivo Técnico Universitario|LDU Quito": {
       "home": "Club Deportivo Técnico Universitario",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788572323.7423725
+      "last_checked": 1788572964.4935288
     },
     "Orsomarso SC|Real Cartagena": {
       "home": "Orsomarso SC",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788572350.363835
+      "last_checked": 1788572991.7561524
     },
     "El Nacional|LDU de Portoviejo": {
       "home": "El Nacional",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788572376.9237475
+      "last_checked": 1788573018.9057307
     }
   }
 }

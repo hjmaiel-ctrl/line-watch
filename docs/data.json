@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788572376.9740024,
+  "generated_at": 1788573018.9498997,
   "matches": [
     {
       "match": "CRB - América-MG",
@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.42,
-              2.45
+              1.55,
+              2.15
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.42,
-                "under": 2.45
+                "over": 1.55,
+                "under": 2.15
               },
               {
                 "line": 10.5,
-                "over": 1.8,
-                "under": 1.8
+                "over": 2.1,
+                "under": 1.57
               },
               {
                 "line": 11.5,
-                "over": 2.45,
-                "under": 1.42
+                "over": 3.25,
+                "under": 1.22
               }
             ]
           },
@@ -44,7 +44,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "CRB - América-MG",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.42 a 1.55 (9.2%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "CRB - América-MG",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.45 a 2.15 (14.0%)"
+        }
+      ]
     },
     {
       "match": "Deportes Concepción - Audax Italiano",
@@ -135,5 +148,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
