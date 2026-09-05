@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788606513.553035
+      "last_checked": 1788607289.7271893
     },
     "Avispa Fukuoka|Mito Hollyhock": {
       "home": "Avispa Fukuoka",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788606540.436926
+      "last_checked": 1788607315.786426
     },
     "Krylia Sovetov Samara|Krasnodar": {
       "home": "Krylia Sovetov Samara",
@@ -54,26 +54,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 7.5,
             "odds": [
-              1.63,
-              2.06
+              1.41,
+              2.56
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.41,
+                "under": 2.56
+              },
+              {
+                "line": 8.5,
+                "over": 1.71,
+                "under": 1.94
+              },
+              {
                 "line": 9.5,
-                "over": 1.63,
-                "under": 2.06
-              },
-              {
-                "line": 10.5,
-                "over": 2.02,
-                "under": 1.66
-              },
-              {
-                "line": 11.5,
-                "over": 2.56,
-                "under": 1.41
+                "over": 2.18,
+                "under": 1.56
               }
             ]
           },
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788606565.2481213
+      "last_checked": 1788607340.0233407
     },
     "Kryvbas Kriviy Rih|Kolos Kovalivka": {
       "home": "Kryvbas Kriviy Rih",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788606591.9103153
+      "last_checked": 1788607365.8952317
     },
     "Metalist 1925|Obolon-Brovar Kiev": {
       "home": "Metalist 1925",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788606618.4238453
+      "last_checked": 1788607391.7021537
     }
   }
 }

@@ -1,24 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Z.Newcastle Utd - Z.Tottenham",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 15.5 a 2.63 (489.4%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Brighton - Z.Man United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Fulham - Z.Chelsea",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 6.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Z.Fulham - Z.Chelsea",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.37 a 1.17 (17.1%)"
@@ -2998,5 +2980,23 @@
     "match": "Avispa Fukuoka - Mito Hollyhock",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 6.5 a 7.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Krylia Sovetov Samara - Krasnodar",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Krylia Sovetov Samara - Krasnodar",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.63 a 1.41 (15.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Krylia Sovetov Samara - Krasnodar",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.06 a 2.56 (24.3%)"
   }
 ]
