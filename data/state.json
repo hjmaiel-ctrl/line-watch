@@ -21,30 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788596039.398589
-    },
-    "Palmerston Rovers|Darwin Olympic": {
-      "home": "Palmerston Rovers",
-      "away": "Darwin Olympic",
-      "event_id": "10054626",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788596066.0558312
+      "last_checked": 1788596959.483348
     },
     "Joondalup City|Armadale": {
       "home": "Joondalup City",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788596092.51956
+      "last_checked": 1788596986.2450492
     },
     "Floreat Athena FC Reserves|Kingsley Westside FC": {
       "home": "Floreat Athena FC Reserves",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788596119.099926
+      "last_checked": 1788597012.9823222
     },
     "Shaanxi Union FC|Jiangxi Dingnan United F.C.": {
       "home": "Shaanxi Union FC",
@@ -113,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788596145.7960696
+      "last_checked": 1788597039.9712968
+    },
+    "Sturt Lions Reserve|North Eastern Metrostars SC Reserves": {
+      "home": "Sturt Lions Reserve",
+      "away": "North Eastern Metrostars SC Reserves",
+      "event_id": "10054634",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788597066.6965148
     }
   }
 }
