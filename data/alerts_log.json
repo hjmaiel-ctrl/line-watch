@@ -1,12 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Z.Brighton - Z.Man United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.5 a 1.24 (262.9%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Z.Ipswich Town - Z.Newcastle Utd",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.25 a 8.25 (560.0%)"
@@ -2998,5 +2992,11 @@
     "match": "São Paulo - Atlético Mineiro",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.35 a 2.65 (12.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "São Paulo - Atlético Mineiro",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.5 a 2.7 (8.0%)"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788647885.4291658,
+  "generated_at": 1788648423.8005848,
   "matches": [
     {
       "match": "São Paulo - Atlético Mineiro",
@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 13.5,
             "odds": [
-              1.45,
-              2.5
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 13.5,
-                "over": 1.45,
-                "under": 2.5
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 14.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 1.78,
+                "under": 1.9
               },
               {
                 "line": 15.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           },
@@ -44,7 +44,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "São Paulo - Atlético Mineiro",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.5 a 2.7 (8.0%)"
+        }
+      ]
     },
     {
       "match": "San Lorenzo - Talleres de Córdoba",
@@ -135,5 +142,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }
