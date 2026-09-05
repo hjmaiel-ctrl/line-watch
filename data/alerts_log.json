@@ -1,18 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Z.Hull City - Z.Brighton",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.6 a 4.25 (18.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Rewa FC - Lautoka FC",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 1.02 a 13.0 (1174.5%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Rewa FC - Lautoka FC",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 10.5 a 34.0 (223.8%)"
@@ -2998,5 +2986,17 @@
     "match": "São Paulo - Atlético Mineiro",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.85 a 4.75 (66.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "San Lorenzo - Talleres de Córdoba",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 28.0 a 57.0 (103.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "San Lorenzo - Talleres de Córdoba",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 5.0 a 8.0 (60.0%)"
   }
 ]

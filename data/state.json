@@ -7,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.13,
-              4.75
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.13,
-                "under": 4.75
-              },
-              {
-                "line": 13.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 14.5,
-                "over": 2.65,
-                "under": 1.4
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788649710.6589146
+      "last_checked": 1788650433.577631
     },
     "San Lorenzo|Talleres de Córdoba": {
       "home": "San Lorenzo",
@@ -59,8 +36,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            28.0,
-            5.0
+            57.0,
+            8.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -71,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788649743.2259731
+      "last_checked": 1788650465.3403897
     },
     "Ceará SC|Sport Club do Recife": {
       "home": "Ceará SC",
@@ -94,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788649770.2396913
+      "last_checked": 1788650491.9156215
     },
     "Everton de Viña del Mar|Universidad Católica": {
       "home": "Everton de Viña del Mar",
@@ -117,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788649797.2151706
+      "last_checked": 1788650518.6367924
     },
     "Sportivo San Lorenzo|CS 2 de Mayo": {
       "home": "Sportivo San Lorenzo",
@@ -130,11 +107,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            30.0,
-            5.1
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -144,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788649829.6355524
+      "last_checked": 1788650545.1479235
     }
   }
 }
