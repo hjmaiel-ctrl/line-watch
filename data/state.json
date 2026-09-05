@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 13.5,
             "odds": [
-              1.4,
-              2.65
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 13.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 14.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 15.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788646959.6754286
+      "last_checked": 1788647776.9912832
     },
     "San Lorenzo|Talleres de Córdoba": {
       "home": "San Lorenzo",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788646986.3789046
+      "last_checked": 1788647804.0757153
     },
     "EC Juventude|Atlético Goianiense": {
       "home": "EC Juventude",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788647012.6309917
+      "last_checked": 1788647831.0008364
     },
     "Ceará SC|Sport Club do Recife": {
       "home": "Ceará SC",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788647039.0006938
+      "last_checked": 1788647858.3407612
     },
     "Everton de Viña del Mar|Universidad Católica": {
       "home": "Everton de Viña del Mar",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788647065.197533
+      "last_checked": 1788647885.3760812
     }
   }
 }
