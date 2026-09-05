@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788603812.847547,
+  "generated_at": 1788604707.33951,
   "matches": [
     {
       "match": "Tondela - FC Porto B",
@@ -29,40 +29,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 8.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 9.5,
-                "over": 2.15,
-                "under": 1.6
-              },
-              {
-                "line": 10.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 11.5,
-                "over": 4.5,
-                "under": 1.15
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -76,14 +43,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Avispa Fukuoka - Mito Hollyhock",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 7.5"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Kryvbas Kriviy Rih - Kolos Kovalivka",
@@ -152,5 +112,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 0
 }

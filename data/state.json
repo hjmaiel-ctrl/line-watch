@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788603708.1787755
+      "last_checked": 1788604599.5431263
     },
     "Avispa Fukuoka|Mito Hollyhock": {
       "home": "Avispa Fukuoka",
@@ -30,40 +30,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 8.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 9.5,
-                "over": 2.15,
-                "under": 1.6
-              },
-              {
-                "line": 10.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 11.5,
-                "over": 4.5,
-                "under": 1.15
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -77,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788603732.9797096
+      "last_checked": 1788604626.5156033
     },
     "Kryvbas Kriviy Rih|Kolos Kovalivka": {
       "home": "Kryvbas Kriviy Rih",
@@ -100,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788603759.426049
+      "last_checked": 1788604653.5331848
     },
     "Metalist 1925|Obolon-Brovar Kiev": {
       "home": "Metalist 1925",
@@ -123,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788603786.3085916
+      "last_checked": 1788604680.3595808
     },
     "Fujieda MYFC|Vanraure Hachnohe": {
       "home": "Fujieda MYFC",
@@ -146,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788603812.8031406
+      "last_checked": 1788604707.30414
     }
   }
 }
