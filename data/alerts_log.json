@@ -1,42 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Toin University of Yokohama - Hosei University",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 15.0 a 7.75 (93.5%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Toin University of Yokohama - Hosei University",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 4.5 a 1.23 (265.9%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Nottingham Forest - Z.Leeds",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 3.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Nottingham Forest - Z.Leeds",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 7.55 a 24.5 (224.5%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Ipswich Town - Z.Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Ipswich Town - Z.Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.23 a 1.12 (9.8%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Z.Ipswich Town - Z.Aston Villa",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.1 a 6.65 (62.2%)"
@@ -2998,5 +2962,41 @@
     "match": "Rayo Vallecano - Racing Santander",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.65 a 1.9 (15.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Hull City - Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hull City - Aston Villa",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 12.0 a 3.0 (300.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Hull City - Aston Villa",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hull City - Aston Villa",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.87 a 1.73 (8.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hull City - Aston Villa",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.8 a 1.95 (8.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Rayo Vallecano - Racing Santander",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 11.5"
   }
 ]
