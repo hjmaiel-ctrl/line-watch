@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788591461.8489025
+      "last_checked": 1788592273.0616586
     },
     "Tiamo Hirakata|Maruyasu Okazaki": {
       "home": "Tiamo Hirakata",
@@ -34,11 +34,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            65.0,
-            11.5
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -48,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788591493.6292443
+      "last_checked": 1788592299.5348747
     },
     "Minebea Mitsumi FC|Okinawa": {
       "home": "Minebea Mitsumi FC",
@@ -71,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788591520.2617502
+      "last_checked": 1788592326.1013718
     },
     "Verspah Oita|Iwate Grulla Morioka": {
       "home": "Verspah Oita",
@@ -94,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788591546.9543345
+      "last_checked": 1788592352.77064
     },
     "Modbury Jets|Adelaide Olympic": {
       "home": "Modbury Jets",
@@ -117,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788591573.6055188
+      "last_checked": 1788592379.4227443
     }
   }
 }
