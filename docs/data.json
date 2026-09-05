@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788585031.8300943,
+  "generated_at": 1788585825.4277093,
   "matches": [
     {
       "match": "Labasa FC - Suva FC",
@@ -35,8 +35,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            12.0,
-            4.5
+            45.0,
+            5.2
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -47,7 +47,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "The Cove FC Reserves - Adelaide Olympic Reserve",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 12.0 a 45.0 (275.0%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "The Cove FC Reserves - Adelaide Olympic Reserve",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 4.5 a 5.2 (15.6%)"
+        }
+      ]
     },
     {
       "match": "Newmarket - AC Carina",
@@ -116,5 +129,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }

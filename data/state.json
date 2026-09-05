@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788584919.2875757
+      "last_checked": 1788585711.8953528
     },
     "The Cove FC Reserves|Adelaide Olympic Reserve": {
       "home": "The Cove FC Reserves",
@@ -36,8 +36,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            12.0,
-            4.5
+            45.0,
+            5.2
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788584951.2491927
+      "last_checked": 1788585744.133059
     },
     "Newmarket|AC Carina": {
       "home": "Newmarket",
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788584978.2766702
+      "last_checked": 1788585771.0759466
     },
     "Cashmere Technical|Fencibles United AFC": {
       "home": "Cashmere Technical",
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788585005.1293647
+      "last_checked": 1788585798.449399
     },
     "Central Coast FC|Green Shield": {
       "home": "Central Coast FC",
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788585031.7891886
+      "last_checked": 1788585825.3740652
     }
   }
 }
