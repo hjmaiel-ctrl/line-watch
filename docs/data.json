@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788626979.1709838,
+  "generated_at": 1788627519.9877884,
   "matches": [
     {
       "match": "Hull City - Aston Villa",
@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.22,
-              3.65
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
                 "line": 7.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.18,
+                "under": 4.1
               },
               {
                 "line": 8.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.78,
+                "under": 1.9
               },
               {
                 "line": 10.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 11.5,
+                "over": 3.5,
+                "under": 1.22
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              2.15,
-              1.6
+              2.2,
+              1.57
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 2.2,
+                "under": 1.57
               }
             ]
           }
@@ -69,24 +69,86 @@
       },
       "alerts": [
         {
+          "type": "linea_cambiata",
+          "match": "Hull City - Aston Villa",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 6.5 a 7.5"
+        },
+        {
           "type": "quota_cambiata",
           "match": "Hull City - Aston Villa",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.25 a 3.65 (12.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Hull City - Aston Villa",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.95 a 2.15 (10.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Hull City - Aston Villa",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.73 a 1.6 (8.1%)"
+          "detail": "bet9ja: esito #2 passato da 3.65 a 4.1 (12.3%)"
         }
       ]
+    },
+    {
+      "match": "Rayo Vallecano - Racing Santander",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.2,
+              3.75
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.2,
+                "under": 3.75
+              },
+              {
+                "line": 9.5,
+                "over": 1.42,
+                "under": 2.6
+              },
+              {
+                "line": 10.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 11.5,
+                "over": 2.25,
+                "under": 1.55
+              },
+              {
+                "line": 12.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.65,
+              2.05
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.65,
+                "under": 2.05
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     },
     {
       "match": "Internazionale - Napoli",
@@ -97,48 +159,48 @@
           "CORNERS_OU": {
             "line": 12.5,
             "odds": [
-              1.18,
-              4.1
+              1.2,
+              3.9
             ],
             "_all_lines": [
               {
                 "line": 12.5,
-                "over": 1.18,
-                "under": 4.1
+                "over": 1.2,
+                "under": 3.9
               },
               {
                 "line": 13.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 14.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 15.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.85,
+                "under": 1.35
               },
               {
                 "line": 16.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              2.3,
-              1.52
+              2.35,
+              1.5
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.35,
+                "under": 1.5
               }
             ]
           }
@@ -154,20 +216,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Internazionale - Napoli",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.98 a 2.3 (16.2%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Internazionale - Napoli",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.7 a 1.52 (11.8%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Schalke - Bayern Munich",
@@ -197,93 +246,6 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.04,
-              7.5
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.04,
-                "under": 7.5
-              },
-              {
-                "line": 7.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 8.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 9.5,
-                "over": 3.25,
-                "under": 1.28
-              },
-              {
-                "line": 10.5,
-                "over": 5.5,
-                "under": 1.1
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.38,
-              2.7
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.38,
-                "under": 2.7
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "RC Lens - FC Lorient",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 6.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "RC Lens - FC Lorient",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.15 a 1.04 (10.6%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "RC Lens - FC Lorient",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.5 a 7.5 (66.7%)"
-        }
-      ]
-    },
-    {
-      "match": "FC Utrecht - Go Ahead Eagles",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -301,5 +263,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 8
+  "alert_count_this_run": 2
 }

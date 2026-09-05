@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.22,
-              3.65
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
                 "line": 7.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.18,
+                "under": 4.1
               },
               {
                 "line": 8.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.78,
+                "under": 1.9
               },
               {
                 "line": 10.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 11.5,
+                "over": 3.5,
+                "under": 1.22
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              2.15,
-              1.6
+              2.2,
+              1.57
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 2.15,
-                "under": 1.6
+                "over": 2.2,
+                "under": 1.57
               }
             ]
           }
@@ -67,7 +67,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788626879.6113443
+      "last_checked": 1788627420.8324819
+    },
+    "Rayo Vallecano|Racing Santander": {
+      "home": "Rayo Vallecano",
+      "away": "Racing Santander",
+      "event_id": "10055392",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.2,
+              3.75
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.2,
+                "under": 3.75
+              },
+              {
+                "line": 9.5,
+                "over": 1.42,
+                "under": 2.6
+              },
+              {
+                "line": 10.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 11.5,
+                "over": 2.25,
+                "under": 1.55
+              },
+              {
+                "line": 12.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.65,
+              2.05
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.65,
+                "under": 2.05
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788627443.8397474
     },
     "Internazionale|Napoli": {
       "home": "Internazionale",
@@ -79,48 +148,48 @@
           "CORNERS_OU": {
             "line": 12.5,
             "odds": [
-              1.18,
-              4.1
+              1.2,
+              3.9
             ],
             "_all_lines": [
               {
                 "line": 12.5,
-                "over": 1.18,
-                "under": 4.1
+                "over": 1.2,
+                "under": 3.9
               },
               {
                 "line": 13.5,
-                "over": 1.42,
-                "under": 2.6
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 14.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 1.98,
+                "under": 1.7
               },
               {
                 "line": 15.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.85,
+                "under": 1.35
               },
               {
                 "line": 16.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              2.3,
-              1.52
+              2.35,
+              1.5
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.35,
+                "under": 1.5
               }
             ]
           }
@@ -136,7 +205,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788626902.6652086
+      "last_checked": 1788627466.848458
     },
     "Schalke|Bayern Munich": {
       "home": "Schalke",
@@ -159,7 +228,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788626929.3076863
+      "last_checked": 1788627493.4677453
     },
     "RC Lens|FC Lorient": {
       "home": "RC Lens",
@@ -168,75 +237,6 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.04,
-              7.5
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.04,
-                "under": 7.5
-              },
-              {
-                "line": 7.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 8.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 9.5,
-                "over": 3.25,
-                "under": 1.28
-              },
-              {
-                "line": 10.5,
-                "over": 5.5,
-                "under": 1.1
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.38,
-              2.7
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.38,
-                "under": 2.7
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788626952.451576
-    },
-    "FC Utrecht|Go Ahead Eagles": {
-      "home": "FC Utrecht",
-      "away": "Go Ahead Eagles",
-      "event_id": "10055402",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -251,7 +251,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788626979.1183662
+      "last_checked": 1788627519.9424412
     }
   }
 }
