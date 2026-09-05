@@ -1,5 +1,51 @@
 {
   "matches": {
+    "São Paulo|Atlético Mineiro": {
+      "home": "São Paulo",
+      "away": "Atlético Mineiro",
+      "event_id": "10055643",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.52,
+              2.3
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 11.5,
+                "over": 1.85,
+                "under": 1.82
+              },
+              {
+                "line": 12.5,
+                "over": 2.3,
+                "under": 1.52
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788644297.3224583
+    },
     "EC Juventude|Atlético Goianiense": {
       "home": "EC Juventude",
       "away": "Atlético Goianiense",
@@ -21,7 +67,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788643664.0625124
+      "last_checked": 1788644323.904833
+    },
+    "Ceará SC|Sport Club do Recife": {
+      "home": "Ceará SC",
+      "away": "Sport Club do Recife",
+      "event_id": "10055642",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788644350.4973042
+    },
+    "Everton de Viña del Mar|Universidad Católica": {
+      "home": "Everton de Viña del Mar",
+      "away": "Universidad Católica",
+      "event_id": "10055646",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788644377.2768137
     },
     "Sport Huancayo|Sport Boys": {
       "home": "Sport Huancayo",
@@ -44,76 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788643690.5797815
-    },
-    "ASO Chlef|CR Belouizdad": {
-      "home": "ASO Chlef",
-      "away": "CR Belouizdad",
-      "event_id": "10055627",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788643717.2127047
-    },
-    "Boyacá Chicó|Once Caldas": {
-      "home": "Boyacá Chicó",
-      "away": "Once Caldas",
-      "event_id": "10055636",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788643743.798693
-    },
-    "Monagas Reserve|Aragua": {
-      "home": "Monagas Reserve",
-      "away": "Aragua",
-      "event_id": "10055605",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788643770.412976
+      "last_checked": 1788644403.795524
     }
   }
 }
