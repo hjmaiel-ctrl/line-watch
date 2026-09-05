@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788593973.673158
+      "last_checked": 1788594547.4340277
     },
     "Minebea Mitsumi FC|Okinawa": {
       "home": "Minebea Mitsumi FC",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788594000.208149
+      "last_checked": 1788594574.4645784
     },
     "Verspah Oita|Iwate Grulla Morioka": {
       "home": "Verspah Oita",
@@ -67,34 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788594026.7311368
-    },
-    "Modbury Jets|Adelaide Olympic": {
-      "home": "Modbury Jets",
-      "away": "Adelaide Olympic",
-      "event_id": "10054617",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            2.95,
-            1.3
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788594058.5577598
+      "last_checked": 1788594601.319682
     },
     "Canberra FC|Queanbeyan City": {
       "home": "Canberra FC",
@@ -117,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788594085.0709336
+      "last_checked": 1788594628.3921485
+    },
+    "Palmerston Rovers|Darwin Olympic": {
+      "home": "Palmerston Rovers",
+      "away": "Darwin Olympic",
+      "event_id": "10054626",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788594655.2658267
     }
   }
 }
