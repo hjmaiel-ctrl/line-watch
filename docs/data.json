@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788605850.4770517,
+  "generated_at": 1788606618.462647,
   "matches": [
     {
       "match": "Tondela - FC Porto B",
@@ -46,6 +46,51 @@
       "alerts": []
     },
     {
+      "match": "Krylia Sovetov Samara - Krasnodar",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.63,
+              2.06
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.63,
+                "under": 2.06
+              },
+              {
+                "line": 10.5,
+                "over": 2.02,
+                "under": 1.66
+              },
+              {
+                "line": 11.5,
+                "over": 2.56,
+                "under": 1.41
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
       "match": "Kryvbas Kriviy Rih - Kolos Kovalivka",
       "bet9ja_stats": null,
       "odds": {
@@ -69,28 +114,6 @@
     },
     {
       "match": "Metalist 1925 - Obolon-Brovar Kiev",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Fujieda MYFC - Vanraure Hachnohe",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788605742.2750385
+      "last_checked": 1788606513.553035
     },
     "Avispa Fukuoka|Mito Hollyhock": {
       "home": "Avispa Fukuoka",
@@ -44,7 +44,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788605769.414952
+      "last_checked": 1788606540.436926
+    },
+    "Krylia Sovetov Samara|Krasnodar": {
+      "home": "Krylia Sovetov Samara",
+      "away": "Krasnodar",
+      "event_id": "10054914",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.63,
+              2.06
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.63,
+                "under": 2.06
+              },
+              {
+                "line": 10.5,
+                "over": 2.02,
+                "under": 1.66
+              },
+              {
+                "line": 11.5,
+                "over": 2.56,
+                "under": 1.41
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788606565.2481213
     },
     "Kryvbas Kriviy Rih|Kolos Kovalivka": {
       "home": "Kryvbas Kriviy Rih",
@@ -67,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788605796.4077635
+      "last_checked": 1788606591.9103153
     },
     "Metalist 1925|Obolon-Brovar Kiev": {
       "home": "Metalist 1925",
@@ -90,30 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788605823.3866074
-    },
-    "Fujieda MYFC|Vanraure Hachnohe": {
-      "home": "Fujieda MYFC",
-      "away": "Vanraure Hachnohe",
-      "event_id": "10054753",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788605850.431314
+      "last_checked": 1788606618.4238453
     }
   }
 }
