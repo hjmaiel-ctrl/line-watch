@@ -8,26 +8,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 8.5,
             "odds": [
-              1.52,
-              2.2
+              1.18,
+              3.75
             ],
             "_all_lines": [
               {
+                "line": 8.5,
+                "over": 1.18,
+                "under": 3.75
+              },
+              {
                 "line": 9.5,
-                "over": 1.52,
-                "under": 2.2
+                "over": 2.05,
+                "under": 1.6
               },
               {
                 "line": 10.5,
-                "over": 2.2,
-                "under": 1.52
-              },
-              {
-                "line": 11.5,
-                "over": 3.5,
-                "under": 1.2
+                "over": 4.0,
+                "under": 1.16
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788573456.2494774
+      "last_checked": 1788574334.9514863
     },
     "Deportes Concepción|Audax Italiano": {
       "home": "Deportes Concepción",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788573482.8102365
+      "last_checked": 1788574361.8299296
     },
     "Club Deportivo Técnico Universitario|LDU Quito": {
       "home": "Club Deportivo Técnico Universitario",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788573509.4078515
+      "last_checked": 1788574388.7199056
     },
     "Orsomarso SC|Real Cartagena": {
       "home": "Orsomarso SC",
@@ -113,12 +113,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788573536.0961616
+      "last_checked": 1788574415.3890715
     },
-    "Laugu United|SOSA FC": {
-      "home": "Laugu United",
-      "away": "SOSA FC",
-      "event_id": "10054568",
+    "North Texas|Real Monarchs SLC": {
+      "home": "North Texas",
+      "away": "Real Monarchs SLC",
+      "event_id": "10054569",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -126,11 +126,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            10.0,
-            1.75
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -140,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788573567.83154
+      "last_checked": 1788574444.3914754
     }
   }
 }
