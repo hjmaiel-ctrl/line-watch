@@ -1,28 +1,5 @@
 {
   "matches": {
-    "North Texas|Real Monarchs SLC": {
-      "home": "North Texas",
-      "away": "Real Monarchs SLC",
-      "event_id": "10054569",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788576145.8731935
-    },
     "Alacranes de Durango|Tlaxcala F.C.": {
       "home": "Alacranes de Durango",
       "away": "Tlaxcala F.C.",
@@ -34,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            19.5,
+            3.6
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -44,53 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788576172.547916
-    },
-    "Panama City FC|Potros del Este FC": {
-      "home": "Panama City FC",
-      "away": "Potros del Este FC",
-      "event_id": "10054580",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788576199.2180445
-    },
-    "CD Choloma|Olancho FC": {
-      "home": "CD Choloma",
-      "away": "Olancho FC",
-      "event_id": "10054582",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788576225.9543152
+      "last_checked": 1788576951.3214316
     },
     "Antigua GFC|Aurora FC": {
       "home": "Antigua GFC",
@@ -113,7 +48,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788576252.4480622
+      "last_checked": 1788576978.0687733
+    },
+    "Árabe Unido|Veraguas FC": {
+      "home": "Árabe Unido",
+      "away": "Veraguas FC",
+      "event_id": "10054584",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788577004.7470236
+    },
+    "Lautoka FC|Nadi FC": {
+      "home": "Lautoka FC",
+      "away": "Nadi FC",
+      "event_id": "10054585",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788577031.6181023
+    },
+    "RB Do Norte AM|CDC Manicore AM": {
+      "home": "RB Do Norte AM",
+      "away": "CDC Manicore AM",
+      "event_id": "10054587",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788577058.6002443
     }
   }
 }
