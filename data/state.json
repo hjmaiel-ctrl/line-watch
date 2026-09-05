@@ -1,97 +1,5 @@
 {
   "matches": {
-    "Ba F.C.|Rewa FC": {
-      "home": "Ba F.C.",
-      "away": "Rewa FC",
-      "event_id": "10054613",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788594547.4340277
-    },
-    "Minebea Mitsumi FC|Okinawa": {
-      "home": "Minebea Mitsumi FC",
-      "away": "Okinawa",
-      "event_id": "10054615",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788594574.4645784
-    },
-    "Verspah Oita|Iwate Grulla Morioka": {
-      "home": "Verspah Oita",
-      "away": "Iwate Grulla Morioka",
-      "event_id": "10054616",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788594601.319682
-    },
-    "Canberra FC|Queanbeyan City": {
-      "home": "Canberra FC",
-      "away": "Queanbeyan City",
-      "event_id": "10054625",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788594628.3921485
-    },
     "Palmerston Rovers|Darwin Olympic": {
       "home": "Palmerston Rovers",
       "away": "Darwin Olympic",
@@ -113,7 +21,99 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788594655.2658267
+      "last_checked": 1788595096.705611
+    },
+    "Joondalup City|Armadale": {
+      "home": "Joondalup City",
+      "away": "Armadale",
+      "event_id": "10054631",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788595123.222681
+    },
+    "Floreat Athena FC Reserves|Kingsley Westside FC": {
+      "home": "Floreat Athena FC Reserves",
+      "away": "Kingsley Westside FC",
+      "event_id": "10054632",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788595149.7484782
+    },
+    "Shaanxi Union FC|Jiangxi Dingnan United F.C.": {
+      "home": "Shaanxi Union FC",
+      "away": "Jiangxi Dingnan United F.C.",
+      "event_id": "10054633",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788595189.7358007
+    },
+    "Sturt Lions Reserve|North Eastern Metrostars SC Reserves": {
+      "home": "Sturt Lions Reserve",
+      "away": "North Eastern Metrostars SC Reserves",
+      "event_id": "10054634",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788595216.2740755
     }
   }
 }
