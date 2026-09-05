@@ -1,24 +1,57 @@
 {
-  "generated_at": 1788636143.5524995,
+  "generated_at": 1788636710.9801865,
   "matches": [
     {
-      "match": "AS Roma - Atalanta",
+      "match": "Villarreal - Deportivo La Coruña",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 2.5,
+          "CORNERS_OU": {
+            "line": 7.5,
             "odds": [
-              1.7,
-              1.98
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.7,
-                "under": 1.98
+                "line": 7.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 8.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 9.5,
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 10.5,
+                "over": 3.0,
+                "under": 1.32
+              },
+              {
+                "line": 11.5,
+                "over": 4.25,
+                "under": 1.17
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.95,
+              1.73
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.95,
+                "under": 1.73
               }
             ]
           }
@@ -37,56 +70,56 @@
       "alerts": []
     },
     {
-      "match": "OGC Nice - Le Mans FC",
+      "match": "AS Roma - Atalanta",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 10.5,
             "odds": [
-              1.2,
-              3.9
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
-                "line": 8.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
-                "line": 9.5,
-                "over": 1.8,
-                "under": 1.87
-              },
-              {
                 "line": 10.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.18,
+                "under": 4.1
               },
               {
                 "line": 11.5,
-                "over": 3.5,
-                "under": 1.22
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 12.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 13.5,
+                "over": 2.65,
+                "under": 1.4
+              },
+              {
+                "line": 14.5,
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              1.87,
-              1.8
+              1.9,
+              1.78
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.87,
-                "under": 1.8
+                "line": 2.5,
+                "over": 1.9,
+                "under": 1.78
               }
             ]
           }
@@ -104,30 +137,40 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
-          "match": "OGC Nice - Le Mans FC",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 7.5"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "OGC Nice - Le Mans FC",
+          "type": "quota_cambiata",
+          "match": "AS Roma - Atalanta",
           "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 3.5"
+          "detail": "bet9ja: esito #1 passato da 1.7 a 1.9 (11.8%)"
         },
         {
           "type": "quota_cambiata",
-          "match": "OGC Nice - Le Mans FC",
+          "match": "AS Roma - Atalanta",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.1 a 1.87 (12.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "OGC Nice - Le Mans FC",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.62 a 1.8 (11.1%)"
+          "detail": "bet9ja: esito #2 passato da 1.98 a 1.78 (11.2%)"
         }
       ]
+    },
+    {
+      "match": "OGC Nice - Le Mans FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     },
     {
       "match": "Le Havre AC - Stade Brestois 29",
@@ -136,53 +179,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 8.5,
             "odds": [
-              1.25,
-              3.45
+              1.18,
+              4.0
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 7.5,
-                "over": 1.52,
-                "under": 2.3
-              },
-              {
                 "line": 8.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.18,
+                "under": 4.0
               },
               {
                 "line": 9.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 10.5,
-                "over": 3.9,
-                "under": 1.2
+                "over": 1.87,
+                "under": 1.8
+              },
+              {
+                "line": 11.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 12.5,
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.98,
-              1.7
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.98,
-                "under": 1.7
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -197,16 +227,16 @@
       },
       "alerts": [
         {
-          "type": "quota_cambiata",
+          "type": "linea_cambiata",
           "match": "Le Havre AC - Stade Brestois 29",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.75 a 1.98 (13.1%)"
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 6.5 a 8.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Le Havre AC - Stade Brestois 29",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.92 a 1.7 (12.9%)"
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.45 a 4.0 (15.9%)"
         }
       ]
     },
@@ -231,29 +261,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Willem II - Excelsior Rotterdam",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 6
+  "alert_count_this_run": 4
 }

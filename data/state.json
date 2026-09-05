@@ -1,24 +1,57 @@
 {
   "matches": {
-    "AS Roma|Atalanta": {
-      "home": "AS Roma",
-      "away": "Atalanta",
-      "event_id": "10044550",
+    "Villarreal|Deportivo La Coruña": {
+      "home": "Villarreal",
+      "away": "Deportivo La Coruña",
+      "event_id": "10055572",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 2.5,
+          "CORNERS_OU": {
+            "line": 7.5,
             "odds": [
-              1.7,
-              1.98
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.7,
-                "under": 1.98
+                "line": 7.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 8.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 9.5,
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 10.5,
+                "over": 3.0,
+                "under": 1.32
+              },
+              {
+                "line": 11.5,
+                "over": 4.25,
+                "under": 1.17
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.95,
+              1.73
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.95,
+                "under": 1.73
               }
             ]
           }
@@ -34,7 +67,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788636045.4713569
+      "last_checked": 1788636609.1012783
+    },
+    "AS Roma|Atalanta": {
+      "home": "AS Roma",
+      "away": "Atalanta",
+      "event_id": "10044550",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.18,
+              4.1
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.18,
+                "under": 4.1
+              },
+              {
+                "line": 11.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 12.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 13.5,
+                "over": 2.65,
+                "under": 1.4
+              },
+              {
+                "line": 14.5,
+                "over": 4.1,
+                "under": 1.18
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.9,
+              1.78
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.9,
+                "under": 1.78
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788636632.1613069
     },
     "OGC Nice|Le Mans FC": {
       "home": "OGC Nice",
@@ -43,54 +145,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.2,
-              3.9
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
-                "line": 8.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
-                "line": 9.5,
-                "over": 1.8,
-                "under": 1.87
-              },
-              {
-                "line": 10.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 11.5,
-                "over": 3.5,
-                "under": 1.22
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.87,
-              1.8
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.87,
-                "under": 1.8
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -103,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788636068.6024818
+      "last_checked": 1788636658.9062405
     },
     "Le Havre AC|Stade Brestois 29": {
       "home": "Le Havre AC",
@@ -113,53 +169,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 8.5,
             "odds": [
-              1.25,
-              3.45
+              1.18,
+              4.0
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 7.5,
-                "over": 1.52,
-                "under": 2.3
-              },
-              {
                 "line": 8.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 1.18,
+                "under": 4.0
               },
               {
                 "line": 9.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 10.5,
-                "over": 3.9,
-                "under": 1.2
+                "over": 1.87,
+                "under": 1.8
+              },
+              {
+                "line": 11.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 12.5,
+                "over": 3.65,
+                "under": 1.22
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.98,
-              1.7
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.98,
-                "under": 1.7
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -172,7 +215,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788636091.3095906
+      "last_checked": 1788636683.9935467
     },
     "Ajax|PSV Eindhoven": {
       "home": "Ajax",
@@ -195,30 +238,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788636117.4087675
-    },
-    "Willem II|Excelsior Rotterdam": {
-      "home": "Willem II",
-      "away": "Excelsior Rotterdam",
-      "event_id": "10055580",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788636143.5087078
+      "last_checked": 1788636710.9347034
     }
   }
 }
