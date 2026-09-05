@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788609430.2091842,
+  "generated_at": 1788610388.8207648,
   "matches": [
     {
       "match": "Newcastle United - AFC Bournemouth",
@@ -7,18 +7,51 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 3.5,
+          "CORNERS_OU": {
+            "line": 8.5,
             "odds": [
-              1.6,
-              2.15
+              1.2,
+              3.75
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.6,
-                "under": 2.15
+                "line": 8.5,
+                "over": 1.2,
+                "under": 3.75
+              },
+              {
+                "line": 9.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 10.5,
+                "over": 1.87,
+                "under": 1.8
+              },
+              {
+                "line": 11.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 12.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.98,
+              1.7
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.98,
+                "under": 1.7
               }
             ]
           }
@@ -39,24 +72,46 @@
           "type": "linea_cambiata",
           "match": "Newcastle United - AFC Bournemouth",
           "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 3.5"
+          "detail": "bet9ja: linea passata da 3.5 a 4.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Newcastle United - AFC Bournemouth",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.92 a 1.6 (20.0%)"
+          "detail": "bet9ja: esito #1 passato da 1.6 a 1.98 (23.7%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Newcastle United - AFC Bournemouth",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.75 a 2.15 (22.9%)"
+          "detail": "bet9ja: esito #2 passato da 2.15 a 1.7 (26.5%)"
         }
       ]
     },
     {
       "match": "Knowle FC - Worcester City",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Curzon Ashton - Bradford Park Avenue",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -101,28 +156,6 @@
     },
     {
       "match": "Wigan Athletic - Stockport County",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Fleetwood Town - Shrewsbury Town",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

@@ -7,18 +7,51 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 3.5,
+          "CORNERS_OU": {
+            "line": 8.5,
             "odds": [
-              1.6,
-              2.15
+              1.2,
+              3.75
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.6,
-                "under": 2.15
+                "line": 8.5,
+                "over": 1.2,
+                "under": 3.75
+              },
+              {
+                "line": 9.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 10.5,
+                "over": 1.87,
+                "under": 1.8
+              },
+              {
+                "line": 11.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 12.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.98,
+              1.7
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.98,
+                "under": 1.7
               }
             ]
           }
@@ -34,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788609322.0220385
+      "last_checked": 1788610281.0861168
     },
     "Knowle FC|Worcester City": {
       "home": "Knowle FC",
@@ -57,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788609348.9810638
+      "last_checked": 1788610307.9947033
+    },
+    "Curzon Ashton|Bradford Park Avenue": {
+      "home": "Curzon Ashton",
+      "away": "Bradford Park Avenue",
+      "event_id": "10054945",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788610334.5416522
     },
     "Peterborough United|Sheffield Wednesday": {
       "home": "Peterborough United",
@@ -80,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788609376.09091
+      "last_checked": 1788610362.005719
     },
     "Wigan Athletic|Stockport County": {
       "home": "Wigan Athletic",
@@ -103,30 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788609403.1728559
-    },
-    "Fleetwood Town|Shrewsbury Town": {
-      "home": "Fleetwood Town",
-      "away": "Shrewsbury Town",
-      "event_id": "10054917",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788609430.1639233
+      "last_checked": 1788610388.770605
     }
   }
 }
