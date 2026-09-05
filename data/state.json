@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.2,
-              3.75
+              1.32,
+              2.95
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.2,
-                "under": 3.75
+                "over": 1.32,
+                "under": 2.95
               },
               {
                 "line": 9.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 10.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 11.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.98,
-              1.7
+              2.2,
+              1.57
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 2.2,
+                "under": 1.57
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788610281.0861168
+      "last_checked": 1788611338.6148653
     },
     "Knowle FC|Worcester City": {
       "home": "Knowle FC",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788610307.9947033
+      "last_checked": 1788611365.5462286
     },
     "Curzon Ashton|Bradford Park Avenue": {
       "home": "Curzon Ashton",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788610334.5416522
+      "last_checked": 1788611392.3049467
     },
     "Peterborough United|Sheffield Wednesday": {
       "home": "Peterborough United",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788610362.005719
+      "last_checked": 1788611419.1298583
     },
     "Wigan Athletic|Stockport County": {
       "home": "Wigan Athletic",
@@ -159,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788610388.770605
+      "last_checked": 1788611445.9501874
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788610388.8207648,
+  "generated_at": 1788611445.993148,
   "matches": [
     {
       "match": "Newcastle United - AFC Bournemouth",
@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.2,
-              3.75
+              1.32,
+              2.95
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.2,
-                "under": 3.75
+                "over": 1.32,
+                "under": 2.95
               },
               {
                 "line": 9.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 10.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 11.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.98,
-              1.7
+              2.2,
+              1.57
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 2.2,
+                "under": 1.57
               }
             ]
           }
@@ -69,22 +69,28 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Newcastle United - AFC Bournemouth",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 3.5 a 4.5"
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.2 a 1.32 (10.0%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Newcastle United - AFC Bournemouth",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.75 a 2.95 (27.1%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Newcastle United - AFC Bournemouth",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.6 a 1.98 (23.7%)"
+          "detail": "bet9ja: esito #1 passato da 1.98 a 2.2 (11.1%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Newcastle United - AFC Bournemouth",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.15 a 1.7 (26.5%)"
+          "detail": "bet9ja: esito #2 passato da 1.7 a 1.57 (8.3%)"
         }
       ]
     },
@@ -177,5 +183,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 4
 }
