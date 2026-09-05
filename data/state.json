@@ -8,36 +8,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 11.5,
             "odds": [
-              1.01,
-              10.0
+              1.4,
+              2.7
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.01,
-                "under": 10.0
-              },
-              {
                 "line": 11.5,
-                "over": 1.3,
-                "under": 3.1
+                "over": 1.4,
+                "under": 2.7
               },
               {
                 "line": 12.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 2.5,
+                "under": 1.45
               },
               {
                 "line": 13.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 4.75,
+                "under": 1.13
               },
               {
                 "line": 14.5,
-                "over": 5.0,
-                "under": 1.12
+                "over": 8.0,
+                "under": 1.03
+              },
+              {
+                "line": 15.5,
+                "over": 11.0,
+                "under": null
               }
             ]
           },
@@ -54,61 +54,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788641993.9544349
-    },
-    "Giugliano|Sorrento": {
-      "home": "Giugliano",
-      "away": "Sorrento",
-      "event_id": "10055595",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            11.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788642027.0532207
-    },
-    "Red Bull Bragantino|Esporte Clube Bahia": {
-      "home": "Red Bull Bragantino",
-      "away": "Esporte Clube Bahia",
-      "event_id": "10055571",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            11.5
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788642058.928127
+      "last_checked": 1788642907.8775034
     },
     "Gimnasia y Esgrima de Mendoza|Boca Juniors": {
       "home": "Gimnasia y Esgrima de Mendoza",
@@ -131,12 +77,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788642085.8260813
+      "last_checked": 1788642934.5268743
     },
-    "Goiás EC|Fortaleza EC": {
-      "home": "Goiás EC",
-      "away": "Fortaleza EC",
-      "event_id": "10055568",
+    "EC Juventude|Atlético Goianiense": {
+      "home": "EC Juventude",
+      "away": "Atlético Goianiense",
+      "event_id": "10055633",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -154,7 +100,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788642112.4553294
+      "last_checked": 1788642961.0617282
+    },
+    "Sport Huancayo|Sport Boys": {
+      "home": "Sport Huancayo",
+      "away": "Sport Boys",
+      "event_id": "10055607",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788642987.711952
+    },
+    "ASO Chlef|CR Belouizdad": {
+      "home": "ASO Chlef",
+      "away": "CR Belouizdad",
+      "event_id": "10055627",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788643014.3053277
     }
   }
 }
