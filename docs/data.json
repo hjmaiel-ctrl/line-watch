@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788565859.7570322,
+  "generated_at": 1788566417.5473275,
   "matches": [
     {
       "match": "New York City - Nashville SC",
@@ -8,40 +8,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.63,
-              2.14
+              1.49,
+              2.44
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.63,
-                "under": 2.14
-              },
-              {
                 "line": 8.5,
-                "over": 2.04,
-                "under": 1.69
+                "over": 1.49,
+                "under": 2.44
               },
               {
                 "line": 9.5,
-                "over": 2.68,
-                "under": 1.41
+                "over": 1.85,
+                "under": 1.85
+              },
+              {
+                "line": 10.5,
+                "over": 2.4,
+                "under": 1.51
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 5.5,
             "odds": [
-              2.04,
-              1.66
+              2.14,
+              1.61
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 2.04,
-                "under": 1.66
+                "line": 5.5,
+                "over": 2.14,
+                "under": 1.61
               }
             ]
           }
@@ -57,44 +57,30 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
-    },
-    {
-      "match": "Platense - Deportivo Riestra",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            8.3,
-            1.14
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
       "alerts": [
         {
-          "type": "quota_cambiata",
-          "match": "Platense - Deportivo Riestra",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 5.25 a 8.3 (58.1%)"
+          "type": "linea_cambiata",
+          "match": "New York City - Nashville SC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 7.5 a 8.5"
         },
         {
           "type": "quota_cambiata",
-          "match": "Platense - Deportivo Riestra",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 1.37 a 1.14 (20.2%)"
+          "match": "New York City - Nashville SC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.63 a 1.49 (9.4%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "New York City - Nashville SC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.14 a 2.44 (14.0%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "New York City - Nashville SC",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 4.5 a 5.5"
         }
       ]
     },
@@ -108,7 +94,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            5.9,
+            26.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -126,7 +116,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.28,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.28,
+                "under": 3.0
+              },
+              {
+                "line": 4.5,
+                "over": 1.8,
+                "under": 1.8
+              },
+              {
+                "line": 5.5,
+                "over": 2.8,
+                "under": 1.32
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -148,6 +161,51 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.32,
+              2.75
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.32,
+                "under": 2.75
+              },
+              {
+                "line": 9.5,
+                "over": 1.65,
+                "under": 1.97
+              },
+              {
+                "line": 10.5,
+                "over": 2.15,
+                "under": 1.55
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "CSD Rangers - Deportes Temuco",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -165,5 +223,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 4
 }
