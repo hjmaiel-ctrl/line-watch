@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.55,
-              2.15
+              1.52,
+              2.2
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.55,
-                "under": 2.15
+                "over": 1.52,
+                "under": 2.2
               },
               {
                 "line": 10.5,
-                "over": 2.1,
-                "under": 1.57
+                "over": 2.2,
+                "under": 1.52
               },
               {
                 "line": 11.5,
-                "over": 3.25,
-                "under": 1.22
+                "over": 3.5,
+                "under": 1.2
               }
             ]
           },
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788572910.3198721
+      "last_checked": 1788573456.2494774
     },
     "Deportes Concepción|Audax Italiano": {
       "home": "Deportes Concepción",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788572937.504477
+      "last_checked": 1788573482.8102365
     },
     "Club Deportivo Técnico Universitario|LDU Quito": {
       "home": "Club Deportivo Técnico Universitario",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788572964.4935288
+      "last_checked": 1788573509.4078515
     },
     "Orsomarso SC|Real Cartagena": {
       "home": "Orsomarso SC",
@@ -113,12 +113,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788572991.7561524
+      "last_checked": 1788573536.0961616
     },
-    "El Nacional|LDU de Portoviejo": {
-      "home": "El Nacional",
-      "away": "LDU de Portoviejo",
-      "event_id": "10054567",
+    "Laugu United|SOSA FC": {
+      "home": "Laugu United",
+      "away": "SOSA FC",
+      "event_id": "10054568",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -126,7 +126,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            10.0,
+            1.75
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -136,7 +140,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788573018.9057307
+      "last_checked": 1788573567.83154
     }
   }
 }

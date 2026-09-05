@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788573018.9498997,
+  "generated_at": 1788573567.8607268,
   "matches": [
     {
       "match": "CRB - América-MG",
@@ -10,24 +10,24 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.55,
-              2.15
+              1.52,
+              2.2
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.55,
-                "under": 2.15
+                "over": 1.52,
+                "under": 2.2
               },
               {
                 "line": 10.5,
-                "over": 2.1,
-                "under": 1.57
+                "over": 2.2,
+                "under": 1.52
               },
               {
                 "line": 11.5,
-                "over": 3.25,
-                "under": 1.22
+                "over": 3.5,
+                "under": 1.2
               }
             ]
           },
@@ -44,20 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "CRB - América-MG",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.42 a 1.55 (9.2%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "CRB - América-MG",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.45 a 2.15 (14.0%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Deportes Concepción - Audax Italiano",
@@ -126,7 +113,7 @@
       "alerts": []
     },
     {
-      "match": "El Nacional - LDU de Portoviejo",
+      "match": "Laugu United - SOSA FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -135,7 +122,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            10.0,
+            1.75
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -148,5 +139,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
