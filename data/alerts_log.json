@@ -1,17 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "Z.Fulham - Z.Chelsea",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.37 a 1.17 (17.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Fulham - Z.Chelsea",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.1 a 5.1 (64.5%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Z.Crystal Palace - Z.Bournemouth",
     "market": "CORNERS_OU",
@@ -2998,5 +2986,17 @@
     "match": "Krylia Sovetov Samara - Krasnodar",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.06 a 2.56 (24.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Newcastle United - AFC Bournemouth",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Newcastle United - AFC Bournemouth",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.65 a 3.0 (13.2%)"
   }
 ]

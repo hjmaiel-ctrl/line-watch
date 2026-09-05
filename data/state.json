@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.4,
-              2.65
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
                 "line": 8.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 9.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.92,
+                "under": 1.75
               },
               {
                 "line": 10.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 2.45,
+                "under": 1.47
               },
               {
                 "line": 11.5,
-                "over": 2.65,
-                "under": 1.4
-              },
-              {
-                "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 3.25,
+                "under": 1.28
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.95,
-              1.73
+              1.92,
+              1.75
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.95,
-                "under": 1.73
+                "over": 1.92,
+                "under": 1.75
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788608177.454519
+      "last_checked": 1788608757.0466988
     },
     "Knowle FC|Worcester City": {
       "home": "Knowle FC",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788608204.298968
+      "last_checked": 1788608783.9241586
     },
     "Peterborough United|Sheffield Wednesday": {
       "home": "Peterborough United",
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788608231.1565812
+      "last_checked": 1788608810.6019092
     },
     "Wigan Athletic|Stockport County": {
       "home": "Wigan Athletic",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788608257.9294982
+      "last_checked": 1788608837.755061
     },
     "Fleetwood Town|Shrewsbury Town": {
       "home": "Fleetwood Town",
@@ -159,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788608284.6583238
+      "last_checked": 1788608864.5120847
     }
   }
 }
