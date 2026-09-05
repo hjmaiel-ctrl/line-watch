@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788637339.6800396,
+  "generated_at": 1788637920.614917,
   "matches": [
     {
       "match": "Villarreal - Deportivo La Coruña",
@@ -10,34 +10,34 @@
           "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.32,
-              3.0
+              1.17,
+              4.25
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.17,
+                "under": 4.25
               },
               {
                 "line": 10.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.38,
+                "under": 2.7
               },
               {
                 "line": 11.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 1.73,
+                "under": 1.95
               },
               {
                 "line": 12.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 2.3,
+                "under": 1.52
               },
               {
                 "line": 13.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 3.25,
+                "under": 1.28
               }
             ]
           },
@@ -69,22 +69,16 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Villarreal - Deportivo La Coruña",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 7.5 a 9.5"
+          "detail": "bet9ja: esito #1 passato da 1.32 a 1.17 (12.8%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Villarreal - Deportivo La Coruña",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.95 a 2.2 (12.8%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Villarreal - Deportivo La Coruña",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.73 a 1.57 (10.2%)"
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.0 a 4.25 (41.7%)"
         }
       ]
     },
@@ -97,48 +91,116 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.25,
-              3.45
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.25,
-                "under": 3.45
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 11.5,
-                "over": 1.57,
-                "under": 2.15
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 12.5,
-                "over": 2.1,
-                "under": 1.62
+                "over": 2.3,
+                "under": 1.52
               },
               {
                 "line": 13.5,
-                "over": 3.1,
-                "under": 1.3
+                "over": 3.45,
+                "under": 1.25
               },
               {
                 "line": 14.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 5.25,
+                "under": 1.11
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.98,
-              1.7
+              2.1,
+              1.62
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.98,
-                "under": 1.7
+                "over": 2.1,
+                "under": 1.62
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "OGC Nice - Le Mans FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.3,
+              3.1
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.3,
+                "under": 3.1
+              },
+              {
+                "line": 8.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 9.5,
+                "over": 2.2,
+                "under": 1.57
+              },
+              {
+                "line": 10.5,
+                "over": 3.1,
+                "under": 1.3
+              },
+              {
+                "line": 11.5,
+                "over": 4.75,
+                "under": 1.13
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.83,
+              1.83
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.83,
+                "under": 1.83
               }
             ]
           }
@@ -157,63 +219,63 @@
       "alerts": [
         {
           "type": "quota_cambiata",
-          "match": "AS Roma - Atalanta",
+          "match": "OGC Nice - Le Mans FC",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.1 a 3.45 (18.8%)"
+          "detail": "bet9ja: esito #2 passato da 3.65 a 3.1 (17.7%)"
         }
       ]
     },
     {
-      "match": "OGC Nice - Le Mans FC",
+      "match": "Le Havre AC - Stade Brestois 29",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.22,
-              3.65
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
                 "line": 8.5,
-                "over": 1.47,
-                "under": 2.4
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 9.5,
-                "over": 1.95,
-                "under": 1.73
+                "over": 1.6,
+                "under": 2.15
               },
               {
                 "line": 10.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 2.1,
+                "under": 1.62
               },
               {
                 "line": 11.5,
-                "over": 3.9,
-                "under": 1.2
+                "over": 3.0,
+                "under": 1.32
+              },
+              {
+                "line": 12.5,
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 6.5,
             "odds": [
-              1.73,
-              1.95
+              1.78,
+              1.9
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.73,
-                "under": 1.95
+                "line": 6.5,
+                "over": 1.78,
+                "under": 1.9
               }
             ]
           }
@@ -229,62 +291,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
-    },
-    {
-      "match": "Le Havre AC - Stade Brestois 29",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.2,
-              3.75
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.2,
-                "under": 3.75
-              },
-              {
-                "line": 9.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 10.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
-                "line": 11.5,
-                "over": 2.6,
-                "under": 1.42
-              },
-              {
-                "line": 12.5,
-                "over": 3.65,
-                "under": 1.22
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Le Havre AC - Stade Brestois 29",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.75 a 3.25 (15.4%)"
         }
-      },
-      "alerts": []
+      ]
     },
     {
       "match": "Ajax - PSV Eindhoven",
