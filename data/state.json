@@ -1,5 +1,28 @@
 {
   "matches": {
+    "Cagliari Calcio U20|Sassuolo U20": {
+      "home": "Cagliari Calcio U20",
+      "away": "Sassuolo U20",
+      "event_id": "10054738",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788599320.3594785
+    },
     "PSIM Yogyakarta|Persita Tangerang": {
       "home": "PSIM Yogyakarta",
       "away": "Persita Tangerang",
@@ -21,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788598538.9532678
+      "last_checked": 1788599347.046359
     },
     "Bhayangkara FC|Persebaya Surabaya": {
       "home": "Bhayangkara FC",
@@ -44,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788598565.7680323
+      "last_checked": 1788599373.721746
     },
     "Persik Kediri|Dewa United": {
       "home": "Persik Kediri",
@@ -67,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788598592.481596
+      "last_checked": 1788599400.5204487
     },
     "Tai Po FC|Hong Kong Rangers FC": {
       "home": "Tai Po FC",
@@ -90,34 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788598619.2106287
-    },
-    "Joondalup City|Armadale": {
-      "home": "Joondalup City",
-      "away": "Armadale",
-      "event_id": "10054631",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            8.75,
-            9.75
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788598651.290208
+      "last_checked": 1788599427.6031313
     }
   }
 }

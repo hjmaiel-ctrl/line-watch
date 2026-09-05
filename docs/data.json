@@ -1,6 +1,28 @@
 {
-  "generated_at": 1788598651.335515,
+  "generated_at": 1788599427.6521387,
   "matches": [
+    {
+      "match": "Cagliari Calcio U20 - Sassuolo U20",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "PSIM Yogyakarta - Persita Tangerang",
       "bet9ja_stats": null,
@@ -78,32 +100,6 @@
         },
         "sportybet": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Joondalup City - Armadale",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            8.75,
-            9.75
-          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
