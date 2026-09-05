@@ -1,24 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Z.Fulham - Z.Liverpool",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 7.6 a 5.2 (46.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Z.Brighton - Z.Man United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 11.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Z.Brighton - Z.Man United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.1 a 1.2 (9.1%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Z.Brighton - Z.Man United",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 7.4 a 4.5 (64.4%)"
@@ -2998,5 +2980,23 @@
     "match": "Villarreal - Deportivo La Coruña",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.78 a 2.05 (15.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Villarreal - Deportivo La Coruña",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 1.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Villarreal - Deportivo La Coruña",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.65 a 2.5 (51.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Villarreal - Deportivo La Coruña",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.05 a 1.45 (41.4%)"
   }
 ]
