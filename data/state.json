@@ -1,83 +1,60 @@
 {
   "matches": {
-    "Tondela|FC Porto B": {
-      "home": "Tondela",
-      "away": "FC Porto B",
-      "event_id": "10054794",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788607289.7271893
-    },
-    "Avispa Fukuoka|Mito Hollyhock": {
-      "home": "Avispa Fukuoka",
-      "away": "Mito Hollyhock",
-      "event_id": "10054811",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788607315.786426
-    },
-    "Krylia Sovetov Samara|Krasnodar": {
-      "home": "Krylia Sovetov Samara",
-      "away": "Krasnodar",
-      "event_id": "10054914",
+    "Newcastle United|AFC Bournemouth": {
+      "home": "Newcastle United",
+      "away": "AFC Bournemouth",
+      "event_id": "10046994",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 8.5,
             "odds": [
-              1.41,
-              2.56
+              1.4,
+              2.65
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.41,
-                "under": 2.56
-              },
-              {
                 "line": 8.5,
-                "over": 1.71,
-                "under": 1.94
+                "over": 1.4,
+                "under": 2.65
               },
               {
                 "line": 9.5,
-                "over": 2.18,
-                "under": 1.56
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 10.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 11.5,
+                "over": 2.65,
+                "under": 1.4
+              },
+              {
+                "line": 12.5,
+                "over": 3.45,
+                "under": 1.25
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.95,
+              1.73
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.95,
+                "under": 1.73
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -90,12 +67,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788607340.0233407
+      "last_checked": 1788608177.454519
     },
-    "Kryvbas Kriviy Rih|Kolos Kovalivka": {
-      "home": "Kryvbas Kriviy Rih",
-      "away": "Kolos Kovalivka",
-      "event_id": "10054822",
+    "Knowle FC|Worcester City": {
+      "home": "Knowle FC",
+      "away": "Worcester City",
+      "event_id": "10054915",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788607365.8952317
+      "last_checked": 1788608204.298968
     },
-    "Metalist 1925|Obolon-Brovar Kiev": {
-      "home": "Metalist 1925",
-      "away": "Obolon-Brovar Kiev",
-      "event_id": "10054823",
+    "Peterborough United|Sheffield Wednesday": {
+      "home": "Peterborough United",
+      "away": "Sheffield Wednesday",
+      "event_id": "10053743",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -136,7 +113,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788607391.7021537
+      "last_checked": 1788608231.1565812
+    },
+    "Wigan Athletic|Stockport County": {
+      "home": "Wigan Athletic",
+      "away": "Stockport County",
+      "event_id": "10053744",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788608257.9294982
+    },
+    "Fleetwood Town|Shrewsbury Town": {
+      "home": "Fleetwood Town",
+      "away": "Shrewsbury Town",
+      "event_id": "10054917",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788608284.6583238
     }
   }
 }
