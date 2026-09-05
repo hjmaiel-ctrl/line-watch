@@ -1,28 +1,6 @@
 {
-  "generated_at": 1788614618.439204,
+  "generated_at": 1788615473.3309407,
   "matches": [
-    {
-      "match": "Newcastle United - AFC Bournemouth",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Fiorentina - Torino",
       "bet9ja_stats": null,
@@ -32,14 +10,14 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.17,
-              4.25
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.17,
-                "under": 4.25
+                "over": 1.15,
+                "under": 4.5
               },
               {
                 "line": 8.5,
@@ -48,32 +26,32 @@
               },
               {
                 "line": 9.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.73,
+                "under": 1.95
               },
               {
                 "line": 10.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 11.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 3.5,
+                "under": 1.22
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.6,
-              2.15
+              1.95,
+              1.73
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 1.95,
+                "under": 1.73
               }
             ]
           }
@@ -93,25 +71,38 @@
         {
           "type": "quota_cambiata",
           "match": "Fiorentina - Torino",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.35 a 1.17 (15.4%)"
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.6 a 1.95 (21.9%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Fiorentina - Torino",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.85 a 4.25 (49.1%)"
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.15 a 1.73 (24.3%)"
         }
       ]
     },
     {
-      "match": "Knowle FC - Worcester City",
+      "match": "Bayer Leverkusen - Union Berlin",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.87,
+              1.8
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.87,
+                "under": 1.8
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -127,13 +118,49 @@
       "alerts": []
     },
     {
-      "match": "Curzon Ashton - Bradford Park Avenue",
+      "match": "Monchengladbach - SV 07 Elversberg",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.41,
+              2.7
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.41,
+                "under": 2.7
+              },
+              {
+                "line": 9.5,
+                "over": 1.7,
+                "under": 2.04
+              },
+              {
+                "line": 10.5,
+                "over": 2.12,
+                "under": 1.64
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.65,
+              2.08
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.65,
+                "under": 2.08
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -149,13 +176,107 @@
       "alerts": []
     },
     {
-      "match": "Peterborough United - Sheffield Wednesday",
+      "match": "Hoffenheim - Borussia Dortmund",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.58,
+              2.22
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.58,
+                "under": 2.22
+              },
+              {
+                "line": 11.5,
+                "over": 1.94,
+                "under": 1.77
+              },
+              {
+                "line": 12.5,
+                "over": 2.48,
+                "under": 1.48
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.79,
+              1.88
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.79,
+                "under": 1.88
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Paderborn - Freiburg",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.53,
+              2.34
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.53,
+                "under": 2.34
+              },
+              {
+                "line": 10.5,
+                "over": 1.89,
+                "under": 1.82
+              },
+              {
+                "line": 11.5,
+                "over": 2.42,
+                "under": 1.5
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              2.22,
+              1.56
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 2.22,
+                "under": 1.56
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
