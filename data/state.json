@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788597718.5320024
+      "last_checked": 1788598538.9532678
     },
     "Bhayangkara FC|Persebaya Surabaya": {
       "home": "Bhayangkara FC",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788597745.0540614
+      "last_checked": 1788598565.7680323
     },
     "Persik Kediri|Dewa United": {
       "home": "Persik Kediri",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788597771.6910038
+      "last_checked": 1788598592.481596
     },
     "Tai Po FC|Hong Kong Rangers FC": {
       "home": "Tai Po FC",
@@ -90,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788597798.444443
+      "last_checked": 1788598619.2106287
     },
     "Joondalup City|Armadale": {
       "home": "Joondalup City",
@@ -103,7 +103,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            8.75,
+            9.75
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -113,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788597825.1552215
+      "last_checked": 1788598651.290208
     }
   }
 }

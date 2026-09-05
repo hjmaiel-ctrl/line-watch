@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788597825.2244697,
+  "generated_at": 1788598651.335515,
   "matches": [
     {
       "match": "PSIM Yogyakarta - Persita Tangerang",
@@ -99,7 +99,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            8.75,
+            9.75
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
