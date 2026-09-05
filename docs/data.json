@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788577886.6479268,
+  "generated_at": 1788578741.4329903,
   "matches": [
     {
       "match": "Árabe Unido - Veraguas FC",
@@ -35,9 +35,44 @@
         "sportybet": {
           "1X2": [
             2.4,
-            11.5,
-            45.0
+            13.0,
+            41.0
           ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Lautoka FC - Nadi FC",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 11.5 a 13.0 (13.0%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Lautoka FC - Nadi FC",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 45.0 a 41.0 (9.8%)"
+        }
+      ]
+    },
+    {
+      "match": "RB Do Norte AM - CDC Manicore AM",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -50,7 +85,7 @@
       "alerts": []
     },
     {
-      "match": "RB Do Norte AM - CDC Manicore AM",
+      "match": "Reboceros de La Piedad - H20 Purepechas FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -92,29 +127,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Caballeros de Córdoba - Atlético Boca del Río",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }

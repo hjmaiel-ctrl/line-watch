@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788577774.7758052
+      "last_checked": 1788578629.7205918
     },
     "Lautoka FC|Nadi FC": {
       "home": "Lautoka FC",
@@ -36,8 +36,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            11.5,
-            45.0
+            13.0,
+            41.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788577806.4823809
+      "last_checked": 1788578661.38686
     },
     "RB Do Norte AM|CDC Manicore AM": {
       "home": "RB Do Norte AM",
@@ -71,7 +71,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788577833.1749544
+      "last_checked": 1788578688.0600314
+    },
+    "Reboceros de La Piedad|H20 Purepechas FC": {
+      "home": "Reboceros de La Piedad",
+      "away": "H20 Purepechas FC",
+      "event_id": "10054589",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788578714.8932283
     },
     "Escorpiones|Inter San Carlos": {
       "home": "Escorpiones",
@@ -94,30 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788577859.9307482
-    },
-    "Caballeros de Córdoba|Atlético Boca del Río": {
-      "home": "Caballeros de Córdoba",
-      "away": "Atlético Boca del Río",
-      "event_id": "10054591",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788577886.6048222
+      "last_checked": 1788578741.3868399
     }
   }
 }
