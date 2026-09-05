@@ -1,6 +1,28 @@
 {
-  "generated_at": 1788600277.6087368,
+  "generated_at": 1788601143.5037472,
   "matches": [
+    {
+      "match": "Fujieda MYFC - Vanraure Hachnohe",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Cagliari Calcio U20 - Sassuolo U20",
       "bet9ja_stats": null,
@@ -69,28 +91,6 @@
     },
     {
       "match": "Persik Kediri - Dewa United",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Tai Po FC - Hong Kong Rangers FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
