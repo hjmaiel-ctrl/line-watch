@@ -1,32 +1,5 @@
 {
   "matches": {
-    "Labasa FC|Suva FC": {
-      "home": "Labasa FC",
-      "away": "Suva FC",
-      "event_id": "10054600",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            13.0,
-            8.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788586670.710275
-    },
     "Cashmere Technical|Fencibles United AFC": {
       "home": "Cashmere Technical",
       "away": "Fencibles United AFC",
@@ -38,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            26.0,
+            4.25
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -48,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788586697.6725292
+      "last_checked": 1788587216.6651182
     },
     "Central Coast FC|Green Shield": {
       "home": "Central Coast FC",
@@ -71,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788586724.3499782
+      "last_checked": 1788587243.2708979
     },
     "Perth Redstar FC|Fremantle City FC": {
       "home": "Perth Redstar FC",
@@ -94,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788586751.2692006
+      "last_checked": 1788587269.7767081
     },
     "Avondale|Preston Lions": {
       "home": "Avondale",
@@ -117,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788586778.2255273
+      "last_checked": 1788587296.5356348
+    },
+    "Kahibah|Newcastle Croatia FC": {
+      "home": "Kahibah",
+      "away": "Newcastle Croatia FC",
+      "event_id": "10054611",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788587323.2117825
     }
   }
 }

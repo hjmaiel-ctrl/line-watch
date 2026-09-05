@@ -1,32 +1,6 @@
 {
-  "generated_at": 1788586778.2673519,
+  "generated_at": 1788587323.2469263,
   "matches": [
-    {
-      "match": "Labasa FC - Suva FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            13.0,
-            8.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Cashmere Technical - Fencibles United AFC",
       "bet9ja_stats": null,
@@ -37,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            26.0,
+            4.25
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -95,6 +73,28 @@
     },
     {
       "match": "Avondale - Preston Lions",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Kahibah - Newcastle Croatia FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
