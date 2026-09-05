@@ -1,120 +1,5 @@
 {
   "matches": {
-    "CRB|América-MG": {
-      "home": "CRB",
-      "away": "América-MG",
-      "event_id": "10054574",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.18,
-              3.75
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.18,
-                "under": 3.75
-              },
-              {
-                "line": 9.5,
-                "over": 2.05,
-                "under": 1.6
-              },
-              {
-                "line": 10.5,
-                "over": 4.0,
-                "under": 1.16
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788574334.9514863
-    },
-    "Deportes Concepción|Audax Italiano": {
-      "home": "Deportes Concepción",
-      "away": "Audax Italiano",
-      "event_id": "10054575",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788574361.8299296
-    },
-    "Club Deportivo Técnico Universitario|LDU Quito": {
-      "home": "Club Deportivo Técnico Universitario",
-      "away": "LDU Quito",
-      "event_id": "10054570",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788574388.7199056
-    },
-    "Orsomarso SC|Real Cartagena": {
-      "home": "Orsomarso SC",
-      "away": "Real Cartagena",
-      "event_id": "10054576",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788574415.3890715
-    },
     "North Texas|Real Monarchs SLC": {
       "home": "North Texas",
       "away": "Real Monarchs SLC",
@@ -126,6 +11,33 @@
           "CARDS_OU": null
         },
         "sportybet": {
+          "1X2": [
+            2.4,
+            10.5,
+            100.0
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788575382.2664926
+    },
+    "Puerto Montt|Curicó Unido": {
+      "home": "Puerto Montt",
+      "away": "Curicó Unido",
+      "event_id": "10054573",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -136,7 +48,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788574444.3914754
+      "last_checked": 1788575408.7053733
+    },
+    "Alacranes de Durango|Tlaxcala F.C.": {
+      "home": "Alacranes de Durango",
+      "away": "Tlaxcala F.C.",
+      "event_id": "10054577",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788575435.2091298
+    },
+    "Panama City FC|Potros del Este FC": {
+      "home": "Panama City FC",
+      "away": "Potros del Este FC",
+      "event_id": "10054580",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788575461.8108275
+    },
+    "CD Choloma|Olancho FC": {
+      "home": "CD Choloma",
+      "away": "Olancho FC",
+      "event_id": "10054582",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788575488.35641
     }
   }
 }
