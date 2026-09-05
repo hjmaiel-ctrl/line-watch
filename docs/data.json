@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788585825.4277093,
+  "generated_at": 1788586778.2673519,
   "matches": [
     {
       "match": "Labasa FC - Suva FC",
@@ -11,68 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "The Cove FC Reserves - Adelaide Olympic Reserve",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
           "1X2": [
             2.4,
-            45.0,
-            5.2
+            13.0,
+            8.0
           ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "The Cove FC Reserves - Adelaide Olympic Reserve",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 12.0 a 45.0 (275.0%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "The Cove FC Reserves - Adelaide Olympic Reserve",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 4.5 a 5.2 (15.6%)"
-        }
-      ]
-    },
-    {
-      "match": "Newmarket - AC Carina",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -127,7 +70,51 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Perth Redstar FC - Fremantle City FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Avondale - Preston Lions",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }

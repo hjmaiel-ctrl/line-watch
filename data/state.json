@@ -11,33 +11,10 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788585711.8953528
-    },
-    "The Cove FC Reserves|Adelaide Olympic Reserve": {
-      "home": "The Cove FC Reserves",
-      "away": "Adelaide Olympic Reserve",
-      "event_id": "10054601",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
           "1X2": [
             2.4,
-            45.0,
-            5.2
+            13.0,
+            8.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -48,30 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788585744.133059
-    },
-    "Newmarket|AC Carina": {
-      "home": "Newmarket",
-      "away": "AC Carina",
-      "event_id": "10054603",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788585771.0759466
+      "last_checked": 1788586670.710275
     },
     "Cashmere Technical|Fencibles United AFC": {
       "home": "Cashmere Technical",
@@ -94,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788585798.449399
+      "last_checked": 1788586697.6725292
     },
     "Central Coast FC|Green Shield": {
       "home": "Central Coast FC",
@@ -117,7 +71,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788585825.3740652
+      "last_checked": 1788586724.3499782
+    },
+    "Perth Redstar FC|Fremantle City FC": {
+      "home": "Perth Redstar FC",
+      "away": "Fremantle City FC",
+      "event_id": "10054609",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788586751.2692006
+    },
+    "Avondale|Preston Lions": {
+      "home": "Avondale",
+      "away": "Preston Lions",
+      "event_id": "10054610",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788586778.2255273
     }
   }
 }
