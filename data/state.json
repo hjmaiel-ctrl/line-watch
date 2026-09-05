@@ -1,14 +1,50 @@
 {
   "matches": {
-    "San Lorenzo|Talleres de Córdoba": {
-      "home": "San Lorenzo",
-      "away": "Talleres de Córdoba",
-      "event_id": "10055669",
+    "Charlotte FC|Houston Dynamo": {
+      "home": "Charlotte FC",
+      "away": "Houston Dynamo",
+      "event_id": "10061244",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.5,
+              2.4
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.5,
+                "under": 2.4
+              },
+              {
+                "line": 9.5,
+                "over": 1.82,
+                "under": 1.88
+              },
+              {
+                "line": 10.5,
+                "over": 2.28,
+                "under": 1.56
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.84,
+              1.83
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.84,
+                "under": 1.83
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -21,17 +57,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788651038.259944
+      "last_checked": 1788651666.3393638
     },
-    "Cusco FC|Deportivo Moquegua": {
-      "home": "Cusco FC",
-      "away": "Deportivo Moquegua",
-      "event_id": "10061231",
+    "Columbus Crew|Colorado Rapids": {
+      "home": "Columbus Crew",
+      "away": "Colorado Rapids",
+      "event_id": "10061246",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.58,
+              2.24
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.58,
+                "under": 2.24
+              },
+              {
+                "line": 9.5,
+                "over": 1.94,
+                "under": 1.77
+              },
+              {
+                "line": 10.5,
+                "over": 2.48,
+                "under": 1.48
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.78,
+              1.89
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.78,
+                "under": 1.89
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -44,17 +116,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788651064.752222
+      "last_checked": 1788651689.7949443
     },
-    "Cúcuta Deportivo|Deportivo Pasto": {
-      "home": "Cúcuta Deportivo",
-      "away": "Deportivo Pasto",
-      "event_id": "10061236",
+    "Orlando City|San Diego FC": {
+      "home": "Orlando City",
+      "away": "San Diego FC",
+      "event_id": "10061248",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.53,
+              2.34
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.53,
+                "under": 2.34
+              },
+              {
+                "line": 10.5,
+                "over": 1.85,
+                "under": 1.86
+              },
+              {
+                "line": 11.5,
+                "over": 2.28,
+                "under": 1.56
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              2.06,
+              1.66
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 2.06,
+                "under": 1.66
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -67,16 +175,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788651091.4209652
+      "last_checked": 1788651713.0520022
     },
-    "Independiente del Valle|Deportivo Macara": {
-      "home": "Independiente del Valle",
-      "away": "Deportivo Macara",
-      "event_id": "10061237",
+    "Philadelphia Union|CF Montreal": {
+      "home": "Philadelphia Union",
+      "away": "CF Montreal",
+      "event_id": "10061249",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.61,
+              2.18
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.61,
+                "under": 2.18
+              },
+              {
+                "line": 10.5,
+                "over": 1.96,
+                "under": 1.76
+              },
+              {
+                "line": 11.5,
+                "over": 2.48,
+                "under": 1.48
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -90,17 +221,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788651117.9216094
+      "last_checked": 1788651738.2670403
     },
-    "Santa Fe|Fortaleza FC": {
-      "home": "Santa Fe",
-      "away": "Fortaleza FC",
-      "event_id": "10061239",
+    "Toronto|Chicago Fire": {
+      "home": "Toronto",
+      "away": "Chicago Fire",
+      "event_id": "10061250",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.64,
+              2.12
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.64,
+                "under": 2.12
+              },
+              {
+                "line": 9.5,
+                "over": 2.04,
+                "under": 1.7
+              },
+              {
+                "line": 10.5,
+                "over": 2.62,
+                "under": 1.43
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.68,
+              2.02
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.68,
+                "under": 2.02
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -113,7 +280,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788651144.542371
+      "last_checked": 1788651761.4852002
     }
   }
 }
