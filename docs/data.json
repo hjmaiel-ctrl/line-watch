@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788593398.5070045,
+  "generated_at": 1788594085.1185853,
   "matches": [
     {
       "match": "Ba F.C. - Rewa FC",
@@ -79,8 +79,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            9.75,
-            100.0
+            2.95,
+            1.3
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -91,10 +91,23 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Modbury Jets - Adelaide Olympic",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 9.75 a 2.95 (230.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Modbury Jets - Adelaide Olympic",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 100.0 a 1.3 (7592.3%)"
+        }
+      ]
     },
     {
-      "match": "FC Basara Hyogo - Arterivo Wakayama",
+      "match": "Canberra FC - Queanbeyan City",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -116,5 +129,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }

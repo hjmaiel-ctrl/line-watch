@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788593286.6270988
+      "last_checked": 1788593973.673158
     },
     "Minebea Mitsumi FC|Okinawa": {
       "home": "Minebea Mitsumi FC",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788593313.3798022
+      "last_checked": 1788594000.208149
     },
     "Verspah Oita|Iwate Grulla Morioka": {
       "home": "Verspah Oita",
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788593339.9697425
+      "last_checked": 1788594026.7311368
     },
     "Modbury Jets|Adelaide Olympic": {
       "home": "Modbury Jets",
@@ -82,8 +82,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            9.75,
-            100.0
+            2.95,
+            1.3
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -94,12 +94,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788593371.8676107
+      "last_checked": 1788594058.5577598
     },
-    "FC Basara Hyogo|Arterivo Wakayama": {
-      "home": "FC Basara Hyogo",
-      "away": "Arterivo Wakayama",
-      "event_id": "10054621",
+    "Canberra FC|Queanbeyan City": {
+      "home": "Canberra FC",
+      "away": "Queanbeyan City",
+      "event_id": "10054625",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788593398.4681928
+      "last_checked": 1788594085.0709336
     }
   }
 }
