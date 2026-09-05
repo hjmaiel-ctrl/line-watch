@@ -21,8 +21,8 @@
               },
               {
                 "line": 10.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 11.5,
@@ -44,14 +44,14 @@
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.95,
-              1.73
+              1.87,
+              1.8
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.95,
-                "under": 1.73
+                "over": 1.87,
+                "under": 1.8
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788620131.3094528
+      "last_checked": 1788620933.7872999
     },
     "Manchester City|Coventry City": {
       "home": "Manchester City",
@@ -77,21 +77,113 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.12,
+              5.0
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.12,
+                "under": 5.0
+              },
+              {
+                "line": 9.5,
+                "over": 1.4,
+                "under": 2.65
+              },
+              {
+                "line": 10.5,
+                "over": 1.87,
+                "under": 1.8
+              },
+              {
+                "line": 11.5,
+                "over": 2.75,
+                "under": 1.35
+              },
+              {
+                "line": 12.5,
+                "over": 4.25,
+                "under": 1.17
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.83,
+              1.83
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.83,
+                "under": 1.83
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788620957.2804606
+    },
+    "Nottingham Forest|Tottenham Hotspur": {
+      "home": "Nottingham Forest",
+      "away": "Tottenham Hotspur",
+      "event_id": "10046993",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788620984.1844687
+    },
+    "Brighton & Hove Albion|Leeds United": {
+      "home": "Brighton & Hove Albion",
+      "away": "Leeds United",
+      "event_id": "10047019",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
             "line": 9.5,
             "odds": [
-              1.25,
-              3.45
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 9.5,
-                "over": 1.25,
-                "under": 3.45
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 10.5,
-                "over": 1.57,
-                "under": 2.2
+                "over": 1.6,
+                "under": 2.15
               },
               {
                 "line": 11.5,
@@ -105,25 +197,12 @@
               },
               {
                 "line": 13.5,
-                "over": 4.75,
-                "under": 1.13
+                "over": 4.5,
+                "under": 1.15
               }
             ]
           },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.73,
-              1.95
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.73,
-                "under": 1.95
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -136,145 +215,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788620154.3855536
-    },
-    "Nottingham Forest|Tottenham Hotspur": {
-      "home": "Nottingham Forest",
-      "away": "Tottenham Hotspur",
-      "event_id": "10046993",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.18,
-              4.1
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.18,
-                "under": 4.1
-              },
-              {
-                "line": 11.5,
-                "over": 1.38,
-                "under": 2.7
-              },
-              {
-                "line": 12.5,
-                "over": 1.75,
-                "under": 1.92
-              },
-              {
-                "line": 13.5,
-                "over": 2.3,
-                "under": 1.52
-              },
-              {
-                "line": 14.5,
-                "over": 3.25,
-                "under": 1.28
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.92,
-              1.75
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.92,
-                "under": 1.75
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788620177.6076183
-    },
-    "Brighton & Hove Albion|Leeds United": {
-      "home": "Brighton & Hove Albion",
-      "away": "Leeds United",
-      "event_id": "10047019",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.17,
-              4.25
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.17,
-                "under": 4.25
-              },
-              {
-                "line": 10.5,
-                "over": 1.4,
-                "under": 2.65
-              },
-              {
-                "line": 11.5,
-                "over": 1.8,
-                "under": 1.87
-              },
-              {
-                "line": 12.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 13.5,
-                "over": 3.45,
-                "under": 1.25
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.57,
-              2.2
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.57,
-                "under": 2.2
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788620201.0165153
+      "last_checked": 1788621009.488305
     },
     "Fulham|Crystal Palace": {
       "home": "Fulham",
@@ -283,51 +224,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.25,
-              3.45
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 7.5,
-                "over": 1.55,
-                "under": 2.25
-              },
-              {
-                "line": 8.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 9.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 10.5,
-                "over": 4.5,
-                "under": 1.15
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.9,
-              1.78
+              2.15,
+              1.6
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.9,
-                "under": 1.78
+                "over": 2.15,
+                "under": 1.6
               }
             ]
           }
@@ -343,7 +251,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788620224.0823216
+      "last_checked": 1788621034.5025966
     }
   }
 }
