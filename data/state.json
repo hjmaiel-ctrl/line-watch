@@ -7,51 +7,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.32,
-              2.95
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.32,
-                "under": 2.95
-              },
-              {
-                "line": 9.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 10.5,
-                "over": 2.2,
-                "under": 1.57
-              },
-              {
-                "line": 11.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 12.5,
-                "over": 4.25,
-                "under": 1.17
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              2.2,
-              1.57
+              1.78,
+              1.9
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 2.2,
-                "under": 1.57
+                "line": 3.5,
+                "over": 1.78,
+                "under": 1.9
               }
             ]
           }
@@ -67,7 +34,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788611338.6148653
+      "last_checked": 1788612290.1316104
     },
     "Knowle FC|Worcester City": {
       "home": "Knowle FC",
@@ -90,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788611365.5462286
+      "last_checked": 1788612317.0790815
     },
     "Curzon Ashton|Bradford Park Avenue": {
       "home": "Curzon Ashton",
@@ -113,7 +80,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788611392.3049467
+      "last_checked": 1788612343.5952516
     },
     "Peterborough United|Sheffield Wednesday": {
       "home": "Peterborough United",
@@ -136,7 +103,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788611419.1298583
+      "last_checked": 1788612370.1213815
     },
     "Wigan Athletic|Stockport County": {
       "home": "Wigan Athletic",
@@ -159,7 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788611445.9501874
+      "last_checked": 1788612396.4171693
     }
   }
 }
