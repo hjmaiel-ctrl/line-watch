@@ -8,42 +8,6 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              2.5,
-              1.45
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 2.5,
-                "under": 1.45
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788640872.8670142
-    },
-    "AS Roma|Atalanta": {
-      "home": "AS Roma",
-      "away": "Atalanta",
-      "event_id": "10044550",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -57,30 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788640899.624844
-    },
-    "Le Havre AC|Stade Brestois 29": {
-      "home": "Le Havre AC",
-      "away": "Stade Brestois 29",
-      "event_id": "10048804",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788640926.3816943
+      "last_checked": 1788641432.9730282
     },
     "Willem II|Excelsior Rotterdam": {
       "home": "Willem II",
@@ -103,46 +44,46 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788640953.5374663
+      "last_checked": 1788641459.6548157
     },
-    "Swansea City|Wrexham": {
-      "home": "Swansea City",
-      "away": "Wrexham",
-      "event_id": "10044730",
+    "Sporting CP|Nacional da Madeira": {
+      "home": "Sporting CP",
+      "away": "Nacional da Madeira",
+      "event_id": "10055600",
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 11.5,
             "odds": [
-              1.57,
-              2.2
+              1.1,
+              5.5
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.57,
-                "under": 2.2
+                "line": 11.5,
+                "over": 1.1,
+                "under": 5.5
               },
               {
-                "line": 7.5,
-                "over": 3.25,
-                "under": 1.28
+                "line": 12.5,
+                "over": 1.35,
+                "under": 2.85
               },
               {
-                "line": 8.5,
-                "over": 6.75,
-                "under": 1.06
+                "line": 13.5,
+                "over": 1.82,
+                "under": 1.85
               },
               {
-                "line": 9.5,
-                "over": 10.0,
-                "under": 1.01
+                "line": 14.5,
+                "over": 2.65,
+                "under": 1.4
               },
               {
-                "line": 10.5,
-                "over": 11.0,
-                "under": null
+                "line": 15.5,
+                "over": 4.1,
+                "under": 1.18
               }
             ]
           },
@@ -159,7 +100,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788640978.7537158
+      "last_checked": 1788641484.991324
+    },
+    "Swansea City|Wrexham": {
+      "home": "Swansea City",
+      "away": "Wrexham",
+      "event_id": "10044730",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788641511.7287743
+    },
+    "CD Eldense|Real Mallorca": {
+      "home": "CD Eldense",
+      "away": "Real Mallorca",
+      "event_id": "10055573",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788641538.3501542
     }
   }
 }
