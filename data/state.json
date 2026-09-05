@@ -8,48 +8,64 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 4.5,
             "odds": [
-              1.34,
-              2.98
+              1.39,
+              2.68
             ],
             "_all_lines": [
               {
+                "line": 4.5,
+                "over": 1.39,
+                "under": 2.68
+              },
+              {
                 "line": 5.5,
-                "over": 1.34,
-                "under": 2.98
+                "over": 2.1,
+                "under": 1.63
               },
               {
                 "line": 6.5,
-                "over": 1.81,
-                "under": 1.9
-              },
-              {
-                "line": 7.5,
-                "over": 2.66,
-                "under": 1.42
+                "over": 3.5,
+                "under": 1.24
               }
             ]
           },
           "CARDS_OU": {
             "line": 5.5,
             "odds": [
-              1.88,
-              1.8
+              1.68,
+              1.99
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.88,
-                "under": 1.8
+                "over": 1.68,
+                "under": 1.99
               }
             ]
           }
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "1X2": [
+            2.4,
+            5.9,
+            1.7
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.42
+            ]
+          },
+          "CARDS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.7
+            ]
+          }
         },
         "bet365": {
           "1X2": null,
@@ -57,7 +73,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788569834.0449646
+      "last_checked": 1788570619.196221
     },
     "Athletic Club MG|Vila Nova FC": {
       "home": "Athletic Club MG",
@@ -69,24 +85,24 @@
           "CORNERS_OU": {
             "line": 4.5,
             "odds": [
-              1.2,
-              3.55
+              1.18,
+              3.75
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.2,
-                "under": 3.55
+                "over": 1.18,
+                "under": 3.75
               },
               {
                 "line": 5.5,
-                "over": 1.6,
-                "under": 2.05
+                "over": 1.92,
+                "under": 1.7
               },
               {
                 "line": 6.5,
-                "over": 2.35,
-                "under": 1.45
+                "over": 3.55,
+                "under": 1.2
               }
             ]
           },
@@ -103,7 +119,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788569859.1077778
+      "last_checked": 1788570644.0153778
     },
     "CRB|América-MG": {
       "home": "CRB",
@@ -113,26 +129,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 10.5,
             "odds": [
-              1.4,
-              2.5
+              1.52,
+              2.2
             ],
             "_all_lines": [
               {
-                "line": 9.5,
-                "over": 1.4,
-                "under": 2.5
-              },
-              {
                 "line": 10.5,
-                "over": 1.72,
-                "under": 1.88
+                "over": 1.52,
+                "under": 2.2
               },
               {
                 "line": 11.5,
-                "over": 2.2,
-                "under": 1.52
+                "over": 1.92,
+                "under": 1.7
+              },
+              {
+                "line": 12.5,
+                "over": 2.5,
+                "under": 1.4
               }
             ]
           },
@@ -149,7 +165,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788569883.941178
+      "last_checked": 1788570669.014959
     },
     "Deportes Concepción|Audax Italiano": {
       "home": "Deportes Concepción",
@@ -172,7 +188,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788569910.6501434
+      "last_checked": 1788570695.8099308
     },
     "Club Deportivo Técnico Universitario|LDU Quito": {
       "home": "Club Deportivo Técnico Universitario",
@@ -195,7 +211,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788569937.4960864
+      "last_checked": 1788570722.4073343
     }
   }
 }
