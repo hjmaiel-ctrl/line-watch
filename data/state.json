@@ -11,33 +11,6 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            10.5,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788575382.2664926
-    },
-    "Puerto Montt|Curicó Unido": {
-      "home": "Puerto Montt",
-      "away": "Curicó Unido",
-      "event_id": "10054573",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -48,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788575408.7053733
+      "last_checked": 1788576145.8731935
     },
     "Alacranes de Durango|Tlaxcala F.C.": {
       "home": "Alacranes de Durango",
@@ -71,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788575435.2091298
+      "last_checked": 1788576172.547916
     },
     "Panama City FC|Potros del Este FC": {
       "home": "Panama City FC",
@@ -94,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788575461.8108275
+      "last_checked": 1788576199.2180445
     },
     "CD Choloma|Olancho FC": {
       "home": "CD Choloma",
@@ -117,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788575488.35641
+      "last_checked": 1788576225.9543152
+    },
+    "Antigua GFC|Aurora FC": {
+      "home": "Antigua GFC",
+      "away": "Aurora FC",
+      "event_id": "10054583",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788576252.4480622
     }
   }
 }

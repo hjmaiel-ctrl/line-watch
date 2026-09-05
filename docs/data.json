@@ -1,34 +1,8 @@
 {
-  "generated_at": 1788575488.399787,
+  "generated_at": 1788576252.4970908,
   "matches": [
     {
       "match": "North Texas - Real Monarchs SLC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            10.5,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Puerto Montt - Curicó Unido",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -95,6 +69,28 @@
     },
     {
       "match": "CD Choloma - Olancho FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Antigua GFC - Aurora FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
