@@ -7,22 +7,50 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788738389.9707146
+    },
+    "River Plate|Independiente Rivadavia": {
+      "home": "River Plate",
+      "away": "Independiente Rivadavia",
+      "event_id": "10062612",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 3.5,
             "odds": [
-              1.52,
-              2.22
+              1.55,
+              2.25
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.52,
-                "under": 2.22
+                "line": 3.5,
+                "over": 1.55,
+                "under": 2.25
               },
               {
-                "line": 8.5,
-                "over": 2.2,
-                "under": 1.53
+                "line": 4.5,
+                "over": 2.65,
+                "under": 1.4
+              },
+              {
+                "line": 5.5,
+                "over": 5.0,
+                "under": 1.12
               }
             ]
           },
@@ -39,30 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788737814.1931756
-    },
-    "River Plate|Independiente Rivadavia": {
-      "home": "River Plate",
-      "away": "Independiente Rivadavia",
-      "event_id": "10062612",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788737841.48664
+      "last_checked": 1788738415.4157758
     },
     "Corinthians|Chapecoense": {
       "home": "Corinthians",
@@ -72,26 +77,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.47,
-              2.45
+              1.38,
+              2.7
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
                 "line": 7.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.78,
+                "under": 1.9
               },
               {
                 "line": 8.5,
-                "over": 1.95,
-                "under": 1.73
-              },
-              {
-                "line": 9.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
@@ -108,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788737866.585003
+      "last_checked": 1788738440.8779
     },
     "Palestino|Universidad de Concepción": {
       "home": "Palestino",
@@ -131,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788737893.8165202
+      "last_checked": 1788738467.916869
     },
     "Deportivo Pereira|Millonarios": {
       "home": "Deportivo Pereira",
@@ -143,24 +148,24 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.38,
-              2.7
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.38,
-                "under": 2.7
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 8.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 9.5,
-                "over": 2.25,
-                "under": 1.55
+                "over": 2.2,
+                "under": 1.57
               }
             ]
           },
@@ -177,7 +182,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788737919.0406008
+      "last_checked": 1788738493.4100041
     }
   }
 }
