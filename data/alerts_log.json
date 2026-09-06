@@ -1,36 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "New York City - Nashville SC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.39 a 2.58 (85.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "New York City - Nashville SC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.68 a 1.4 (91.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "New York City - Nashville SC",
-    "market": "CORNERS_OU",
-    "detail": "sportybet: esito #2 passato da 1.42 a 2.6 (83.1%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "CRB - América-MG",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 9.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "CRB - América-MG",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.2 a 2.45 (11.4%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "CRB - América-MG",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.42 a 1.55 (9.2%)"
@@ -2998,5 +2968,35 @@
     "match": "Frosinone - Venezia",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 4.75 a 3.65 (30.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Frosinone - Venezia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 3.25 (12.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Hamburg - Mainz",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 7.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Troyes AC - RC Strasbourg",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 10.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Troyes AC - RC Strasbourg",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.35 a 1.13 (19.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Troyes AC - RC Strasbourg",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.85 a 4.75 (66.7%)"
   }
 ]

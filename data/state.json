@@ -10,48 +10,48 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.22,
-              3.65
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 6.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.57,
+                "under": 2.2
               },
               {
                 "line": 7.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 2.15,
+                "under": 1.6
               },
               {
                 "line": 8.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 3.1,
+                "under": 1.3
               },
               {
                 "line": 9.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              1.8,
-              1.87
+              1.75,
+              1.92
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 1.8,
-                "under": 1.87
+                "over": 1.75,
+                "under": 1.92
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788702625.435402
+      "last_checked": 1788703180.8806095
     },
     "Parma|Monza": {
       "home": "Parma",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788702648.5951955
+      "last_checked": 1788703203.966093
     },
     "Frosinone|Venezia": {
       "home": "Frosinone",
@@ -148,34 +148,34 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.22,
-              3.65
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 7.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 1.6,
+                "under": 2.15
               },
               {
                 "line": 8.5,
-                "over": 2.1,
-                "under": 1.62
+                "over": 2.15,
+                "under": 1.57
               },
               {
                 "line": 9.5,
-                "over": 3.0,
-                "under": 1.32
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 10.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 5.0,
+                "under": 1.12
               }
             ]
           },
@@ -192,7 +192,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788702673.4189851
+      "last_checked": 1788703228.7765656
     },
     "Hamburg|Mainz": {
       "home": "Hamburg",
@@ -202,30 +202,43 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.44,
-              2.6
+              1.4,
+              2.74
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.4,
+                "under": 2.74
+              },
+              {
                 "line": 8.5,
-                "over": 1.44,
-                "under": 2.6
+                "over": 1.73,
+                "under": 2.0
               },
               {
                 "line": 9.5,
-                "over": 1.77,
-                "under": 1.94
-              },
-              {
-                "line": 10.5,
-                "over": 2.26,
-                "under": 1.57
+                "over": 2.24,
+                "under": 1.58
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.81,
+              1.86
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.81,
+                "under": 1.86
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -238,7 +251,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788702698.5049446
+      "last_checked": 1788703251.9892478
     },
     "Troyes AC|RC Strasbourg": {
       "home": "Troyes AC",
@@ -248,12 +261,17 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 9.5,
             "odds": [
-              1.35,
-              2.85
+              1.13,
+              4.75
             ],
             "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.13,
+                "under": 4.75
+              },
               {
                 "line": 10.5,
                 "over": 1.35,
@@ -261,23 +279,18 @@
               },
               {
                 "line": 11.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.73,
+                "under": 1.95
               },
               {
                 "line": 12.5,
-                "over": 2.3,
-                "under": 1.52
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 13.5,
-                "over": 3.25,
-                "under": 1.28
-              },
-              {
-                "line": 14.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 3.45,
+                "under": 1.25
               }
             ]
           },
@@ -307,7 +320,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788702721.734742
+      "last_checked": 1788703274.9860637
     }
   }
 }
