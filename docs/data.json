@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788724132.7310991,
+  "generated_at": 1788724694.7491443,
   "matches": [
     {
       "match": "Espanyol - Sevilla",
@@ -10,34 +10,34 @@
           "CORNERS_OU": {
             "line": 3.5,
             "odds": [
-              1.12,
-              5.0
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.12,
-                "under": 5.0
+                "over": 1.15,
+                "under": 4.5
               },
               {
                 "line": 4.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 5.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 1.92,
+                "under": 1.75
               },
               {
                 "line": 6.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 2.85,
+                "under": 1.35
               },
               {
                 "line": 7.5,
-                "over": 3.9,
-                "under": 1.2
+                "over": 4.5,
+                "under": 1.15
               }
             ]
           },
@@ -69,34 +69,10 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
-          "match": "Espanyol - Sevilla",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 3.5"
-        },
-        {
           "type": "quota_cambiata",
           "match": "Espanyol - Sevilla",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.9 a 5.0 (28.2%)"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Espanyol - Sevilla",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 7.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Espanyol - Sevilla",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.73 a 2.05 (18.5%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Espanyol - Sevilla",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.95 a 1.65 (18.2%)"
+          "detail": "bet9ja: esito #2 passato da 5.0 a 4.5 (11.1%)"
         }
       ]
     },
@@ -106,51 +82,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.28,
-              3.25
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.28,
-                "under": 3.25
-              },
-              {
-                "line": 9.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 10.5,
-                "over": 2.35,
-                "under": 1.5
-              },
-              {
-                "line": 11.5,
-                "over": 3.5,
-                "under": 1.22
-              },
-              {
-                "line": 12.5,
-                "over": 5.25,
-                "under": 1.11
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.85,
-              1.82
+              2.1,
+              1.62
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 2.1,
+                "under": 1.62
               }
             ]
           }
@@ -166,7 +109,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Juventus - AC Milan",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.85 a 2.1 (13.5%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Juventus - AC Milan",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.82 a 1.62 (12.3%)"
+        }
+      ]
     },
     {
       "match": "Olympique Marseille - Paris FC",
@@ -174,54 +130,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 11.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 11.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 12.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 13.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 14.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 15.5,
-                "over": 3.9,
-                "under": 1.2
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.85,
-              1.82
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.85,
-                "under": 1.82
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -243,36 +153,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 6.5,
             "odds": [
-              1.28,
-              3.25
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.28,
-                "under": 3.25
-              },
-              {
                 "line": 6.5,
-                "over": 1.52,
-                "under": 2.3
+                "over": 1.22,
+                "under": 3.65
               },
               {
                 "line": 7.5,
-                "over": 1.95,
-                "under": 1.73
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 8.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 1.82,
+                "under": 1.85
               },
               {
                 "line": 9.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 10.5,
+                "over": 3.25,
+                "under": 1.28
               }
             ]
           },
@@ -294,13 +204,13 @@
           "type": "linea_cambiata",
           "match": "Gil Vicente - Académico de Viseu",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 5.5"
+          "detail": "bet9ja: linea passata da 5.5 a 6.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Gil Vicente - Académico de Viseu",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.85 a 3.25 (14.0%)"
+          "detail": "bet9ja: esito #2 passato da 3.25 a 3.65 (12.3%)"
         }
       ]
     },
@@ -327,5 +237,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 7
+  "alert_count_this_run": 5
 }
