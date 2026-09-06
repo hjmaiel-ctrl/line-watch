@@ -7,75 +7,6 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.1,
-              5.5
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.1,
-                "under": 5.5
-              },
-              {
-                "line": 3.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 4.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 5.5,
-                "over": 5.75,
-                "under": 1.09
-              },
-              {
-                "line": 6.5,
-                "over": 10.0,
-                "under": 1.01
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 8.5,
-            "odds": [
-              2.2,
-              1.57
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 2.2,
-                "under": 1.57
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788727110.0405233
-    },
-    "Olympique Marseille|Paris FC": {
-      "home": "Olympique Marseille",
-      "away": "Paris FC",
-      "event_id": "10049747",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -90,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788727136.785209
+      "last_checked": 1788727716.277621
     },
     "Gil Vicente|Académico de Viseu": {
       "home": "Gil Vicente",
@@ -100,36 +31,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.12,
-              5.0
+              1.08,
+              6.0
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.08,
+                "under": 6.0
+              },
+              {
                 "line": 8.5,
-                "over": 1.12,
-                "under": 5.0
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 9.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.78,
+                "under": 1.9
               },
               {
                 "line": 10.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 2.65,
+                "under": 1.4
               },
               {
                 "line": 11.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 12.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 4.5,
+                "under": 1.15
               }
             ]
           },
@@ -146,7 +77,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788727161.6821823
+      "last_checked": 1788727745.581959
     },
     "Maghreb AS de Fes|Rahimo FC": {
       "home": "Maghreb AS de Fes",
@@ -169,7 +100,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788727188.3414514
+      "last_checked": 1788727772.3512897
     },
     "UD Almería|Cádiz": {
       "home": "UD Almería",
@@ -192,7 +123,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788727214.8263133
+      "last_checked": 1788727799.166941
+    },
+    "Cittadella|Lumenzzane": {
+      "home": "Cittadella",
+      "away": "Lumenzzane",
+      "event_id": "10062489",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788727825.7663782
     }
   }
 }
