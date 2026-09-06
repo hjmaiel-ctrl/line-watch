@@ -7,50 +7,27 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788730614.6207597
-    },
-    "Lanus|Defensa y Justicia": {
-      "home": "Lanus",
-      "away": "Defensa y Justicia",
-      "event_id": "10062522",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
           "CORNERS_OU": {
-            "line": 10.5,
+            "line": 12.5,
             "odds": [
-              1.2,
-              3.75
+              1.35,
+              2.75
             ],
             "_all_lines": [
               {
-                "line": 10.5,
-                "over": 1.2,
-                "under": 3.75
-              },
-              {
-                "line": 11.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
                 "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 1.35,
+                "under": 2.75
+              },
+              {
+                "line": 13.5,
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 14.5,
+                "over": 4.25,
+                "under": 1.17
               }
             ]
           },
@@ -67,7 +44,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788730639.5174725
+      "last_checked": 1788731157.7040656
+    },
+    "Lanus|Defensa y Justicia": {
+      "home": "Lanus",
+      "away": "Defensa y Justicia",
+      "event_id": "10062522",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788731184.058822
     },
     "Botafogo FR|Palmeiras": {
       "home": "Botafogo FR",
@@ -77,24 +77,24 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.45,
-              2.5
+              1.42,
+              2.6
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
                 "line": 9.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 10.5,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 11.5,
                 "over": 2.15,
                 "under": 1.6
               }
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788730664.4938965
+      "last_checked": 1788731208.619321
     },
     "Atlética Ponte Preta|São Bernardo FC": {
       "home": "Atlética Ponte Preta",
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788730691.3130856
+      "last_checked": 1788731235.2046633
     },
     "Huachipato|Colo-Colo": {
       "home": "Huachipato",
@@ -159,7 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788730717.9272645
+      "last_checked": 1788731261.794036
     }
   }
 }

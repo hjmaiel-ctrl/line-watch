@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788730717.9955673,
+  "generated_at": 1788731261.8383079,
   "matches": [
     {
       "match": "Central Córdoba - Independiente",
@@ -7,7 +7,30 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 12.5,
+            "odds": [
+              1.35,
+              2.75
+            ],
+            "_all_lines": [
+              {
+                "line": 12.5,
+                "over": 1.35,
+                "under": 2.75
+              },
+              {
+                "line": 13.5,
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 14.5,
+                "over": 4.25,
+                "under": 1.17
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -29,30 +52,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 10.5,
-            "odds": [
-              1.2,
-              3.75
-            ],
-            "_all_lines": [
-              {
-                "line": 10.5,
-                "over": 1.2,
-                "under": 3.75
-              },
-              {
-                "line": 11.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
-                "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -75,24 +75,24 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.45,
-              2.5
+              1.42,
+              2.6
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
                 "line": 9.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.42,
+                "under": 2.6
               },
               {
                 "line": 10.5,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 11.5,
                 "over": 2.15,
                 "under": 1.6
               }
@@ -111,7 +111,14 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Botafogo FR - Palmeiras",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 9.5"
+        }
+      ]
     },
     {
       "match": "Atlética Ponte Preta - São Bernardo FC",
@@ -158,5 +165,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 1
 }
