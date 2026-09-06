@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788670318.931691,
+  "generated_at": 1788670879.3243906,
   "matches": [
     {
       "match": "Hokkaido Consadole Sapporo - Tochigi City FC",
@@ -12,32 +12,6 @@
         },
         "sportybet": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Atlas - Atlante",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            5.8,
-            1.23
-          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -95,6 +69,32 @@
     },
     {
       "match": "AC Middle Range - Kansai University FC 2008",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.18,
+            5.1
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Tokushima Celeste - R. Velho Takamatsu",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

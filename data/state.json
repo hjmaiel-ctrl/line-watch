@@ -21,34 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788670207.2561812
-    },
-    "Atlas|Atlante": {
-      "home": "Atlas",
-      "away": "Atlante",
-      "event_id": "10061317",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            5.8,
-            1.23
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788670238.9911518
+      "last_checked": 1788670766.3225293
     },
     "Marquense|Xelajú MC": {
       "home": "Marquense",
@@ -71,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788670265.855749
+      "last_checked": 1788670793.0984893
     },
     "Navua F.C.|Labasa FC": {
       "home": "Navua F.C.",
@@ -94,12 +67,39 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788670292.4163773
+      "last_checked": 1788670819.9413624
     },
     "AC Middle Range|Kansai University FC 2008": {
       "home": "AC Middle Range",
       "away": "Kansai University FC 2008",
       "event_id": "10061322",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            1.18,
+            5.1
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788670852.2013621
+    },
+    "Tokushima Celeste|R. Velho Takamatsu": {
+      "home": "Tokushima Celeste",
+      "away": "R. Velho Takamatsu",
+      "event_id": "10061326",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788670318.8889968
+      "last_checked": 1788670879.2899072
     }
   }
 }
