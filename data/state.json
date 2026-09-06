@@ -21,7 +21,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788683161.328889
+      "last_checked": 1788684049.6805396
+    },
+    "Java United FC|Garuda Yaksa": {
+      "home": "Java United FC",
+      "away": "Garuda Yaksa",
+      "event_id": "10061416",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788684076.3071291
     },
     "Shatin SA|North District": {
       "home": "Shatin SA",
@@ -44,7 +67,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788683188.215869
+      "last_checked": 1788684102.8296306
+    },
+    "Hong Kong FC|Lee Man FC": {
+      "home": "Hong Kong FC",
+      "away": "Lee Man FC",
+      "event_id": "10061401",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788684129.6620367
     },
     "Moreton City Excelsior U23|Gold Coast Knights FC": {
       "home": "Moreton City Excelsior U23",
@@ -67,53 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788683215.243243
-    },
-    "South Melbourne FC|Heidelberg Utd": {
-      "home": "South Melbourne FC",
-      "away": "Heidelberg Utd",
-      "event_id": "10061363",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788683242.2560759
-    },
-    "University of Johannesburg FC|Ramatlaohle Ladies FC": {
-      "home": "University of Johannesburg FC",
-      "away": "Ramatlaohle Ladies FC",
-      "event_id": "10061364",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788683269.0877976
+      "last_checked": 1788684156.2005308
     }
   }
 }
