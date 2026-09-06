@@ -21,30 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788670766.3225293
-    },
-    "Marquense|Xelajú MC": {
-      "home": "Marquense",
-      "away": "Xelajú MC",
-      "event_id": "10061318",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788670793.0984893
+      "last_checked": 1788671675.965845
     },
     "Navua F.C.|Labasa FC": {
       "home": "Navua F.C.",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788670819.9413624
+      "last_checked": 1788671703.179142
     },
     "AC Middle Range|Kansai University FC 2008": {
       "home": "AC Middle Range",
@@ -82,8 +59,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.18,
-            5.1
+            9.5,
+            100.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -94,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788670852.2013621
+      "last_checked": 1788671735.3169732
     },
     "Tokushima Celeste|R. Velho Takamatsu": {
       "home": "Tokushima Celeste",
@@ -117,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788670879.2899072
+      "last_checked": 1788671762.195269
+    },
+    "Sydney Utd.|Manly Utd.": {
+      "home": "Sydney Utd.",
+      "away": "Manly Utd.",
+      "event_id": "10061328",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788671789.1959193
     }
   }
 }

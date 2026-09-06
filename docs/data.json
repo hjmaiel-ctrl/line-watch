@@ -1,30 +1,8 @@
 {
-  "generated_at": 1788670879.3243906,
+  "generated_at": 1788671789.2352955,
   "matches": [
     {
       "match": "Hokkaido Consadole Sapporo - Tochigi City FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Marquense - Xelajú MC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -79,8 +57,8 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.18,
-            5.1
+            9.5,
+            100.0
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -91,7 +69,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "AC Middle Range - Kansai University FC 2008",
+          "market": "1X2",
+          "detail": "sportybet: esito #2 passato da 1.18 a 9.5 (705.1%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "AC Middle Range - Kansai University FC 2008",
+          "market": "1X2",
+          "detail": "sportybet: esito #3 passato da 5.1 a 100.0 (1860.8%)"
+        }
+      ]
     },
     {
       "match": "Tokushima Celeste - R. Velho Takamatsu",
@@ -114,7 +105,29 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Sydney Utd. - Manly Utd.",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
