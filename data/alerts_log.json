@@ -1,84 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.72 a 3.15 (15.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.28 a 1.61 (25.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.15 a 2.04 (54.4%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja=1.49 vs sportybet=2.4 (esito #1, differenza 61.1%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja=2.22 vs sportybet=1.6 (esito #2, differenza 38.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.61 a 1.49 (8.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Chernomorets Odessa - FC Livyi Bereh Kyiv",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.04 a 2.22 (8.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Bali United - PSS Sleman",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 12.0 a 10.5 (14.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Panthère du Ndé - Rayon Sports",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 1.7 a 2.35 (38.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Panthère du Ndé - Rayon Sports",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 2.0 a 1.51 (32.5%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Arminia Bielefeld - FC St. Pauli",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Panthère du Ndé - Rayon Sports",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 2.35 a 3.7 (57.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Panthère du Ndé - Rayon Sports",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 1.51 a 1.22 (23.8%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Arminia Bielefeld - FC St. Pauli",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #1 passato da 1.32 a 1.22 (8.2%)"
@@ -2998,5 +2920,83 @@
     "match": "Toronto - Chicago Fire",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 2.16 a 1.99 (8.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Columbus Crew - Colorado Rapids",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Columbus Crew - Colorado Rapids",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.6 a 1.44 (11.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Columbus Crew - Colorado Rapids",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.2 a 2.52 (14.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Columbus Crew - Colorado Rapids",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 4.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Columbus Crew - Colorado Rapids",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.63 a 2.02 (23.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Columbus Crew - Colorado Rapids",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.1 a 1.67 (25.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Orlando City - San Diego FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.76 a 2.24 (27.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Orlando City - San Diego FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.91 a 1.56 (22.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Philadelphia Union - CF Montreal",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.55 a 1.38 (12.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Philadelphia Union - CF Montreal",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.3 a 2.74 (19.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Toronto - Chicago Fire",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Toronto - Chicago Fire",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.7 a 1.56 (9.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Toronto - Chicago Fire",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.99 a 2.22 (11.6%)"
   }
 ]
