@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788705027.507074,
+  "generated_at": 1788705742.7827759,
   "matches": [
     {
       "match": "Everton - Manchester United",
@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.22,
-              3.65
+              1.13,
+              4.75
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.13,
+                "under": 4.75
+              },
+              {
                 "line": 7.5,
-                "over": 1.22,
-                "under": 3.65
+                "over": 1.62,
+                "under": 2.1
               },
               {
                 "line": 8.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 9.5,
-                "over": 2.5,
-                "under": 1.45
+                "over": 4.25,
+                "under": 1.17
               },
               {
                 "line": 10.5,
-                "over": 4.1,
-                "under": 1.18
-              },
-              {
-                "line": 11.5,
-                "over": 7.5,
-                "under": 1.04
+                "over": 7.25,
+                "under": 1.05
               }
             ]
           },
           "CARDS_OU": {
-            "line": 5.5,
+            "line": 6.5,
             "odds": [
-              1.83,
-              1.83
+              2.45,
+              1.47
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.83,
-                "under": 1.83
+                "line": 6.5,
+                "over": 2.45,
+                "under": 1.47
               }
             ]
           }
@@ -72,36 +72,234 @@
           "type": "linea_cambiata",
           "match": "Everton - Manchester United",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 7.5"
+          "detail": "bet9ja: linea passata da 7.5 a 6.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Everton - Manchester United",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.65 a 4.75 (30.1%)"
         },
         {
           "type": "linea_cambiata",
           "match": "Everton - Manchester United",
           "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 5.5"
+          "detail": "bet9ja: linea passata da 5.5 a 6.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Everton - Manchester United",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.15 a 1.83 (17.5%)"
+          "detail": "bet9ja: esito #1 passato da 1.83 a 2.45 (33.9%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Everton - Manchester United",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.6 a 1.83 (14.4%)"
+          "detail": "bet9ja: esito #2 passato da 1.83 a 1.47 (24.5%)"
         }
       ]
     },
     {
-      "match": "Valencia - FC Barcelona",
+      "match": "Parma - Monza",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.4,
+              2.65
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.4,
+                "under": 2.65
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
           "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Parma - Monza",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 4.5 a 3.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Parma - Monza",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.85 a 1.4 (32.1%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Parma - Monza",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.82 a 2.65 (45.6%)"
+        }
+      ]
+    },
+    {
+      "match": "Frosinone - Venezia",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.92,
+              1.75
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.92,
+                "under": 1.75
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Frosinone - Venezia",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.7 a 1.92 (12.9%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Frosinone - Venezia",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.98 a 1.75 (13.1%)"
+        }
+      ]
+    },
+    {
+      "match": "Hamburg - Mainz",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.59,
+              2.22
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.59,
+                "under": 2.22
+              },
+              {
+                "line": 8.5,
+                "over": 2.2,
+                "under": 1.6
+              },
+              {
+                "line": 9.5,
+                "over": 3.25,
+                "under": 1.29
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.57,
+              2.22
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.57,
+                "under": 2.22
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Hamburg - Mainz",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 4.5 a 3.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Hamburg - Mainz",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 2.0 a 1.57 (27.4%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Hamburg - Mainz",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.69 a 2.22 (31.4%)"
+        }
+      ]
+    },
+    {
+      "match": "Troyes AC - RC Strasbourg",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.62,
+              2.1
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.62,
+                "under": 2.1
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -115,270 +313,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Parma - Monza",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.02,
-              8.5
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.02,
-                "under": 8.5
-              },
-              {
-                "line": 5.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 6.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 7.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 8.5,
-                "over": 6.0,
-                "under": 1.08
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.85,
-              1.82
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.85,
-                "under": 1.82
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Parma - Monza",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 4.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Parma - Monza",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 6.0 a 8.5 (41.7%)"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Parma - Monza",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 3.5 a 4.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Parma - Monza",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.1 a 1.85 (13.5%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Parma - Monza",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.62 a 1.82 (12.3%)"
-        }
-      ]
-    },
-    {
-      "match": "Frosinone - Venezia",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 6.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 7.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 8.5,
-                "over": 4.5,
-                "under": 1.15
-              },
-              {
-                "line": 9.5,
-                "over": 7.5,
-                "under": 1.04
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.7,
-              1.98
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.7,
-                "under": 1.98
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Frosinone - Venezia",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.1 a 3.65 (12.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Frosinone - Venezia",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.9 a 1.7 (11.8%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Frosinone - Venezia",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.78 a 1.98 (11.2%)"
-        }
-      ]
-    },
-    {
-      "match": "Hamburg - Mainz",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.64,
-              2.12
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.64,
-                "under": 2.12
-              },
-              {
-                "line": 8.5,
-                "over": 2.22,
-                "under": 1.59
-              },
-              {
-                "line": 9.5,
-                "over": 3.15,
-                "under": 1.31
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              2.0,
-              1.69
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 2.0,
-                "under": 1.69
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Hamburg - Mainz",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 7.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Hamburg - Mainz",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.35 a 1.64 (21.5%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Hamburg - Mainz",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.92 a 2.12 (37.7%)"
-        }
-      ]
     }
   ],
-  "alert_count_this_run": 15
+  "alert_count_this_run": 13
 }

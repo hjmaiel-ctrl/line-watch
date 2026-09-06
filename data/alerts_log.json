@@ -1,84 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Newcastle United - AFC Bournemouth",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.57 a 1.9 (21.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Newcastle United - AFC Bournemouth",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 5.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Newcastle United - AFC Bournemouth",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.78 a 2.3 (29.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Newcastle United - AFC Bournemouth",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.9 a 1.52 (25.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Newcastle United - AFC Bournemouth",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Fiorentina - Torino",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.35 a 1.17 (15.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Fiorentina - Torino",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.85 a 4.25 (49.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Fiorentina - Torino",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.6 a 1.95 (21.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Fiorentina - Torino",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.15 a 1.73 (24.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Fiorentina - Torino",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.15 a 1.28 (11.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Fiorentina - Torino",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.5 a 3.25 (38.5%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Fiorentina - Torino",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 2.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Fiorentina - Torino",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.95 a 1.6 (21.9%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Fiorentina - Torino",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.73 a 2.15 (24.3%)"
@@ -2998,5 +2920,83 @@
     "match": "Hamburg - Mainz",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.92 a 2.12 (37.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Everton - Manchester United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Everton - Manchester United",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 4.75 (30.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Everton - Manchester United",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Everton - Manchester United",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.83 a 2.45 (33.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Everton - Manchester United",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.83 a 1.47 (24.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Parma - Monza",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Parma - Monza",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.85 a 1.4 (32.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Parma - Monza",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.82 a 2.65 (45.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Frosinone - Venezia",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.7 a 1.92 (12.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Frosinone - Venezia",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.98 a 1.75 (13.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Hamburg - Mainz",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 3.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hamburg - Mainz",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.0 a 1.57 (27.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Hamburg - Mainz",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.69 a 2.22 (31.4%)"
   }
 ]
