@@ -1,3 +1,165 @@
 {
-  "matches": {}
+  "matches": {
+    "Central Córdoba|Independiente": {
+      "home": "Central Córdoba",
+      "away": "Independiente",
+      "event_id": "10062521",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788730614.6207597
+    },
+    "Lanus|Defensa y Justicia": {
+      "home": "Lanus",
+      "away": "Defensa y Justicia",
+      "event_id": "10062522",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.2,
+              3.75
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.2,
+                "under": 3.75
+              },
+              {
+                "line": 11.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 12.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788730639.5174725
+    },
+    "Botafogo FR|Palmeiras": {
+      "home": "Botafogo FR",
+      "away": "Palmeiras",
+      "event_id": "10062602",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.45,
+              2.5
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.75,
+                "under": 1.92
+              },
+              {
+                "line": 10.5,
+                "over": 2.15,
+                "under": 1.6
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788730664.4938965
+    },
+    "Atlética Ponte Preta|São Bernardo FC": {
+      "home": "Atlética Ponte Preta",
+      "away": "São Bernardo FC",
+      "event_id": "10062600",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788730691.3130856
+    },
+    "Huachipato|Colo-Colo": {
+      "home": "Huachipato",
+      "away": "Colo-Colo",
+      "event_id": "10062515",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788730717.9272645
+    }
+  }
 }
