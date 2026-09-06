@@ -1,8 +1,8 @@
 {
-  "generated_at": 1788681445.3698926,
+  "generated_at": 1788682314.2040744,
   "matches": [
     {
-      "match": "Mindil Aces - Casuarina",
+      "match": "Shatin SA - North District",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -24,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Sunshine Coast Wanderers - Ipswich FC",
+      "match": "Mindil Aces - Casuarina",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -33,7 +33,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.05,
+            8.25
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -68,7 +72,7 @@
       "alerts": []
     },
     {
-      "match": "APIA Tigers - Northern Spirit",
+      "match": "Moreton City Excelsior U23 - Gold Coast Knights FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -90,7 +94,7 @@
       "alerts": []
     },
     {
-      "match": "Moreton City Excelsior U23 - Gold Coast Knights FC",
+      "match": "South Melbourne FC - Heidelberg Utd",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
