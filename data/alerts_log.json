@@ -3,48 +3,6 @@
     "type": "linea_cambiata",
     "match": "Hull City - Aston Villa",
     "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 2.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.25 a 1.5 (50.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.55 a 2.35 (51.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Rayo Vallecano - Racing Santander",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 10.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Rayo Vallecano - Racing Santander",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.6 a 2.05 (28.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Rayo Vallecano - Racing Santander",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.15 a 1.65 (30.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 6.0 a 12.0 (100.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CARDS_OU",
     "detail": "bet9ja: linea passata da 2.5 a 3.5"
   },
   {
@@ -2998,5 +2956,47 @@
     "match": "Trabzonspor - Gençlerbirligi SK",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.65 a 10.0 (174.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Vitoria de Guimaraes - Casa Pia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 15.5 a 17.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Vitoria de Guimaraes - Casa Pia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 5.5 a 7.0 (27.3%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Trabzonspor - Gençlerbirligi SK",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=1.32 vs sportybet=2.4 (esito #1, differenza 81.8%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Trabzonspor - Gençlerbirligi SK",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=3.0 vs sportybet=1.37 (esito #2, differenza 119.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Trabzonspor - Gençlerbirligi SK",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Trabzonspor - Gençlerbirligi SK",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.01 a 1.32 (30.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Trabzonspor - Gençlerbirligi SK",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 10.0 a 3.0 (233.3%)"
   }
 ]
