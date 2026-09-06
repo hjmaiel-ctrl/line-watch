@@ -8,35 +8,64 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.34,
-              3.0
+              1.49,
+              2.4
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.34,
-                "under": 3.0
-              },
-              {
                 "line": 9.5,
-                "over": 1.72,
-                "under": 2.02
+                "over": 1.49,
+                "under": 2.4
               },
               {
                 "line": 10.5,
-                "over": 2.36,
-                "under": 1.53
+                "over": 2.12,
+                "under": 1.61
+              },
+              {
+                "line": 11.5,
+                "over": 3.3,
+                "under": 1.27
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.53,
+              2.28
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.53,
+                "under": 2.28
+              }
+            ]
+          }
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "1X2": [
+            2.4,
+            1.42,
+            3.85
+          ],
+          "CORNERS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.52
+            ]
+          },
+          "CARDS_OU": {
+            "line": null,
+            "odds": [
+              2.4,
+              1.55
+            ]
+          }
         },
         "bet365": {
           "1X2": null,
@@ -44,7 +73,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788666926.17576
+      "last_checked": 1788667790.7082932
     },
     "Vancouver Whitecaps|Saint Louis City SC": {
       "home": "Vancouver Whitecaps",
@@ -54,40 +83,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 6.5,
             "odds": [
-              1.46,
-              2.52
+              1.23,
+              3.65
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.46,
-                "under": 2.52
-              },
-              {
                 "line": 6.5,
-                "over": 1.94,
-                "under": 1.77
+                "over": 1.23,
+                "under": 3.65
               },
               {
                 "line": 7.5,
-                "over": 2.76,
-                "under": 1.39
+                "over": 1.66,
+                "under": 2.06
+              },
+              {
+                "line": 8.5,
+                "over": 2.48,
+                "under": 1.45
               }
             ]
           },
           "CARDS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.69,
-              2.0
+              1.77,
+              1.87
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.69,
-                "under": 2.0
+                "line": 5.5,
+                "over": 1.77,
+                "under": 1.87
               }
             ]
           }
@@ -103,12 +132,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788666949.9581113
+      "last_checked": 1788667814.9372554
     },
-    "Monterey Bay FC|Phoenix Rising": {
-      "home": "Monterey Bay FC",
-      "away": "Phoenix Rising",
-      "event_id": "10061305",
+    "Hokkaido Consadole Sapporo|Tochigi City FC": {
+      "home": "Hokkaido Consadole Sapporo",
+      "away": "Tochigi City FC",
+      "event_id": "10061324",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -126,39 +155,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788666976.7011461
+      "last_checked": 1788667841.666697
     },
-    "Los Angeles FC 2|Ventura County FC": {
-      "home": "Los Angeles FC 2",
-      "away": "Ventura County FC",
-      "event_id": "10061307",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            6.75,
-            8.25
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788667008.8553393
-    },
-    "Sonio Takamatsu|Lavenirosso NC": {
-      "home": "Sonio Takamatsu",
-      "away": "Lavenirosso NC",
-      "event_id": "10061309",
+    "Av Alta FC|One Knoxville SC": {
+      "home": "Av Alta FC",
+      "away": "One Knoxville SC",
+      "event_id": "10061314",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -176,7 +178,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788667036.0450108
+      "last_checked": 1788667874.6799016
+    },
+    "Las Vegas Lights|New Mexico Utd": {
+      "home": "Las Vegas Lights",
+      "away": "New Mexico Utd",
+      "event_id": "10061315",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788667901.4417946
     }
   }
 }
