@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788736999.8358898,
+  "generated_at": 1788737919.0887773,
   "matches": [
     {
       "match": "Club Leon - CF America",
@@ -8,169 +8,21 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.39,
-              2.64
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.39,
-                "under": 2.64
-              },
-              {
-                "line": 7.5,
-                "over": 1.82,
-                "under": 1.82
-              },
-              {
-                "line": 8.5,
-                "over": 2.54,
-                "under": 1.42
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 5.5,
-            "odds": [
-              2.1,
-              1.6
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 2.1,
-                "under": 1.6
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Club Leon - CF America",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.05 a 2.64 (15.5%)"
-        }
-      ]
-    },
-    {
-      "match": "Botafogo FR - Palmeiras",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            10.5,
-            1.23
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "River Plate - Independiente Rivadavia",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.55,
-              2.25
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.55,
-                "under": 2.25
-              },
-              {
-                "line": 4.5,
-                "over": 2.2,
-                "under": 1.57
-              },
-              {
-                "line": 5.5,
-                "over": 3.45,
-                "under": 1.25
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "River Plate - Independiente Rivadavia",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.45 a 2.25 (8.9%)"
-        }
-      ]
-    },
-    {
-      "match": "Corinthians - Chapecoense",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.5,
-              2.35
+              1.52,
+              2.22
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.52,
+                "under": 2.22
               },
               {
                 "line": 8.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 9.5,
-                "over": 2.85,
-                "under": 1.35
+                "over": 2.2,
+                "under": 1.53
               }
             ]
           },
@@ -190,26 +42,26 @@
       "alerts": [
         {
           "type": "linea_cambiata",
-          "match": "Corinthians - Chapecoense",
+          "match": "Club Leon - CF America",
           "market": "CORNERS_OU",
           "detail": "bet9ja: linea passata da 6.5 a 7.5"
         },
         {
           "type": "quota_cambiata",
-          "match": "Corinthians - Chapecoense",
+          "match": "Club Leon - CF America",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.35 a 1.5 (11.1%)"
+          "detail": "bet9ja: esito #1 passato da 1.39 a 1.52 (9.4%)"
         },
         {
           "type": "quota_cambiata",
-          "match": "Corinthians - Chapecoense",
+          "match": "Club Leon - CF America",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.85 a 2.35 (21.3%)"
+          "detail": "bet9ja: esito #2 passato da 2.64 a 2.22 (18.9%)"
         }
       ]
     },
     {
-      "match": "Atlética Ponte Preta - São Bernardo FC",
+      "match": "River Plate - Independiente Rivadavia",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -229,7 +81,119 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Corinthians - Chapecoense",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.47,
+              2.45
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.47,
+                "under": 2.45
+              },
+              {
+                "line": 8.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 9.5,
+                "over": 2.7,
+                "under": 1.38
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Palestino - Universidad de Concepción",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Deportivo Pereira - Millonarios",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.38,
+              2.7
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 8.5,
+                "over": 1.7,
+                "under": 1.98
+              },
+              {
+                "line": 9.5,
+                "over": 2.25,
+                "under": 1.55
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 5
+  "alert_count_this_run": 3
 }
