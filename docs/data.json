@@ -1,28 +1,6 @@
 {
-  "generated_at": 1788674497.0227833,
+  "generated_at": 1788675747.7165856,
   "matches": [
-    {
-      "match": "Sydney Utd. - Manly Utd.",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Broadmeadow Magic - Maitland",
       "bet9ja_stats": null,
@@ -68,6 +46,28 @@
       "alerts": []
     },
     {
+      "match": "Ba F.C. - Lautoka FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
       "match": "Ravia Sa - Qi Yi FC",
       "bet9ja_stats": null,
       "odds": {
@@ -90,7 +90,7 @@
       "alerts": []
     },
     {
-      "match": "Mongolia U20 - Guam U20",
+      "match": "Ococias Kyoto AC - Moriyama Samurai",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

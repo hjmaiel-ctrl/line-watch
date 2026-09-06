@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Sydney Utd.|Manly Utd.": {
-      "home": "Sydney Utd.",
-      "away": "Manly Utd.",
-      "event_id": "10061328",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788674389.8726602
-    },
     "Broadmeadow Magic|Maitland": {
       "home": "Broadmeadow Magic",
       "away": "Maitland",
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788674416.8812275
+      "last_checked": 1788675640.9396157
     },
     "Tadotsu FC|Kufc Nankoku": {
       "home": "Tadotsu FC",
@@ -67,7 +44,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788674443.5442216
+      "last_checked": 1788675667.8078897
+    },
+    "Ba F.C.|Lautoka FC": {
+      "home": "Ba F.C.",
+      "away": "Lautoka FC",
+      "event_id": "10061349",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788675694.325777
     },
     "Ravia Sa|Qi Yi FC": {
       "home": "Ravia Sa",
@@ -90,12 +90,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788674470.3100157
+      "last_checked": 1788675721.046024
     },
-    "Mongolia U20|Guam U20": {
-      "home": "Mongolia U20",
-      "away": "Guam U20",
-      "event_id": "10061341",
+    "Ococias Kyoto AC|Moriyama Samurai": {
+      "home": "Ococias Kyoto AC",
+      "away": "Moriyama Samurai",
+      "event_id": "10061355",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788674496.9739218
+      "last_checked": 1788675747.665594
     }
   }
 }
