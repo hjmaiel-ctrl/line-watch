@@ -10,127 +10,48 @@
           "CORNERS_OU": {
             "line": 5.5,
             "odds": [
-              1.2,
-              3.9
+              1.25,
+              3.45
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.2,
-                "under": 3.9
+                "over": 1.25,
+                "under": 3.45
               },
               {
                 "line": 6.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.6,
+                "under": 2.15
               },
               {
                 "line": 7.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 8.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 9.5,
-                "over": 4.1,
-                "under": 1.18
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788711403.7301636
-    },
-    "Valencia|FC Barcelona": {
-      "home": "Valencia",
-      "away": "FC Barcelona",
-      "event_id": "10060623",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788711435.0129492
-    },
-    "Bologna|Sassuolo": {
-      "home": "Bologna",
-      "away": "Sassuolo",
-      "event_id": "10052336",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.2,
-              3.9
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
-                "line": 7.5,
-                "over": 1.42,
-                "under": 2.6
-              },
-              {
-                "line": 8.5,
-                "over": 1.78,
-                "under": 1.9
-              },
-              {
-                "line": 9.5,
-                "over": 2.35,
-                "under": 1.5
-              },
-              {
-                "line": 10.5,
                 "over": 3.25,
                 "under": 1.28
+              },
+              {
+                "line": 9.5,
+                "over": 5.0,
+                "under": 1.12
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 5.5,
             "odds": [
-              1.55,
-              2.25
+              1.87,
+              1.8
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.55,
-                "under": 2.25
+                "line": 5.5,
+                "over": 1.87,
+                "under": 1.8
               }
             ]
           }
@@ -146,7 +67,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788711458.53195
+      "last_checked": 1788712228.9997444
+    },
+    "Bologna|Sassuolo": {
+      "home": "Bologna",
+      "away": "Sassuolo",
+      "event_id": "10052336",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.17,
+              4.25
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.17,
+                "under": 4.25
+              },
+              {
+                "line": 8.5,
+                "over": 1.35,
+                "under": 2.75
+              },
+              {
+                "line": 9.5,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 10.5,
+                "over": 2.35,
+                "under": 1.5
+              },
+              {
+                "line": 11.5,
+                "over": 3.25,
+                "under": 1.28
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.65,
+              2.05
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.65,
+                "under": 2.05
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788712252.145731
     },
     "Eintracht Frankfurt|Augsburg": {
       "home": "Eintracht Frankfurt",
@@ -158,38 +148,38 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.61,
-              2.18
+              1.48,
+              2.48
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.61,
-                "under": 2.18
+                "over": 1.48,
+                "under": 2.48
               },
               {
                 "line": 11.5,
-                "over": 2.16,
-                "under": 1.62
+                "over": 1.92,
+                "under": 1.79
               },
               {
                 "line": 12.5,
-                "over": 3.05,
-                "under": 1.33
+                "over": 2.64,
+                "under": 1.43
               }
             ]
           },
           "CARDS_OU": {
             "line": 4.5,
             "odds": [
-              2.16,
-              1.6
+              2.1,
+              1.63
             ],
             "_all_lines": [
               {
                 "line": 4.5,
-                "over": 2.16,
-                "under": 1.6
+                "over": 2.1,
+                "under": 1.63
               }
             ]
           }
@@ -205,7 +195,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788711482.1178105
+      "last_checked": 1788712275.1789453
     },
     "Angers SCO|Stade Rennais": {
       "home": "Angers SCO",
@@ -214,51 +204,18 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 10.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 11.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
-                "line": 12.5,
-                "over": 2.6,
-                "under": 1.42
-              },
-              {
-                "line": 13.5,
-                "over": 3.65,
-                "under": 1.22
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 1.5,
             "odds": [
-              2.15,
-              1.6
+              1.6,
+              2.15
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 2.15,
-                "under": 1.6
+                "line": 1.5,
+                "over": 1.6,
+                "under": 2.15
               }
             ]
           }
@@ -274,7 +231,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788711505.5392792
+      "last_checked": 1788712299.9870934
+    },
+    "ADO Den Haag|Fortuna Sittard": {
+      "home": "ADO Den Haag",
+      "away": "Fortuna Sittard",
+      "event_id": "10060647",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788712326.4465127
     }
   }
 }

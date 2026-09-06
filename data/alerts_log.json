@@ -1,60 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Fulham - Crystal Palace",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.65 a 2.1 (27.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Manchester City - Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Manchester City - Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.25 a 1.12 (11.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Manchester City - Coventry City",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.45 a 5.0 (44.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Brighton & Hove Albion - Leeds United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.17 a 1.28 (9.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Brighton & Hove Albion - Leeds United",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.25 a 3.25 (30.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Fulham - Crystal Palace",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.9 a 2.15 (13.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Fulham - Crystal Palace",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.78 a 1.6 (11.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Brentford - Sunderland",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Brentford - Sunderland",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.65 a 4.0 (9.6%)"
@@ -2998,5 +2944,59 @@
     "match": "Angers SCO - Stade Rennais",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.85 a 3.65 (28.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Arsenal - Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.9 a 3.45 (13.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Bologna - Sassuolo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Bologna - Sassuolo",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.9 a 4.25 (9.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Bologna - Sassuolo",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.25 a 2.05 (9.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Eintracht Frankfurt - Augsburg",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.61 a 1.48 (8.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Eintracht Frankfurt - Augsburg",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.18 a 2.48 (13.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Angers SCO - Stade Rennais",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 2.5 a 1.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Angers SCO - Stade Rennais",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.15 a 1.6 (34.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Angers SCO - Stade Rennais",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.6 a 2.15 (34.4%)"
   }
 ]
