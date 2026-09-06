@@ -1,5 +1,28 @@
 {
   "matches": {
+    "Heerenveen|AZ Alkmaar": {
+      "home": "Heerenveen",
+      "away": "AZ Alkmaar",
+      "event_id": "10060614",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788699584.8746803
+    },
     "SC Telstar|Cambuur Leeuwarden": {
       "home": "SC Telstar",
       "away": "Cambuur Leeuwarden",
@@ -21,76 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788699025.270021
-    },
-    "Birmingham City|Wolverhampton Wanderers": {
-      "home": "Birmingham City",
-      "away": "Wolverhampton Wanderers",
-      "event_id": "10052079",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.62,
-              2.1
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.62,
-                "under": 2.1
-              },
-              {
-                "line": 13.5,
-                "over": 2.65,
-                "under": 1.4
-              },
-              {
-                "line": 14.5,
-                "over": 5.25,
-                "under": 1.11
-              },
-              {
-                "line": 15.5,
-                "over": 9.0,
-                "under": 1.02
-              },
-              {
-                "line": 16.5,
-                "over": 11.0,
-                "under": null
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.98,
-              1.7
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.98,
-                "under": 1.7
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788699048.6136577
+      "last_checked": 1788699611.532568
     },
     "Gor Mahia|Pyramids": {
       "home": "Gor Mahia",
@@ -113,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788699075.2898593
+      "last_checked": 1788699638.0437212
     },
     "SD Eibar|Granada CF": {
       "home": "SD Eibar",
@@ -136,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788699102.0738888
+      "last_checked": 1788699664.7003949
     },
     "Hertha BSC|1. FC Magdeburg": {
       "home": "Hertha BSC",
@@ -159,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788699128.9964142
+      "last_checked": 1788699691.2281716
     }
   }
 }
