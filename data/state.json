@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788695235.049028
+      "last_checked": 1788695812.279267
     },
     "Birmingham City|Wolverhampton Wanderers": {
       "home": "Birmingham City",
@@ -59,22 +59,22 @@
               },
               {
                 "line": 12.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.62,
-              2.1
+              1.75,
+              1.92
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.75,
+                "under": 1.92
               }
             ]
           }
@@ -90,30 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788695258.222904
-    },
-    "Hertha BSC|1. FC Magdeburg": {
-      "home": "Hertha BSC",
-      "away": "1. FC Magdeburg",
-      "event_id": "10061793",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788695284.9315567
+      "last_checked": 1788695835.550006
     },
     "SpVgg Greuther Fürth|1. FC Heidenheim": {
       "home": "SpVgg Greuther Fürth",
@@ -136,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788695311.9253023
+      "last_checked": 1788695862.301154
     },
     "VfL Osnabrück|Eintracht Braunschweig": {
       "home": "VfL Osnabrück",
@@ -159,7 +136,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788695338.5962389
+      "last_checked": 1788695889.029534
+    },
+    "Cercle Brugge|KAA Gent": {
+      "home": "Cercle Brugge",
+      "away": "KAA Gent",
+      "event_id": "10060612",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788695915.8632717
     }
   }
 }

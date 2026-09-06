@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788695338.648332,
+  "generated_at": 1788695915.9239702,
   "matches": [
     {
       "match": "FC Groningen - FC Twente",
@@ -58,22 +58,22 @@
               },
               {
                 "line": 12.5,
-                "over": 4.1,
-                "under": 1.18
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.62,
-              2.1
+              1.75,
+              1.92
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.62,
-                "under": 2.1
+                "over": 1.75,
+                "under": 1.92
               }
             ]
           }
@@ -89,29 +89,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
-    },
-    {
-      "match": "Hertha BSC - 1. FC Magdeburg",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Birmingham City - Wolverhampton Wanderers",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.62 a 1.75 (8.0%)"
         },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+        {
+          "type": "quota_cambiata",
+          "match": "Birmingham City - Wolverhampton Wanderers",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.1 a 1.92 (9.4%)"
         }
-      },
-      "alerts": []
+      ]
     },
     {
       "match": "SpVgg Greuther Fürth - 1. FC Heidenheim",
@@ -156,7 +147,29 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Cercle Brugge - KAA Gent",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 0
+  "alert_count_this_run": 2
 }
