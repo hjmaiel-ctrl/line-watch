@@ -1,5 +1,51 @@
 {
   "matches": {
+    "FC Groningen|FC Twente": {
+      "home": "FC Groningen",
+      "away": "FC Twente",
+      "event_id": "10061582",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788690578.3095984
+    },
+    "Vizela|Felgueiras 1932": {
+      "home": "Vizela",
+      "away": "Felgueiras 1932",
+      "event_id": "10061563",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788690605.0537896
+    },
     "JEF United Chiba|Gamba Osaka": {
       "home": "JEF United Chiba",
       "away": "Gamba Osaka",
@@ -10,34 +56,34 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.15,
-              4.5
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.15,
-                "under": 4.5
+                "over": 1.28,
+                "under": 3.25
               },
               {
                 "line": 8.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.78,
+                "under": 1.9
               },
               {
                 "line": 9.5,
-                "over": 1.85,
-                "under": 1.82
+                "over": 2.85,
+                "under": 1.35
               },
               {
                 "line": 10.5,
-                "over": 2.7,
-                "under": 1.38
+                "over": 4.75,
+                "under": 1.13
               },
               {
                 "line": 11.5,
-                "over": 4.25,
-                "under": 1.17
+                "over": 9.0,
+                "under": 1.02
               }
             ]
           },
@@ -54,7 +100,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788689574.1085618
+      "last_checked": 1788690630.1173103
     },
     "Kashima Antlers|Urawa Red Diamonds": {
       "home": "Kashima Antlers",
@@ -64,36 +110,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 10.5,
             "odds": [
-              1.1,
-              5.5
+              1.15,
+              4.5
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.1,
-                "under": 5.5
-              },
-              {
-                "line": 9.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
                 "line": 10.5,
-                "over": 1.7,
-                "under": 1.98
+                "over": 1.15,
+                "under": 4.5
               },
               {
                 "line": 11.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 12.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 13.5,
+                "over": 3.45,
+                "under": 1.25
+              },
+              {
+                "line": 14.5,
+                "over": 5.5,
+                "under": 1.1
               }
             ]
           },
@@ -110,7 +156,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788689598.9005418
+      "last_checked": 1788690655.5451756
     },
     "Nagoya Grampus|Machida Zelvia": {
       "home": "Nagoya Grampus",
@@ -120,148 +166,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.15,
-              4.5
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.15,
-                "under": 4.5
-              },
-              {
-                "line": 5.5,
-                "over": 1.4,
-                "under": 2.65
-              },
-              {
-                "line": 6.5,
-                "over": 1.9,
-                "under": 1.78
-              },
-              {
-                "line": 7.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 8.5,
-                "over": 4.25,
-                "under": 1.17
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788689623.6734376
-    },
-    "Fagiano Okayama|Sanfrecce Hiroshima": {
-      "home": "Fagiano Okayama",
-      "away": "Sanfrecce Hiroshima",
-      "event_id": "10061469",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.2,
-              3.9
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.2,
-                "under": 3.9
-              },
-              {
-                "line": 8.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 10.5,
-                "over": 3.0,
-                "under": 1.32
-              },
-              {
-                "line": 11.5,
-                "over": 4.75,
-                "under": 1.13
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788689648.691906
-    },
-    "Kawasaki Frontale|Shimizu S-Pulse": {
-      "home": "Kawasaki Frontale",
-      "away": "Shimizu S-Pulse",
-      "event_id": "10061543",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.28,
-              3.25
+              1.18,
+              4.1
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.18,
+                "under": 4.1
               },
               {
                 "line": 7.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.6,
+                "under": 2.15
               },
               {
                 "line": 8.5,
-                "over": 1.87,
-                "under": 1.8
+                "over": 2.5,
+                "under": 1.45
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 4.25,
+                "under": 1.17
               },
               {
                 "line": 10.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 7.25,
+                "under": 1.05
               }
             ]
           },
@@ -278,7 +212,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788689673.4252625
+      "last_checked": 1788690680.8233094
     }
   }
 }
