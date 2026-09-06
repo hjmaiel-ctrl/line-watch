@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788679871.4647214,
+  "generated_at": 1788680646.3830597,
   "matches": [
     {
       "match": "Ba F.C. - Lautoka FC",
@@ -46,28 +46,6 @@
       "alerts": []
     },
     {
-      "match": "Mindil Aces - Casuarina",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
       "match": "Sunshine Coast Wanderers - Ipswich FC",
       "bet9ja_stats": null,
       "odds": {
@@ -91,6 +69,28 @@
     },
     {
       "match": "Hannan University - Bandito Ikoma",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "APIA Tigers - Northern Spirit",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

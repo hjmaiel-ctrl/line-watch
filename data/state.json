@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788679764.8730078
+      "last_checked": 1788680537.6856918
     },
     "Ococias Kyoto AC|Moriyama Samurai": {
       "home": "Ococias Kyoto AC",
@@ -44,30 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788679791.483677
-    },
-    "Mindil Aces|Casuarina": {
-      "home": "Mindil Aces",
-      "away": "Casuarina",
-      "event_id": "10061356",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788679818.127798
+      "last_checked": 1788680564.69327
     },
     "Sunshine Coast Wanderers|Ipswich FC": {
       "home": "Sunshine Coast Wanderers",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788679844.829041
+      "last_checked": 1788680591.8790226
     },
     "Hannan University|Bandito Ikoma": {
       "home": "Hannan University",
@@ -113,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788679871.431958
+      "last_checked": 1788680619.1920958
+    },
+    "APIA Tigers|Northern Spirit": {
+      "home": "APIA Tigers",
+      "away": "Northern Spirit",
+      "event_id": "10061360",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788680646.3369823
     }
   }
 }
