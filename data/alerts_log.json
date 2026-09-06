@@ -1,84 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "RC Lens - FC Lorient",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.15 a 1.04 (10.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "RC Lens - FC Lorient",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.5 a 7.5 (66.7%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.65 a 4.1 (12.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.2 a 1.78 (23.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.57 a 1.9 (21.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Rayo Vallecano - Racing Santander",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 7.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Rayo Vallecano - Racing Santander",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Rayo Vallecano - Racing Santander",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.65 a 1.92 (16.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Rayo Vallecano - Racing Santander",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.05 a 1.75 (17.1%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 7.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.17 a 1.28 (9.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.25 a 3.25 (30.8%)"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Hull City - Aston Villa",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #1 passato da 1.78 a 1.98 (11.2%)"
@@ -2998,5 +2920,83 @@
     "match": "Bologna - Sassuolo",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.0 a 3.25 (8.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Deportivo Alaves - Osasuna",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Deportivo Alaves - Osasuna",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.32 a 1.22 (8.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Deportivo Alaves - Osasuna",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.0 a 3.65 (21.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Deportivo Alaves - Osasuna",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Deportivo Alaves - Osasuna",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.05 a 1.65 (24.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Deportivo Alaves - Osasuna",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.65 a 2.05 (24.2%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Málaga - Levante UD",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Málaga - Levante UD",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.15 a 1.85 (16.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Málaga - Levante UD",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.6 a 1.82 (13.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Vitoria de Guimaraes - Casa Pia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 12.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Vitoria de Guimaraes - Casa Pia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 4.25 (16.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Kocaelispor - Samsunspor",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Kocaelispor - Samsunspor",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.25 a 3.0 (8.3%)"
   }
 ]
