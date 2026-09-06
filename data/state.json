@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            100.0,
+            12.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -21,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788673257.5545418
+      "last_checked": 1788673834.94072
     },
     "Navua F.C.|Labasa FC": {
       "home": "Navua F.C.",
@@ -34,11 +38,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            32.0,
-            5.4
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -48,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788673289.263577
+      "last_checked": 1788673861.571569
     },
     "Tokushima Celeste|R. Velho Takamatsu": {
       "home": "Tokushima Celeste",
@@ -71,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788673316.239744
+      "last_checked": 1788673888.3724766
     },
     "Sydney Utd.|Manly Utd.": {
       "home": "Sydney Utd.",
@@ -94,7 +94,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788673342.758367
+      "last_checked": 1788673915.4158902
     },
     "Broadmeadow Magic|Maitland": {
       "home": "Broadmeadow Magic",
@@ -117,7 +117,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788673369.279789
+      "last_checked": 1788673942.4103777
     }
   }
 }

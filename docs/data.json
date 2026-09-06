@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788673369.3330474,
+  "generated_at": 1788673942.4525435,
   "matches": [
     {
       "match": "Hokkaido Consadole Sapporo - Tochigi City FC",
@@ -11,7 +11,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            100.0,
+            12.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -33,11 +37,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            32.0,
-            5.4
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -47,20 +47,7 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Navua F.C. - Labasa FC",
-          "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 12.0 a 32.0 (166.7%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Navua F.C. - Labasa FC",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 3.6 a 5.4 (50.0%)"
-        }
-      ]
+      "alerts": []
     },
     {
       "match": "Tokushima Celeste - R. Velho Takamatsu",
@@ -129,5 +116,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 2
+  "alert_count_this_run": 0
 }
