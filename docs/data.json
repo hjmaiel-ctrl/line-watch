@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788692232.6702852,
+  "generated_at": 1788693048.5755374,
   "matches": [
     {
       "match": "FC Groningen - FC Twente",
@@ -9,6 +9,74 @@
           "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Birmingham City - Wolverhampton Wanderers",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 8.5,
+                "over": 1.6,
+                "under": 2.15
+              },
+              {
+                "line": 9.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 10.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 11.5,
+                "over": 3.5,
+                "under": 1.22
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.98,
+              1.7
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.98,
+                "under": 1.7
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -46,12 +114,45 @@
       "alerts": []
     },
     {
-      "match": "JEF United Chiba - Gamba Osaka",
+      "match": "Kawasaki Frontale - Shimizu S-Pulse",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.13,
+              4.75
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.13,
+                "under": 4.75
+              },
+              {
+                "line": 7.5,
+                "over": 1.38,
+                "under": 2.7
+              },
+              {
+                "line": 8.5,
+                "over": 1.83,
+                "under": 1.83
+              },
+              {
+                "line": 9.5,
+                "over": 2.65,
+                "under": 1.4
+              },
+              {
+                "line": 10.5,
+                "over": 4.1,
+                "under": 1.18
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -68,34 +169,45 @@
       "alerts": []
     },
     {
-      "match": "Kashima Antlers - Urawa Red Diamonds",
+      "match": "Vissel Kobe - V-Varen Nagasaki",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Nagoya Grampus - Machida Zelvia",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.2,
+              3.9
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.2,
+                "under": 3.9
+              },
+              {
+                "line": 6.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
+                "line": 7.5,
+                "over": 2.2,
+                "under": 1.57
+              },
+              {
+                "line": 8.5,
+                "over": 3.45,
+                "under": 1.25
+              },
+              {
+                "line": 9.5,
+                "over": 5.25,
+                "under": 1.11
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
