@@ -1,78 +1,5 @@
 {
   "matches": {
-    "Hokkaido Consadole Sapporo|Tochigi City FC": {
-      "home": "Hokkaido Consadole Sapporo",
-      "away": "Tochigi City FC",
-      "event_id": "10061324",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            100.0,
-            12.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788673834.94072
-    },
-    "Navua F.C.|Labasa FC": {
-      "home": "Navua F.C.",
-      "away": "Labasa FC",
-      "event_id": "10061319",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788673861.571569
-    },
-    "Tokushima Celeste|R. Velho Takamatsu": {
-      "home": "Tokushima Celeste",
-      "away": "R. Velho Takamatsu",
-      "event_id": "10061326",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788673888.3724766
-    },
     "Sydney Utd.|Manly Utd.": {
       "home": "Sydney Utd.",
       "away": "Manly Utd.",
@@ -94,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788673915.4158902
+      "last_checked": 1788674389.8726602
     },
     "Broadmeadow Magic|Maitland": {
       "home": "Broadmeadow Magic",
@@ -117,7 +44,76 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788673942.4103777
+      "last_checked": 1788674416.8812275
+    },
+    "Tadotsu FC|Kufc Nankoku": {
+      "home": "Tadotsu FC",
+      "away": "Kufc Nankoku",
+      "event_id": "10061347",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788674443.5442216
+    },
+    "Ravia Sa|Qi Yi FC": {
+      "home": "Ravia Sa",
+      "away": "Qi Yi FC",
+      "event_id": "10061352",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788674470.3100157
+    },
+    "Mongolia U20|Guam U20": {
+      "home": "Mongolia U20",
+      "away": "Guam U20",
+      "event_id": "10061341",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788674496.9739218
     }
   }
 }
