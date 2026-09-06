@@ -21,30 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788678987.3935697
-    },
-    "Ravia Sa|Qi Yi FC": {
-      "home": "Ravia Sa",
-      "away": "Qi Yi FC",
-      "event_id": "10061352",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788679014.0585907
+      "last_checked": 1788679764.8730078
     },
     "Ococias Kyoto AC|Moriyama Samurai": {
       "home": "Ococias Kyoto AC",
@@ -67,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788679041.2447002
+      "last_checked": 1788679791.483677
     },
     "Mindil Aces|Casuarina": {
       "home": "Mindil Aces",
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788679068.3303583
+      "last_checked": 1788679818.127798
     },
     "Sunshine Coast Wanderers|Ipswich FC": {
       "home": "Sunshine Coast Wanderers",
@@ -113,7 +90,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788679095.4498188
+      "last_checked": 1788679844.829041
+    },
+    "Hannan University|Bandito Ikoma": {
+      "home": "Hannan University",
+      "away": "Bandito Ikoma",
+      "event_id": "10061359",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788679871.431958
     }
   }
 }
