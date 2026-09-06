@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788725505.0527978,
+  "generated_at": 1788726366.4109719,
   "matches": [
     {
       "match": "Espanyol - Sevilla",
@@ -7,240 +7,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.25,
-              3.45
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.25,
-                "under": 3.45
-              },
-              {
-                "line": 5.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 6.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
-                "line": 7.5,
-                "over": 3.9,
-                "under": 1.2
-              },
-              {
-                "line": 8.5,
-                "over": 5.75,
-                "under": 1.08
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.55,
-              2.25
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.55,
-                "under": 2.25
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Espanyol - Sevilla",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 3.5 a 4.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Espanyol - Sevilla",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.15 a 1.25 (8.7%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Espanyol - Sevilla",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.5 a 3.45 (30.4%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Espanyol - Sevilla",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.05 a 1.55 (32.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Espanyol - Sevilla",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.65 a 2.25 (36.4%)"
-        }
-      ]
-    },
-    {
-      "match": "Juventus - AC Milan",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 7.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 8.5,
-                "over": 2.5,
-                "under": 1.45
-              },
-              {
-                "line": 9.5,
-                "over": 4.1,
-                "under": 1.18
-              },
-              {
-                "line": 10.5,
-                "over": 6.75,
-                "under": 1.06
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 1.5,
-            "odds": [
-              1.85,
-              1.82
-            ],
-            "_all_lines": [
-              {
-                "line": 1.5,
-                "over": 1.85,
-                "under": 1.82
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Juventus - AC Milan",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 2.5 a 1.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Juventus - AC Milan",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.1 a 1.85 (13.5%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Juventus - AC Milan",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.62 a 1.82 (12.3%)"
-        }
-      ]
-    },
-    {
-      "match": "Olympique Marseille - Paris FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.18,
-              4.0
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.18,
-                "under": 4.0
-              },
-              {
-                "line": 9.5,
-                "over": 1.57,
-                "under": 2.2
-              },
-              {
-                "line": 10.5,
-                "over": 2.3,
-                "under": 1.52
-              },
-              {
-                "line": 11.5,
-                "over": 3.5,
-                "under": 1.22
-              },
-              {
-                "line": 12.5,
-                "over": 5.5,
-                "under": 1.1
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 2.5,
-            "odds": [
-              1.92,
-              1.75
-            ],
-            "_all_lines": [
-              {
-                "line": 2.5,
-                "over": 1.92,
-                "under": 1.75
-              }
-            ]
-          }
         },
         "sportybet": {
           "1X2": null,
@@ -256,7 +24,7 @@
       "alerts": []
     },
     {
-      "match": "Gil Vicente - Académico de Viseu",
+      "match": "Juventus - AC Milan",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -264,34 +32,34 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.17,
-              4.25
+              1.13,
+              4.75
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.17,
-                "under": 4.25
+                "over": 1.13,
+                "under": 4.75
               },
               {
                 "line": 7.5,
-                "over": 1.4,
-                "under": 2.65
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 8.5,
-                "over": 1.8,
-                "under": 1.87
+                "over": 2.7,
+                "under": 1.38
               },
               {
                 "line": 9.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 4.75,
+                "under": 1.13
               },
               {
                 "line": 10.5,
-                "over": 3.45,
-                "under": 1.25
+                "over": 8.0,
+                "under": 1.03
               }
             ]
           },
@@ -311,9 +79,176 @@
       "alerts": [
         {
           "type": "quota_cambiata",
+          "match": "Juventus - AC Milan",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.65 a 4.75 (30.1%)"
+        }
+      ]
+    },
+    {
+      "match": "Olympique Marseille - Paris FC",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.22,
+              3.5
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.22,
+                "under": 3.5
+              },
+              {
+                "line": 10.5,
+                "over": 1.98,
+                "under": 1.7
+              },
+              {
+                "line": 11.5,
+                "over": 3.65,
+                "under": 1.22
+              },
+              {
+                "line": 12.5,
+                "over": 6.5,
+                "under": 1.07
+              },
+              {
+                "line": 13.5,
+                "over": 10.0,
+                "under": 1.01
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 1.5,
+            "odds": [
+              1.65,
+              2.05
+            ],
+            "_all_lines": [
+              {
+                "line": 1.5,
+                "over": 1.65,
+                "under": 2.05
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Olympique Marseille - Paris FC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 9.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Olympique Marseille - Paris FC",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.0 a 3.5 (14.3%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Olympique Marseille - Paris FC",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 2.5 a 1.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Olympique Marseille - Paris FC",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.92 a 1.65 (16.4%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Olympique Marseille - Paris FC",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.75 a 2.05 (17.1%)"
+        }
+      ]
+    },
+    {
+      "match": "Gil Vicente - Académico de Viseu",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.22,
+              3.5
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.22,
+                "under": 3.5
+              },
+              {
+                "line": 9.5,
+                "over": 1.57,
+                "under": 2.2
+              },
+              {
+                "line": 10.5,
+                "over": 2.15,
+                "under": 1.6
+              },
+              {
+                "line": 11.5,
+                "over": 3.25,
+                "under": 1.28
+              },
+              {
+                "line": 12.5,
+                "over": 4.75,
+                "under": 1.13
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "linea_cambiata",
           "match": "Gil Vicente - Académico de Viseu",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.65 a 4.25 (16.4%)"
+          "detail": "bet9ja: linea passata da 6.5 a 8.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Gil Vicente - Académico de Viseu",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.25 a 3.5 (21.4%)"
         }
       ]
     },
@@ -340,5 +275,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 9
+  "alert_count_this_run": 8
 }
