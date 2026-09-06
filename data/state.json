@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788691331.1067967
+      "last_checked": 1788692125.196907
     },
     "Vizela|Felgueiras 1932": {
       "home": "Vizela",
@@ -44,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788691358.0083203
+      "last_checked": 1788692152.080432
     },
     "JEF United Chiba|Gamba Osaka": {
       "home": "JEF United Chiba",
@@ -53,40 +53,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.2,
-              3.75
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.2,
-                "under": 3.75
-              },
-              {
-                "line": 7.5,
-                "over": 2.05,
-                "under": 1.65
-              },
-              {
-                "line": 8.5,
-                "over": 3.65,
-                "under": 1.22
-              },
-              {
-                "line": 9.5,
-                "over": 7.25,
-                "under": 1.05
-              },
-              {
-                "line": 10.5,
-                "over": 10.0,
-                "under": 1.01
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -100,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788691382.9502163
+      "last_checked": 1788692178.938215
     },
     "Kashima Antlers|Urawa Red Diamonds": {
       "home": "Kashima Antlers",
@@ -109,40 +76,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.12,
-              5.0
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.12,
-                "under": 5.0
-              },
-              {
-                "line": 10.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 11.5,
-                "over": 2.9,
-                "under": 1.35
-              },
-              {
-                "line": 12.5,
-                "over": 5.5,
-                "under": 1.1
-              },
-              {
-                "line": 13.5,
-                "over": 9.0,
-                "under": 1.02
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -156,7 +90,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788691407.951672
+      "last_checked": 1788692205.721924
     },
     "Nagoya Grampus|Machida Zelvia": {
       "home": "Nagoya Grampus",
@@ -179,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788691434.9020956
+      "last_checked": 1788692232.6085963
     }
   }
 }
