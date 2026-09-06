@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788657349.8716419,
+  "generated_at": 1788658242.6743784,
   "matches": [
     {
       "match": "Charlotte FC - Houston Dynamo",
@@ -7,30 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.32,
-              3.0
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 13.5,
-                "over": 1.9,
-                "under": 1.77
-              },
-              {
-                "line": 14.5,
-                "over": 3.05,
-                "under": 1.31
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -52,121 +29,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.14,
-              4.7
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.14,
-                "under": 4.7
-              },
-              {
-                "line": 5.5,
-                "over": 1.64,
-                "under": 2.08
-              },
-              {
-                "line": 6.5,
-                "over": 2.76,
-                "under": 1.37
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.89,
-              1.75
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.89,
-                "under": 1.75
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Columbus Crew - Colorado Rapids",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 4.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Columbus Crew - Colorado Rapids",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.44 a 1.14 (26.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Columbus Crew - Colorado Rapids",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.52 a 4.7 (86.5%)"
-        }
-      ]
-    },
-    {
-      "match": "Inter Miami CF - Atlanta Utd",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.52,
-              2.36
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.52,
-                "under": 2.36
-              },
-              {
-                "line": 10.5,
-                "over": 1.85,
-                "under": 1.86
-              },
-              {
-                "line": 11.5,
-                "over": 2.32,
-                "under": 1.54
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              2.16,
-              1.59
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 2.16,
-                "under": 1.59
-              }
-            ]
-          }
         },
         "sportybet": {
           "1X2": null,
@@ -182,7 +46,7 @@
       "alerts": []
     },
     {
-      "match": "Orlando City - San Diego FC",
+      "match": "Inter Miami CF - Atlanta Utd",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -190,38 +54,38 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.4,
-              2.66
+              1.41,
+              2.7
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.4,
-                "under": 2.66
+                "over": 1.41,
+                "under": 2.7
               },
               {
                 "line": 8.5,
-                "over": 2.12,
-                "under": 1.62
+                "over": 1.71,
+                "under": 2.02
               },
               {
                 "line": 9.5,
-                "over": 3.5,
-                "under": 1.24
+                "over": 2.18,
+                "under": 1.61
               }
             ]
           },
           "CARDS_OU": {
-            "line": 1.5,
+            "line": 3.5,
             "odds": [
-              2.06,
-              1.62
+              1.8,
+              1.87
             ],
             "_all_lines": [
               {
-                "line": 1.5,
-                "over": 2.06,
-                "under": 1.62
+                "line": 3.5,
+                "over": 1.8,
+                "under": 1.87
               }
             ]
           }
@@ -240,48 +104,43 @@
       "alerts": [
         {
           "type": "linea_cambiata",
-          "match": "Orlando City - San Diego FC",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 2.5 a 1.5"
+          "match": "Inter Miami CF - Atlanta Utd",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 9.5 a 7.5"
         },
         {
           "type": "quota_cambiata",
-          "match": "Orlando City - San Diego FC",
+          "match": "Inter Miami CF - Atlanta Utd",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.36 a 2.7 (14.4%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Inter Miami CF - Atlanta Utd",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.24 a 2.06 (8.7%)"
+          "detail": "bet9ja: linea passata da 4.5 a 3.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Inter Miami CF - Atlanta Utd",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #1 passato da 2.16 a 1.8 (20.0%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Inter Miami CF - Atlanta Utd",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.59 a 1.87 (17.6%)"
         }
       ]
     },
     {
-      "match": "Philadelphia Union - CF Montreal",
+      "match": "Orlando City - San Diego FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.61,
-              2.12
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.61,
-                "under": 2.12
-              },
-              {
-                "line": 9.5,
-                "over": 2.7,
-                "under": 1.39
-              },
-              {
-                "line": 10.5,
-                "over": 4.8,
-                "under": 1.13
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -295,21 +154,30 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Philadelphia Union - CF Montreal",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.38 a 1.61 (16.7%)"
+      "alerts": []
+    },
+    {
+      "match": "Philadelphia Union - CF Montreal",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
-        {
-          "type": "quota_cambiata",
-          "match": "Philadelphia Union - CF Montreal",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.74 a 2.12 (29.2%)"
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         }
-      ]
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 7
+  "alert_count_this_run": 5
 }
