@@ -1,50 +1,14 @@
 {
   "matches": {
-    "Los Angeles Galaxy|New England Revolution": {
-      "home": "Los Angeles Galaxy",
-      "away": "New England Revolution",
-      "event_id": "10061298",
+    "Inter Miami CF|Atlanta Utd": {
+      "home": "Inter Miami CF",
+      "away": "Atlanta Utd",
+      "event_id": "10061247",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 8.5,
-            "odds": [
-              1.36,
-              2.92
-            ],
-            "_all_lines": [
-              {
-                "line": 8.5,
-                "over": 1.36,
-                "under": 2.92
-              },
-              {
-                "line": 9.5,
-                "over": 1.75,
-                "under": 1.97
-              },
-              {
-                "line": 10.5,
-                "over": 2.4,
-                "under": 1.5
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.75,
-              1.93
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.75,
-                "under": 1.93
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -57,7 +21,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788662959.688929
+      "last_checked": 1788663524.5781868
+    },
+    "Los Angeles Galaxy|New England Revolution": {
+      "home": "Los Angeles Galaxy",
+      "away": "New England Revolution",
+      "event_id": "10061298",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.34,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.34,
+                "under": 3.0
+              },
+              {
+                "line": 8.5,
+                "over": 1.79,
+                "under": 1.92
+              },
+              {
+                "line": 9.5,
+                "over": 2.6,
+                "under": 1.44
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788663548.7270837
     },
     "Real Salt Lake|Los Angeles": {
       "home": "Real Salt Lake",
@@ -67,40 +77,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 14.5,
             "odds": [
-              1.4,
-              2.74
+              1.43,
+              2.64
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.4,
-                "under": 2.74
+                "line": 14.5,
+                "over": 1.43,
+                "under": 2.64
               },
               {
-                "line": 12.5,
-                "over": 1.77,
-                "under": 1.94
+                "line": 15.5,
+                "over": 1.89,
+                "under": 1.82
               },
               {
-                "line": 13.5,
-                "over": 2.36,
-                "under": 1.52
+                "line": 16.5,
+                "over": 2.66,
+                "under": 1.42
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.89,
-              1.78
+              2.26,
+              1.54
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.89,
-                "under": 1.78
+                "over": 2.26,
+                "under": 1.54
               }
             ]
           }
@@ -116,7 +126,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788662982.9167957
+      "last_checked": 1788663571.0626595
     },
     "Portland Timbers|Minnesota Utd": {
       "home": "Portland Timbers",
@@ -125,8 +135,44 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.53,
+              2.36
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.53,
+                "under": 2.36
+              },
+              {
+                "line": 10.5,
+                "over": 1.88,
+                "under": 1.83
+              },
+              {
+                "line": 11.5,
+                "over": 2.4,
+                "under": 1.51
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.62,
+              2.12
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.62,
+                "under": 2.12
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -139,7 +185,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788663009.974791
+      "last_checked": 1788663593.6386962
     },
     "Vancouver Whitecaps|Saint Louis City SC": {
       "home": "Vancouver Whitecaps",
@@ -151,23 +197,23 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.59,
-              2.22
+              1.55,
+              2.3
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.59,
-                "under": 2.22
+                "over": 1.55,
+                "under": 2.3
               },
               {
                 "line": 8.5,
-                "over": 1.98,
-                "under": 1.74
+                "over": 1.94,
+                "under": 1.77
               },
               {
                 "line": 9.5,
-                "over": 2.58,
+                "over": 2.56,
                 "under": 1.45
               }
             ]
@@ -175,14 +221,14 @@
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.7,
-              1.99
+              1.83,
+              1.84
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.7,
-                "under": 1.99
+                "over": 1.83,
+                "under": 1.84
               }
             ]
           }
@@ -198,30 +244,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788663033.4495752
-    },
-    "Junior|Jaguares de Córdoba": {
-      "home": "Junior",
-      "away": "Jaguares de Córdoba",
-      "event_id": "10061301",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788663060.6486003
+      "last_checked": 1788663616.0585892
     }
   }
 }
