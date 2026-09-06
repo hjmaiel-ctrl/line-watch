@@ -1,35 +1,5 @@
 [
   {
-    "type": "quota_cambiata",
-    "match": "San Lorenzo - Talleres de Córdoba",
-    "market": "1X2",
-    "detail": "sportybet: esito #2 passato da 28.0 a 57.0 (103.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "San Lorenzo - Talleres de Córdoba",
-    "market": "1X2",
-    "detail": "sportybet: esito #3 passato da 5.0 a 8.0 (60.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Columbus Crew - Colorado Rapids",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.24 a 2.06 (8.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Columbus Crew - Colorado Rapids",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.78 a 1.97 (10.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Columbus Crew - Colorado Rapids",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.89 a 1.72 (9.9%)"
-  },
-  {
     "type": "linea_cambiata",
     "match": "Orlando City - San Diego FC",
     "market": "CORNERS_OU",
@@ -2998,5 +2968,35 @@
     "match": "Corinthians - Chapecoense",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 2.35 a 2.85 (21.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Club Leon - CF America",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.05 a 2.64 (15.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "River Plate - Independiente Rivadavia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.45 a 2.25 (8.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Corinthians - Chapecoense",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Corinthians - Chapecoense",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.35 a 1.5 (11.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Corinthians - Chapecoense",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.85 a 2.35 (21.3%)"
   }
 ]
