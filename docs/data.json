@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788668774.1873817,
+  "generated_at": 1788669682.9234607,
   "matches": [
     {
       "match": "Portland Timbers - Minnesota Utd",
@@ -7,65 +7,17 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.21,
-              3.8
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.21,
-                "under": 3.8
-              },
-              {
-                "line": 8.5,
-                "over": 1.92,
-                "under": 1.76
-              },
-              {
-                "line": 9.5,
-                "over": 3.5,
-                "under": 1.24
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.56,
-              2.18
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.56,
-                "under": 2.18
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": [
             2.4,
-            1.02,
-            13.0
+            1.06,
+            8.0
           ],
-          "CORNERS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              1.95
-            ]
-          },
-          "CARDS_OU": {
-            "line": null,
-            "odds": [
-              2.4,
-              1.6
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "bet365": {
           "1X2": null,
@@ -78,146 +30,7 @@
           "type": "quota_cambiata",
           "match": "Portland Timbers - Minnesota Utd",
           "market": "1X2",
-          "detail": "sportybet: esito #2 passato da 1.42 a 1.02 (39.2%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Portland Timbers - Minnesota Utd",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 3.85 a 13.0 (237.7%)"
-        },
-        {
-          "type": "quota_differente",
-          "match": "Portland Timbers - Minnesota Utd",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja=1.21 vs sportybet=2.4 (esito #1, differenza 98.3%)"
-        },
-        {
-          "type": "quota_differente",
-          "match": "Portland Timbers - Minnesota Utd",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja=3.8 vs sportybet=1.95 (esito #2, differenza 94.9%)"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Portland Timbers - Minnesota Utd",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 9.5 a 7.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Portland Timbers - Minnesota Utd",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.49 a 1.21 (23.1%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Portland Timbers - Minnesota Utd",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.4 a 3.8 (58.3%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Portland Timbers - Minnesota Utd",
-          "market": "CORNERS_OU",
-          "detail": "sportybet: esito #2 passato da 1.52 a 1.95 (28.3%)"
-        },
-        {
-          "type": "quota_differente",
-          "match": "Portland Timbers - Minnesota Utd",
-          "market": "CARDS_OU",
-          "detail": "bet9ja=1.56 vs sportybet=2.4 (esito #1, differenza 53.8%)"
-        },
-        {
-          "type": "quota_differente",
-          "match": "Portland Timbers - Minnesota Utd",
-          "market": "CARDS_OU",
-          "detail": "bet9ja=2.18 vs sportybet=1.6 (esito #2, differenza 36.3%)"
-        }
-      ]
-    },
-    {
-      "match": "Vancouver Whitecaps - Saint Louis City SC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              2.04,
-              1.64
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 2.04,
-                "under": 1.64
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 6.5,
-            "odds": [
-              1.96,
-              1.7
-            ],
-            "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.96,
-                "under": 1.7
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Vancouver Whitecaps - Saint Louis City SC",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 7.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Vancouver Whitecaps - Saint Louis City SC",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.23 a 2.04 (65.9%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Vancouver Whitecaps - Saint Louis City SC",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.65 a 1.64 (122.6%)"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Vancouver Whitecaps - Saint Louis City SC",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 6.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Vancouver Whitecaps - Saint Louis City SC",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.77 a 1.96 (10.7%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Vancouver Whitecaps - Saint Louis City SC",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.87 a 1.7 (10.0%)"
+          "detail": "sportybet: esito #3 passato da 13.0 a 8.0 (62.5%)"
         }
       ]
     },
@@ -244,7 +57,52 @@
       "alerts": []
     },
     {
-      "match": "Av Alta FC - One Knoxville SC",
+      "match": "Atlas - Atlante",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 3.5,
+            "odds": [
+              1.12,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 1.12,
+                "under": 4.5
+              },
+              {
+                "line": 4.5,
+                "over": 1.82,
+                "under": 1.78
+              },
+              {
+                "line": 5.5,
+                "over": 3.4,
+                "under": 1.22
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Marquense - Xelajú MC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -266,7 +124,7 @@
       "alerts": []
     },
     {
-      "match": "Las Vegas Lights - New Mexico Utd",
+      "match": "Navua F.C. - Labasa FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -275,11 +133,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            95.0,
-            5.7
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -292,5 +146,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 16
+  "alert_count_this_run": 1
 }
