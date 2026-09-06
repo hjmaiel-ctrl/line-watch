@@ -7,47 +7,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.57,
-              2.22
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.57,
-                "under": 2.22
-              },
-              {
-                "line": 8.5,
-                "over": 2.54,
-                "under": 1.43
-              },
-              {
-                "line": 9.5,
-                "over": 4.5,
-                "under": 1.15
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 5.5,
-            "odds": [
-              2.16,
-              1.57
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 2.16,
-                "under": 1.57
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            15.0,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -57,7 +25,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788664492.2239628
+      "last_checked": 1788665426.1395757
     },
     "Real Salt Lake|Los Angeles": {
       "home": "Real Salt Lake",
@@ -66,47 +34,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 13.5,
-            "odds": [
-              1.26,
-              3.4
-            ],
-            "_all_lines": [
-              {
-                "line": 13.5,
-                "over": 1.26,
-                "under": 3.4
-              },
-              {
-                "line": 14.5,
-                "over": 1.74,
-                "under": 1.94
-              },
-              {
-                "line": 15.5,
-                "over": 2.68,
-                "under": 1.39
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              2.12,
-              1.59
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 2.12,
-                "under": 1.59
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            15.0,
+            100.0
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -116,7 +52,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788664515.192474
+      "last_checked": 1788665458.4959316
     },
     "Portland Timbers|Minnesota Utd": {
       "home": "Portland Timbers",
@@ -128,38 +64,38 @@
           "CORNERS_OU": {
             "line": 8.5,
             "odds": [
-              1.44,
-              2.58
+              1.51,
+              2.38
             ],
             "_all_lines": [
               {
                 "line": 8.5,
-                "over": 1.44,
-                "under": 2.58
+                "over": 1.51,
+                "under": 2.38
               },
               {
                 "line": 9.5,
-                "over": 1.81,
-                "under": 1.9
+                "over": 1.98,
+                "under": 1.74
               },
               {
                 "line": 10.5,
-                "over": 2.38,
-                "under": 1.52
+                "over": 2.74,
+                "under": 1.4
               }
             ]
           },
           "CARDS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              2.08,
-              1.64
+              1.63,
+              2.1
             ],
             "_all_lines": [
               {
-                "line": 4.5,
-                "over": 2.08,
-                "under": 1.64
+                "line": 3.5,
+                "over": 1.63,
+                "under": 2.1
               }
             ]
           }
@@ -175,7 +111,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788664538.1598828
+      "last_checked": 1788665482.1815937
     },
     "Vancouver Whitecaps|Saint Louis City SC": {
       "home": "Vancouver Whitecaps",
@@ -185,30 +121,43 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.64,
-              2.12
+              1.52,
+              2.38
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.52,
+                "under": 2.38
+              },
+              {
                 "line": 7.5,
-                "over": 1.64,
-                "under": 2.12
+                "over": 1.98,
+                "under": 1.74
               },
               {
                 "line": 8.5,
-                "over": 2.14,
-                "under": 1.63
-              },
-              {
-                "line": 9.5,
-                "over": 2.94,
-                "under": 1.35
+                "over": 2.72,
+                "under": 1.4
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.56,
+              2.22
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.56,
+                "under": 2.22
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -221,12 +170,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788664563.0570974
+      "last_checked": 1788665505.7812154
     },
-    "Junior|Jaguares de Córdoba": {
-      "home": "Junior",
-      "away": "Jaguares de Córdoba",
-      "event_id": "10061301",
+    "Nadi FC|Rewa FC": {
+      "home": "Nadi FC",
+      "away": "Rewa FC",
+      "event_id": "10061304",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -234,7 +183,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            1.18,
+            4.6
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -244,7 +197,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788664589.7242177
+      "last_checked": 1788665538.2531796
     }
   }
 }
