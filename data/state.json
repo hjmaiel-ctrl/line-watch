@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Central Córdoba|Independiente": {
-      "home": "Central Córdoba",
-      "away": "Independiente",
-      "event_id": "10062521",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788731756.3921778
-    },
     "Botafogo FR|Palmeiras": {
       "home": "Botafogo FR",
       "away": "Palmeiras",
@@ -44,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788731783.6848013
+      "last_checked": 1788732516.5455847
     },
     "Atlética Ponte Preta|São Bernardo FC": {
       "home": "Atlética Ponte Preta",
@@ -67,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788731810.728599
+      "last_checked": 1788732543.1399055
     },
-    "Huachipato|Colo-Colo": {
-      "home": "Huachipato",
-      "away": "Colo-Colo",
-      "event_id": "10062515",
+    "Delfin SC|Universidad Católica del Ecuador": {
+      "home": "Delfin SC",
+      "away": "Universidad Católica del Ecuador",
+      "event_id": "10062599",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -90,39 +67,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788731843.244481
+      "last_checked": 1788732569.7207007
     },
-    "Internacional de Bogotá|Águilas Doradas": {
-      "home": "Internacional de Bogotá",
-      "away": "Águilas Doradas",
-      "event_id": "10062592",
+    "Club Sportivo Luqueño|Club Sportivo Ameliano": {
+      "home": "Club Sportivo Luqueño",
+      "away": "Club Sportivo Ameliano",
+      "event_id": "10062604",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 12.5,
-            "odds": [
-              1.6,
-              2.15
-            ],
-            "_all_lines": [
-              {
-                "line": 12.5,
-                "over": 1.6,
-                "under": 2.15
-              },
-              {
-                "line": 13.5,
-                "over": 2.2,
-                "under": 1.57
-              },
-              {
-                "line": 14.5,
-                "over": 3.1,
-                "under": 1.3
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -136,7 +90,34 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788731868.5193856
+      "last_checked": 1788732596.318248
+    },
+    "Boca Juniors de Cali|Envigado FC": {
+      "home": "Boca Juniors de Cali",
+      "away": "Envigado FC",
+      "event_id": "10062587",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": [
+            2.4,
+            5.7,
+            1.46
+          ],
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788732631.0039911
     }
   }
 }
