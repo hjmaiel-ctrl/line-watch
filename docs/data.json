@@ -1,6 +1,50 @@
 {
-  "generated_at": 1788696890.6780257,
+  "generated_at": 1788698188.9647045,
   "matches": [
+    {
+      "match": "Heerenveen - AZ Alkmaar",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "SC Telstar - Cambuur Leeuwarden",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
     {
       "match": "Birmingham City - Wolverhampton Wanderers",
       "bet9ja_stats": null,
@@ -8,50 +52,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 10.5,
             "odds": [
-              1.13,
-              4.75
+              1.03,
+              8.0
             ],
             "_all_lines": [
               {
-                "line": 7.5,
-                "over": 1.13,
-                "under": 4.75
-              },
-              {
-                "line": 8.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 9.5,
-                "over": 1.73,
-                "under": 1.95
-              },
-              {
                 "line": 10.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 1.03,
+                "under": 8.0
               },
               {
                 "line": 11.5,
-                "over": 3.5,
-                "under": 1.22
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 12.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 13.5,
+                "over": 3.0,
+                "under": 1.32
+              },
+              {
+                "line": 14.5,
+                "over": 5.0,
+                "under": 1.12
               }
             ]
           },
           "CARDS_OU": {
-            "line": 2.5,
+            "line": 4.5,
             "odds": [
-              1.95,
-              1.73
+              1.92,
+              1.75
             ],
             "_all_lines": [
               {
-                "line": 2.5,
-                "over": 1.95,
-                "under": 1.73
+                "line": 4.5,
+                "over": 1.92,
+                "under": 1.75
               }
             ]
           }
@@ -72,25 +116,25 @@
           "type": "linea_cambiata",
           "match": "Birmingham City - Wolverhampton Wanderers",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 7.5"
+          "detail": "bet9ja: linea passata da 7.5 a 10.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Birmingham City - Wolverhampton Wanderers",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 3.5 a 4.75 (35.7%)"
+          "detail": "bet9ja: esito #1 passato da 1.13 a 1.03 (9.7%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Birmingham City - Wolverhampton Wanderers",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.75 a 1.95 (11.4%)"
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 4.75 a 8.0 (68.4%)"
         },
         {
-          "type": "quota_cambiata",
+          "type": "linea_cambiata",
           "match": "Birmingham City - Wolverhampton Wanderers",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.92 a 1.73 (11.0%)"
+          "detail": "bet9ja: linea passata da 2.5 a 4.5"
         }
       ]
     },
@@ -118,50 +162,6 @@
     },
     {
       "match": "SD Eibar - Granada CF",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Hertha BSC - 1. FC Magdeburg",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "SpVgg Greuther Fürth - 1. FC Heidenheim",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
