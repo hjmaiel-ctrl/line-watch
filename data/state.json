@@ -10,38 +10,38 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.54,
-              2.22
+              1.45,
+              2.42
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.54,
-                "under": 2.22
+                "over": 1.45,
+                "under": 2.42
               },
               {
                 "line": 8.5,
-                "over": 1.97,
-                "under": 1.69
+                "over": 1.88,
+                "under": 1.76
               },
               {
                 "line": 9.5,
-                "over": 2.64,
-                "under": 1.39
+                "over": 2.56,
+                "under": 1.41
               }
             ]
           },
           "CARDS_OU": {
             "line": 5.5,
             "odds": [
-              1.56,
-              2.18
+              1.82,
+              1.82
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.56,
-                "under": 2.18
+                "over": 1.82,
+                "under": 1.82
               }
             ]
           }
@@ -57,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788734789.7739956
+      "last_checked": 1788735329.9779756
     },
     "Botafogo FR|Palmeiras": {
       "home": "Botafogo FR",
@@ -67,24 +67,24 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 12.5,
             "odds": [
-              1.35,
-              2.85
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
                 "line": 12.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 13.5,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 14.5,
                 "over": 2.45,
                 "under": 1.47
               }
@@ -103,30 +103,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788734814.9321966
-    },
-    "River Plate|Independiente Rivadavia": {
-      "home": "River Plate",
-      "away": "Independiente Rivadavia",
-      "event_id": "10062612",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788734841.645754
+      "last_checked": 1788735354.7777207
     },
     "Corinthians|Chapecoense": {
       "home": "Corinthians",
@@ -136,26 +113,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.6,
-              2.15
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
                 "line": 8.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 1.9,
+                "under": 1.78
               },
               {
                 "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 10.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
@@ -172,7 +149,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788734866.9915426
+      "last_checked": 1788735379.5567284
     },
     "Atlética Ponte Preta|São Bernardo FC": {
       "home": "Atlética Ponte Preta",
@@ -195,7 +172,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788734893.879966
+      "last_checked": 1788735406.2889836
+    },
+    "Palestino|Universidad de Concepción": {
+      "home": "Palestino",
+      "away": "Universidad de Concepción",
+      "event_id": "10062613",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788735432.9440687
     }
   }
 }

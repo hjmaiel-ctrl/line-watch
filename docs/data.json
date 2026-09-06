@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788734893.9312875,
+  "generated_at": 1788735432.9838307,
   "matches": [
     {
       "match": "Club Leon - CF America",
@@ -10,38 +10,38 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.54,
-              2.22
+              1.45,
+              2.42
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.54,
-                "under": 2.22
+                "over": 1.45,
+                "under": 2.42
               },
               {
                 "line": 8.5,
-                "over": 1.97,
-                "under": 1.69
+                "over": 1.88,
+                "under": 1.76
               },
               {
                 "line": 9.5,
-                "over": 2.64,
-                "under": 1.39
+                "over": 2.56,
+                "under": 1.41
               }
             ]
           },
           "CARDS_OU": {
             "line": 5.5,
             "odds": [
-              1.56,
-              2.18
+              1.82,
+              1.82
             ],
             "_all_lines": [
               {
                 "line": 5.5,
-                "over": 1.56,
-                "under": 2.18
+                "over": 1.82,
+                "under": 1.82
               }
             ]
           }
@@ -59,10 +59,22 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
+          "match": "Club Leon - CF America",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.22 a 2.42 (9.0%)"
+        },
+        {
+          "type": "quota_cambiata",
           "match": "Club Leon - CF America",
           "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 5.5"
+          "detail": "bet9ja: esito #1 passato da 1.56 a 1.82 (16.7%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Club Leon - CF America",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.18 a 1.82 (19.8%)"
         }
       ]
     },
@@ -73,24 +85,24 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 11.5,
+            "line": 12.5,
             "odds": [
-              1.35,
-              2.85
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
-                "line": 11.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
                 "line": 12.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 13.5,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 14.5,
                 "over": 2.45,
                 "under": 1.47
               }
@@ -114,37 +126,9 @@
           "type": "linea_cambiata",
           "match": "Botafogo FR - Palmeiras",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 10.5 a 11.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Botafogo FR - Palmeiras",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 2.5 a 2.85 (14.0%)"
+          "detail": "bet9ja: linea passata da 11.5 a 12.5"
         }
       ]
-    },
-    {
-      "match": "River Plate - Independiente Rivadavia",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     },
     {
       "match": "Corinthians - Chapecoense",
@@ -153,26 +137,26 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 7.5,
             "odds": [
-              1.6,
-              2.15
+              1.5,
+              2.35
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
                 "line": 8.5,
-                "over": 1.6,
-                "under": 2.15
+                "over": 1.9,
+                "under": 1.78
               },
               {
                 "line": 9.5,
-                "over": 1.98,
-                "under": 1.7
-              },
-              {
-                "line": 10.5,
-                "over": 2.6,
-                "under": 1.42
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
@@ -189,7 +173,20 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Corinthians - Chapecoense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 7.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Corinthians - Chapecoense",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.15 a 2.35 (9.3%)"
+        }
+      ]
     },
     {
       "match": "Atlética Ponte Preta - São Bernardo FC",
@@ -212,7 +209,29 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "Palestino - Universidad de Concepción",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 3
+  "alert_count_this_run": 6
 }
