@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788671675.965845
+      "last_checked": 1788672538.5123017
     },
     "Navua F.C.|Labasa FC": {
       "home": "Navua F.C.",
@@ -34,33 +34,10 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788671703.179142
-    },
-    "AC Middle Range|Kansai University FC 2008": {
-      "home": "AC Middle Range",
-      "away": "Kansai University FC 2008",
-      "event_id": "10061322",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
           "1X2": [
             2.4,
-            9.5,
-            100.0
+            12.0,
+            3.6
           ],
           "CORNERS_OU": null,
           "CARDS_OU": null
@@ -71,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788671735.3169732
+      "last_checked": 1788672570.6904535
     },
     "Tokushima Celeste|R. Velho Takamatsu": {
       "home": "Tokushima Celeste",
@@ -94,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788671762.195269
+      "last_checked": 1788672597.628083
     },
     "Sydney Utd.|Manly Utd.": {
       "home": "Sydney Utd.",
@@ -117,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788671789.1959193
+      "last_checked": 1788672624.8827364
+    },
+    "Broadmeadow Magic|Maitland": {
+      "home": "Broadmeadow Magic",
+      "away": "Maitland",
+      "event_id": "10061346",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788672652.0918694
     }
   }
 }
