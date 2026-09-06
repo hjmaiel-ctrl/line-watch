@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788709906.742006,
+  "generated_at": 1788710468.633908,
   "matches": [
     {
       "match": "Arsenal - Chelsea",
@@ -10,46 +10,127 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.25,
-              3.45
+              1.35,
+              2.85
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.25,
-                "under": 3.45
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 8.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 9.5,
-                "over": 1.82,
-                "under": 1.85
+                "over": 2.2,
+                "under": 1.57
               },
               {
                 "line": 10.5,
-                "over": 2.35,
-                "under": 1.5
+                "over": 3.0,
+                "under": 1.32
               },
               {
                 "line": 11.5,
-                "over": 3.25,
-                "under": 1.28
+                "over": 4.5,
+                "under": 1.15
               }
             ]
           },
           "CARDS_OU": {
             "line": 5.5,
             "odds": [
+              2.05,
+              1.65
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 2.05,
+                "under": 1.65
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": [
+        {
+          "type": "quota_cambiata",
+          "match": "Arsenal - Chelsea",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.25 a 1.35 (8.0%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Arsenal - Chelsea",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.45 a 2.85 (21.1%)"
+        }
+      ]
+    },
+    {
+      "match": "Valencia - FC Barcelona",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.15,
+              4.5
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.15,
+                "under": 4.5
+              },
+              {
+                "line": 6.5,
+                "over": 1.82,
+                "under": 1.85
+              },
+              {
+                "line": 7.5,
+                "over": 3.45,
+                "under": 1.25
+              },
+              {
+                "line": 8.5,
+                "over": 6.75,
+                "under": 1.06
+              },
+              {
+                "line": 9.5,
+                "over": 10.0,
+                "under": 1.01
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
               1.9,
               1.78
             ],
             "_all_lines": [
               {
-                "line": 5.5,
+                "line": 3.5,
                 "over": 1.9,
                 "under": 1.78
               }
@@ -69,115 +150,28 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
-          "match": "Arsenal - Chelsea",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 7.5"
-        },
-        {
-          "type": "linea_cambiata",
-          "match": "Arsenal - Chelsea",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 5.5"
-        }
-      ]
-    },
-    {
-      "match": "Valencia - FC Barcelona",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 5.5,
-            "odds": [
-              1.02,
-              9.0
-            ],
-            "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.02,
-                "under": 9.0
-              },
-              {
-                "line": 6.5,
-                "over": 1.32,
-                "under": 3.0
-              },
-              {
-                "line": 7.5,
-                "over": 1.95,
-                "under": 1.73
-              },
-              {
-                "line": 8.5,
-                "over": 3.25,
-                "under": 1.28
-              },
-              {
-                "line": 9.5,
-                "over": 5.5,
-                "under": 1.1
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.47,
-              2.45
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.47,
-                "under": 2.45
-              }
-            ]
-          }
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Valencia - FC Barcelona",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 5.5"
+          "detail": "bet9ja: esito #1 passato da 1.02 a 1.15 (12.7%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Valencia - FC Barcelona",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.11 a 1.02 (8.8%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Valencia - FC Barcelona",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 5.25 a 9.0 (71.4%)"
+          "detail": "bet9ja: esito #2 passato da 9.0 a 4.5 (100.0%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Valencia - FC Barcelona",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 2.25 a 1.47 (53.1%)"
+          "detail": "bet9ja: esito #1 passato da 1.47 a 1.9 (29.3%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Valencia - FC Barcelona",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.55 a 2.45 (58.1%)"
+          "detail": "bet9ja: esito #2 passato da 2.45 a 1.78 (37.6%)"
         }
       ]
     },
@@ -188,40 +182,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 10.5,
             "odds": [
-              1.45,
-              2.58
+              1.37,
+              2.84
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.45,
-                "under": 2.58
-              },
-              {
-                "line": 9.5,
-                "over": 1.78,
-                "under": 1.93
-              },
-              {
                 "line": 10.5,
-                "over": 2.28,
-                "under": 1.56
+                "over": 1.37,
+                "under": 2.84
+              },
+              {
+                "line": 11.5,
+                "over": 1.69,
+                "under": 2.04
+              },
+              {
+                "line": 12.5,
+                "over": 2.18,
+                "under": 1.61
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 2.5,
             "odds": [
-              2.08,
-              1.64
+              1.68,
+              2.02
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 2.08,
-                "under": 1.64
+                "line": 2.5,
+                "over": 1.68,
+                "under": 2.02
               }
             ]
           }
@@ -239,18 +233,104 @@
       },
       "alerts": [
         {
+          "type": "linea_cambiata",
+          "match": "Eintracht Frankfurt - Augsburg",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 8.5 a 10.5"
+        },
+        {
           "type": "quota_cambiata",
           "match": "Eintracht Frankfurt - Augsburg",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 2.58 a 2.84 (10.1%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Eintracht Frankfurt - Augsburg",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.87 a 2.08 (11.2%)"
+          "detail": "bet9ja: linea passata da 3.5 a 2.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Eintracht Frankfurt - Augsburg",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.8 a 1.64 (9.8%)"
+          "detail": "bet9ja: esito #1 passato da 2.08 a 1.68 (23.8%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Eintracht Frankfurt - Augsburg",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: esito #2 passato da 1.64 a 2.02 (23.2%)"
         }
       ]
+    },
+    {
+      "match": "Angers SCO - Stade Rennais",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 11.5,
+                "over": 1.67,
+                "under": 1.98
+              },
+              {
+                "line": 12.5,
+                "over": 2.2,
+                "under": 1.57
+              },
+              {
+                "line": 13.5,
+                "over": 3.0,
+                "under": 1.32
+              },
+              {
+                "line": 14.5,
+                "over": 4.25,
+                "under": 1.17
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              2.05,
+              1.65
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 2.05,
+                "under": 1.65
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     },
     {
       "match": "ADO Den Haag - Fortuna Sittard",
@@ -273,62 +353,7 @@
         }
       },
       "alerts": []
-    },
-    {
-      "match": "Santa Clara - Rio Ave",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.15,
-              4.5
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.15,
-                "under": 4.5
-              },
-              {
-                "line": 10.5,
-                "over": 1.47,
-                "under": 2.45
-              },
-              {
-                "line": 11.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 13.5,
-                "over": 5.5,
-                "under": 1.1
-              }
-            ]
-          },
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
     }
   ],
-  "alert_count_this_run": 9
+  "alert_count_this_run": 11
 }

@@ -1,72 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "Monchengladbach - SV 07 Elversberg",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 2.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Monchengladbach - SV 07 Elversberg",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.08 a 1.63 (27.6%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Monchengladbach - SV 07 Elversberg",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.64 a 2.1 (28.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Hoffenheim - Borussia Dortmund",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 10.5"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Hoffenheim - Borussia Dortmund",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 2.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Hoffenheim - Borussia Dortmund",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.0 a 1.63 (22.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Hoffenheim - Borussia Dortmund",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.69 a 2.1 (24.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Brentford - Sunderland",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 9.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Brentford - Sunderland",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.25 a 2.85 (14.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Brentford - Sunderland",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.98 a 1.55 (27.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Brentford - Sunderland",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.7 a 2.25 (32.4%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "Manchester City - Coventry City",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 8.5 a 9.5"
@@ -2998,5 +2932,71 @@
     "match": "Eintracht Frankfurt - Augsburg",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.8 a 1.64 (9.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Arsenal - Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.25 a 1.35 (8.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Arsenal - Chelsea",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.45 a 2.85 (21.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Valencia - FC Barcelona",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.02 a 1.15 (12.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Valencia - FC Barcelona",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 9.0 a 4.5 (100.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Valencia - FC Barcelona",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.47 a 1.9 (29.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Valencia - FC Barcelona",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.45 a 1.78 (37.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Eintracht Frankfurt - Augsburg",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 8.5 a 10.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Eintracht Frankfurt - Augsburg",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.58 a 2.84 (10.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Eintracht Frankfurt - Augsburg",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Eintracht Frankfurt - Augsburg",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.08 a 1.68 (23.8%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Eintracht Frankfurt - Augsburg",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.64 a 2.02 (23.2%)"
   }
 ]
