@@ -1,96 +1,228 @@
 {
-  "generated_at": 1788684793.0493262,
+  "generated_at": 1788685865.8566272,
   "matches": [
     {
+      "match": "JEF United Chiba - Gamba Osaka",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 8.5,
+                "over": 1.52,
+                "under": 2.3
+              },
+              {
+                "line": 9.5,
+                "over": 1.9,
+                "under": 1.78
+              },
+              {
+                "line": 10.5,
+                "over": 2.45,
+                "under": 1.47
+              },
+              {
+                "line": 11.5,
+                "over": 3.25,
+                "under": 1.28
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Kashima Antlers - Urawa Red Diamonds",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 7.5,
+                "over": 1.42,
+                "under": 2.6
+              },
+              {
+                "line": 8.5,
+                "over": 1.73,
+                "under": 1.95
+              },
+              {
+                "line": 9.5,
+                "over": 2.25,
+                "under": 1.55
+              },
+              {
+                "line": 10.5,
+                "over": 3.0,
+                "under": 1.32
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Nagoya Grampus - Machida Zelvia",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 6.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 6.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 7.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 8.5,
+                "over": 1.87,
+                "under": 1.8
+              },
+              {
+                "line": 9.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 10.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Fagiano Okayama - Sanfrecce Hiroshima",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.3,
+              3.1
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.3,
+                "under": 3.1
+              },
+              {
+                "line": 8.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
+                "line": 9.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 10.5,
+                "over": 2.6,
+                "under": 1.42
+              },
+              {
+                "line": 11.5,
+                "over": 3.5,
+                "under": 1.22
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
       "match": "Taichung FUTURO - Tainan City Taiwan Steel",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Java United FC - Garuda Yaksa",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Shatin SA - North District",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Hong Kong FC - Lee Man FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Moreton City Excelsior U23 - Gold Coast Knights FC",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
