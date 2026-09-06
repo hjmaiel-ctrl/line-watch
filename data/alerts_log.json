@@ -1,48 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "OGC Nice - Le Mans FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.1 a 1.87 (12.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "OGC Nice - Le Mans FC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.62 a 1.8 (11.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Le Havre AC - Stade Brestois 29",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.75 a 1.98 (13.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Le Havre AC - Stade Brestois 29",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.92 a 1.7 (12.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "AS Roma - Atalanta",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.7 a 1.9 (11.8%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "AS Roma - Atalanta",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.98 a 1.78 (11.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Le Havre AC - Stade Brestois 29",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 8.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Le Havre AC - Stade Brestois 29",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.45 a 4.0 (15.9%)"
@@ -2998,5 +2956,47 @@
     "match": "Olympique Marseille - Paris FC",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #2 passato da 1.57 a 1.9 (21.0%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Espanyol - Sevilla",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 2.1 a 1.73 (21.4%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Espanyol - Sevilla",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.62 a 1.95 (20.4%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Juventus - AC Milan",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Juventus - AC Milan",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 3.25 (12.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Juventus - AC Milan",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.98 a 1.83 (8.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Olympique Marseille - Paris FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.22 a 1.32 (8.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Olympique Marseille - Paris FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 3.0 (21.7%)"
   }
 ]
