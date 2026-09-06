@@ -1,59 +1,5 @@
 {
   "matches": {
-    "Los Angeles Galaxy|New England Revolution": {
-      "home": "Los Angeles Galaxy",
-      "away": "New England Revolution",
-      "event_id": "10061298",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            15.0,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788665426.1395757
-    },
-    "Real Salt Lake|Los Angeles": {
-      "home": "Real Salt Lake",
-      "away": "Los Angeles",
-      "event_id": "10061300",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            15.0,
-            100.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788665458.4959316
-    },
     "Portland Timbers|Minnesota Utd": {
       "home": "Portland Timbers",
       "away": "Minnesota Utd",
@@ -62,40 +8,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 8.5,
+            "line": 9.5,
             "odds": [
-              1.51,
-              2.38
+              1.54,
+              2.32
             ],
             "_all_lines": [
               {
-                "line": 8.5,
-                "over": 1.51,
-                "under": 2.38
-              },
-              {
                 "line": 9.5,
-                "over": 1.98,
-                "under": 1.74
+                "over": 1.54,
+                "under": 2.32
               },
               {
                 "line": 10.5,
-                "over": 2.74,
-                "under": 1.4
+                "over": 2.02,
+                "under": 1.7
+              },
+              {
+                "line": 11.5,
+                "over": 2.82,
+                "under": 1.38
               }
             ]
           },
           "CARDS_OU": {
-            "line": 3.5,
+            "line": 4.5,
             "odds": [
-              1.63,
-              2.1
+              1.65,
+              2.08
             ],
             "_all_lines": [
               {
-                "line": 3.5,
-                "over": 1.63,
-                "under": 2.1
+                "line": 4.5,
+                "over": 1.65,
+                "under": 2.08
               }
             ]
           }
@@ -111,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788665482.1815937
+      "last_checked": 1788666238.2795775
     },
     "Vancouver Whitecaps|Saint Louis City SC": {
       "home": "Vancouver Whitecaps",
@@ -123,24 +69,24 @@
           "CORNERS_OU": {
             "line": 6.5,
             "odds": [
-              1.52,
-              2.38
+              1.47,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 6.5,
-                "over": 1.52,
-                "under": 2.38
+                "over": 1.47,
+                "under": 2.5
               },
               {
                 "line": 7.5,
-                "over": 1.98,
-                "under": 1.74
+                "over": 1.89,
+                "under": 1.81
               },
               {
                 "line": 8.5,
-                "over": 2.72,
-                "under": 1.4
+                "over": 2.58,
+                "under": 1.45
               }
             ]
           },
@@ -170,12 +116,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788665505.7812154
+      "last_checked": 1788666261.3579872
     },
-    "Nadi FC|Rewa FC": {
-      "home": "Nadi FC",
-      "away": "Rewa FC",
-      "event_id": "10061304",
+    "Monterey Bay FC|Phoenix Rising": {
+      "home": "Monterey Bay FC",
+      "away": "Phoenix Rising",
+      "event_id": "10061305",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -183,11 +129,7 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": [
-            2.4,
-            1.18,
-            4.6
-          ],
+          "1X2": null,
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -197,7 +139,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788665538.2531796
+      "last_checked": 1788666288.030418
+    },
+    "Guadalupe FC|CS Uruguay de Coronado": {
+      "home": "Guadalupe FC",
+      "away": "CS Uruguay de Coronado",
+      "event_id": "10061306",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788666314.7388005
+    },
+    "Los Angeles FC 2|Ventura County FC": {
+      "home": "Los Angeles FC 2",
+      "away": "Ventura County FC",
+      "event_id": "10061307",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788666341.5032482
     }
   }
 }
