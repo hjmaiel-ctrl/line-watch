@@ -8,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 4.5,
+            "line": 3.5,
             "odds": [
-              1.2,
-              3.9
+              1.12,
+              5.0
             ],
             "_all_lines": [
               {
+                "line": 3.5,
+                "over": 1.12,
+                "under": 5.0
+              },
+              {
                 "line": 4.5,
-                "over": 1.2,
-                "under": 3.9
+                "over": 1.35,
+                "under": 2.85
               },
               {
                 "line": 5.5,
-                "over": 1.47,
-                "under": 2.45
+                "over": 1.78,
+                "under": 1.9
               },
               {
                 "line": 6.5,
-                "over": 1.95,
-                "under": 1.73
+                "over": 2.5,
+                "under": 1.45
               },
               {
                 "line": 7.5,
-                "over": 2.85,
-                "under": 1.35
-              },
-              {
-                "line": 8.5,
-                "over": 4.25,
-                "under": 1.17
+                "over": 3.9,
+                "under": 1.2
               }
             ]
           },
           "CARDS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.73,
-              1.95
+              2.05,
+              1.65
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.73,
-                "under": 1.95
+                "line": 7.5,
+                "over": 2.05,
+                "under": 1.65
               }
             ]
           }
@@ -67,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788723491.1095934
+      "last_checked": 1788724035.1259463
     },
     "Juventus|AC Milan": {
       "home": "Juventus",
@@ -113,14 +113,14 @@
           "CARDS_OU": {
             "line": 2.5,
             "odds": [
-              1.83,
-              1.83
+              1.85,
+              1.82
             ],
             "_all_lines": [
               {
                 "line": 2.5,
-                "over": 1.83,
-                "under": 1.83
+                "over": 1.85,
+                "under": 1.82
               }
             ]
           }
@@ -136,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788723514.2489703
+      "last_checked": 1788724058.099737
     },
     "Olympique Marseille|Paris FC": {
       "home": "Olympique Marseille",
@@ -205,7 +205,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788723537.600034
+      "last_checked": 1788724081.061453
     },
     "Gil Vicente|Académico de Viseu": {
       "home": "Gil Vicente",
@@ -215,34 +215,34 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 5.5,
             "odds": [
-              1.35,
-              2.85
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
+                "line": 5.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
                 "line": 6.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.52,
+                "under": 2.3
               },
               {
                 "line": 7.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.95,
+                "under": 1.73
               },
               {
                 "line": 8.5,
-                "over": 1.98,
-                "under": 1.67
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 9.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 10.5,
                 "over": 3.65,
                 "under": 1.22
               }
@@ -261,12 +261,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788723562.4678617
+      "last_checked": 1788724106.063049
     },
-    "UD Almería|Cádiz": {
-      "home": "UD Almería",
-      "away": "Cádiz",
-      "event_id": "10062487",
+    "Maghreb AS de Fes|Rahimo FC": {
+      "home": "Maghreb AS de Fes",
+      "away": "Rahimo FC",
+      "event_id": "10062500",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -284,7 +284,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788723589.357488
+      "last_checked": 1788724132.6848729
     }
   }
 }
