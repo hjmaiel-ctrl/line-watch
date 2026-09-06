@@ -1,101 +1,5 @@
 [
   {
-    "type": "linea_cambiata",
-    "match": "Paris Saint-Germain - AS Monaco",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 4.5 a 3.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Paris Saint-Germain - AS Monaco",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.28 a 1.12 (14.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Paris Saint-Germain - AS Monaco",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.25 a 5.0 (53.8%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Ipswich Town - Liverpool",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 8.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Ipswich Town - Liverpool",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 5.0 a 3.9 (28.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Real Betis - Real Madrid",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 14.5 a 13.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Real Betis - Real Madrid",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.45 a 3.0 (15.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Real Betis - Real Madrid",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.82 a 1.55 (17.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Real Betis - Real Madrid",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.85 a 2.25 (21.6%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Paris Saint-Germain - AS Monaco",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 2.5 a 1.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Paris Saint-Germain - AS Monaco",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.25 a 1.65 (36.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Paris Saint-Germain - AS Monaco",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.55 a 2.05 (32.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Ipswich Town - Liverpool",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Ipswich Town - Liverpool",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.95 a 1.75 (11.4%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Ipswich Town - Liverpool",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.73 a 1.92 (11.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Real Betis - Real Madrid",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.32 a 1.2 (10.0%)"
-  },
-  {
     "type": "quota_cambiata",
     "match": "Real Betis - Real Madrid",
     "market": "CORNERS_OU",
@@ -2998,5 +2902,101 @@
     "match": "Vancouver Whitecaps - Saint Louis City SC",
     "market": "CARDS_OU",
     "detail": "bet9ja: linea passata da 6.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Portland Timbers - Minnesota Utd",
+    "market": "1X2",
+    "detail": "sportybet: esito #2 passato da 1.42 a 1.02 (39.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Portland Timbers - Minnesota Utd",
+    "market": "1X2",
+    "detail": "sportybet: esito #3 passato da 3.85 a 13.0 (237.7%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Portland Timbers - Minnesota Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=1.21 vs sportybet=2.4 (esito #1, differenza 98.3%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Portland Timbers - Minnesota Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja=3.8 vs sportybet=1.95 (esito #2, differenza 94.9%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Portland Timbers - Minnesota Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 9.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Portland Timbers - Minnesota Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.49 a 1.21 (23.1%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Portland Timbers - Minnesota Utd",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.4 a 3.8 (58.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Portland Timbers - Minnesota Utd",
+    "market": "CORNERS_OU",
+    "detail": "sportybet: esito #2 passato da 1.52 a 1.95 (28.3%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Portland Timbers - Minnesota Utd",
+    "market": "CARDS_OU",
+    "detail": "bet9ja=1.56 vs sportybet=2.4 (esito #1, differenza 53.8%)"
+  },
+  {
+    "type": "quota_differente",
+    "match": "Portland Timbers - Minnesota Utd",
+    "market": "CARDS_OU",
+    "detail": "bet9ja=2.18 vs sportybet=1.6 (esito #2, differenza 36.3%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Vancouver Whitecaps - Saint Louis City SC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 6.5 a 7.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Vancouver Whitecaps - Saint Louis City SC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.23 a 2.04 (65.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Vancouver Whitecaps - Saint Louis City SC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.65 a 1.64 (122.6%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Vancouver Whitecaps - Saint Louis City SC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 5.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Vancouver Whitecaps - Saint Louis City SC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.77 a 1.96 (10.7%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Vancouver Whitecaps - Saint Louis City SC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.87 a 1.7 (10.0%)"
   }
 ]

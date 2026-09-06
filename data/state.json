@@ -8,40 +8,40 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 9.5,
+            "line": 7.5,
             "odds": [
-              1.49,
-              2.4
+              1.21,
+              3.8
             ],
             "_all_lines": [
               {
+                "line": 7.5,
+                "over": 1.21,
+                "under": 3.8
+              },
+              {
+                "line": 8.5,
+                "over": 1.92,
+                "under": 1.76
+              },
+              {
                 "line": 9.5,
-                "over": 1.49,
-                "under": 2.4
-              },
-              {
-                "line": 10.5,
-                "over": 2.12,
-                "under": 1.61
-              },
-              {
-                "line": 11.5,
-                "over": 3.3,
-                "under": 1.27
+                "over": 3.5,
+                "under": 1.24
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              1.53,
-              2.28
+              1.56,
+              2.18
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 1.53,
-                "under": 2.28
+                "over": 1.56,
+                "under": 2.18
               }
             ]
           }
@@ -49,21 +49,21 @@
         "sportybet": {
           "1X2": [
             2.4,
-            1.42,
-            3.85
+            1.02,
+            13.0
           ],
           "CORNERS_OU": {
             "line": null,
             "odds": [
               2.4,
-              1.52
+              1.95
             ]
           },
           "CARDS_OU": {
             "line": null,
             "odds": [
               2.4,
-              1.55
+              1.6
             ]
           }
         },
@@ -73,7 +73,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788667790.7082932
+      "last_checked": 1788668666.142523
     },
     "Vancouver Whitecaps|Saint Louis City SC": {
       "home": "Vancouver Whitecaps",
@@ -83,40 +83,30 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.23,
-              3.65
+              2.04,
+              1.64
             ],
             "_all_lines": [
               {
-                "line": 6.5,
-                "over": 1.23,
-                "under": 3.65
-              },
-              {
                 "line": 7.5,
-                "over": 1.66,
-                "under": 2.06
-              },
-              {
-                "line": 8.5,
-                "over": 2.48,
-                "under": 1.45
+                "over": 2.04,
+                "under": 1.64
               }
             ]
           },
           "CARDS_OU": {
-            "line": 5.5,
+            "line": 6.5,
             "odds": [
-              1.77,
-              1.87
+              1.96,
+              1.7
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.77,
-                "under": 1.87
+                "line": 6.5,
+                "over": 1.96,
+                "under": 1.7
               }
             ]
           }
@@ -132,7 +122,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788667814.9372554
+      "last_checked": 1788668689.143728
     },
     "Hokkaido Consadole Sapporo|Tochigi City FC": {
       "home": "Hokkaido Consadole Sapporo",
@@ -155,7 +145,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788667841.666697
+      "last_checked": 1788668715.790862
     },
     "Av Alta FC|One Knoxville SC": {
       "home": "Av Alta FC",
@@ -178,7 +168,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788667874.6799016
+      "last_checked": 1788668742.4411175
     },
     "Las Vegas Lights|New Mexico Utd": {
       "home": "Las Vegas Lights",
@@ -191,7 +181,11 @@
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            95.0,
+            5.7
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -201,7 +195,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788667901.4417946
+      "last_checked": 1788668774.147086
     }
   }
 }
