@@ -3,42 +3,6 @@
     "type": "quota_cambiata",
     "match": "Arminia Bielefeld - FC St. Pauli",
     "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.65 a 3.0 (21.7%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Hannover 96 - Karlsruher SC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 4.25 a 3.75 (13.3%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Istanbul Basaksehir FK - Galatasaray SK",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 10.5 a 11.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Istanbul Basaksehir FK - Galatasaray SK",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.32 a 1.2 (10.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Istanbul Basaksehir FK - Galatasaray SK",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 3.0 a 3.9 (30.0%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Arminia Bielefeld - FC St. Pauli",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.32 a 1.09 (21.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Arminia Bielefeld - FC St. Pauli",
-    "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.0 a 5.75 (91.7%)"
   },
   {
@@ -2998,5 +2962,41 @@
     "match": "Dallas - Sporting Kansas City",
     "market": "CORNERS_OU",
     "detail": "bet9ja: esito #2 passato da 3.2 a 2.88 (11.1%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Austin FC - San Jose Earthquakes",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 14.5 a 13.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Austin FC - San Jose Earthquakes",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.0 a 2.2 (10.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Dallas - Sporting Kansas City",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 2.5 a 1.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Los Angeles Galaxy - New England Revolution",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 9.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Los Angeles Galaxy - New England Revolution",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.58 a 1.43 (10.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Los Angeles Galaxy - New England Revolution",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.22 a 2.64 (18.9%)"
   }
 ]
