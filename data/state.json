@@ -1,51 +1,5 @@
 {
   "matches": {
-    "Charlotte FC|Houston Dynamo": {
-      "home": "Charlotte FC",
-      "away": "Houston Dynamo",
-      "event_id": "10061244",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788658139.9366047
-    },
-    "Columbus Crew|Colorado Rapids": {
-      "home": "Columbus Crew",
-      "away": "Colorado Rapids",
-      "event_id": "10061246",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788658166.4755785
-    },
     "Inter Miami CF|Atlanta Utd": {
       "home": "Inter Miami CF",
       "away": "Atlanta Utd",
@@ -53,44 +7,8 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.41,
-              2.7
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.41,
-                "under": 2.7
-              },
-              {
-                "line": 8.5,
-                "over": 1.71,
-                "under": 2.02
-              },
-              {
-                "line": 9.5,
-                "over": 2.18,
-                "under": 1.61
-              }
-            ]
-          },
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.8,
-              1.87
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.8,
-                "under": 1.87
-              }
-            ]
-          }
+          "CORNERS_OU": null,
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -103,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788658189.4977612
+      "last_checked": 1788658868.5042326
     },
     "Orlando City|San Diego FC": {
       "home": "Orlando City",
@@ -126,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788658216.1107452
+      "last_checked": 1788658900.484386
     },
-    "Philadelphia Union|CF Montreal": {
-      "home": "Philadelphia Union",
-      "away": "CF Montreal",
-      "event_id": "10061249",
+    "Austin FC|San Jose Earthquakes": {
+      "home": "Austin FC",
+      "away": "San Jose Earthquakes",
+      "event_id": "10061276",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -149,7 +67,125 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788658242.642995
+      "last_checked": 1788658927.4721708
+    },
+    "Dallas|Sporting Kansas City": {
+      "home": "Dallas",
+      "away": "Sporting Kansas City",
+      "event_id": "10061277",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.31,
+              3.2
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.31,
+                "under": 3.2
+              },
+              {
+                "line": 9.5,
+                "over": 1.65,
+                "under": 2.1
+              },
+              {
+                "line": 10.5,
+                "over": 2.24,
+                "under": 1.58
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 2.5,
+            "odds": [
+              1.91,
+              1.77
+            ],
+            "_all_lines": [
+              {
+                "line": 2.5,
+                "over": 1.91,
+                "under": 1.77
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788658950.847543
+    },
+    "Seattle Sounders|New York Red Bulls": {
+      "home": "Seattle Sounders",
+      "away": "New York Red Bulls",
+      "event_id": "10061278",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 11.5,
+            "odds": [
+              1.53,
+              2.34
+            ],
+            "_all_lines": [
+              {
+                "line": 11.5,
+                "over": 1.53,
+                "under": 2.34
+              },
+              {
+                "line": 12.5,
+                "over": 2.02,
+                "under": 1.72
+              },
+              {
+                "line": 13.5,
+                "over": 2.8,
+                "under": 1.38
+              }
+            ]
+          },
+          "CARDS_OU": {
+            "line": 3.5,
+            "odds": [
+              2.2,
+              1.57
+            ],
+            "_all_lines": [
+              {
+                "line": 3.5,
+                "over": 2.2,
+                "under": 1.57
+              }
+            ]
+          }
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788658974.4792194
     }
   }
 }
