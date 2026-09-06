@@ -1,36 +1,6 @@
 [
   {
     "type": "quota_cambiata",
-    "match": "Rayo Vallecano - Racing Santander",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 2.05 a 1.78 (15.2%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Rayo Vallecano - Racing Santander",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.65 a 1.9 (15.2%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 7.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 12.0 a 3.0 (300.0%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "Hull City - Aston Villa",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: linea passata da 3.5 a 2.5"
-  },
-  {
-    "type": "quota_cambiata",
     "match": "Hull City - Aston Villa",
     "market": "CARDS_OU",
     "detail": "bet9ja: esito #1 passato da 1.87 a 1.73 (8.1%)"
@@ -2998,5 +2968,35 @@
     "match": "Trabzonspor - Gençlerbirligi SK",
     "market": "1X2",
     "detail": "sportybet: esito #3 passato da 1.12 a 1.02 (9.8%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Juventus - AC Milan",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Juventus - AC Milan",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 3.45 a 3.9 (13.0%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Olympique Marseille - Paris FC",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 8.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Olympique Marseille - Paris FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.8 a 2.05 (13.9%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Olympique Marseille - Paris FC",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.87 a 1.65 (13.3%)"
   }
 ]
