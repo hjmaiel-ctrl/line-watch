@@ -10,28 +10,41 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.44,
-              2.46
+              1.53,
+              2.24
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.44,
-                "under": 2.46
+                "over": 1.53,
+                "under": 2.24
               },
               {
                 "line": 8.5,
-                "over": 1.74,
-                "under": 1.9
+                "over": 1.91,
+                "under": 1.74
               },
               {
                 "line": 9.5,
-                "over": 2.2,
-                "under": 1.55
+                "over": 2.5,
+                "under": 1.43
               }
             ]
           },
-          "CARDS_OU": null
+          "CARDS_OU": {
+            "line": 4.5,
+            "odds": [
+              1.56,
+              2.18
+            ],
+            "_all_lines": [
+              {
+                "line": 4.5,
+                "over": 1.56,
+                "under": 2.18
+              }
+            ]
+          }
         },
         "sportybet": {
           "1X2": null,
@@ -44,7 +57,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788733360.131752
+      "last_checked": 1788734239.4887412
     },
     "Botafogo FR|Palmeiras": {
       "home": "Botafogo FR",
@@ -56,24 +69,24 @@
           "CORNERS_OU": {
             "line": 10.5,
             "odds": [
-              1.5,
-              2.35
+              1.45,
+              2.5
             ],
             "_all_lines": [
               {
                 "line": 10.5,
-                "over": 1.5,
-                "under": 2.35
+                "over": 1.45,
+                "under": 2.5
               },
               {
                 "line": 11.5,
-                "over": 1.92,
-                "under": 1.75
+                "over": 1.87,
+                "under": 1.8
               },
               {
                 "line": 12.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 2.5,
+                "under": 1.45
               }
             ]
           },
@@ -90,12 +103,58 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788733384.9405396
+      "last_checked": 1788734264.6625195
     },
     "River Plate|Independiente Rivadavia": {
       "home": "River Plate",
       "away": "Independiente Rivadavia",
       "event_id": "10062612",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 5.5,
+            "odds": [
+              1.35,
+              2.85
+            ],
+            "_all_lines": [
+              {
+                "line": 5.5,
+                "over": 1.35,
+                "under": 2.85
+              },
+              {
+                "line": 6.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 7.5,
+                "over": 2.2,
+                "under": 1.57
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788734289.8002605
+    },
+    "Corinthians|Chapecoense": {
+      "home": "Corinthians",
+      "away": "Chapecoense",
+      "event_id": "10062615",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -113,7 +172,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788733411.5769467
+      "last_checked": 1788734317.1249526
     },
     "Atlética Ponte Preta|São Bernardo FC": {
       "home": "Atlética Ponte Preta",
@@ -136,30 +195,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788733438.3953106
-    },
-    "Internacional de Bogotá|Águilas Doradas": {
-      "home": "Internacional de Bogotá",
-      "away": "Águilas Doradas",
-      "event_id": "10062592",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788733465.1424851
+      "last_checked": 1788734344.4324758
     }
   }
 }
