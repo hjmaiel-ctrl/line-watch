@@ -1,51 +1,5 @@
 {
   "matches": {
-    "Broadmeadow Magic|Maitland": {
-      "home": "Broadmeadow Magic",
-      "away": "Maitland",
-      "event_id": "10061346",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788677466.7047386
-    },
-    "Tadotsu FC|Kufc Nankoku": {
-      "home": "Tadotsu FC",
-      "away": "Kufc Nankoku",
-      "event_id": "10061347",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788677493.195441
-    },
     "Ba F.C.|Lautoka FC": {
       "home": "Ba F.C.",
       "away": "Lautoka FC",
@@ -67,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788677519.7836282
+      "last_checked": 1788678018.6581945
     },
     "Ravia Sa|Qi Yi FC": {
       "home": "Ravia Sa",
@@ -90,7 +44,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788677546.4190261
+      "last_checked": 1788678045.220399
     },
     "Ococias Kyoto AC|Moriyama Samurai": {
       "home": "Ococias Kyoto AC",
@@ -113,7 +67,53 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788677573.0689845
+      "last_checked": 1788678071.7894158
+    },
+    "Mindil Aces|Casuarina": {
+      "home": "Mindil Aces",
+      "away": "Casuarina",
+      "event_id": "10061356",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788678098.454196
+    },
+    "Sunshine Coast Wanderers|Ipswich FC": {
+      "home": "Sunshine Coast Wanderers",
+      "away": "Ipswich FC",
+      "event_id": "10061357",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788678124.9509037
     }
   }
 }
