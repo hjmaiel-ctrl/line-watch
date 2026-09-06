@@ -1,39 +1,6 @@
 {
-  "generated_at": 1788669682.9234607,
+  "generated_at": 1788670318.931691,
   "matches": [
-    {
-      "match": "Portland Timbers - Minnesota Utd",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.06,
-            8.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": [
-        {
-          "type": "quota_cambiata",
-          "match": "Portland Timbers - Minnesota Utd",
-          "market": "1X2",
-          "detail": "sportybet: esito #3 passato da 13.0 a 8.0 (62.5%)"
-        }
-      ]
-    },
     {
       "match": "Hokkaido Consadole Sapporo - Tochigi City FC",
       "bet9ja_stats": null,
@@ -62,34 +29,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.12,
-              4.5
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.12,
-                "under": 4.5
-              },
-              {
-                "line": 4.5,
-                "over": 1.82,
-                "under": 1.78
-              },
-              {
-                "line": 5.5,
-                "over": 3.4,
-                "under": 1.22
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            5.8,
+            1.23
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -144,7 +92,29 @@
         }
       },
       "alerts": []
+    },
+    {
+      "match": "AC Middle Range - Kansai University FC 2008",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 0
 }

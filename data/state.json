@@ -1,32 +1,5 @@
 {
   "matches": {
-    "Portland Timbers|Minnesota Utd": {
-      "home": "Portland Timbers",
-      "away": "Minnesota Utd",
-      "event_id": "10061320",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            1.06,
-            8.0
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788669578.4184618
-    },
     "Hokkaido Consadole Sapporo|Tochigi City FC": {
       "home": "Hokkaido Consadole Sapporo",
       "away": "Tochigi City FC",
@@ -48,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788669605.0558243
+      "last_checked": 1788670207.2561812
     },
     "Atlas|Atlante": {
       "home": "Atlas",
@@ -57,34 +30,15 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.12,
-              4.5
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.12,
-                "under": 4.5
-              },
-              {
-                "line": 4.5,
-                "over": 1.82,
-                "under": 1.78
-              },
-              {
-                "line": 5.5,
-                "over": 3.4,
-                "under": 1.22
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
-          "1X2": null,
+          "1X2": [
+            2.4,
+            5.8,
+            1.23
+          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },
@@ -94,7 +48,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788669629.7554288
+      "last_checked": 1788670238.9911518
     },
     "Marquense|Xelajú MC": {
       "home": "Marquense",
@@ -117,7 +71,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788669656.3298552
+      "last_checked": 1788670265.855749
     },
     "Navua F.C.|Labasa FC": {
       "home": "Navua F.C.",
@@ -140,7 +94,30 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788669682.876594
+      "last_checked": 1788670292.4163773
+    },
+    "AC Middle Range|Kansai University FC 2008": {
+      "home": "AC Middle Range",
+      "away": "Kansai University FC 2008",
+      "event_id": "10061322",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788670318.8889968
     }
   }
 }
