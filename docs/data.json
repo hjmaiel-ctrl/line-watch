@@ -1,28 +1,6 @@
 {
-  "generated_at": 1788715346.884673,
+  "generated_at": 1788715971.77563,
   "matches": [
-    {
-      "match": "Arsenal - Chelsea",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
     {
       "match": "Deportivo Alaves - Osasuna",
       "bet9ja_stats": null,
@@ -30,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 6.5,
             "odds": [
-              1.12,
-              5.0
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.12,
-                "under": 5.0
-              },
-              {
                 "line": 6.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 7.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 8.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 9.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 3.45,
+                "under": 1.25
+              },
+              {
+                "line": 10.5,
+                "over": 5.25,
+                "under": 1.11
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              2.2,
-              1.57
+              2.05,
+              1.65
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 2.05,
+                "under": 1.65
               }
             ]
           }
@@ -89,7 +67,26 @@
           "CARDS_OU": null
         }
       },
-      "alerts": []
+      "alerts": [
+        {
+          "type": "linea_cambiata",
+          "match": "Deportivo Alaves - Osasuna",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 5.5 a 6.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Deportivo Alaves - Osasuna",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #1 passato da 1.12 a 1.32 (17.9%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Deportivo Alaves - Osasuna",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 5.0 a 3.0 (66.7%)"
+        }
+      ]
     },
     {
       "match": "Málaga - Levante UD",
@@ -98,17 +95,12 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.11,
-              5.25
+              1.28,
+              3.25
             ],
             "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.11,
-                "under": 5.25
-              },
               {
                 "line": 7.5,
                 "over": 1.28,
@@ -137,17 +129,12 @@
             ]
           },
           "CARDS_OU": {
-            "line": 5.5,
+            "line": 6.5,
             "odds": [
-              1.55,
-              2.25
+              2.15,
+              1.6
             ],
             "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.55,
-                "under": 2.25
-              },
               {
                 "line": 6.5,
                 "over": 2.15,
@@ -169,22 +156,40 @@
       },
       "alerts": [
         {
+          "type": "linea_cambiata",
+          "match": "Málaga - Levante UD",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: linea passata da 6.5 a 7.5"
+        },
+        {
           "type": "quota_cambiata",
           "match": "Málaga - Levante UD",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.5 a 5.25 (16.7%)"
+          "detail": "bet9ja: esito #1 passato da 1.11 a 1.28 (15.3%)"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Málaga - Levante UD",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 5.25 a 3.25 (61.5%)"
+        },
+        {
+          "type": "linea_cambiata",
+          "match": "Málaga - Levante UD",
+          "market": "CARDS_OU",
+          "detail": "bet9ja: linea passata da 5.5 a 6.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Málaga - Levante UD",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.85 a 1.55 (19.4%)"
+          "detail": "bet9ja: esito #1 passato da 1.55 a 2.15 (38.7%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Málaga - Levante UD",
           "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.82 a 2.25 (23.6%)"
+          "detail": "bet9ja: esito #2 passato da 2.25 a 1.6 (40.6%)"
         }
       ]
     },
@@ -195,36 +200,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 14.5,
+            "line": 15.5,
             "odds": [
-              1.32,
-              3.0
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
-                "line": 14.5,
-                "over": 1.32,
-                "under": 3.0
+                "line": 15.5,
+                "over": 1.28,
+                "under": 3.25
               },
               {
-                "line": 15.5,
+                "line": 16.5,
                 "over": 1.7,
                 "under": 1.98
               },
               {
-                "line": 16.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
                 "line": 17.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 2.5,
+                "under": 1.45
               },
               {
                 "line": 18.5,
-                "over": 5.5,
-                "under": 1.1
+                "over": 3.9,
+                "under": 1.2
+              },
+              {
+                "line": 19.5,
+                "over": 6.5,
+                "under": 1.07
               }
             ]
           },
@@ -246,29 +251,111 @@
           "type": "linea_cambiata",
           "match": "Bologna - Sassuolo",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 12.5 a 14.5"
+          "detail": "bet9ja: linea passata da 14.5 a 15.5"
         },
         {
           "type": "quota_cambiata",
           "match": "Bologna - Sassuolo",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.13 a 1.32 (16.8%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Bologna - Sassuolo",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 4.75 a 3.0 (58.3%)"
+          "detail": "bet9ja: esito #2 passato da 3.0 a 3.25 (8.3%)"
         }
       ]
     },
     {
-      "match": "Eintracht Frankfurt - Augsburg",
+      "match": "Vitoria de Guimaraes - Casa Pia",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 10.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 11.5,
+                "over": 1.85,
+                "under": 1.82
+              },
+              {
+                "line": 12.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 13.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
           "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "Kocaelispor - Samsunspor",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 9.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
+                "line": 10.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 11.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 12.5,
+                "over": 4.1,
+                "under": 1.18
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -285,5 +372,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 6
+  "alert_count_this_run": 11
 }

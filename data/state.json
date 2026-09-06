@@ -1,28 +1,5 @@
 {
   "matches": {
-    "Arsenal|Chelsea": {
-      "home": "Arsenal",
-      "away": "Chelsea",
-      "event_id": "10049746",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788715248.4264567
-    },
     "Deportivo Alaves|Osasuna": {
       "home": "Deportivo Alaves",
       "away": "Osasuna",
@@ -31,50 +8,50 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 5.5,
+            "line": 6.5,
             "odds": [
-              1.12,
-              5.0
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
-                "line": 5.5,
-                "over": 1.12,
-                "under": 5.0
-              },
-              {
                 "line": 6.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.32,
+                "under": 3.0
               },
               {
                 "line": 7.5,
-                "over": 1.75,
-                "under": 1.92
+                "over": 1.7,
+                "under": 1.98
               },
               {
                 "line": 8.5,
-                "over": 2.45,
-                "under": 1.47
+                "over": 2.35,
+                "under": 1.5
               },
               {
                 "line": 9.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 3.45,
+                "under": 1.25
+              },
+              {
+                "line": 10.5,
+                "over": 5.25,
+                "under": 1.11
               }
             ]
           },
           "CARDS_OU": {
             "line": 3.5,
             "odds": [
-              2.2,
-              1.57
+              2.05,
+              1.65
             ],
             "_all_lines": [
               {
                 "line": 3.5,
-                "over": 2.2,
-                "under": 1.57
+                "over": 2.05,
+                "under": 1.65
               }
             ]
           }
@@ -90,7 +67,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788715271.8018796
+      "last_checked": 1788715872.97803
     },
     "Málaga|Levante UD": {
       "home": "Málaga",
@@ -100,17 +77,12 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 6.5,
+            "line": 7.5,
             "odds": [
-              1.11,
-              5.25
+              1.28,
+              3.25
             ],
             "_all_lines": [
-              {
-                "line": 6.5,
-                "over": 1.11,
-                "under": 5.25
-              },
               {
                 "line": 7.5,
                 "over": 1.28,
@@ -139,17 +111,12 @@
             ]
           },
           "CARDS_OU": {
-            "line": 5.5,
+            "line": 6.5,
             "odds": [
-              1.55,
-              2.25
+              2.15,
+              1.6
             ],
             "_all_lines": [
-              {
-                "line": 5.5,
-                "over": 1.55,
-                "under": 2.25
-              },
               {
                 "line": 6.5,
                 "over": 2.15,
@@ -169,7 +136,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788715294.9742785
+      "last_checked": 1788715896.4275272
     },
     "Bologna|Sassuolo": {
       "home": "Bologna",
@@ -179,36 +146,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 14.5,
+            "line": 15.5,
             "odds": [
-              1.32,
-              3.0
+              1.28,
+              3.25
             ],
             "_all_lines": [
               {
-                "line": 14.5,
-                "over": 1.32,
-                "under": 3.0
+                "line": 15.5,
+                "over": 1.28,
+                "under": 3.25
               },
               {
-                "line": 15.5,
+                "line": 16.5,
                 "over": 1.7,
                 "under": 1.98
               },
               {
-                "line": 16.5,
-                "over": 2.45,
-                "under": 1.47
-              },
-              {
                 "line": 17.5,
-                "over": 3.65,
-                "under": 1.22
+                "over": 2.5,
+                "under": 1.45
               },
               {
                 "line": 18.5,
-                "over": 5.5,
-                "under": 1.1
+                "over": 3.9,
+                "under": 1.2
+              },
+              {
+                "line": 19.5,
+                "over": 6.5,
+                "under": 1.07
               }
             ]
           },
@@ -225,16 +192,49 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788715320.243224
+      "last_checked": 1788715921.5713184
     },
-    "Eintracht Frankfurt|Augsburg": {
-      "home": "Eintracht Frankfurt",
-      "away": "Augsburg",
-      "event_id": "10041345",
+    "Vitoria de Guimaraes|Casa Pia": {
+      "home": "Vitoria de Guimaraes",
+      "away": "Casa Pia",
+      "event_id": "10062349",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 9.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 9.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 10.5,
+                "over": 1.45,
+                "under": 2.5
+              },
+              {
+                "line": 11.5,
+                "over": 1.85,
+                "under": 1.82
+              },
+              {
+                "line": 12.5,
+                "over": 2.5,
+                "under": 1.45
+              },
+              {
+                "line": 13.5,
+                "over": 3.45,
+                "under": 1.25
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -248,7 +248,63 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788715346.8352304
+      "last_checked": 1788715946.7026453
+    },
+    "Kocaelispor|Samsunspor": {
+      "home": "Kocaelispor",
+      "away": "Samsunspor",
+      "event_id": "10062350",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.28,
+              3.25
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.28,
+                "under": 3.25
+              },
+              {
+                "line": 9.5,
+                "over": 1.55,
+                "under": 2.25
+              },
+              {
+                "line": 10.5,
+                "over": 2.05,
+                "under": 1.65
+              },
+              {
+                "line": 11.5,
+                "over": 2.85,
+                "under": 1.35
+              },
+              {
+                "line": 12.5,
+                "over": 4.1,
+                "under": 1.18
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788715971.7327492
     }
   }
 }
