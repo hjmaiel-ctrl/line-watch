@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788693733.7241879
+      "last_checked": 1788694661.4033728
     },
     "Birmingham City|Wolverhampton Wanderers": {
       "home": "Birmingham City",
@@ -31,20 +31,7 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.62,
-              2.1
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.62,
-                "under": 2.1
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -57,12 +44,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788693759.614701
+      "last_checked": 1788694688.506711
     },
-    "Vizela|Felgueiras 1932": {
-      "home": "Vizela",
-      "away": "Felgueiras 1932",
-      "event_id": "10061563",
+    "Hertha BSC|1. FC Magdeburg": {
+      "home": "Hertha BSC",
+      "away": "1. FC Magdeburg",
+      "event_id": "10061793",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -80,49 +67,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788693786.6065452
+      "last_checked": 1788694715.78611
     },
-    "Kawasaki Frontale|Shimizu S-Pulse": {
-      "home": "Kawasaki Frontale",
-      "away": "Shimizu S-Pulse",
-      "event_id": "10061543",
+    "SpVgg Greuther Fürth|1. FC Heidenheim": {
+      "home": "SpVgg Greuther Fürth",
+      "away": "1. FC Heidenheim",
+      "event_id": "10061795",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.13,
-              4.75
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.13,
-                "under": 4.75
-              },
-              {
-                "line": 10.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
-                "line": 11.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 13.5,
-                "over": 5.5,
-                "under": 1.1
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -136,49 +90,16 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788693812.570335
+      "last_checked": 1788694743.1413393
     },
-    "Vissel Kobe|V-Varen Nagasaki": {
-      "home": "Vissel Kobe",
-      "away": "V-Varen Nagasaki",
-      "event_id": "10061546",
+    "VfL Osnabrück|Eintracht Braunschweig": {
+      "home": "VfL Osnabrück",
+      "away": "Eintracht Braunschweig",
+      "event_id": "10061796",
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 5.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 6.5,
-                "over": 2.65,
-                "under": 1.4
-              },
-              {
-                "line": 7.5,
-                "over": 4.5,
-                "under": 1.15
-              },
-              {
-                "line": 8.5,
-                "over": 7.5,
-                "under": 1.03
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -192,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788693837.9996066
+      "last_checked": 1788694770.19058
     }
   }
 }

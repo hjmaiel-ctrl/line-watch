@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788693838.050609,
+  "generated_at": 1788694770.2386057,
   "matches": [
     {
       "match": "FC Groningen - FC Twente",
@@ -30,20 +30,7 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": null,
-          "CARDS_OU": {
-            "line": 3.5,
-            "odds": [
-              1.62,
-              2.1
-            ],
-            "_all_lines": [
-              {
-                "line": 3.5,
-                "over": 1.62,
-                "under": 2.1
-              }
-            ]
-          }
+          "CARDS_OU": null
         },
         "sportybet": {
           "1X2": null,
@@ -56,29 +43,10 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Birmingham City - Wolverhampton Wanderers",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: linea passata da 4.5 a 3.5"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Birmingham City - Wolverhampton Wanderers",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #1 passato da 1.98 a 1.62 (22.2%)"
-        },
-        {
-          "type": "quota_cambiata",
-          "match": "Birmingham City - Wolverhampton Wanderers",
-          "market": "CARDS_OU",
-          "detail": "bet9ja: esito #2 passato da 1.7 a 2.1 (23.5%)"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Vizela - Felgueiras 1932",
+      "match": "Hertha BSC - 1. FC Magdeburg",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -100,45 +68,12 @@
       "alerts": []
     },
     {
-      "match": "Kawasaki Frontale - Shimizu S-Pulse",
+      "match": "SpVgg Greuther Fürth - 1. FC Heidenheim",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 9.5,
-            "odds": [
-              1.13,
-              4.75
-            ],
-            "_all_lines": [
-              {
-                "line": 9.5,
-                "over": 1.13,
-                "under": 4.75
-              },
-              {
-                "line": 10.5,
-                "over": 1.45,
-                "under": 2.5
-              },
-              {
-                "line": 11.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 12.5,
-                "over": 3.45,
-                "under": 1.25
-              },
-              {
-                "line": 13.5,
-                "over": 5.5,
-                "under": 1.1
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -152,55 +87,15 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Kawasaki Frontale - Shimizu S-Pulse",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 9.5"
-        }
-      ]
+      "alerts": []
     },
     {
-      "match": "Vissel Kobe - V-Varen Nagasaki",
+      "match": "VfL Osnabrück - Eintracht Braunschweig",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 4.5,
-            "odds": [
-              1.22,
-              3.65
-            ],
-            "_all_lines": [
-              {
-                "line": 4.5,
-                "over": 1.22,
-                "under": 3.65
-              },
-              {
-                "line": 5.5,
-                "over": 1.7,
-                "under": 1.98
-              },
-              {
-                "line": 6.5,
-                "over": 2.65,
-                "under": 1.4
-              },
-              {
-                "line": 7.5,
-                "over": 4.5,
-                "under": 1.15
-              },
-              {
-                "line": 8.5,
-                "over": 7.5,
-                "under": 1.03
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -214,15 +109,8 @@
           "CARDS_OU": null
         }
       },
-      "alerts": [
-        {
-          "type": "linea_cambiata",
-          "match": "Vissel Kobe - V-Varen Nagasaki",
-          "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 5.5 a 4.5"
-        }
-      ]
+      "alerts": []
     }
   ],
-  "alert_count_this_run": 5
+  "alert_count_this_run": 0
 }
