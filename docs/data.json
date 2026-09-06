@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788686743.473155,
+  "generated_at": 1788687636.8313577,
   "matches": [
     {
       "match": "JEF United Chiba - Gamba Osaka",
@@ -7,40 +7,7 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": {
-            "line": 7.5,
-            "odds": [
-              1.35,
-              2.85
-            ],
-            "_all_lines": [
-              {
-                "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
-              },
-              {
-                "line": 8.5,
-                "over": 1.65,
-                "under": 2.05
-              },
-              {
-                "line": 9.5,
-                "over": 2.1,
-                "under": 1.62
-              },
-              {
-                "line": 10.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 11.5,
-                "over": 4.0,
-                "under": 1.18
-              }
-            ]
-          },
+          "CORNERS_OU": null,
           "CARDS_OU": null
         },
         "sportybet": {
@@ -62,7 +29,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.22,
+              3.65
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.22,
+                "under": 3.65
+              },
+              {
+                "line": 8.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 9.5,
+                "over": 1.95,
+                "under": 1.73
+              },
+              {
+                "line": 10.5,
+                "over": 2.7,
+                "under": 1.38
+              },
+              {
+                "line": 11.5,
+                "over": 4.0,
+                "under": 1.18
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -85,36 +85,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.28,
-              3.25
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
                 "line": 7.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 8.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 9.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 10.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 11.5,
-                "over": 4.0,
-                "under": 1.18
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
@@ -136,7 +136,13 @@
           "type": "linea_cambiata",
           "match": "Nagoya Grampus - Machida Zelvia",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 6.5 a 7.5"
+          "detail": "bet9ja: linea passata da 7.5 a 6.5"
+        },
+        {
+          "type": "quota_cambiata",
+          "match": "Nagoya Grampus - Machida Zelvia",
+          "market": "CORNERS_OU",
+          "detail": "bet9ja: esito #2 passato da 3.25 a 3.0 (8.3%)"
         }
       ]
     },
@@ -146,7 +152,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 9.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 10.5,
+                "over": 2.2,
+                "under": 1.57
+              },
+              {
+                "line": 11.5,
+                "over": 3.0,
+                "under": 1.32
+              },
+              {
+                "line": 12.5,
+                "over": 4.25,
+                "under": 1.17
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -185,5 +224,5 @@
       "alerts": []
     }
   ],
-  "alert_count_this_run": 1
+  "alert_count_this_run": 2
 }

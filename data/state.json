@@ -7,27 +7,50 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788687533.8300676
+    },
+    "Kashima Antlers|Urawa Red Diamonds": {
+      "home": "Kashima Antlers",
+      "away": "Urawa Red Diamonds",
+      "event_id": "10061467",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.35,
-              2.85
+              1.22,
+              3.65
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.35,
-                "under": 2.85
+                "over": 1.22,
+                "under": 3.65
               },
               {
                 "line": 8.5,
-                "over": 1.65,
-                "under": 2.05
+                "over": 1.5,
+                "under": 2.35
               },
               {
                 "line": 9.5,
-                "over": 2.1,
-                "under": 1.62
+                "over": 1.95,
+                "under": 1.73
               },
               {
                 "line": 10.5,
@@ -54,30 +77,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788686638.246556
-    },
-    "Kashima Antlers|Urawa Red Diamonds": {
-      "home": "Kashima Antlers",
-      "away": "Urawa Red Diamonds",
-      "event_id": "10061467",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788686664.8244898
+      "last_checked": 1788687559.0658271
     },
     "Nagoya Grampus|Machida Zelvia": {
       "home": "Nagoya Grampus",
@@ -87,36 +87,36 @@
         "bet9ja": {
           "1X2": null,
           "CORNERS_OU": {
-            "line": 7.5,
+            "line": 6.5,
             "odds": [
-              1.28,
-              3.25
+              1.32,
+              3.0
             ],
             "_all_lines": [
               {
+                "line": 6.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
                 "line": 7.5,
-                "over": 1.28,
-                "under": 3.25
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 8.5,
-                "over": 1.55,
-                "under": 2.25
+                "over": 2.25,
+                "under": 1.55
               },
               {
                 "line": 9.5,
-                "over": 2.05,
-                "under": 1.65
+                "over": 3.25,
+                "under": 1.28
               },
               {
                 "line": 10.5,
-                "over": 2.7,
-                "under": 1.38
-              },
-              {
-                "line": 11.5,
-                "over": 4.0,
-                "under": 1.18
+                "over": 4.75,
+                "under": 1.13
               }
             ]
           },
@@ -133,7 +133,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788686690.0030546
+      "last_checked": 1788687584.483631
     },
     "Fagiano Okayama|Sanfrecce Hiroshima": {
       "home": "Fagiano Okayama",
@@ -142,7 +142,40 @@
       "odds": {
         "bet9ja": {
           "1X2": null,
-          "CORNERS_OU": null,
+          "CORNERS_OU": {
+            "line": 8.5,
+            "odds": [
+              1.32,
+              3.0
+            ],
+            "_all_lines": [
+              {
+                "line": 8.5,
+                "over": 1.32,
+                "under": 3.0
+              },
+              {
+                "line": 9.5,
+                "over": 1.65,
+                "under": 2.05
+              },
+              {
+                "line": 10.5,
+                "over": 2.2,
+                "under": 1.57
+              },
+              {
+                "line": 11.5,
+                "over": 3.0,
+                "under": 1.32
+              },
+              {
+                "line": 12.5,
+                "over": 4.25,
+                "under": 1.17
+              }
+            ]
+          },
           "CARDS_OU": null
         },
         "sportybet": {
@@ -156,7 +189,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788686716.784999
+      "last_checked": 1788687609.8547819
     },
     "Taichung FUTURO|Tainan City Taiwan Steel": {
       "home": "Taichung FUTURO",
@@ -179,7 +212,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788686743.4315844
+      "last_checked": 1788687636.7701128
     }
   }
 }
