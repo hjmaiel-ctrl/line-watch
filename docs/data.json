@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788727825.7990983,
+  "generated_at": 1788728336.109131,
   "matches": [
     {
       "match": "Espanyol - Sevilla",
@@ -32,34 +32,34 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.08,
-              6.0
+              1.2,
+              3.9
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.08,
-                "under": 6.0
+                "over": 1.2,
+                "under": 3.9
               },
               {
                 "line": 8.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 9.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 10.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 4.5,
+                "under": 1.15
               },
               {
                 "line": 11.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 9.0,
+                "under": 1.02
               }
             ]
           },
@@ -78,21 +78,21 @@
       },
       "alerts": [
         {
-          "type": "linea_cambiata",
+          "type": "quota_cambiata",
           "match": "Gil Vicente - Académico de Viseu",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: linea passata da 8.5 a 7.5"
+          "detail": "bet9ja: esito #1 passato da 1.08 a 1.2 (11.1%)"
         },
         {
           "type": "quota_cambiata",
           "match": "Gil Vicente - Académico de Viseu",
           "market": "CORNERS_OU",
-          "detail": "bet9ja: esito #2 passato da 5.0 a 6.0 (20.0%)"
+          "detail": "bet9ja: esito #2 passato da 6.0 a 3.9 (53.8%)"
         }
       ]
     },
     {
-      "match": "Maghreb AS de Fes - Rahimo FC",
+      "match": "Union Brescia - Calcio Desenzano",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -114,7 +114,7 @@
       "alerts": []
     },
     {
-      "match": "UD Almería - Cádiz",
+      "match": "Perugia - Pineto Calcio",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -136,7 +136,7 @@
       "alerts": []
     },
     {
-      "match": "Cittadella - Lumenzzane",
+      "match": "Casertana 1908 - Scafatese",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {

@@ -21,7 +21,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788727716.277621
+      "last_checked": 1788728229.8915308
     },
     "Gil Vicente|Académico de Viseu": {
       "home": "Gil Vicente",
@@ -33,34 +33,34 @@
           "CORNERS_OU": {
             "line": 7.5,
             "odds": [
-              1.08,
-              6.0
+              1.2,
+              3.9
             ],
             "_all_lines": [
               {
                 "line": 7.5,
-                "over": 1.08,
-                "under": 6.0
+                "over": 1.2,
+                "under": 3.9
               },
               {
                 "line": 8.5,
-                "over": 1.32,
-                "under": 3.0
+                "over": 1.65,
+                "under": 2.05
               },
               {
                 "line": 9.5,
-                "over": 1.78,
-                "under": 1.9
+                "over": 2.6,
+                "under": 1.42
               },
               {
                 "line": 10.5,
-                "over": 2.65,
-                "under": 1.4
+                "over": 4.5,
+                "under": 1.15
               },
               {
                 "line": 11.5,
-                "over": 4.5,
-                "under": 1.15
+                "over": 9.0,
+                "under": 1.02
               }
             ]
           },
@@ -77,12 +77,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788727745.581959
+      "last_checked": 1788728255.0786781
     },
-    "Maghreb AS de Fes|Rahimo FC": {
-      "home": "Maghreb AS de Fes",
-      "away": "Rahimo FC",
-      "event_id": "10062500",
+    "Union Brescia|Calcio Desenzano": {
+      "home": "Union Brescia",
+      "away": "Calcio Desenzano",
+      "event_id": "10062492",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -100,12 +100,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788727772.3512897
+      "last_checked": 1788728282.037074
     },
-    "UD Almería|Cádiz": {
-      "home": "UD Almería",
-      "away": "Cádiz",
-      "event_id": "10062487",
+    "Perugia|Pineto Calcio": {
+      "home": "Perugia",
+      "away": "Pineto Calcio",
+      "event_id": "10062494",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -123,12 +123,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788727799.166941
+      "last_checked": 1788728309.0422702
     },
-    "Cittadella|Lumenzzane": {
-      "home": "Cittadella",
-      "away": "Lumenzzane",
-      "event_id": "10062489",
+    "Casertana 1908|Scafatese": {
+      "home": "Casertana 1908",
+      "away": "Scafatese",
+      "event_id": "10062495",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -146,7 +146,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788727825.7663782
+      "last_checked": 1788728336.0605912
     }
   }
 }
