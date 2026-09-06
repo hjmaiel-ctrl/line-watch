@@ -1,8 +1,98 @@
 {
-  "generated_at": 1788732631.0451531,
+  "generated_at": 1788733465.1884367,
   "matches": [
     {
+      "match": "Club Leon - CF America",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.44,
+              2.46
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.44,
+                "under": 2.46
+              },
+              {
+                "line": 8.5,
+                "over": 1.74,
+                "under": 1.9
+              },
+              {
+                "line": 9.5,
+                "over": 2.2,
+                "under": 1.55
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
       "match": "Botafogo FR - Palmeiras",
+      "bet9ja_stats": null,
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.5,
+              2.35
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 11.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 12.5,
+                "over": 2.65,
+                "under": 1.4
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "alerts": []
+    },
+    {
+      "match": "River Plate - Independiente Rivadavia",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -46,7 +136,7 @@
       "alerts": []
     },
     {
-      "match": "Delfin SC - Universidad Católica del Ecuador",
+      "match": "Internacional de Bogotá - Águilas Doradas",
       "bet9ja_stats": null,
       "odds": {
         "bet9ja": {
@@ -56,54 +146,6 @@
         },
         "sportybet": {
           "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Club Sportivo Luqueño - Club Sportivo Ameliano",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "alerts": []
-    },
-    {
-      "match": "Boca Juniors de Cali - Envigado FC",
-      "bet9ja_stats": null,
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            5.7,
-            1.46
-          ],
           "CORNERS_OU": null,
           "CARDS_OU": null
         },

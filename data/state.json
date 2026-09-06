@@ -1,9 +1,101 @@
 {
   "matches": {
+    "Club Leon|CF America": {
+      "home": "Club Leon",
+      "away": "CF America",
+      "event_id": "10062619",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 7.5,
+            "odds": [
+              1.44,
+              2.46
+            ],
+            "_all_lines": [
+              {
+                "line": 7.5,
+                "over": 1.44,
+                "under": 2.46
+              },
+              {
+                "line": 8.5,
+                "over": 1.74,
+                "under": 1.9
+              },
+              {
+                "line": 9.5,
+                "over": 2.2,
+                "under": 1.55
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788733360.131752
+    },
     "Botafogo FR|Palmeiras": {
       "home": "Botafogo FR",
       "away": "Palmeiras",
       "event_id": "10062602",
+      "odds": {
+        "bet9ja": {
+          "1X2": null,
+          "CORNERS_OU": {
+            "line": 10.5,
+            "odds": [
+              1.5,
+              2.35
+            ],
+            "_all_lines": [
+              {
+                "line": 10.5,
+                "over": 1.5,
+                "under": 2.35
+              },
+              {
+                "line": 11.5,
+                "over": 1.92,
+                "under": 1.75
+              },
+              {
+                "line": 12.5,
+                "over": 2.65,
+                "under": 1.4
+              }
+            ]
+          },
+          "CARDS_OU": null
+        },
+        "sportybet": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        },
+        "bet365": {
+          "1X2": null,
+          "CORNERS_OU": null,
+          "CARDS_OU": null
+        }
+      },
+      "last_checked": 1788733384.9405396
+    },
+    "River Plate|Independiente Rivadavia": {
+      "home": "River Plate",
+      "away": "Independiente Rivadavia",
+      "event_id": "10062612",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -21,7 +113,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788732516.5455847
+      "last_checked": 1788733411.5769467
     },
     "Atlética Ponte Preta|São Bernardo FC": {
       "home": "Atlética Ponte Preta",
@@ -44,12 +136,12 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788732543.1399055
+      "last_checked": 1788733438.3953106
     },
-    "Delfin SC|Universidad Católica del Ecuador": {
-      "home": "Delfin SC",
-      "away": "Universidad Católica del Ecuador",
-      "event_id": "10062599",
+    "Internacional de Bogotá|Águilas Doradas": {
+      "home": "Internacional de Bogotá",
+      "away": "Águilas Doradas",
+      "event_id": "10062592",
       "odds": {
         "bet9ja": {
           "1X2": null,
@@ -67,57 +159,7 @@
           "CARDS_OU": null
         }
       },
-      "last_checked": 1788732569.7207007
-    },
-    "Club Sportivo Luqueño|Club Sportivo Ameliano": {
-      "home": "Club Sportivo Luqueño",
-      "away": "Club Sportivo Ameliano",
-      "event_id": "10062604",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788732596.318248
-    },
-    "Boca Juniors de Cali|Envigado FC": {
-      "home": "Boca Juniors de Cali",
-      "away": "Envigado FC",
-      "event_id": "10062587",
-      "odds": {
-        "bet9ja": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "sportybet": {
-          "1X2": [
-            2.4,
-            5.7,
-            1.46
-          ],
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        },
-        "bet365": {
-          "1X2": null,
-          "CORNERS_OU": null,
-          "CARDS_OU": null
-        }
-      },
-      "last_checked": 1788732631.0039911
+      "last_checked": 1788733465.1424851
     }
   }
 }
