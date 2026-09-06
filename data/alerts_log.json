@@ -1,78 +1,6 @@
 [
   {
     "type": "linea_cambiata",
-    "match": "Athletic Club MG - Vila Nova FC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 6.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Athletic Club MG - Vila Nova FC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.42 a 1.2 (18.3%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "Athletic Club MG - Vila Nova FC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.45 a 3.55 (44.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "CRB - América-MG",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.3 a 2.5 (8.7%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "New York City - Nashville SC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja=1.39 vs sportybet=2.4 (esito #1, differenza 72.7%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "New York City - Nashville SC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja=2.68 vs sportybet=1.42 (esito #2, differenza 88.7%)"
-  },
-  {
-    "type": "linea_cambiata",
-    "match": "New York City - Nashville SC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: linea passata da 5.5 a 4.5"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "New York City - Nashville SC",
-    "market": "CORNERS_OU",
-    "detail": "bet9ja: esito #2 passato da 2.98 a 2.68 (11.2%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "New York City - Nashville SC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja=1.68 vs sportybet=2.4 (esito #1, differenza 42.9%)"
-  },
-  {
-    "type": "quota_differente",
-    "match": "New York City - Nashville SC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja=1.99 vs sportybet=1.7 (esito #2, differenza 17.1%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "New York City - Nashville SC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #1 passato da 1.88 a 1.68 (11.9%)"
-  },
-  {
-    "type": "quota_cambiata",
-    "match": "New York City - Nashville SC",
-    "market": "CARDS_OU",
-    "detail": "bet9ja: esito #2 passato da 1.8 a 1.99 (10.6%)"
-  },
-  {
-    "type": "linea_cambiata",
     "match": "CRB - América-MG",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 9.5 a 10.5"
@@ -2998,5 +2926,77 @@
     "match": "Troyes AC - RC Strasbourg",
     "market": "CORNERS_OU",
     "detail": "bet9ja: linea passata da 5.5 a 6.5"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Everton - Manchester United",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 4.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Everton - Manchester United",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.92 a 2.2 (14.6%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Everton - Manchester United",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.75 a 1.57 (11.5%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Parma - Monza",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 2.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Parma - Monza",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.92 a 1.57 (22.3%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Parma - Monza",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 1.75 a 2.2 (25.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Frosinone - Venezia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: linea passata da 7.5 a 6.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Frosinone - Venezia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.35 a 1.13 (19.5%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Frosinone - Venezia",
+    "market": "CORNERS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.85 a 4.75 (66.7%)"
+  },
+  {
+    "type": "linea_cambiata",
+    "match": "Frosinone - Venezia",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: linea passata da 3.5 a 5.5"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Frosinone - Venezia",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #1 passato da 1.62 a 1.85 (14.2%)"
+  },
+  {
+    "type": "quota_cambiata",
+    "match": "Frosinone - Venezia",
+    "market": "CARDS_OU",
+    "detail": "bet9ja: esito #2 passato da 2.1 a 1.82 (15.4%)"
   }
 ]
